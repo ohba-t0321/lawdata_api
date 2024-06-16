@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css" rel="stylesheet" >
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+    <title>法令検索</title>
+    
+    <!-- styles.cssで定義 -->
+    <style>
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>法令検索アプリ</h1>
+    </header>
+    <p>
+        このアプリは、<a href="https://elaws.e-gov.go.jp/docs/law-data-basic/8529371-law-api-v1/">法令API</a>を利用して、法令を検索しています。
+
+    </p>
+    <div class="tabs">
+        <button id="tab1-button" class="tab-link active" onclick="openTab(event, 'tab1')">法令リスト</button>
+        <button id="tab2-button" class="tab-link" onclick="openTab(event, 'tab2')">法令条文</button>
+    </div>
+    <div id="tab1" class="tab-content">
+        <form id="searchForm">
+            <input type="text" id="keyword" placeholder="キーワードを入力" class="form-control" aria-describedby="inputGroupPrepend">
+            検索方法：
+            <select id="searchType">
+                <option value="includes">～を含む</option>
+                <option value="startsWith">～で始まる</option>
+                <option value="equal">～と一致する</option>
+            </select>
+            <button type="submit" class="btn btn-primary"> <i class="bi bi-search"></i>検索 </button>
+        </form>
+        <div id="results"></div>
+    </div>
+    <div id="tab2" class="tab-content">
+        <h3 id="law-title">
+            <!-- 選択された法令の名前がここに表示されます -->
+        </h3>
+        <div id="law-content">
+            <!-- 選択された法令の条文がここに表示されます -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>

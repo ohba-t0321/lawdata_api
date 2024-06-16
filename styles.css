@@ -1,0 +1,90 @@
+@keyframes fadeIn {
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+}
+
+/* 必要に応じてスタイルを追加 */
+body { font-family: Arial, sans-serif; }
+#results div { margin: 10px 0; }
+.stylish-title {
+    font-family: 'Lobster', cursive;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    background: linear-gradient(135deg, #6f42c1, #007bff);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.header {
+    background: linear-gradient(135deg, #6f42c1, #007bff);
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+.header h1 {
+    font-family: 'Lobster', cursive;
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    line-height: 0.5;
+    animation: fadeIn 2s ease-in-out;
+}
+
+.tabs {
+    display: flex;
+    cursor: pointer;
+}
+
+.tab-link {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    background-color: #f1f1f1;
+}
+
+.tab-link.active {
+    background-color: #fff;
+}
+
+.tab-content {
+    display: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+
+/* テーブルのスタイル */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+thead th {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+    background-color: #ccf;
+}
+.sort-buttons button {
+border: none;
+background: none;
+cursor: pointer;
+padding: 2px 5px;
+font-size: 12px;
+background-color: #fff;
+}
+.sort-buttons button.active {
+color: white;
+background-color: #007bff;
+}
+td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+/* マウスオーバー時のハイライト */
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
