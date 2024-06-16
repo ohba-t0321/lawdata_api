@@ -97,15 +97,60 @@ function createAndAppendDiv(law, resultsDiv, rowCount) {
 };
 
 function fetchLawDetails(lawNo) {
+    lawTitle = document.getElementById('law-title');
+    lawContent = document.getElementById('law-content');
+    lawContent.innerHTML = '';
+
     const apiUrl = `https://elaws.e-gov.go.jp/api/1/lawdata/${lawNo}`; // ここに実際のAPI URLを入力
     fetch(apiUrl)
         .then(response => response.text())
         .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
         .then(data => {
-            lawTitle = document.getElementById('law-title');
             lawTitle.innerHTML = data.getElementsByTagName('LawTitle')[0].innerHTML;
-            lawContent = document.getElementById('law-content');
-            lawContent.innerHTML = data.getElementsByTagName('LawFullText')[0].innerHTML;
+            lawFullText = data.querySelector('LawFullText');
+            lawFullText.querySelectorAll('Article').forEach(article => {
+                // Captionを設定する
+                articleSection = document.createElement('section');
+                const articleCaption = article.querySelector('ArticleCaption').textContent;
+                console.log(articleCaption)
+                const captionElement = document.createElement('div');
+                captionElement.classList.add('_div_ArticleCaption');
+                captionElement.textContent = articleCaption;
+                articleSection.appendChild(captionElement);
+
+                // 条の記載を構成する
+                const articleTitle = article.querySelector('ArticleTitle').textContent;
+                const articleElement = document.createElement('div');
+                // articleElement.appendChild(titleElement);
+
+                article.querySelectorAll('Paragraph').forEach(paragraph => {
+                    const paragraphDiv = document.createElement('div')
+                    const paragraphNum = paragraph.querySelector('ParagraphNum').textContent;
+                    paragraphSentence = '　'; // 全角スペース
+                    paragraph.querySelectorAll('ParagraphSentence Sentence').forEach(sentence =>{
+                        paragraphSentence += sentence.textContent
+                    });
+                    pNum = document.createElement('span');
+                    pNum.classList.add('bold')
+                    if (paragraphNum === ''){
+                        pNum.textContent = articleTitle;
+                        paragraphDiv.classList.add('_div_ArticleTitle');
+                    } else {
+                        pNum.textContent = paragraphNum;
+                        paragraphDiv.classList.add('_div_Paragraph');
+                    }
+                    pNum.classList.add('bold')
+                    paragraphDiv.appendChild(pNum);
+                    pSentence = document.createElement('span');
+                    pSentence.textContent = paragraphSentence;
+                    paragraphDiv.appendChild(pSentence);
+                    articleSection.appendChild(paragraphDiv);
+                })
+
+                lawContent.appendChild(articleSection);
+                console.log(articleSection)
+
+            });
         })
         .catch(error => {
             lawTitle.innerHTML = '法令名取得不能'
@@ -179,3 +224,11 @@ function openTab(evt, tabName) {
     document.getElementById(tabName).classList.add('active');
     evt.currentTarget.classList.add('active');
 };
+
+// tag名が存在した場合にはそのテキストを返し、存在しない場合には''(空文字を返す関数)
+function processTag(xmlDoc, tagName){
+    xmlDoc.querySelectorAll(tagName).forEach(item =>{
+                
+    });
+
+}

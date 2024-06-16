@@ -55,7 +55,28 @@ body { font-family: Arial, sans-serif; }
     display: block;
 }
 
+.bold {
+    font-weight: bold;
+}
 
+.new-line {
+    display: block;
+    margin-top: 1em;
+}
+
+._div_ArticleCaption{
+    margin-left: 1em;
+    font-weight: bold;
+}
+._div_ArticleTitle{
+    margin-left: 1em;
+    text-indent: -1em;
+}
+
+._div_Paragraph{
+    margin-left: 1em;
+    text-indent: -1em;
+}
 /* テーブルのスタイル */
 table {
     width: 100%;
