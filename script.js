@@ -111,7 +111,7 @@ function fetchLawDetails(lawNo) {
             lawFullText.querySelectorAll('Article').forEach(article => {
                 // Captionを設定する
                 articleSection = document.createElement('section');
-                const articleCaption = article.querySelector('ArticleCaption').textContent;
+                const articleCaption = processTag(article,'ArticleCaption');
                 console.log(articleCaption)
                 const captionElement = document.createElement('div');
                 captionElement.classList.add('_div_ArticleCaption');
@@ -119,17 +119,14 @@ function fetchLawDetails(lawNo) {
                 articleSection.appendChild(captionElement);
 
                 // 条の記載を構成する
-                const articleTitle = article.querySelector('ArticleTitle').textContent;
+                const articleTitle = processTag(article,'ArticleTitle');
                 const articleElement = document.createElement('div');
                 // articleElement.appendChild(titleElement);
 
                 article.querySelectorAll('Paragraph').forEach(paragraph => {
                     const paragraphDiv = document.createElement('div')
-                    const paragraphNum = paragraph.querySelector('ParagraphNum').textContent;
-                    paragraphSentence = '　'; // 全角スペース
-                    paragraph.querySelectorAll('ParagraphSentence Sentence').forEach(sentence =>{
-                        paragraphSentence += sentence.textContent
-                    });
+                    const paragraphNum = processTag(paragraph,'ParagraphNum');
+                    paragraphSentence = '　' + processTag(paragraph,'ParagraphSentence Sentence'); // 全角スペース
                     pNum = document.createElement('span');
                     pNum.classList.add('bold')
                     if (paragraphNum === ''){
@@ -138,12 +135,27 @@ function fetchLawDetails(lawNo) {
                     } else {
                         pNum.textContent = paragraphNum;
                         paragraphDiv.classList.add('_div_Paragraph');
-                    }
+                    };
                     pNum.classList.add('bold')
                     paragraphDiv.appendChild(pNum);
                     pSentence = document.createElement('span');
                     pSentence.textContent = paragraphSentence;
                     paragraphDiv.appendChild(pSentence);
+                    // e-Govの取り扱いと異なるが、号は紐づく条 or 項の一部としたいので、itemが存在する場合はその項に紐づける
+                    paragraph.querySelectorAll('Item').forEach(item =>{
+                        const itemDiv = document.createElement('div')
+                        itemDiv.classList.add('_div_Item')
+                        iNum = document.createElement('span');
+                        iNum.classList.add('bold')
+                        iNum.textContent = processTag(item,'ItemTitle')
+                        itemDiv.appendChild(iNum)
+                        iSentence = document.createElement('span')
+                        iSentence.textContent = '　' + processTag(item,'ItemSentence Sentence')
+                        itemDiv.appendChild(iSentence)
+                        paragraphDiv.appendChild(itemDiv)
+                        // 同様にSubitem1,2...とネストしたものも紐づける
+
+                    });
                     articleSection.appendChild(paragraphDiv);
                 })
 
@@ -227,8 +239,9 @@ function openTab(evt, tabName) {
 
 // tag名が存在した場合にはそのテキストを返し、存在しない場合には''(空文字を返す関数)
 function processTag(xmlDoc, tagName){
+    sentence = ''
     xmlDoc.querySelectorAll(tagName).forEach(item =>{
-                
+        sentence += item.textContent
     });
-
+    return sentence
 }

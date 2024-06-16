@@ -29,6 +29,10 @@ body { font-family: Arial, sans-serif; }
     animation: fadeIn 2s ease-in-out;
 }
 
+section {
+    padding-bottom: 10pt;
+}
+    
 .tabs {
     display: flex;
     cursor: pointer;
@@ -77,6 +81,12 @@ body { font-family: Arial, sans-serif; }
     margin-left: 1em;
     text-indent: -1em;
 }
+
+._div_Item{
+    margin-left: 1em;
+    text-indent: -1em;
+}
+
 /* テーブルのスタイル */
 table {
     width: 100%;
