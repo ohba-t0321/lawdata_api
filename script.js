@@ -108,8 +108,41 @@ function fetchLawDetails(lawNo) {
         .then(data => {
             lawTitle.innerHTML = data.getElementsByTagName('LawTitle')[0].innerHTML;
             lawFullText = data.querySelector('LawFullText');
-            lawFullText.querySelectorAll('Article').forEach(article => {
-                // Captionを設定する
+            // 再帰的にノードを解析してHTMLに変換
+            const convertNodeToHTML = (node) => {
+                let html = '';
+
+                // テキストノードの場合
+                if (node.nodeType === Node.TEXT_NODE) {
+                    html += node.textContent.trim();
+                }
+
+                // エレメントノードの場合
+                if (node.nodeType === Node.ELEMENT_NODE) {
+                    // html += `<div class="xml-element"><strong>${node.nodeName}:</strong>`;
+                    // html += `<div>`
+                    if (node.childNodes.length > 0) {
+                        html += `<span class="xml-${node.nodeName}">`;
+                        for (let i = 0; i < node.childNodes.length; i++) {
+                            html += convertNodeToHTML(node.childNodes[i]);
+                        }
+                        html += '</span>';
+                    }
+
+                    // html += '</div>';
+                }
+
+                return html;
+            };
+
+            // ルートノードから開始してHTMLに変換
+            const htmlContent = convertNodeToHTML(lawFullText);
+            lawContent.innerHTML = htmlContent;
+        })
+
+        /*
+        lawFullText.querySelectorAll('Article').forEach(article => {
+            // Captionを設定する
                 articleSection = document.createElement('section');
                 const articleCaption = processTag(article,'ArticleCaption');
                 console.log(articleCaption)
@@ -168,6 +201,8 @@ function fetchLawDetails(lawNo) {
             lawTitle.innerHTML = '法令名取得不能'
             lawContent.innerHTML = ('APIリクエスト中にエラーが発生しました:', error);
         });
+        */
+       
         // タブ2をアクティブにする
         const tab2Button = document.getElementById('tab2-button');
         openTab({ currentTarget: tab2Button }, 'tab2');
@@ -244,4 +279,4 @@ function processTag(xmlDoc, tagName){
         sentence += item.textContent
     });
     return sentence
-}
+};

@@ -72,9 +72,20 @@ section {
     margin-left: 1em;
     font-weight: bold;
 }
+.xml-ArticleCaption{
+    margin-left: 1em;
+    font-weight: bold;
+}
+
 ._div_ArticleTitle{
     margin-left: 1em;
     text-indent: -1em;
+}
+
+.xml-ArticleTitle{
+    margin-left: 1em;
+    text-indent: -1em;
+    font-weight: bold;
 }
 
 ._div_Paragraph{
