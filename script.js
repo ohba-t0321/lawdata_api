@@ -6,7 +6,7 @@ document.getElementById('searchForm').addEventListener('submit', function(event)
 
     fetch(apiUrl)
         .then(response => response.text())
-        .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+        .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
         .then(data => {
             resultsDiv = document.getElementById('results');
 
@@ -104,7 +104,7 @@ function fetchLawDetails(lawNo) {
     const apiUrl = `https://elaws.e-gov.go.jp/api/1/lawdata/${lawNo}`; // ここに実際のAPI URLを入力
     fetch(apiUrl)
         .then(response => response.text())
-        .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+        .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
         .then(data => {
             lawTitle.innerHTML = data.getElementsByTagName('LawTitle')[0].innerHTML;
             lawFullText = data.querySelector('LawFullText');
