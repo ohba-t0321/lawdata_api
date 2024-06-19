@@ -121,10 +121,16 @@ function fetchLawDetails(lawNo) {
                 if (node.nodeType === Node.ELEMENT_NODE) {
                     // html += `<div class="xml-element"><strong>${node.nodeName}:</strong>`;
                     // html += `<div>`
-                    if (node.childNodes.length > 0) {
+                    if ((node.childNodes.length > 0) && (node.nodeName != 'TOC')) {
+                        if (((node.nodeName.indexOf('Caption')>0)||(node.nodeName.indexOf('Title')>0)||(node.nodeName.indexOf('Num')>0))&&(node.childNodes.length>0)){
+                            html += "<br>"
+                        }
                         html += `<span class="xml-${node.nodeName}">`;
                         for (let i = 0; i < node.childNodes.length; i++) {
                             html += convertNodeToHTML(node.childNodes[i]);
+                        }
+                        if (((node.nodeName.indexOf('Title')>0)||(node.nodeName.indexOf('Num')>0))&&(node.childNodes.length>0)){
+                            html += "　"
                         }
                         html += '</span>';
                     }

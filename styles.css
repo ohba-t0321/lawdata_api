@@ -83,8 +83,6 @@ section {
 }
 
 .xml-ArticleTitle{
-    margin-left: 1em;
-    text-indent: -1em;
     font-weight: bold;
 }
 
@@ -93,9 +91,22 @@ section {
     text-indent: -1em;
 }
 
+.xml-ParagraphNum{
+    font-weight: bold;
+}
+
+.xml-ParagraphSentence{
+    margin-left: 1em;
+    text-indent: -1em;
+}
+
 ._div_Item{
     margin-left: 1em;
     text-indent: -1em;
+}
+
+.xml-ItemTitle{
+    font-weight: bold;
 }
 
 /* テーブルのスタイル */
