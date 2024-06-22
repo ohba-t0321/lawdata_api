@@ -95,7 +95,7 @@ section {
     font-weight: bold;
 }
 
-.xml-ParagraphSentence{
+.xml-Paragraph{
     margin-left: 1em;
     text-indent: -1em;
 }
@@ -107,6 +107,11 @@ section {
 
 .xml-ItemTitle{
     font-weight: bold;
+}
+
+.xml-Item{
+    margin-left: 1em;
+    text-indent: -1em;
 }
 
 /* テーブルのスタイル */
