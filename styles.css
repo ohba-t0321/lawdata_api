@@ -1,41 +1,51 @@
 @keyframes fadeIn {
-    50% { opacity: 0.5; }
+    0% { opacity: 0; }
+    10% { opacity: 0.2; }
     100% { opacity: 1; }
 }
-
+html {
+    overflow-y: scroll;
+}
 /* 必要に応じてスタイルを追加 */
-body { font-family: Arial, sans-serif; }
-#results div { margin: 10px 0; }
-.stylish-title {
+body { 
+    font-family: Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+header {
     font-family: 'Lobster', cursive;
-    color: #fff;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    background: linear-gradient(135deg, #6f42c1, #007bff);
-    padding: 20px;
-    border-radius: 10px;
-    display: inline-block;
-}
-.header {
+    border-radius: 3px;
     background: linear-gradient(135deg, #6f42c1, #007bff);
     color: #fff;
-    padding: 50px 0;
     text-align: center;
+    padding: 5px;
+    width: 100%;
 }
-.header h1 {
-    font-family: 'Lobster', cursive;
-    margin: 0;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    line-height: 0.5;
+header h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
     animation: fadeIn 2s ease-in-out;
 }
+.searchHeader{
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    background-color: #fff;
+    z-index: 999;
+}
 
-section {
-    padding-bottom: 10pt;
+.headline {
+    padding-top: 5px;
+    top: 80px;
+    height:30px;
+    background-color: #fff;
+    z-index: 999;
 }
     
 .tabs {
-    display: flex;
     cursor: pointer;
+    background-color: #fff;
+    display: flex;
 }
 
 .tab-link {
@@ -49,42 +59,27 @@ section {
     background-color: #fff;
 }
 
+.tab-link:hover {
+    background-color: #999;
+}
+
 .tab-content {
+    margin-top: 0px;
     display: none;
-    padding: 10px;
     border: 1px solid #ccc;
+    background-color: #fff;
+    height: 75%;
+    max-height: 650px;
+    overflow-y: auto;
+    position: relative; /* スティッキー要素のために親要素を相対配置にする */
 }
 
 .tab-content.active {
     display: block;
 }
 
-.bold {
-    font-weight: bold;
-}
-
-.new-line {
-    display: block;
-    margin-top: 1em;
-}
-
-._div_ArticleCaption{
-    margin-left: 1em;
-    font-weight: bold;
-}
-._div_ArticleTitle{
-    margin-left: 1em;
-    text-indent: -1em;
-}
-
-._div_Paragraph{
-    margin-left: 1em;
-    text-indent: -1em;
-}
-
-._div_Item{
-    margin-left: 1em;
-    text-indent: -1em;
+#results { 
+    padding: 10px; 
 }
 
 /* テーブルのスタイル */
@@ -98,6 +93,7 @@ thead th {
     border: 1px solid #ddd;
     background-color: #ccf;
 }
+
 .sort-buttons button {
 border: none;
 background: none;
@@ -106,10 +102,12 @@ padding: 2px 5px;
 font-size: 12px;
 background-color: #fff;
 }
+
 .sort-buttons button.active {
 color: white;
 background-color: #007bff;
 }
+
 td {
     padding: 8px;
     text-align: left;
@@ -119,3 +117,67 @@ td {
 tbody tr:hover {
     background-color: #f1f1f1;
 }
+
+.bold {
+    font-weight: bold;
+}
+
+#law-title{
+    padding: 10px; 
+}
+
+#law-content{
+    padding: 10px; 
+}
+
+.new-line {
+    display: block;
+    margin-top: 1em;
+}
+
+._div_ArticleCaption{
+    margin-left: 1em;
+    font-weight: bold;
+}
+.xml-ArticleCaption{
+    margin-left: 1em;
+    font-weight: bold;
+}
+
+._div_ArticleTitle{
+    margin-left: 1em;
+    text-indent: -1em;
+}
+
+.xml-ArticleTitle{
+    font-weight: bold;
+}
+
+._div_Paragraph{
+    margin-left: 1em;
+    text-indent: -1em;
+}
+
+.xml-ParagraphNum{
+    font-weight: bold;
+}
+
+.xml-Paragraph{
+    margin-left: 1em;
+    text-indent: -1em;
+}
+
+._div_Item{
+    margin-left: 1em;
+    text-indent: -1em;
+}
+
+.xml-ItemTitle{
+    font-weight: bold;
+}
+
+.xml-Item{
+    margin-left: 1em;
+    text-indent: -1em;
+}
+
