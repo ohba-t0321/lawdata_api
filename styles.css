@@ -45,6 +45,7 @@ header h1 {
 .tabs {
     cursor: pointer;
     background-color: #fff;
+    display: flex;
 }
 
 .tab-link {
