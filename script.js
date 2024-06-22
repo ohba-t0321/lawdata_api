@@ -98,6 +98,7 @@ function createAndAppendDiv(law, resultsDiv, rowCount) {
 
 function fetchLawDetails(lawNo) {
     lawTitle = document.getElementById('law-title');
+    lawNum = document.getElementById('law-num');
     lawContent = document.getElementById('law-content');
     lawContent.innerHTML = '';
 
@@ -107,6 +108,8 @@ function fetchLawDetails(lawNo) {
         .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
         .then(data => {
             lawTitle.innerHTML = data.getElementsByTagName('LawTitle')[0].innerHTML;
+            lawNum.innerHTML = "(" + data.getElementsByTagName('LawNum')[0].innerHTML + ")";
+            
             lawFullText = data.querySelector('LawFullText');
             // 再帰的にノードを解析してHTMLに変換
             const convertNodeToHTML = (node) => {
@@ -116,13 +119,12 @@ function fetchLawDetails(lawNo) {
                 if (node.nodeType === Node.TEXT_NODE) {
                     html += node.textContent.trim();
                 }
-
                 // エレメントノードの場合
                 if (node.nodeType === Node.ELEMENT_NODE) {
-                    // html += `<div class="xml-element"><strong>${node.nodeName}:</strong>`;
-                    // html += `<div>`
-                    if ((node.childNodes.length > 0) && (node.nodeName != 'TOC')) {
-                        if (((node.nodeName.indexOf('Caption')>0)||(node.nodeName.indexOf('Title')>0)||(node.nodeName.indexOf('Num')>0))&&(node.childNodes.length>0)){
+                    if ((node.nodeName === 'LawTitle') || (node.nodeName === 'LawNum'))  {
+                        // 処理を飛ばす
+                    } else if ((node.childNodes.length > 0) && (node.nodeName != 'TOC')) {
+                        if (((node.nodeName.indexOf('Caption')>0)||(node.nodeName.indexOf('Title')>0)||(node.nodeName.indexOf('Num')>0)||(node.nodeName===('SupplProvision')))&&(node.childNodes.length>0)){
                             html += "<br>"
                         }
                         html += `<span class="xml-${node.nodeName}">`;
@@ -134,8 +136,6 @@ function fetchLawDetails(lawNo) {
                         }
                         html += '</span>';
                     }
-
-                    // html += '</div>';
                 }
 
                 return html;
@@ -146,69 +146,6 @@ function fetchLawDetails(lawNo) {
             lawContent.innerHTML = htmlContent;
         })
 
-        /*
-        lawFullText.querySelectorAll('Article').forEach(article => {
-            // Captionを設定する
-                articleSection = document.createElement('section');
-                const articleCaption = processTag(article,'ArticleCaption');
-                console.log(articleCaption)
-                const captionElement = document.createElement('div');
-                captionElement.classList.add('_div_ArticleCaption');
-                captionElement.textContent = articleCaption;
-                articleSection.appendChild(captionElement);
-
-                // 条の記載を構成する
-                const articleTitle = processTag(article,'ArticleTitle');
-                const articleElement = document.createElement('div');
-                // articleElement.appendChild(titleElement);
-
-                article.querySelectorAll('Paragraph').forEach(paragraph => {
-                    const paragraphDiv = document.createElement('div')
-                    const paragraphNum = processTag(paragraph,'ParagraphNum');
-                    paragraphSentence = '　' + processTag(paragraph,'ParagraphSentence Sentence'); // 全角スペース
-                    pNum = document.createElement('span');
-                    pNum.classList.add('bold')
-                    if (paragraphNum === ''){
-                        pNum.textContent = articleTitle;
-                        paragraphDiv.classList.add('_div_ArticleTitle');
-                    } else {
-                        pNum.textContent = paragraphNum;
-                        paragraphDiv.classList.add('_div_Paragraph');
-                    };
-                    pNum.classList.add('bold')
-                    paragraphDiv.appendChild(pNum);
-                    pSentence = document.createElement('span');
-                    pSentence.textContent = paragraphSentence;
-                    paragraphDiv.appendChild(pSentence);
-                    // e-Govの取り扱いと異なるが、号は紐づく条 or 項の一部としたいので、itemが存在する場合はその項に紐づける
-                    paragraph.querySelectorAll('Item').forEach(item =>{
-                        const itemDiv = document.createElement('div')
-                        itemDiv.classList.add('_div_Item')
-                        iNum = document.createElement('span');
-                        iNum.classList.add('bold')
-                        iNum.textContent = processTag(item,'ItemTitle')
-                        itemDiv.appendChild(iNum)
-                        iSentence = document.createElement('span')
-                        iSentence.textContent = '　' + processTag(item,'ItemSentence Sentence')
-                        itemDiv.appendChild(iSentence)
-                        paragraphDiv.appendChild(itemDiv)
-                        // 同様にSubitem1,2...とネストしたものも紐づける
-
-                    });
-                    articleSection.appendChild(paragraphDiv);
-                })
-
-                lawContent.appendChild(articleSection);
-                console.log(articleSection)
-
-            });
-        })
-        .catch(error => {
-            lawTitle.innerHTML = '法令名取得不能'
-            lawContent.innerHTML = ('APIリクエスト中にエラーが発生しました:', error);
-        });
-        */
-       
         // タブ2をアクティブにする
         const tab2Button = document.getElementById('tab2-button');
         openTab({ currentTarget: tab2Button }, 'tab2');
