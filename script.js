@@ -14,7 +14,7 @@ document.getElementById('searchForm').addEventListener('submit', function(event)
             rowCount = 0
             const laws = data.getElementsByTagName('LawNameListInfo');
             if (laws.length > 0) {
-                resultsDiv.innerHTML = `<b>法令検索結果</b>
+                resultsDiv.innerHTML = `<b>法令検索結果</b> (ダブルクリックで法令取得)
                 <table id="lawTable" border="1">
                     <thead> 
                         <tr>
