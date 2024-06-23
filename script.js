@@ -100,6 +100,8 @@ function fetchLawDetails(lawNo) {
     lawTitle = document.getElementById('law-title');
     lawNum = document.getElementById('law-num');
     lawContent = document.getElementById('law-content');
+    lawTitle.innerHTML = "取得中..."
+    lawNum.innerHTML = ''
     lawContent.innerHTML = '';
 
     const apiUrl = `https://elaws.e-gov.go.jp/api/1/lawdata/${lawNo}`; // ここに実際のAPI URLを入力
@@ -111,8 +113,12 @@ function fetchLawDetails(lawNo) {
             lawNum.innerHTML = "(" + data.getElementsByTagName('LawNum')[0].innerHTML + ")";
             
             lawFullText = data.querySelector('LawFullText');
+            subitemNode = []
+            for (let i=1; i<10 ;i++) {
+                subitemNode.push(`Subitem${i}`)
+            }
             // 再帰的にノードを解析してHTMLに変換
-            const convertNodeToHTML = (node) => {
+            const convertNodeToHTML = (node, provision = 'MainProvision', articleNo = 0, paragraphNo = 0, itemNo = 0) => {
                 let html = '';
 
                 // テキストノードの場合
@@ -124,12 +130,59 @@ function fetchLawDetails(lawNo) {
                     if ((node.nodeName === 'LawTitle') || (node.nodeName === 'LawNum'))  {
                         // 処理を飛ばす
                     } else if ((node.childNodes.length > 0) && (node.nodeName != 'TOC')) {
-                        if (((node.nodeName.indexOf('Caption')>0)||(node.nodeName.indexOf('Title')>0)||(node.nodeName.indexOf('Num')>0)||(node.nodeName===('SupplProvision')))&&(node.childNodes.length>0)){
+                        if (node.nodeName.indexOf('Caption')>0){
                             html += "<br>"
+                        } else if (node.nodeName.indexOf('Title')>0) {
+                            html += "<br>"
+                        } else if (node.nodeName.indexOf('Num')>0) {
+                            html += "<br>"
+                        } else if (node.nodeName === ('SupplProvision')) {
+                            html += "<br>"
+                        };
+                        if (node.nodeName === ('MainProvision')) {
+                            provision = 'MainProvision'
+                            articleNo = 0
+                            paragraphNo = 0
+                            itemNo = 0
+                        } else if (node.nodeName === ('SupplProvision')) {
+                            provision = 'SupplProvision'
+                            articleNo = 0
+                            paragraphNo = 0
+                            itemNo = 0
+                        } else if (node.nodeName === ('Article')) {
+                            if (node.getAttribute('Num') !== null) {
+                                articleNo = node.getAttribute('Num')
+                                paragraphNo = 0
+                                itemNo = 0
+                            } else {
+                                articleNo = 0
+                                paragraphNo = 0
+                                itemNo = 0
+                            }
+                        } else if (node.nodeName === ('Paragraph')) {
+                            if (node.getAttribute('Num') !== null) {
+                                paragraphNo = node.getAttribute('Num')
+                                itemNo = 0
+                            } else {
+                                paragraphNo = 0
+                                itemNo = 0
+                            }
+                        } else if (node.nodeName === ('Item')) {
+                            if (node.getAttribute('Num') !== null) {
+                                itemNo = node.getAttribute('Num')
+                            } else {
+                                itemNo = 0
+                            }
+                        } else if (subitemNode.indexOf(node.nodeName) >=0) {
+                            if (node.getAttribute('Num') !== null) {
+                                itemNo += '-' + node.getAttribute('Num')
+                            } else {
+                                itemNo += '-' + 0
+                            }
                         }
-                        html += `<span class="xml-${node.nodeName}">`;
+                        html += `<span class="xml-${node.nodeName}" data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`;
                         for (let i = 0; i < node.childNodes.length; i++) {
-                            html += convertNodeToHTML(node.childNodes[i]);
+                            html += convertNodeToHTML(node.childNodes[i], provision, articleNo, paragraphNo, itemNo);
                         }
                         if (((node.nodeName.indexOf('Title')>0)||(node.nodeName.indexOf('Num')>0))&&(node.childNodes.length>0)){
                             html += "　"
@@ -223,3 +276,24 @@ function processTag(xmlDoc, tagName){
     });
     return sentence
 };
+
+// span内の文字列をコピーする処理
+document.addEventListener('click', function(event) {
+    if (event.target.matches('.xml-Sentence')) {
+        const targetElement = event.target;
+        const groupValue = targetElement.getAttribute('data-article');
+        const elements = document.querySelectorAll(`[data-article="${groupValue}"]`)
+        let text = ''
+        elements.forEach(element=> {
+            // xml-Articleのデータは一番外側のデータなので、当該データが抽出できれば十分。
+            if (element.className === 'xml-Article'){
+                text += element.innerText
+            }
+        });
+        navigator.clipboard.writeText(text).then(() => {
+            alert('テキストがコピーされました: ' + text);
+        }).catch(err => {
+            console.error('コピーに失敗しました: ', err);
+        });
+    }
+});
