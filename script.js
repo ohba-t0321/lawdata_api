@@ -25,13 +25,6 @@ document.getElementById('searchForm').addEventListener('submit', function(event)
                                     <button onclick="sortTable(0, 'desc', this)">▼</button>
                                 </span>
                             </th>
-                            <th>
-                                法令番号
-                                <span class="sort-buttons">
-                                    <button onclick="sortTable(1, 'asc', this)">▲</button>
-                                    <button onclick="sortTable(1, 'desc', this)">▼</button>
-                                </span>
-                            </th>
                         </tr>
                     </thead>
                     <tbody>
@@ -74,16 +67,16 @@ function createAndAppendDiv(law, resultsDiv, rowCount) {
 
     // データをテーブルに追加
     const row = document.createElement('tr');
-    
+    row.id=lawNo;
     // 法令名のセル
     const nameCell = document.createElement('td');
     nameCell.textContent = title;
     row.appendChild(nameCell);
     
     // 法令番号のセル
-    const numberCell = document.createElement('td');
-    numberCell.textContent = lawNo;
-    row.appendChild(numberCell);
+    // const numberCell = document.createElement('td');
+    // numberCell.textContent = lawNo;
+    // row.appendChild(numberCell);
     
     // 行をテーブルに追加
     tableBody.appendChild(row);
@@ -97,9 +90,11 @@ function createAndAppendDiv(law, resultsDiv, rowCount) {
 };
 
 function fetchLawDetails(lawNo) {
-    lawTitle = document.getElementById('law-title');
-    lawNum = document.getElementById('law-num');
-    lawContent = document.getElementById('law-content');
+    const outputFrame = document.getElementById('outputFrame').value
+    frameContent = document.getElementById(outputFrame)
+    lawTitle = frameContent.getElementsByClassName('law-title')[0];
+    lawNum = frameContent.getElementsByClassName('law-num')[0];
+    lawContent = frameContent.getElementsByClassName('law-content')[0];
     lawTitle.innerHTML = "取得中..."
     lawNum.innerHTML = ''
     lawContent.innerHTML = '';
@@ -200,8 +195,8 @@ function fetchLawDetails(lawNo) {
         })
 
         // タブ2をアクティブにする
-        const tab2Button = document.getElementById('tab2-button');
-        openTab({ currentTarget: tab2Button }, 'tab2');
+        // const tab2Button = document.getElementById('tab2-button');
+        // openTab({ currentTarget: tab2Button }, 'tab2');
  
 };
 
@@ -247,6 +242,7 @@ function sortTable(columnIndex, direction, button) {
     }
 };
 
+/*
 document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('tab1').classList.add('active');
 });
@@ -267,6 +263,7 @@ function openTab(evt, tabName) {
     document.getElementById(tabName).classList.add('active');
     evt.currentTarget.classList.add('active');
 };
+*/
 
 // tag名が存在した場合にはそのテキストを返し、存在しない場合には''(空文字を返す関数)
 function processTag(xmlDoc, tagName){
@@ -297,3 +294,25 @@ document.addEventListener('click', function(event) {
         });
     }
 });
+
+const resizer = document.querySelector('.resizer');
+const leftPane = document.querySelector('.left');
+const rightPane = document.querySelector('.right');
+
+resizer.addEventListener('mousedown', (e) => {
+    document.addEventListener('mousemove', resize);
+    document.addEventListener('mouseup', stopResize);
+});
+
+function resize(e) {
+    const containerWidth = resizer.parentElement.getBoundingClientRect().width;
+    const leftWidth = e.clientX / containerWidth * 100;
+    const rightWidth = 100 - leftWidth;
+    leftPane.style.width = `${leftWidth}%`;
+    rightPane.style.width = `${rightWidth}%`;
+}
+
+function stopResize() {
+    document.removeEventListener('mousemove', resize);
+    document.removeEventListener('mouseup', stopResize);
+}

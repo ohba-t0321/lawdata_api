@@ -20,38 +20,64 @@
     <header>
         <h1>法令検索アプリ</h1>
     </header>
-    <div class="headline">
-        このアプリは、<a href="https://elaws.e-gov.go.jp/docs/law-data-basic/8529371-law-api-v1/">法令API</a>を利用して、法令を検索しています。<br>
-        法令を検索した後に該当する条文をクリックすると、その条のテキストをクリップボードにコピーできます。<br>
-    </div>
-    <div class="tabs">
-        <button id="tab1-button" class="tab-link active" onclick="openTab(event, 'tab1')">法令リスト</button>
-        <button id="tab2-button" class="tab-link" onclick="openTab(event, 'tab2')">法令条文</button>
-    </div>
-    <div id="tab1" class="tab-content">
-        <div class="searchHeader">
-            <form id="searchForm">
-                <input type="text" id="keyword" placeholder="キーワードを入力" class="form-control" aria-describedby="inputGroupPrepend">
-                検索方法：
-                <select id="searchType">
-                    <option value="includes">～を含む</option>
-                    <option value="startsWith">～で始まる</option>
-                    <option value="equal">～と一致する</option>
-                </select>
-                <button type="submit" class="btn btn-primary"> <i class="bi bi-search"></i>検索 </button>
-            </form>
+    <!--
+    <div class="menu-toggle" onclick="toggleSidebar()">☰</div>
+    -->
+    <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu" checked>
+    <label for="openSidebarMenu" class="sidebarIconToggle">
+        <div class="spinner diagonal part-1"></div>
+        <div class="spinner horizontal"></div>
+        <div class="spinner diagonal part-2"></div>
+    </label>
+    <div class="contents">
+        <div id="sidebarMenu">
+            <div class="searchHeader">
+                <form id="searchForm">
+                    <h5>検索キーワード</h5>
+                    <input type="text" id="keyword" placeholder="キーワードを入力" class="form-control" aria-describedby="inputGroupPrepend">
+                    検索方法：
+                    <select id="searchType">
+                        <option value="includes">～を含む</option>
+                        <option value="startsWith">～で始まる</option>
+                        <option value="equal">～と一致する</option>
+                    </select>
+                    <button type="submit" class="btn btn-primary"> <i class="bi bi-search"></i>検索 </button>
+                    <select id="outputFrame">
+                        <option value="left">左</option>
+                        <option value="right">右</option>
+                    </select>
+                </form>
+            </div>
+            <div id="results"></div>
         </div>
-        <div id="results"></div>
-    </div>
-    <div id="tab2" class="tab-content">
-        <h3 id="law-title">
-            <!-- 選択された法令の名前がここに表示されます -->
-        </h3>
-        <div id="law-num">
-            <!-- 選択された法令番号がここに表示されます -->
+        <div class="headline">
+            このアプリは、<a href="https://elaws.e-gov.go.jp/docs/law-data-basic/8529371-law-api-v1/">法令API</a>を利用して、法令を検索しています。<br>
+            法令を検索した後に該当する条文をクリックすると、その条のテキストをクリップボードにコピーできます。<br>
         </div>
-        <div id="law-content">
-            <!-- 選択された法令の条文がここに表示されます -->
+        <div class="content" id="content">
+            <div id="left" class="left">
+                <h3 class="law-title" id="law-title-left">
+                    <!-- 選択された法令の名前がここに表示されます -->
+                </h3>
+                <div class="law-num" id="law-num-left">
+                    <!-- 選択された法令番号がここに表示されます -->
+                </div>
+                <div class="law-content" id="law-content-left">
+                    <!-- 選択された法令の条文がここに表示されます -->
+                </div>
+            </div>
+            <div class="resizer"></div>
+            <div id="right" class="right">
+                <h3 class="law-title" id="law-title-right">
+                    <!-- 選択された法令の名前がここに表示されます -->
+                </h3>
+                <div class="law-num" id="law-num-right">
+                    <!-- 選択された法令番号がここに表示されます -->
+                </div>
+                <div class="law-content" id="law-content-right">
+                    <!-- 選択された法令の条文がここに表示されます -->
+                </div>
+            </div>
         </div>
     </div>
     <script src="script.js"></script>
