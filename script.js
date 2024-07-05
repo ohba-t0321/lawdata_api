@@ -57,6 +57,7 @@ document.getElementById('searchForm').addEventListener('submit', function(event)
             console.error('Error:', error);
         });
 });
+
 function createAndAppendDiv(law, resultsDiv, rowCount) {
     rowCount++;
     const title = law.getElementsByTagName('LawName')[0].textContent;
@@ -192,12 +193,23 @@ function fetchLawDetails(lawNo) {
             // ルートノードから開始してHTMLに変換
             const htmlContent = convertNodeToHTML(lawFullText);
             lawContent.innerHTML = htmlContent;
-        })
+            
+            if (outputFrame === 'left'){
+                document.getElementById('outputFrame').value = 'right';
+                if (parseFloat(document.getElementById('right').style.width)>=90){
+                    document.getElementById('left').style.width='50%'
+                    document.getElementById('right').style.width='50%'
+                }
+            }
+            else if (outputFrame === 'right'){
+                document.getElementById('outputFrame').value = 'left';
+                if (parseFloat(document.getElementById('left').style.width)>=90){
+                    document.getElementById('left').style.width='50%'
+                    document.getElementById('right').style.width='50%'
+                }
+            };
 
-        // タブ2をアクティブにする
-        // const tab2Button = document.getElementById('tab2-button');
-        // openTab({ currentTarget: tab2Button }, 'tab2');
- 
+        })
 };
 
 function sortTable(columnIndex, direction, button) {
@@ -242,29 +254,6 @@ function sortTable(columnIndex, direction, button) {
     }
 };
 
-/*
-document.addEventListener('DOMContentLoaded', () => {
-    document.getElementById('tab1').classList.add('active');
-});
-
-function openTab(evt, tabName) {
-    var i, tabcontent, tablinks;
-
-    tabcontent = document.getElementsByClassName('tab-content');
-    for (i = 0; i < tabcontent.length; i++) {
-        tabcontent[i].classList.remove('active');
-    }
-
-    tablinks = document.getElementsByClassName('tab-link');
-    for (i = 0; i < tablinks.length; i++) {
-        tablinks[i].classList.remove('active');
-    }
-
-    document.getElementById(tabName).classList.add('active');
-    evt.currentTarget.classList.add('active');
-};
-*/
-
 // tag名が存在した場合にはそのテキストを返し、存在しない場合には''(空文字を返す関数)
 function processTag(xmlDoc, tagName){
     sentence = ''
@@ -275,7 +264,7 @@ function processTag(xmlDoc, tagName){
 };
 
 // span内の文字列をコピーする処理
-document.addEventListener('click', function(event) {
+document.addEventListener('dblclick', function(event) {
     if (event.target.matches('.xml-Sentence')) {
         const targetElement = event.target;
         const groupValue = targetElement.getAttribute('data-article');
@@ -295,6 +284,28 @@ document.addEventListener('click', function(event) {
     }
 });
 
+// 右クリックでspan内の文字列をコピーする処理
+document.oncontextmenu = function(event){
+    if (event.target.matches('.xml-Sentence')) {
+        const targetElement = event.target;
+        const groupValue = targetElement.getAttribute('data-article');
+        const elements = document.querySelectorAll(`[data-article="${groupValue}"]`)
+        let text = ''
+        elements.forEach(element=> {
+            // xml-Articleのデータは一番外側のデータなので、当該データが抽出できれば十分。
+            if (element.className === 'xml-Article'){
+                text += element.innerText
+            }
+        });
+        navigator.clipboard.writeText(text).then(() => {
+            alert('テキストがコピーされました: ' + text);
+        }).catch(err => {
+            console.error('コピーに失敗しました: ', err);
+        });
+        return false;
+    }
+}
+
 const resizer = document.querySelector('.resizer');
 const leftPane = document.querySelector('.left');
 const rightPane = document.querySelector('.right');
@@ -305,8 +316,10 @@ resizer.addEventListener('mousedown', (e) => {
 });
 
 function resize(e) {
-    const containerWidth = resizer.parentElement.getBoundingClientRect().width;
-    const leftWidth = e.clientX / containerWidth * 100;
+    const sidebarWidth = document.getElementById('sidebarMenu').offsetWidth 
+    const sidebarVisible = document.getElementById('openSidebarMenu').checked * 1
+    const containerWidth = document.querySelector('#content').offsetWidth
+    const leftWidth = (e.clientX - sidebarWidth * sidebarVisible) / containerWidth * 100;
     const rightWidth = 100 - leftWidth;
     leftPane.style.width = `${leftWidth}%`;
     rightPane.style.width = `${rightWidth}%`;
