@@ -109,6 +109,7 @@ function fetchLawDetails(lawNo) {
             lawNum.innerHTML = "(" + data.getElementsByTagName('LawNum')[0].innerHTML + ")";
             
             lawFullText = data.querySelector('LawFullText');
+            // 号をさらに分割しているときのため、Subitem1,Subitem2,...Subitem10を定義しておく
             subitemNode = []
             for (let i=1; i<10 ;i++) {
                 subitemNode.push(`Subitem${i}`)
@@ -119,7 +120,16 @@ function fetchLawDetails(lawNo) {
 
                 // テキストノードの場合
                 if (node.nodeType === Node.TEXT_NODE) {
-                    html += node.textContent.trim();
+                    // 「附則」の文字に改正法令の情報を付加する
+                    if ((provision !='MainProvision')&&(provision !='SupplProvision')){
+                        if (node.textContent.replace(/\s/g,'')==='附則'){
+                            html += node.textContent.trim() + '(' + provision + ')';    
+                        } else {
+                            html += node.textContent.trim();
+                        }
+                    } else {
+                        html += node.textContent.trim();
+                    }
                 }
                 // エレメントノードの場合
                 if (node.nodeType === Node.ELEMENT_NODE) {
@@ -135,13 +145,23 @@ function fetchLawDetails(lawNo) {
                         } else if (node.nodeName === ('SupplProvision')) {
                             html += "<br>"
                         };
+                        /*
+                        各法令の条文に対して、「第〇条第〇項第〇号」という情報を付加していく
+                        各ノードの子ノードに情報を継承させる
+                        */
                         if (node.nodeName === ('MainProvision')) {
                             provision = 'MainProvision'
                             articleNo = 0
                             paragraphNo = 0
                             itemNo = 0
                         } else if (node.nodeName === ('SupplProvision')) {
-                            provision = 'SupplProvision'
+                            if (node.getAttribute('AmendLawNum')){
+                                suppldate = node.getAttribute('AmendLawNum')
+                                console.log(suppldate)
+                                provision = suppldate
+                            } else {
+                                provision = 'SupplProvision'
+                            }
                             articleNo = 0
                             paragraphNo = 0
                             itemNo = 0
@@ -267,8 +287,15 @@ function processTag(xmlDoc, tagName){
 document.addEventListener('dblclick', function(event) {
     if (event.target.matches('.xml-Sentence')) {
         const targetElement = event.target;
+        if (targetElement.closest('#left')){
+            selectedElement = document.querySelector('#left')
+        }
+        else if (targetElement.closest('#right')){
+            selectedElement = document.querySelector('#right')
+        }
+        console.log(selectedElement)
         const groupValue = targetElement.getAttribute('data-article');
-        const elements = document.querySelectorAll(`[data-article="${groupValue}"]`)
+        const elements = selectedElement.querySelectorAll(`[data-article="${groupValue}"]`)
         let text = ''
         elements.forEach(element=> {
             // xml-Articleのデータは一番外側のデータなので、当該データが抽出できれば十分。
@@ -281,6 +308,7 @@ document.addEventListener('dblclick', function(event) {
         }).catch(err => {
             console.error('コピーに失敗しました: ', err);
         });
+        return false;
     }
 });
 
