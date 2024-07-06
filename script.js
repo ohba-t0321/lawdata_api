@@ -8,7 +8,7 @@ document.getElementById('searchForm').addEventListener('submit', function(event)
         .then(response => response.text())
         .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
         .then(data => {
-            resultsDiv = document.getElementById('results');
+            resultsDiv = document.getElementById('searchResults');
 
             resultsDiv.innerHTML = '検索中...';
             rowCount = 0

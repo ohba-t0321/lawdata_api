@@ -1,0 +1,52 @@
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    10% { opacity: 0.2; }
+    100% { opacity: 1; }
+}
+/* 必要に応じてスタイルを追加 */
+body { 
+    font-family: Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    height:100vh;
+ }
+ header {
+    font-family: 'Lobster', cursive;
+    border-radius: 3px;
+    background: linear-gradient(135deg, #6f42c1, #007bff);
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+}
+header h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    animation: fadeIn 2s ease-in-out;
+}
+.headline {
+    padding-top: 5px;
+    top: 80px;
+    background-color: #fff;
+    z-index: 999;
+    transition: margin-left 0.3s;
+}
+.content {
+    margin-left: 0; 
+    width: 100%;
+    transition: margin-left 0.3s;
+    display: flex;
+    justify-content:space-between;
+    overflow-y: auto;
+    height: 100%;
+}
+.left, .right{
+    width: 49%;
+    height: 80vh;
+    overflow-y: auto;
+}
+.resizer {
+    background: #888;
+    width: 3px;
+    cursor: ew-resize;
+    height: 80vh;
+}

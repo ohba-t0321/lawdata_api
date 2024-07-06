@@ -1,0 +1,64 @@
+#sidebarMenu {
+    height: 90vh;
+    position: fixed;
+    overflow-y: auto;
+    left: 0;
+    width: 25%;
+    transform: translateX(-100%);
+    transition: transform .3s ease-in-out;
+    background: #eee;
+}
+.menu-toggle {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    color: #ccc;
+}
+#searchResults { 
+    padding: 10px; 
+}
+.searchHeader{
+    position: sticky;
+    top: 0;
+    background-color: #eee;
+    padding: 0px;
+    z-index: 999;
+}
+.form-control {
+    margin: 5px;
+    width: 95%;
+}
+/* テーブルのスタイル */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+thead th {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+    background-color: #ccf;
+}
+td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+/* マウスオーバー時のハイライト */
+tbody tr:hover {
+    background-color: #eef;
+}
+.sort-buttons button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding: 2px 5px;
+    font-size: 12px;
+    background-color: #fff;
+}
+.sort-buttons button.active {
+    color: white;
+    background-color: #007bff;
+}
