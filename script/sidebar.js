@@ -1,4 +1,4 @@
-document.getElementById('searchForm').addEventListener('submit', function(event) {
+document.getElementById('searchButton').addEventListener('click', function(event) {
     event.preventDefault();
     const keyword = document.getElementById('keyword').value;
     const searchType = document.getElementById('searchType').value;
@@ -129,3 +129,27 @@ function sortTable(columnIndex, direction, button) {
       }
     }
 };
+
+const clearbuttons = document.querySelectorAll('.btn-outline-secondary');
+
+clearbuttons.forEach(button => {
+    button.addEventListener('click', function(event) {
+        event.preventDefault();
+        // クリックしたボタンによってフレームを定義。left,rightのみのはずだが例外が出てきた時を考慮して''を規定
+        if (button.id === 'left-clear') {
+            flamename = 'left';
+        } else if (button.id === 'right-clear') {
+            flamename = 'right';
+            document.getElementById('left').style.width = '99%'
+            document.getElementById('right').style.width = '1%'
+        } else {
+            flamename = 'dummydummy';
+        }
+        flame = document.getElementsByClassName(flamename)[0]
+        if (flame) {
+            flame.getElementsByClassName('law-title')[0].innerHTML=''
+            flame.getElementsByClassName('law-num')[0].innerHTML=''
+            flame.getElementsByClassName('law-content')[0].innerHTML=''
+        }
+    });
+});

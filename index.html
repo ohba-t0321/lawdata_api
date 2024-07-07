@@ -44,14 +44,19 @@
                         <option value="startsWith">～で始まる</option>
                         <option value="equal">～と一致する</option>
                     </select>
-                    <button type="submit" class="btn btn-primary"> <i class="bi bi-search"></i>検索 </button>
+                    <button type="submit" class="btn btn-primary" id="searchButton"> <i class="bi bi-search"></i>検索 </button>
                     <div id="outputWindowSelect">
                         出力フレーム:
                         <select id="outputFrame">
                             <option value="left">左</option>
                             <option value="right">右</option>
                         </select>
-                </div>
+                    </div>
+                    <div id="clearwindow">
+                    フレームのクリア：
+                        <button type="submit" class="btn-outline-secondary" id="left-clear">左側</button>
+                        <button type="submit" class="btn-outline-secondary" id="right-clear">右側</button>
+                    </div>
                 </form>
             </div>
             <div id="searchResults"></div>

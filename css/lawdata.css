@@ -15,10 +15,24 @@
 .xml-ChapterTitle, .xml-SectionTitle{
     font-weight: bold;
 }
-.xml-Article{
+.xml-Paragraph{
     display: block;
     margin-left: 1em;
+    text-indent: -1em;
+}
+.xml-Item{
+    display:block;
+    margin-left: 1em;
+    text-indent: -1em;
+}
+[class^="xml-Subitem"]:not([class*="Title"]):not([class*="Sentence"]){
+    display:block;
+    margin-left: 1em;
+    text-indent: -1em;
 }
 .xml-ArticleCaption, .xml-ArticleTitle, .xml-ParagraphNum, .xml-ItemTitle{
+    font-weight: bold;
+}
+[class^="xml-Subitem"][class*="Title"]{
     font-weight: bold;
 }

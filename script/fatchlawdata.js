@@ -41,31 +41,35 @@ function fetchLawDetails(lawNo) {
             }
             // エレメントノードの場合
             if (node.nodeType === Node.ELEMENT_NODE) {
-                if ((node.nodeName === 'LawTitle') || (node.nodeName === 'LawNum'))  {
-                    // 処理を飛ばす
-                } else if ((node.childNodes.length > 0) && (node.nodeName != 'TOC')) {
-                    if (node.nodeName.indexOf('Caption')>0){
-                        html += "<br>"
-                    } else if (node.nodeName.indexOf('Title')>0) {
-                        html += "<br>"
-                    } else if (node.nodeName.indexOf('Num')>0) {
-                        html += "<br>"
-                    } else if (node.nodeName === ('SupplProvision')) {
-                        html += "<br>"
-                    };
+                const nName = node.nodeName
+                if (node.childNodes.length === 0){
+                    // ノードが'ParagraphNum'の場合、そのノードを遡って'Article'のノードを見に行き、その中のArticleTitleを探す
+                    if (nName ==='ParagraphNum'){
+                        articleNode = node.closest('Article')
+                        if (articleNode){
+                            articleTitle = articleNode.getElementsByTagName('ArticleTitle')[0]
+                            if (articleTitle){
+                                html += `<span class="xml-ParagraphNum data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`;
+                                html += articleTitle.innerHTML
+                                html += '</span>　'
+                            }
+                        } 
+                    }
+                } else if ((nName != 'LawTitle') && (nName != 'LawNum') && (nName != 'TOC')) {
                     /*
                     各法令の条文に対して、「第〇条第〇項第〇号」という情報を付加していく
                     各ノードの子ノードに情報を継承させる
                     */
-                    if (node.nodeName === ('MainProvision')) {
+                    if (nName === ('MainProvision')) {
+                        html += "<br>"
                         provision = 'MainProvision'
                         articleNo = 0
                         paragraphNo = 0
                         itemNo = 0
-                    } else if (node.nodeName === ('SupplProvision')) {
+                    } else if (nName === ('SupplProvision')) {
+                        html += "<br>"
                         if (node.getAttribute('AmendLawNum')){
                             suppldate = node.getAttribute('AmendLawNum')
-                            console.log(suppldate)
                             provision = suppldate
                         } else {
                             provision = 'SupplProvision'
@@ -73,42 +77,47 @@ function fetchLawDetails(lawNo) {
                         articleNo = 0
                         paragraphNo = 0
                         itemNo = 0
-                    } else if (node.nodeName === ('Article')) {
-                        if (node.getAttribute('Num') !== null) {
+                    } else if (nName === ('Article')) {
+                        html += "<br>"
+                        // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
+                        if (node.getAttribute('Num')) {
                             articleNo = node.getAttribute('Num')
-                            paragraphNo = 0
-                            itemNo = 0
                         } else {
                             articleNo = 0
-                            paragraphNo = 0
-                            itemNo = 0
                         }
-                    } else if (node.nodeName === ('Paragraph')) {
-                        if (node.getAttribute('Num') !== null) {
+                        paragraphNo = 0
+                        itemNo = 0
+                    } else if (nName === ('Paragraph')) {
+                        html += "<br>"
+                        // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
+                        if (node.getAttribute('Num')) {
                             paragraphNo = node.getAttribute('Num')
-                            itemNo = 0
                         } else {
                             paragraphNo = 0
-                            itemNo = 0
                         }
-                    } else if (node.nodeName === ('Item')) {
-                        if (node.getAttribute('Num') !== null) {
+                        itemNo = 0
+                    } else if (nName === ('Item')) {
+                        // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
+                        if (node.getAttribute('Num')) {
                             itemNo = node.getAttribute('Num')
                         } else {
                             itemNo = 0
                         }
-                    } else if (subitemNode.indexOf(node.nodeName) >=0) {
-                        if (node.getAttribute('Num') !== null) {
+                    } else if (subitemNode.indexOf(nName) >=0) {
+                        // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
+                        if (node.getAttribute('Num')) {
                             itemNo += '-' + node.getAttribute('Num')
                         } else {
                             itemNo += '-' + 0
                         }
                     }
-                    html += `<span class="xml-${node.nodeName}" data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`;
+                    html += `<span class="xml-${nName}" data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`;
                     for (let i = 0; i < node.childNodes.length; i++) {
-                        html += convertNodeToHTML(node.childNodes[i], provision, articleNo, paragraphNo, itemNo);
+                        if (nName!='ArticleTitle') {
+                            html += convertNodeToHTML(node.childNodes[i], provision, articleNo, paragraphNo, itemNo);
+                        }
                     }
-                    if (((node.nodeName.indexOf('Title')>0)||(node.nodeName.indexOf('Num')>0))&&(node.childNodes.length>0)){
+                    if (((nName.indexOf('Title')>0)||(nName.indexOf('Num')>0))&&(node.childNodes.length>0)){
                         html += "　"
                     }
                     html += '</span>';
