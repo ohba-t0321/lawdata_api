@@ -61,7 +61,6 @@ function fetchLawDetails(lawNo) {
                     各ノードの子ノードに情報を継承させる
                     */
                     if (nName === ('MainProvision')) {
-                        html += "<br>"
                         provision = 'MainProvision'
                         articleNo = 0
                         paragraphNo = 0
@@ -78,7 +77,6 @@ function fetchLawDetails(lawNo) {
                         paragraphNo = 0
                         itemNo = 0
                     } else if (nName === ('Article')) {
-                        html += "<br>"
                         // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
                         if (node.getAttribute('Num')) {
                             articleNo = node.getAttribute('Num')
@@ -88,7 +86,6 @@ function fetchLawDetails(lawNo) {
                         paragraphNo = 0
                         itemNo = 0
                     } else if (nName === ('Paragraph')) {
-                        html += "<br>"
                         // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
                         if (node.getAttribute('Num')) {
                             paragraphNo = node.getAttribute('Num')
@@ -123,7 +120,6 @@ function fetchLawDetails(lawNo) {
                     html += '</span>';
                 }
             }
-
             return html;
         };
 

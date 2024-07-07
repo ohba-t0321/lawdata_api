@@ -13,12 +13,16 @@
     padding: 10px; 
 }
 .xml-ChapterTitle, .xml-SectionTitle{
+    display: block;
     font-weight: bold;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 .xml-Paragraph{
     display: block;
     margin-left: 1em;
     text-indent: -1em;
+    margin-bottom: 0.25em;
 }
 .xml-Item{
     display:block;
