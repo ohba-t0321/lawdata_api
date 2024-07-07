@@ -1,5 +1,5 @@
 #sidebarMenu {
-    height: 90vh;
+    height: calc(100% - 60px);
     position: fixed;
     overflow-y: auto;
     left: 0;
