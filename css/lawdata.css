@@ -1,0 +1,42 @@
+.law-title {
+    margin-bottom: 0px;
+    position: sticky;
+    top: 0;
+    padding-top: 10px; 
+    padding-left: 10px;
+    background-color: #fff;
+}
+.law-num{
+    padding-left: 10px;
+}
+.law-content{
+    padding: 10px; 
+}
+.xml-ChapterTitle, .xml-SectionTitle{
+    display: block;
+    font-weight: bold;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+.xml-Paragraph{
+    display: block;
+    margin-left: 1em;
+    text-indent: -1em;
+    margin-bottom: 0.25em;
+}
+.xml-Item{
+    display:block;
+    margin-left: 1em;
+    text-indent: -1em;
+}
+[class^="xml-Subitem"]:not([class*="Title"]):not([class*="Sentence"]){
+    display:block;
+    margin-left: 1em;
+    text-indent: -1em;
+}
+.xml-ArticleCaption, .xml-ArticleTitle, .xml-ParagraphNum, .xml-ItemTitle{
+    font-weight: bold;
+}
+[class^="xml-Subitem"][class*="Title"]{
+    font-weight: bold;
+}
