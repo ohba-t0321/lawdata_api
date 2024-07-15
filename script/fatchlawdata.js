@@ -133,6 +133,7 @@ function fetchLawDetails(lawNo) {
                 document.getElementById('left').style.width='50%'
                 document.getElementById('right').style.width='50%'
             }
+            setupHover();
         }
         else if (outputFrame === 'right'){
             document.getElementById('outputFrame').value = 'left';
