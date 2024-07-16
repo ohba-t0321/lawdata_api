@@ -66,9 +66,8 @@
 .hovered::after {
     content: attr(popup-text);
     position: absolute;
-    left: 0;
-    bottom: -100%;
-    max-width: 100%;
+    display:block;
+    max-width: 90vw;
     background-color: #eee;
     color: #006;
     padding: 5px 10px;
