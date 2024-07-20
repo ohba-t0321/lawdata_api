@@ -174,6 +174,10 @@ document.oncontextmenu = function(event){
         return false;
     }
 }
+document.getElementById('closeButton').addEventListener('click', function(event) {
+    event.preventDefault();
+    document.getElementById('reference').style.opacity = 0;
+});
 // span内の文字列をダブルクリックでコピーする処理
 // 処理を凍結
 /*

@@ -8,6 +8,9 @@ input[type="checkbox"]:checked ~ .contents > #content {
     margin-left: 25%; /* サイドバーを表示した時の余白 */
     width:75%;
 }
+input[type="checkbox"]:checked ~ .contents > #content > .reference {
+    width:75%;
+}
 input[type="checkbox"] {
     transition: all 0.3s;
     box-sizing: border-box;
