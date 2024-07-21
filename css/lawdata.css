@@ -64,3 +64,11 @@
     cursor: pointer;
     text-decoration: underline;
 }
+item{
+    display: block;
+    margin-left: 1em;
+    text-indent: -1em;
+}
+itemtitle{
+    font-weight: bold;
+}

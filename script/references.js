@@ -1,6 +1,6 @@
 var searchResults = new Set();
 var searchText = {};
-
+var synonym = {};
 
 refJson = [
     {'ref':{'lawNum':'昭和二十三年法律第百七十八号','lawArticle':{'Provision':'MainProvision','article':'2','paragraph':'1'},'words':'政令で定める日'},
@@ -82,9 +82,12 @@ function kanjiToNumber(kanji) {
 
 function setregex(){
     const lawTextElement = document.getElementById('law-content-left').innerHTML;
-    const regex = /（((令和|平成|昭和|大正|明治)([一二三四五六七八九十]+)年(法律|政令|省令|内閣府令)第([一二三四五六七八九十百千万]+)号)）/g;
+    const regex = /(?<=（)((?:令和|平成|昭和|大正|明治)[一二三四五六七八九十]+年(?:法律|政令|省令|内閣府令)第[一二三四五六七八九十百千万]+号)(?:。以下「(.*?)」という。)?(?=）)/g;
     while ((match = regex.exec(lawTextElement)) !== null) {
         searchResults.add(match[1]);
+        if (match[2]){
+            synonym[match[1]] = match[2];
+        }
     };
 };
 
@@ -126,13 +129,25 @@ function setupHover() {
     }
 
     searchResults.forEach(lawNum => {
-        const regex = new RegExp(xmlData[lawNum] + '(?:（' + lawNum + '）)?第([一二三四五六七八九十百千万]+)条(?:の([一二三四五六七八九十百千万]+))?(?:第([一二三四五六七八九十百千万]+)項)?' , 'g');
-        const newHTML = lawTextElement.innerHTML.replaceAll(regex,(match, lawArticleNum, lawArticleSubNum, lawParagraphNum) =>{
-            lawArticleNum = kanjiToNumber(lawArticleNum);
-            lawArticleSubNum = kanjiToNumber(lawArticleSubNum);
-            lawParagraphNum = kanjiToNumber(lawParagraphNum);
-            const lawData = `lawNum=${lawNum} ${lawArticleNum?'article='+lawArticleNum:''}${lawArticleSubNum? '_'+ lawArticleSubNum : ''}${lawParagraphNum? ' paragraph='+ lawParagraphNum: ''}`
-            return `<span class="hovered" ${lawData}>${match}</span>`;
+        /*
+        法令の参照では以下の記述となっていることが多いので、正規表現で該当するところを取得した。
+        [法令名が初めて現れる場合]：(法令名)（元号○○年法律/政令/...第○号）第○条第○項
+        [法令名が初めて現れる場合で、法令を省略する場合](法令名)（元号○○年法律/政令/...第○号。以下「○○法」という。）第○条第○項
+        [法令名が2回目以降の場合](法令名もしくは略称名)第○条第○項
+        なお、「第○条」のところは「第○条の○」となるケースもあるため、それに対応している
+        法律によっては第○条の○条の○…と続くことがあるが、それは対応が難しいので非対応
+        */
+        const regex = new RegExp('(' + xmlData[lawNum] + (synonym[lawNum]? '|' + synonym[lawNum] : '') + ')' + '((?:（' + lawNum + '(?:。以下「[^「]]*?」という。)?）)?第([一二三四五六七八九十百千万]+)条(?:の([一二三四五六七八九十百千万]+))?(?:第([一二三四五六七八九十百千万]+)項)?)' , 'g');
+        const newHTML = lawTextElement.innerHTML.replaceAll(regex,(match, lawName, match_rest, lawArticleNum, lawArticleSubNum, lawParagraphNum) =>{
+            if (match.includes('</span>')) {
+                return match
+            } else {
+                lawArticleNum = kanjiToNumber(lawArticleNum);
+                lawArticleSubNum = kanjiToNumber(lawArticleSubNum);
+                lawParagraphNum = kanjiToNumber(lawParagraphNum);
+                const lawData = `lawNum=${lawNum} ${lawArticleNum?'article='+lawArticleNum:''}${lawArticleSubNum? '_'+ lawArticleSubNum : ''}${lawParagraphNum? ' paragraph='+ lawParagraphNum: ''}`
+                return `<span class="hovered" ${lawData}><span data-lawnum=${lawNum}>${lawName}</span>${match_rest}</span>`;
+            }
         });
         lawTextElement.innerHTML = newHTML;
     });
@@ -157,7 +172,13 @@ function setupHover() {
             .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
             .then(data => {
                 lawTitle.innerHTML = lawArticleParagraph;
+                // 第○項の部分は不要（記載している）ので削除する
+                paragraphNums = data.querySelectorAll('ParagraphNum')
+                paragraphNums.forEach(paragraphNum=>{
+                    paragraphNum.remove();
+                });
                 lawContent.innerHTML = data.getElementsByTagName('LawContents')[0].innerHTML;
+                document.apiData = data;
             })
         });
     });
