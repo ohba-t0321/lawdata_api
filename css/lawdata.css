@@ -5,6 +5,7 @@
     padding-top: 10px; 
     padding-left: 10px;
     background-color: #fff;
+    z-index: 999;
 }
 .law-num{
     padding-left: 10px;
@@ -12,7 +13,7 @@
 .law-content{
     padding: 10px; 
 }
-.xml-ChapterTitle, .xml-SectionTitle{
+.xml-PartTitle, .xml-ChapterTitle, .xml-SectionTitle, .xml-SubsectionTitle, .xml-DivisionTitle, .xml-SupplProvisionLabel {
     display: block;
     font-weight: bold;
     margin-top: 0.5em;
@@ -38,5 +39,36 @@
     font-weight: bold;
 }
 [class^="xml-Subitem"][class*="Title"]{
+    font-weight: bold;
+}
+.xml-ListSentence{
+    display: block;
+}
+
+.xml-Sentence .popup-text {
+    visibility: hidden;
+    text-indent: 0;
+    background-color: #eee;
+    border: 1px solid #333;
+    color: #006;
+    border-radius: 5px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 999;
+    margin-top: 5px; /* Small margin to avoid overlap */
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.hovered {
+    position: relative;
+    cursor: pointer;
+    text-decoration: underline;
+}
+item{
+    display: block;
+    margin-left: 1em;
+    text-indent: -1em;
+}
+itemtitle{
     font-weight: bold;
 }

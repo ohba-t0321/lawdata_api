@@ -51,3 +51,20 @@ header h1 {
     cursor: ew-resize;
     height: 100%;
 }
+.reference{
+    position:absolute;
+    overflow-y: scroll;
+    height:25%;
+    top:75%;
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 5px;
+    transition: .3s ease-in-out;
+    z-index: 99;
+}
+#closeButton{
+    position: relative;
+    float :right;
+    margin: 5px;
+
+}

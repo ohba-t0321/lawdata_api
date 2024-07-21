@@ -133,6 +133,8 @@ function fetchLawDetails(lawNo) {
                 document.getElementById('left').style.width='50%'
                 document.getElementById('right').style.width='50%'
             }
+            setregex();
+            setupHover();
         }
         else if (outputFrame === 'right'){
             document.getElementById('outputFrame').value = 'left';
@@ -172,6 +174,10 @@ document.oncontextmenu = function(event){
         return false;
     }
 }
+document.getElementById('closeButton').addEventListener('click', function(event) {
+    event.preventDefault();
+    document.getElementById('reference').style.opacity = 0;
+});
 // span内の文字列をダブルクリックでコピーする処理
 // 処理を凍結
 /*
