@@ -133,8 +133,8 @@ function fetchLawDetails(lawNo) {
                 document.getElementById('left').style.width='50%'
                 document.getElementById('right').style.width='50%'
             }
-            setregex();
-            setupHover();
+            setregex('left');
+            setupHover('left');
         }
         else if (outputFrame === 'right'){
             document.getElementById('outputFrame').value = 'left';
@@ -142,6 +142,8 @@ function fetchLawDetails(lawNo) {
                 document.getElementById('left').style.width='50%'
                 document.getElementById('right').style.width='50%'
             }
+            setregex('right');
+            setupHover('right');
         };
 
     })

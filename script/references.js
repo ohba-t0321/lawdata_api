@@ -80,8 +80,8 @@ function kanjiToNumber(kanji) {
     }
 };
 
-function setregex(){
-    const lawTextElement = document.getElementById('law-content-left').innerHTML;
+function setregex(left_right){
+    const lawTextElement = document.getElementById('law-content-' + left_right).innerHTML;
     const regex = /(?<=（)((?:令和|平成|昭和|大正|明治)[一二三四五六七八九十]+年(?:法律|政令|省令|内閣府令)第[一二三四五六七八九十百千万]+号)(?:。以下「(.*?)」という。)?(?=）)/g;
     while ((match = regex.exec(lawTextElement)) !== null) {
         searchResults.add(match[1]);
@@ -89,12 +89,19 @@ function setregex(){
             synonym[match[1]] = match[2];
         }
     };
+    // searchResultsをソート
+    const sortedResults = Array.from(searchResults).sort((a, b) => {
+        const nameA = xmlData[a] || a;  // 法令番号がxmlDataに存在しない場合、デフォルトで法令番号を使用
+        const nameB = xmlData[b] || b;
+        return nameB.length - nameA.length;  // 長さでソート（降順）
+    });
+    searchResults = new Set(sortedResults);
 };
 
 // Function to set up hover functionality
-function setupHover() {
-    const lawTextElement = document.getElementById('law-content-left');
-    const framelawNum = document.getElementById('law-num-left').innerHTML.replace('(','').replace(')','')
+function setupHover(left_right) {
+    const lawTextElement = document.getElementById('law-content-' + left_right);
+    const framelawNum = document.getElementById('law-num-' + left_right).innerHTML.replace('(','').replace(')','')
 
     // idを格納するためのセットを作成
     const lawNumSet = new Set();
@@ -137,7 +144,7 @@ function setupHover() {
         なお、「第○条」のところは「第○条の○」となるケースもあるため、それに対応している
         法律によっては第○条の○条の○…と続くことがあるが、それは対応が難しいので非対応
         */
-        const regex = new RegExp('(' + xmlData[lawNum] + (synonym[lawNum]? '|' + synonym[lawNum] : '') + ')' + '((?:（' + lawNum + '(?:。以下「[^「]]*?」という。)?）)?第([一二三四五六七八九十百千万]+)条(?:の([一二三四五六七八九十百千万]+))?(?:第([一二三四五六七八九十百千万]+)項)?)' , 'g');
+        const regex = new RegExp('(' + xmlData[lawNum] + (synonym[lawNum]? '|' + synonym[lawNum] : '') + ')' + '((?:（(?:' + lawNum + ')?。?(?:以下「[^「]]*?」という。)?）)?第([一二三四五六七八九十百千万]+)条(?:の([一二三四五六七八九十百千万]+))?(?:第([一二三四五六七八九十百千万]+)項)?)' , 'g');
         const newHTML = lawTextElement.innerHTML.replaceAll(regex,(match, lawName, match_rest, lawArticleNum, lawArticleSubNum, lawParagraphNum) =>{
             if (match.includes('</span>')) {
                 return match
@@ -177,8 +184,16 @@ function setupHover() {
                 paragraphNums.forEach(paragraphNum=>{
                     paragraphNum.remove();
                 });
+                // 第○条の部分やキャプションは不要なので削除する
+                captions = data.querySelectorAll('ArticleCaption')
+                captions.forEach(caption=>{
+                    caption.remove();
+                });
+                articletitles = data.querySelectorAll('ArticleTitle')
+                articletitles.forEach(articletitle=>{
+                    articletitle.remove();
+                });
                 lawContent.innerHTML = data.getElementsByTagName('LawContents')[0].innerHTML;
-                document.apiData = data;
             })
         });
     });

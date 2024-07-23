@@ -39,6 +39,7 @@ header h1 {
     display: flex;
     justify-content:space-between;
     overflow-y: auto;
+    z-index:99;
 }
 .left, .right{
     width: 49%;
