@@ -158,7 +158,6 @@ document.oncontextmenu = function(event){
         else if (targetElement.closest('#right')){
             selectedElement = document.querySelector('#right')
         }
-        console.log(selectedElement)
         const groupValue = targetElement.getAttribute('data-article');
         const elements = selectedElement.querySelectorAll(`[data-article="${groupValue}"]`)
         let text = ''
@@ -179,6 +178,7 @@ document.oncontextmenu = function(event){
 document.getElementById('closeButton').addEventListener('click', function(event) {
     event.preventDefault();
     document.getElementById('reference').style.opacity = 0;
+    document.getElementById('reference').style.zIndex = 0;
 });
 // span内の文字列をダブルクリックでコピーする処理
 // 処理を凍結
@@ -192,7 +192,6 @@ document.addEventListener('dblclick', function(event) {
         else if (targetElement.closest('#right')){
             selectedElement = document.querySelector('#right')
         }
-        console.log(selectedElement)
         const groupValue = targetElement.getAttribute('data-article');
         const elements = selectedElement.querySelectorAll(`[data-article="${groupValue}"]`)
         let text = ''
