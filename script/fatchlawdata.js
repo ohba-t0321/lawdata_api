@@ -108,7 +108,22 @@ function fetchLawDetails(lawNo) {
                             itemNo += '-' + 0
                         }
                     }
-                    html += `<span class="xml-${nName}" data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`;
+                    console.log(typeof(nName));
+                    if (nName.startsWith('Table')) {
+                        if (nName === 'Table'){
+                            html += `<table class="lawDataTable" data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`
+                            html += '<tbody>'
+                        } else if (nName === 'TableRow'){
+                            html += '<tr>'
+                        } else if (nName === 'TableColumn'){
+                            html += '<td>'
+                        } else {
+                            html += `<span class="xml-${nName}">`
+                        }
+                    } else {
+                        html += `<span class="xml-${nName}" data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`;
+                    }
+
                     for (let i = 0; i < node.childNodes.length; i++) {
                         if (nName!='ArticleTitle') {
                             html += convertNodeToHTML(node.childNodes[i], provision, articleNo, paragraphNo, itemNo);
@@ -117,7 +132,20 @@ function fetchLawDetails(lawNo) {
                     if (((nName.indexOf('Title')>0)||(nName.indexOf('Num')>0))&&(node.childNodes.length>0)){
                         html += "　"
                     }
-                    html += '</span>';
+                    if (nName.startsWith('Table')) {
+                        if (nName === 'Table'){
+                            html += '</tbody>'
+                            html += `</table>`
+                        } else if (nName === 'TableRow'){
+                            html += '</tr>'
+                        } else if (nName === 'TableColumn'){
+                            html += '</td>'
+                        } else {
+                            html += `</span>`
+                        }
+                    } else {
+                        html += '</span>';
+                    }
                 }
             }
             return html;

@@ -81,3 +81,9 @@ item{
 itemtitle{
     font-weight: bold;
 }
+.lawDataTable{
+    border-collapse: collapse;
+}
+.lawDataTable td{
+    border: 1px solid #000;
+}
