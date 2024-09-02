@@ -108,7 +108,6 @@ function fetchLawDetails(lawNo) {
                             itemNo += '-' + 0
                         }
                     }
-                    console.log(typeof(nName));
                     if (nName.startsWith('Table')) {
                         if (nName === 'Table'){
                             html += `<table class="lawDataTable" data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`
@@ -161,8 +160,11 @@ function fetchLawDetails(lawNo) {
                 document.getElementById('left').style.width='50%'
                 document.getElementById('right').style.width='50%'
             }
+            // 他の法令への引用を付加
             setregex('left');
             setupHover('left');
+            annotation('left');
+            setupLink('left');
         }
         else if (outputFrame === 'right'){
             document.getElementById('outputFrame').value = 'left';
@@ -170,8 +172,11 @@ function fetchLawDetails(lawNo) {
                 document.getElementById('left').style.width='50%'
                 document.getElementById('right').style.width='50%'
             }
+            // 他の法令への引用を付加
             setregex('right');
             setupHover('right');
+            annotation('right');
+            setupLink('right');
         };
 
     })

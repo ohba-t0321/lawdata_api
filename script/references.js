@@ -168,8 +168,10 @@ function setupHover(left_right) {
         });
         lawTextElement.innerHTML = newHTML;
     });
-
+}
+function setupLink(left_right) {
     frameContent = document.getElementById('reference');
+    const lawTextElement = document.getElementById('law-content-' + left_right);
     hovered = lawTextElement.getElementsByClassName('hovered');
     Array.from(hovered).forEach(itm => {
         itm.addEventListener('click', async (event) => {

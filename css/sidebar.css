@@ -62,3 +62,15 @@
     color: white;
     background-color: #007bff;
 }
+fieldset{
+    border:1px solid #000;
+    padding-left:3px;
+}
+legend{
+    font-size:1em;
+    margin-left: 12px;
+    margin-top: 3px;
+    padding:3px 2px;
+    width:initial;
+    margin-bottom: 0;
+}

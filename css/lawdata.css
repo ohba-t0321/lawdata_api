@@ -87,3 +87,7 @@ itemtitle{
 .lawDataTable td{
     border: 1px solid #000;
 }
+.annotation {
+    color:var(--annotate-color);
+    display:var(--annotate-display)
+}
