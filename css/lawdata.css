@@ -89,5 +89,6 @@ itemtitle{
 }
 .annotation {
     color:var(--annotate-color);
-    display:var(--annotate-display)
+    display:var(--annotate-display);
+    transition: all 0.3s;
 }
