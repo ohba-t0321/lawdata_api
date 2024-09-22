@@ -7,11 +7,11 @@ refJson = [
     'referred':{'lawNum':'昭和四十一年政令第三百七十六号','lawArticle':{'paragraph':'1'}}}
 ]
 
-// JSONをkey1=value1;key2=value2;...の形に変換する関数
+// JSONをkey1=value1 key2=value2 ...の形に変換する関数
 function jsonToString(obj) {
     return Object.entries(obj)
         .map(([key, value]) => `${key}=${value}`)
-        .join(';');
+        .join(' ');
 }
 
 // 漢数字を算用数字に直す関数
@@ -102,38 +102,28 @@ function setregex(left_right){
 
 // Function to set up hover functionality
 function setupHover(left_right) {
+    /*
+    以下2つの処理を行う。
+    1. refJsonで定義した引用リストに定義がある引用先をセットする
+    2. 本文内にある法令名の記載を読み取って自動的に引用先をセットする
+    */
     const lawTextElement = document.getElementById('law-content-' + left_right);
     const framelawNum = document.getElementById('law-num-' + left_right).innerHTML.replace('(','').replace(')','')
 
-    // idを格納するためのセットを作成
-    const lawNumSet = new Set();
-
-    // JSONデータをループしてidをセットに追加
-    refJson.forEach(item => {
-        if (item.ref.lawNum !== undefined) {
-            lawNumSet.add(item.ref.lawNum);
-        }
-    });
-    // セットをリストに変換
-    const lawNumList = Array.from(lawNumSet);
-    if (lawNumList.includes(framelawNum)) {
-        refJson.forEach(ref => {
+    refJsonData = refJson.filter(refData =>refData.ref?.lawNum===framelawNum)
+    if (refJsonData) {
+        refJsonData.forEach(ref => {
             const words = ref.ref.words;
-            const lawNum = ref.referred.lawNum;
-            const lawArticle = ref.referred.lawArticle;
-
-            const apiUrl = `https://elaws.e-gov.go.jp/api/1/articles;lawNum=${lawNum};${jsonToString(lawArticle)}`; // ここに実際のAPI URLを入力
-            fetch(apiUrl)
-            .then(response => response.text())
-            .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
-            .then(data => {
-                textdata = ''
-                data.querySelectorAll('Sentence').forEach(selector =>{
-                    textdata += selector.innerHTML
-                });
-                lawTextElement.innerHTML = lawTextElement.innerHTML.replace(words, `<span class="hovered" data-popup="${lawNum} 第${lawArticle.Paragraph}条" popup-text="">${words}</span>`);
-                
-            });    
+            const refLawArticle = ref.ref.lawArticle;
+            const referredLawNum = ref.referred.lawNum;
+            const referredLawArticle = ref.referred.lawArticle;
+            const refSentence = `${refLawArticle.Provision? refLawArticle.Provision:'MainProvision'}-${refLawArticle.article? refLawArticle.article:0}-${refLawArticle.paragraph? refLawArticle.paragraph:1}-${refLawArticle.item? refLawArticle.item:0}`
+            lement.querySelectorAll(`.xml-Sentence[data-item=${refSentence}]`);
+            Sentences.forEach(Sentence =>{
+                const lawData = `lawNum=${referredLawNum} ${jsonToString(referredLawArticle)}`
+                Sentence.innerHTML = Sentence.innerHTML.replace(words, `<span class="hovered" ${lawData}>${words}</span>`);
+            });
+            //});    
         });
     }
 
