@@ -100,7 +100,7 @@ function setregex(left_right){
         なお、「第○条」のところは「第○条の○」となるケースもあるため、それに対応している
         法律によっては第○条の○条の○…と続くことがあるが、それは対応が難しいので非対応
         */
-        const synonymRegex = new RegExp(xmlData[lawNum] + '（以下「([^「]*?)」という。）' , 'g');
+        const synonymRegex = new RegExp(xmlData[lawNum] + '<span class="annotation">（以下「(.*?)」という。）</span>' , 'g');
         while ((match = synonymRegex.exec(lawTextElement.innerHTML)) !== null) {
             if (match[1]){
                 synonym[lawNum] = match[1];
@@ -155,18 +155,14 @@ async function setupHover(lawTextElement, synonym, lawNum) {
     //         });    
     //     });
     // }
-    const regex = new RegExp('(?:' + xmlData[lawNum] + (synonym[lawNum]? '|' + synonym[lawNum] : '') + ')' + '(?:（(?:' + lawNum + ')?。?(?:以下「[^「]*?」という。)?）)?第([一二三四五六七八九十百千万]+)条(?:の([一二三四五六七八九十百千万]+))?(?:第([一二三四五六七八九十百千万]+)項)?' , 'g');
+    const regex = new RegExp('(?:' + xmlData[lawNum] + (synonym[lawNum]? '|' + synonym[lawNum] : '') + ')' + '(?:<span class="annotation">（(?:' + lawNum + ')?。?(?:以下「[^「]*?」という。)?）</span>)?第([一二三四五六七八九十百千万]+)条(?:の([一二三四五六七八九十百千万]+))?(?:第([一二三四五六七八九十百千万]+)項)?' , 'g');
     const newHTML = lawTextElement.innerHTML.replaceAll(regex,(match, lawArticleNum, lawArticleSubNum, lawParagraphNum) =>{
-        if (match.includes('</span>')) {
-            return match
-        } else {
-            lawArticleNum = kanjiToNumber(lawArticleNum);
-            lawArticleSubNum = kanjiToNumber(lawArticleSubNum);
-            lawParagraphNum = kanjiToNumber(lawParagraphNum);
-            const lawData = `lawNum=${lawNum} ${lawArticleNum?'article='+lawArticleNum:''}${lawArticleSubNum? '_'+ lawArticleSubNum : ''}${lawParagraphNum? ' paragraph='+ lawParagraphNum: ''}`
-            // return `<span class="hovered" ${lawData}><span data-lawnum=${lawNum}>${lawName}</span>${match_rest}</span>`;
-            return `<span class="hovered" ${lawData}>${match}</span>`;
-        }
+        lawArticleNum = kanjiToNumber(lawArticleNum);
+        lawArticleSubNum = kanjiToNumber(lawArticleSubNum);
+        lawParagraphNum = kanjiToNumber(lawParagraphNum);
+        const lawData = `lawNum=${lawNum} ${lawArticleNum?'article='+lawArticleNum:''}${lawArticleSubNum? '_'+ lawArticleSubNum : ''}${lawParagraphNum? ' paragraph='+ lawParagraphNum: ''}`
+        // return `<span class="hovered" ${lawData}><span data-lawnum=${lawNum}>${lawName}</span>${match_rest}</span>`;
+        return `<span class="hovered" ${lawData}>${match}</span>`;
     });
     lawTextElement.innerHTML = newHTML;
     hovered = lawTextElement.querySelectorAll('.hovered');

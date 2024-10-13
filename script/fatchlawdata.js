@@ -14,6 +14,21 @@ async function fetchLawDetails(lawNo) {
     lawNum.innerHTML = ''
     lawContent.innerHTML = '';
 
+    if (outputFrame === 'left'){
+        document.getElementById('outputFrame').value = 'right';
+        if (parseFloat(document.getElementById('right').style.width)>=90){
+            document.getElementById('left').style.width='50%'
+            document.getElementById('right').style.width='50%'
+        }
+    }
+    else if (outputFrame === 'right'){
+        document.getElementById('outputFrame').value = 'left';
+        if (parseFloat(document.getElementById('left').style.width)>=90){
+            document.getElementById('left').style.width='50%'
+            document.getElementById('right').style.width='50%'
+        }
+    };
+
     const apiUrl = `https://elaws.e-gov.go.jp/api/1/lawdata/${lawNo}`; // ここに実際のAPI URLを入力
     response = await fetch(apiUrl)
     str = await response.text()
@@ -154,20 +169,7 @@ async function fetchLawDetails(lawNo) {
     // ルートノードから開始してHTMLに変換
     lawContent.innerHTML = convertNodeToHTML(lawFullText);
     
-    if (outputFrame === 'left'){
-        document.getElementById('outputFrame').value = 'right';
-        if (parseFloat(document.getElementById('right').style.width)>=90){
-            document.getElementById('left').style.width='50%'
-            document.getElementById('right').style.width='50%'
-        }
-    }
-    else if (outputFrame === 'right'){
-        document.getElementById('outputFrame').value = 'left';
-        if (parseFloat(document.getElementById('left').style.width)>=90){
-            document.getElementById('left').style.width='50%'
-            document.getElementById('right').style.width='50%'
-        }
-    };
+
     // searchResults.forEach(lawNum => {
     //     setupHover(outputFrame, synonym, lawNum);
     // });
