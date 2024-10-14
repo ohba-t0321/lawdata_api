@@ -1,6 +1,6 @@
 const root = document.documentElement;
 
-function annotation(left_right){
+async function annotation(left_right){
     const lawTextElement = document.getElementById('law-content-' + left_right);
     const elements = lawTextElement.querySelectorAll('.xml-Sentence');
     // 各要素について処理
