@@ -57,6 +57,20 @@
                         <button type="submit" class="btn-outline-secondary" id="left-clear">左側</button>
                         <button type="submit" class="btn-outline-secondary" id="right-clear">右側</button>
                     </div>
+                    <fieldset>
+                        <legend>カッコ書きの表示方法</legend>
+                        <div id="annotationdisplay">
+                            <label>
+                                <input type="radio" id="annotate_normal" name="annotate" checked>通常
+                            </label>
+                            <label>
+                                <input type="radio" id="annotate_gray" name="annotate">薄くする
+                            </label>
+                            <label>
+                                <input type="radio" id="annotate_none" name="annotate">消去する
+                            </label>
+                        </div>
+                    </fieldset>
                 </form>
             </div>
             <div id="searchResults"></div>
@@ -101,6 +115,7 @@
     <script src="script/fatchlawdata.js"></script>
     <script src="script/contentresize.js"></script>
     <script src="script/references.js"></script>
+    <script src="script/annotation_gray.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

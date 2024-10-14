@@ -31,23 +31,23 @@
     width: 95%;
 }
 /* テーブルのスタイル */
-table {
+#lawTable {
     width: 100%;
     border-collapse: collapse;
 }
-thead th {
+#lawTable thead th {
     padding: 8px;
     text-align: left;
     border: 1px solid #ddd;
     background-color: #ccf;
 }
-td {
+#lawTable td {
     padding: 8px;
     text-align: left;
     border: 1px solid #ddd;
 }
 /* マウスオーバー時のハイライト */
-tbody tr:hover {
+#lawTable tbody tr:hover {
     background-color: #eef;
 }
 .sort-buttons button {
@@ -61,4 +61,16 @@ tbody tr:hover {
 .sort-buttons button.active {
     color: white;
     background-color: #007bff;
+}
+fieldset{
+    border:1px solid #000;
+    padding-left:3px;
+}
+legend{
+    font-size:1em;
+    margin-left: 12px;
+    margin-top: 3px;
+    padding:3px 2px;
+    width:initial;
+    margin-bottom: 0;
 }
