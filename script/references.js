@@ -185,15 +185,16 @@ async function setupHover_reference(outputFrame) {
                 refJson = item.ref.lawArticle;
                 const words = item.match;
                 const lawData = `lawNum=${item.ref.lawNum} ${refJson.article!='0'?'article='+refJson.article:''}${' paragraph='+ refJson.paragraph}${refJson.item!=0?' item='+refJson.item:''}`
-                linkSentence = lawTextElement.querySelector('span.xml-Sentence[data-item="'+ referredNum +'"]')
-                console.log('読み込み中...:' + linkSentence.innerHTML + "("+ words +")")
-                if (linkSentence){
-                    linkSentence.innerHTML = linkSentence.innerHTML.replace(words, `<span class="hovered" ${lawData}>${words}</span>`);
+                linkSentences = lawTextElement.querySelectorAll('span.xml-Sentence[data-item="'+ referredNum +'"]')
+                linkSentences.forEach(linkSentence=>{
+                    if (linkSentence){
+                        linkSentence.innerHTML = linkSentence.innerHTML.replace(words, `<span class="hovered" ${lawData}>${words}</span>`);
 
-                };
-                hovered = linkSentence.querySelectorAll('.hovered');
-                hovered.forEach(itm=>{
-                    setupLink(itm);
+                    };
+                    hovered = linkSentence.querySelectorAll('.hovered');
+                    hovered.forEach(itm=>{
+                        setupLink(itm);
+                    });
                 });
             });
         })
