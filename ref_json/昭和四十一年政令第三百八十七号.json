@@ -1,0 +1,186 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和四十一年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "令第一条に規定する厚生労働省令で定める書類は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第三百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "製菓衛生師の免許を受けようとする者は、申請書に厚生労働省令で定める書類を添え、これを住所地の都道府県知事に提出しなければならない。"
+        },
+        "match": "厚生労働省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第二条第四号に規定する厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第三百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "その他厚生労働省令で定める事項"
+        },
+        "match": "厚生労働省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十条第一項の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第三百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第二項の規定により指定試験機関にその試験事務を行わせることとした都道府県知事（以下「委任都道府県知事」という。）は、厚生労働省令で定める事項を、厚生労働大臣に報告するとともに、公示しなければならない。"
+        },
+        "match": "厚生労働省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "令第十条第二項の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第三百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定試験機関は、その名称、主たる事務所の所在地又は試験事務を取り扱う事務所の所在地を変更しようとするときは、変更しようとする日の二週間前までに、厚生労働省令で定める事項を委任都道府県知事（試験事務を取り扱う事務所の所在地を変更しようとする場合にあつては、関係委任都道府県知事）に届け出なければならない。"
+        },
+        "match": "厚生労働省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十二条第二項の厚生労働省令で定める要件は、次の各号のいずれかに該当する者であることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第三百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定試験機関は、試験委員を選任しようとするときは、厚生労働省令で定める要件を備える者のうちから選任しなければならない。"
+        },
+        "match": "厚生労働省令で定める要件"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十三条の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第三百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定試験機関は、厚生労働省令で定めるところにより、試験事務に関する事項で厚生労働省令で定めるものを記載した帳簿を備え、これを保存しなければならない。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第二十条第三号に規定する厚生労働省令で定める基準は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第三百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "必修科目の授業時間数、施設の長の資格、教員の数及び資格、生徒の定員、学級数、施設の構造設備、学習用の器具、教材その他の備品、入学料、授業料及び実習費の額、施設の経営方法並びに養成課程として設ける通信課程における通信教材の内容及び指導の方法に関し、それぞれ厚生労働省令で定める基準に適合するものであること。"
+        },
+        "match": "厚生労働省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第二十一条第二項に規定する厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第三百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定養成施設の設立者は、指定養成施設の名称又は所在地、指定養成施設の長の氏名、施設の構造設備、養成課程として設ける通信課程における通信教材の内容又は指導の方法その他厚生労働省令で定める事項を変更（施設の構造設備の変更については、生徒の定員を変更するためのものを除く。）したときは、当該指定養成施設の所在地の都道府県知事に届け出なければならない。"
+        },
+        "match": "厚生労働省令で定める事項"
+    }
+]

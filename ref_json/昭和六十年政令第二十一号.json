@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和六十年大蔵省令第五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "37",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第七条に規定する財務省令で定める事務は、次に掲げる事務とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十年政令第二十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "財務大臣が法第四十三条第一項の規定に基づき会社に取り扱わせる法の施行に関する事務は、次に掲げる事務のうち財務省令で定める事務とする。"
+        },
+        "match": "財務省令で定める事務"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和四十一年運輸省令第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条第一項第三号の国土交通省令で定める一定の実務の経験その他の要件を備える者は、次に掲げる者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年法律第百十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "鋼製の船舶の製造又は修繕に関して国土交通省令で定める一定の実務の経験その他の要件を備える者"
+        },
+        "match": "国土交通省令で定める一定の実務の経験その他の要件を備える者"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年運輸省令第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十一条第二項第四号の国土交通省令で定める一定の実務の経験その他の要件を備える者は、次に掲げる者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年法律第百十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "木船の製造又は修繕に関して国土交通省令で定める一定の実務の経験その他の要件を備える者"
+        },
+        "match": "国土交通省令で定める一定の実務の経験その他の要件を備える者"
+    }
+]

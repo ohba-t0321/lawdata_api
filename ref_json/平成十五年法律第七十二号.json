@@ -1,0 +1,485 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十一年法律第百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "牛の個体識別のための情報の管理及び伝達に関する特別措置法（平成十五年法律第七十二号）第二十条の政令で定める事務"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣は、独立行政法人家畜改良センターに、第二章及び第三章に規定する事務のうち政令で定める事務の全部又は一部を行わせることができる。"
+        },
+        "match": "政令で定める事"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年農林水産省令第三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "9"
+            },
+            "text": "センター法第十一条第二項第四号に規定する牛の個体識別のための情報の管理及び伝達に関する特別措置法（平成十五年法律第七十二号）第二十条の政令で定める事務に関する事項"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣は、独立行政法人家畜改良センターに、第二章及び第三章に規定する事務のうち政令で定める事務の全部又は一部を行わせることができる。"
+        },
+        "match": "政令で定める事務"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年政令第三百号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "牛の個体識別のための情報の管理及び伝達に関する特別措置法（以下「法」という。）第二条第四項の政令で定める料理は、焼き肉、しゃぶしゃぶ、すき焼き及びステーキとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "この法律において「特定料理」とは、牛の肉を主たる材料とする料理であって政令で定めるものをいう。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年政令第三百号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第五項の政令で定める要件は、次の各号のいずれにも該当するものであることとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "この法律において「販売業者」とは、牛の肉の販売の事業を行う者をいい、「特定料理提供業者」とは、特定料理の提供の事業を行う者であって政令で定める要件に該当するものをいう。"
+        },
+        "match": "政令で定める要件"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年政令第三百号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第二項の政令で定める期間は、三年とする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "農林水産大臣は、牛個体識別台帳の記録を、牛のとさつ、死亡又は輸出の日から政令で定める期間保存するものとする。"
+        },
+        "match": "政令で定める期間"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年政令第三百号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十条の政令で定める事務は、次に掲げるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣は、独立行政法人家畜改良センターに、第二章及び第三章に規定する事務のうち政令で定める事務の全部又は一部を行わせることができる。"
+        },
+        "match": "政令で定める事務"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "牛の個体識別のための情報の管理及び伝達に関する特別措置法（以下「法」という。）第二条第一項の農林水産省令で定める牛は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律において「個体識別番号」とは、牛（農林水産省令で定めるものを除く。以下同じ。）の個体を識別するために農林水産大臣が牛ごとに定める番号をいう。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第三項の農林水産省令で定める牛の肉は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "この法律において「特定牛肉」とは、食用に供される牛の肉（これを原料又は材料として製造し、加工し、又は調理したものその他の農林水産省令で定めるものを除く。）であって、牛個体識別台帳に記録されている牛から得られたものをいう。"
+        },
+        "match": "の農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三条第一項第九号の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "9"
+            },
+            "text": "その他農林水産省令で定める事項"
+        },
+        "match": "農林水産省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣は、牛個体識別台帳に記録された事項（管理者の氏名又は名称その他の農林水産省令で定めるものを除く。）をインターネットの利用その他の方法により公表するものとする。"
+        },
+        "match": "の農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第八条第一項の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "牛が出生したときは、その管理者は、遅滞なく、農林水産省令で定めるところにより、出生の年月日、雌雄の別、母牛の個体識別番号、管理者の氏名又は名称及び住所、飼養施設の所在地その他農林水産省令で定める事項を農林水産大臣に届け出なければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第八条第二項の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "牛を輸入したときは、その輸入者は、遅滞なく、農林水産省令で定めるところにより、輸入の年月日、雌雄の別、輸入者の氏名又は名称及び住所、飼養施設の所在地その他農林水産省令で定める事項を農林水産大臣に届け出なければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第二項の農林水産省令で定める耳標の規格は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "牛の管理者又は輸入者は、前項の規定による通知を受けたときは、農林水産省令で定めるところにより、牛の両耳にその個体識別番号を表示した耳標（農林水産省令で定める規格に適合するものに限る。以下同じ。）を着けなければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十条第三項の農林水産省令で定めるやむを得ない事由は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "牛が耳の疾患にかかっているときその他の農林水産省令で定めるやむを得ない事由に該当するときは、前二項の規定にかかわらず、耳標を取り外し、又は両耳に耳標の着けられていない牛の譲渡し等若しくは譲受け等をすることができる。この場合には、当該牛の管理者は、農林水産省令で定めるところにより、当該牛の個体識別番号を識別するための措置を講じなければならない。"
+        },
+        "match": "の農林水産省令で定めるやむを得ない事由"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十一条第一項の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "牛の管理者又は輸入者は、牛の譲渡し等をしたときは、遅滞なく、農林水産省令で定めるところにより、当該牛の個体識別番号、譲渡し等の相手方の氏名又は名称及び当該譲渡し等の年月日その他農林水産省令で定める事項を農林水産大臣に届け出なければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十一条第二項の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定により牛の譲受け等をした者（第十三条第二項のと畜者及び同条第三項の輸出者を除く。）は、遅滞なく、農林水産省令で定めるところにより、その氏名又は名称及び住所、当該牛の個体識別番号、譲受け等の相手方の氏名又は名称及び当該譲受け等の年月日、飼養施設の所在地その他農林水産省令で定める事項を農林水産大臣に届け出なければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十三条第一項の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "牛が死亡（とさつによる死亡を除く。）したときは、当該牛の管理者は、遅滞なく、農林水産省令で定めるところにより、当該牛の個体識別番号、死亡の年月日その他農林水産省令で定める事項を農林水産大臣に届け出なければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十三条第二項の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "牛をとさつした者（以下「と畜者」という。）は、遅滞なく、農林水産省令で定めるところにより、当該牛の個体識別番号、とさつの年月日、譲受け等の相手方の氏名又は名称その他農林水産省令で定める事項を農林水産大臣に届け出なければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十三条第三項の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "牛を輸出した者（以下「輸出者」という。）は、遅滞なく、農林水産省令で定めるところにより、当該牛の個体識別番号、輸出の年月日、譲受け等の相手方の氏名又は名称その他農林水産省令で定める事項を農林水産大臣に届け出なければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条第二項第二号（法第十六条第二項において準用する場合を含む。）の農林水産省令で定める頭数は、五十とする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "2"
+            },
+            "text": "農林水産省令で定める頭数以下の牛から得られた特定牛肉であること。"
+        },
+        "match": "農林水産省令で定める頭数"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年農林水産省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第十七条に規定する農林水産省令で定める事項は、次の各号に掲げる区分に応じ、それぞれ当該各号に定めるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "と畜者、販売業者及び特定料理提供業者は、農林水産省令で定めるところにより、帳簿（磁気ディスクをもって調製するものを含む。以下同じ。）を備え、特定牛肉の引渡し若しくは販売又は特定料理の提供に関し農林水産省令で定める事項を記載し、又は記録し、これを保存しなければならない。"
+        },
+        "match": "農林水産省令で定める"
+    }
+]

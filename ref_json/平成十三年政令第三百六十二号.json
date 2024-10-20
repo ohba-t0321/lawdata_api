@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省令第百五十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第七条第二項の総務省令で定める名簿の記載事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十三年政令第三百六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の名簿の記載事項は、総務省令で定める。"
+        },
+        "match": "総務省令で定める"
+    }
+]

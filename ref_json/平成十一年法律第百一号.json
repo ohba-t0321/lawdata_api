@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第二百五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "49",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "環境調査研修所は、環境省設置法第四条第一項第二十四号に規定する政令で定める文教研修施設とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第百一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "24"
+            },
+            "text": "政令で定める文教研修施設において所掌事務に関する研修を行うこと。"
+        },
+        "match": "政令で定める文教研修施設"
+    }
+]

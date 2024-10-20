@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十七年法務省令第十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "36",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "総合法律支援法施行令第十一条第二項に規定する法務省令で定める書類は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年政令第二十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の承認申請書には、当該期間最後の事業年度の事業年度末の貸借対照表、当該期間最後の事業年度の損益計算書その他の法務省令で定める書類を添付しなければならない。"
+        },
+        "match": "法務省令で定める書類"
+    }
+]

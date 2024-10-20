@@ -1,0 +1,186 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和三十一年農林省令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第二項第十二号の農林水産省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十一年法律第百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "12"
+            },
+            "text": "その他農林水産省令で定める事項"
+        },
+        "match": "農林水産省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十一年農林省令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条第一項（法第二十七条第二項において準用する場合を含む。）の農林水産省令で定める事項は、家畜の血統、能力又は経歴を証明する書類の有無、知り得た悪へき及び疾病並びに成牛（生後一年以上の牛をいう。以下同じ。）、成馬（生後二年以上の馬をいう。以下同じ。）又は成豚（生後六箇月以上の豚をいう。以下同じ。）の体重とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十一年法律第百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "開設者は、家畜市場において家畜取引の目的物とする家畜につき、その家畜取引が開始されるまでに、年齢、性別その他農林水産省令で定める事項を公表しなければならない。"
+        },
+        "match": "農林水産省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十一年農林省令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十四条の農林水産省令で定める日数は、三日とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十一年法律第百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "一年間に農林水産省令で定める日数以上開場する家畜市場においては、開設者は、農林水産省令で定める基準に適合する構造の施設を設けなければならない。"
+        },
+        "match": "農林水産省令で定める日数"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十一年農林省令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "一年間の開場日数が三日以上三十六日未満の家畜市場についての法第十四条の農林水産省令で定める基準は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十一年法律第百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "一年間に農林水産省令で定める日数以上開場する家畜市場においては、開設者は、農林水産省令で定める基準に適合する構造の施設を設けなければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十一年農林省令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "一年間の開場日数が三十六日以上の家畜市場についての法第十四条の農林水産省令で定める基準は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十一年法律第百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "一年間に農林水産省令で定める日数以上開場する家畜市場においては、開設者は、農林水産省令で定める基準に適合する構造の施設を設けなければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十一年農林省令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十七条第一項第六号の農林水産省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十一年法律第百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "1",
+                "item": "6"
+            },
+            "text": "その他農林水産省令で定める事項"
+        },
+        "match": "農林水産省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十一年農林省令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十八条の農林水産省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十一年法律第百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "家畜取引を業とする者は、売買若しくは交換の契約（家畜市場及び第二十七条第一項の規定による届出に係る市場における家畜取引に係るものを除く。）に基いて牛若しくは馬を引き渡す場合又は委託契約に基いて買い入れ、若しくは交換した牛若しくは馬をその委託者に引き渡す場合には、その家畜につき、年齢、性別、価格その他農林水産省令で定める事項を記載した書類を作成し、これを、その家畜の引渡の際、その契約の相手方に交付しなければならない。ただし、その契約の相手方が家畜取引を業とする者である場合は、この限りでない。"
+        },
+        "match": "農林水産省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "家畜取引法（以下「法」という。）第十九条第二項第二号の政令で定める最低基準は、その区域内に開設されている地域家畜市場の最近一年間における一市場当たりの家畜取引の平均頭数が開場日一日当たり次に掲げる頭数を下らないこととする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十一年法律第百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "2",
+                "item": "2"
+            },
+            "text": "その区域内に開設されている地域家畜市場の最近一年間における一市場当りの家畜取引の頭数が政令で定める最低基準に達せず、この事態を放置するとすれば当該地域家畜市場の家畜取引における適正な価格の形成が阻害され、その結果その区域内において家畜を生産する農業者に著しい損失をもたらすおそれがあること。"
+        },
+        "match": "政令で定める最低基準"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十一年政令第四百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第二項第四号及び第三項第四号（同条第五項において準用する場合を含む。）に規定する資産及び負債のうち政令で定めるものは、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "当該処分が効力を生じた日における当該団体の資産及び負債のうち政令で定めるもの"
+        },
+        "match": "資産及び負債のうち政令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十一年政令第四百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第三項第五号に規定する当該団体の活動に関する事項のうち政令で定めるものは、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "3",
+                "item": "5"
+            },
+            "text": "当該各期間中における当該団体の活動に関する事項のうち政令で定めるもの"
+        },
+        "match": "る当該団体の活動に関する事項のうち政令で定めるもの"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十八年農林省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第三条第二号の農林水産省令で定める法人は、株式会社であつて、その発行済み株式の総数の十分の九以上に相当する数の株式を同条第一号の法人が保有するものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "前号に掲げる法人が主たる出資者となつている法人で農林水産省令で定めるもの"
+        },
+        "match": "農林水産省令で定める"
+    }
+]

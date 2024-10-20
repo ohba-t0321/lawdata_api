@@ -1,0 +1,94 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和三十四年政令第百八十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第一項第四号に規定する政令で定める物品は、次に掲げる物品とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十四年法律第百三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "その他政令で定める物品"
+        },
+        "match": "政令で定める物品"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十四年政令第百八十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第二項に規定する政令で定める地域は、次に掲げる地域とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十四年法律第百三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "この法律で「接収」とは、本邦（政令で定める地域を除く。）内で、連合国占領軍に属する権限ある軍人又は軍属が、貴金属等を占有している者から、無償で、これを連合国占領軍の管理に移した行為をいう。"
+        },
+        "match": "政令で定める地域"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十四年政令第百八十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第三項第二号（同条第五項において準用する場合を含む。）に規定する政令で定めるものは、当該接収貴金属等のうち、液状、粉状又は粒状のもの、金属くずその他大蔵省令で定めるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十四年法律第百三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "3",
+                "item": "2"
+            },
+            "text": "当該接収貴金属等の種類、形状又は個数（政令で定めるものについては、総重量）を認定することができないとき。"
+        },
+        "match": "政令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十四年政令第百八十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二十一条第三項第二号に規定する政令で定める割合は、交易営団に係る同項の規定による交付金の額を算定する場合にあつては百分の五・五二とし、社団法人中央物資活用協会に係る当該交付金の額を算定する場合にあつては百分の六・六二とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十四年法律第百三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "3",
+                "item": "2"
+            },
+            "text": "回収ダイヤモンドの取得に係る手数料に相当するものとして前号の金額に政令で定める割合を乗じて算出した金額"
+        },
+        "match": "政令で定める割合"
+    }
+]

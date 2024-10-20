@@ -1,0 +1,140 @@
+[
+    {
+        "ref": {
+            "lawNum": "令和五年法務省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第三項第四号に規定する法務省令で定める基準は、土壌汚染対策法施行規則（平成十四年環境省令第二十九号）第三十一条第一項及び第二項の基準とする。"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "4"
+            },
+            "text": "土壌汚染対策法（平成十四年法律第五十三号）第二条第一項に規定する特定有害物質（法務省令で定める基準を超えるものに限る。）により汚染されている土地"
+        },
+        "match": "法務省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "令和四年政令第三百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第三項第三号の政令で定める土地は、次に掲げる土地とする。"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "3"
+            },
+            "text": "通路その他の他人による使用が予定される土地として政令で定めるものが含まれる土地"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和四年政令第三百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第一項第一号の政令で定める基準は、勾配（傾斜がある部分の上端と下端とを含む面の水平面に対する角度をいう。）が三十度以上であり、かつ、その高さ（傾斜がある部分の上端と下端との垂直距離をいう。）が五メートル以上であることとする。"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "崖（勾配、高さその他の事項について政令で定める基準に該当するものに限る。）がある土地のうち、その通常の管理に当たり過分の費用又は労力を要するもの"
+        },
+        "match": "政令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "令和四年政令第三百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第五条第一項第四号の政令で定める土地は、次に掲げる土地とする。"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "隣接する土地の所有者その他の者との争訟によらなければ通常の管理又は処分をすることができない土地として政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和四年政令第三百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第五条第一項第五号の政令で定める土地は、次に掲げる土地とする。"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "前各号に掲げる土地のほか、通常の管理又は処分をするに当たり過分の費用又は労力を要する土地として政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和四年政令第三百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十条第一項の政令で定めるところにより算定する金額は、次の各号に掲げる土地の区分に応じ、当該各号に定める金額とする。"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "承認申請者は、第五条第一項の承認があったときは、同項の承認に係る土地につき、国有地の種目ごとにその管理に要する十年分の標準的な費用の額を考慮して政令で定めるところにより算定した額の金銭（以下「負担金」という。）を納付しなければならない。"
+        },
+        "match": "政令で定めるところにより算定"
+    }
+]

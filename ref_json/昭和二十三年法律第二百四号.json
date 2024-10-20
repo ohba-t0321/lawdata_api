@@ -1,0 +1,186 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成三年政令第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "歯科衛生士法（以下「法」という。）第八条の六第二項の政令で定める手数料の額は、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める額とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二百四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定登録機関が登録事務を行う場合において、歯科衛生士の登録又は免許証若しくは歯科衛生士免許証明書（以下「免許証明書」という。）の書換え交付若しくは再交付を受けようとする者は実費を勘案して政令で定める額の手数料を指定登録機関に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成三年政令第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条の三第一項の政令で定める受験手数料の額は、一万四千三百円とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二百四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "試験を受けようとする者は、実費を勘案して政令で定める額の受験手数料を国に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二年厚生省令第十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の五第二項の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二百四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録事務規程で定めるべき事項は、厚生労働省令で定める。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二年厚生省令第十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の八の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二百四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定登録機関は、厚生労働省令で定めるところにより、登録事務に関する事項で厚生労働省令で定めるものを記載した帳簿を備え、これを保存しなければならない。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二年厚生省令第十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条の八において準用する法第八条の五第二項の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二百四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録事務規程で定めるべき事項は、厚生労働省令で定める。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二年厚生省令第十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条の五第二項の厚生労働省令で定める要件は、次の各号のいずれかに該当する者であることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二百四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12_5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定試験機関は、試験委員を選任しようとするときは、厚生労働省令で定める要件を備える者のうちから選任しなければならない。"
+        },
+        "match": "厚生労働省令で定める要件"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二年厚生省令第十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条の八において準用する法第八条の八の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二百四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定登録機関は、厚生労働省令で定めるところにより、登録事務に関する事項で厚生労働省令で定めるものを記載した帳簿を備え、これを保存しなければならない。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成元年厚生省令第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "歯科衛生士法（昭和二十三年法律第二百四号。以下「法」という。）第四条第三号の厚生労働省令で定める者は、視覚、聴覚、音声機能若しくは言語機能又は精神の機能の障害により歯科衛生士の業務を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二百四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "心身の障害により業務を適正に行うことができない者として厚生労働省令で定めるもの"
+        },
+        "match": "厚生労働省令で定める"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十六年政令第二百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十七条において準用する学校保健安全法第十八条の政令で定める場合については、学校保健安全法施行令（昭和三十三年政令第百七十四号）第五条の規定を準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年政令第百七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条の政令で定める場合は、次に掲げる場合とする。"
+        },
+        "match": "法第十八条の政令で定める場合"
+    }
+]

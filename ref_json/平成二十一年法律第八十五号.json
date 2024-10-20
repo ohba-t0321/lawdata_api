@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十二年経済産業省令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第四号の経済産業省令で定める者は、精神の機能の障害によりクラスター弾等の所持を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十一年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "心身の故障によりクラスター弾等を適正に所持することができない者として経済産業省令で定める者"
+        },
+        "match": "経済産業省令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十二年経済産業省令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条第一項の経済産業省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十一年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "許可所持者は、帳簿を備え、その所持に係るクラスター弾等に関し経済産業省令で定める事項を記載しなければならない。"
+        },
+        "match": "経済産業省令で定める事項"
+    }
+]

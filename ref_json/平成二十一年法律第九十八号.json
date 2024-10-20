@@ -1,0 +1,140 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十一年政令第二百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "新型インフルエンザ予防接種による健康被害の救済に関する特別措置法（以下「法」という。）第三条第二項の審議会等で政令で定めるものは、疾病・障害認定審査会とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十一年法律第九十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "厚生労働大臣は、前項の認定を行うに当たっては、審議会等（国家行政組織法（昭和二十三年法律第百二十号）第八条に規定する機関をいう。）で政令で定めるものの意見を聴かなければならない。"
+        },
+        "match": "で政令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十一年政令第二百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一号の政令で定める程度の医療は、病院又は診療所への入院を要すると認められる場合に必要な程度の医療とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十一年法律第九十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "医療費及び医療手当新型インフルエンザ予防接種を受けたことによる疾病について政令で定める程度の医療を受ける者"
+        },
+        "match": "政令で定める程度の医療"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十一年政令第二百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第二号の政令で定める程度の障害の状態は、別表に定めるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十一年法律第九十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "障害児養育年金新型インフルエンザ予防接種を受けたことにより政令で定める程度の障害の状態にある十八歳未満の者を養育する者"
+        },
+        "match": "政令で定める程度の障害の状態"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十一年政令第二百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第三号の政令で定める程度の障害の状態は、別表に定めるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十一年法律第九十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "障害年金新型インフルエンザ予防接種を受けたことにより政令で定める程度の障害の状態にある十八歳以上の者"
+        },
+        "match": "政令で定める程度の障害の状態"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十一年政令第二百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第四号の遺族年金（以下「遺族年金」という。）を受けることができる同号の政令で定める遺族は、次に掲げる者とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十一年法律第九十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "遺族年金又は遺族一時金新型インフルエンザ予防接種を受けたことにより死亡した者の政令で定める遺族"
+        },
+        "match": "の政令で定める遺族"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十一年政令第二百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第四号の遺族一時金（以下「遺族一時金」という。）を受けることができる同号の政令で定める遺族は、第八条第一項各号に掲げる者とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十一年法律第九十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "遺族年金又は遺族一時金新型インフルエンザ予防接種を受けたことにより死亡した者の政令で定める遺族"
+        },
+        "match": "の政令で定める遺族"
+    }
+]

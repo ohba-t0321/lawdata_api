@@ -1,0 +1,117 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十三年文部科学省令第二十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一号の文部科学省令で定める条件は、次の各号のいずれかに該当する者であることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十一年法律第六十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "文部科学省令で定める条件に適合する知識経験を有する者がプログラム登録を実施し、その数が文部科学省令で定める数以上であること。"
+        },
+        "match": "文部科学省令で定める条件"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十三年文部科学省令第二十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一号の文部科学省令で定める数は、二名とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十一年法律第六十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "文部科学省令で定める条件に適合する知識経験を有する者がプログラム登録を実施し、その数が文部科学省令で定める数以上であること。"
+        },
+        "match": "文部科学省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十三年文部科学省令第二十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条第一項の文部科学省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十一年法律第六十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定登録機関は、帳簿を備え、登録事務に関し文部科学省令で定める事項を記載しなければならない。"
+        },
+        "match": "文部科学省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十一年政令第二百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第二項の政令で定める手数料の額は、次の各号に掲げる第二条第一項の請求に係る登録プログラム著作物の登録の際に提出された第一条の複製物の種類の区分に応じ、請求一件につき当該各号に定める額とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十一年法律第六十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定による請求をする者は、実費を勘案して政令で定める額の手数料を納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十一年政令第二百八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の政令で定める手数料の額は、プログラムの著作物に係る登録一件につき四万七千百円とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十一年法律第六十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定登録機関がプログラム登録を行う場合において、その登録の申請をしようとする者は、実費を勘案して政令で定める額の手数料を指定登録機関に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十八年運輸省令第四十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第二条第一号の国土交通省令で定める用途の別は、次の通りとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第百八十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "国土交通省令で定める用途の別"
+        },
+        "match": "国土交通省令で定める用途の別"
+    }
+]

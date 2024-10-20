@@ -1,0 +1,94 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和四十一年総理府令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "令第二条第一項第五号に規定する内閣官房令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "前各号に掲げるもののほか、内閣官房令で定める事項"
+        },
+        "match": "内閣官房令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年総理府令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第四条に規定する内閣官房令で定める書類は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "任命権者（内閣官房令で定める場合にあつては、内閣官房令で定める者）は、職員が提出した履歴書その他の内閣官房令で定める書類を人事記録の附属書類として保管しなければならない。"
+        },
+        "match": "内閣官房令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年総理府令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "令第四条に規定する内閣官房令で定める場合は、新任命権者が前項の請求をせず、旧任命権者が当該附属書類の移管をしなかつた場合とし、同条に規定する内閣官房令で定める者は、旧任命権者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "任命権者（内閣官房令で定める場合にあつては、内閣官房令で定める者）は、職員が提出した履歴書その他の内閣官房令で定める書類を人事記録の附属書類として保管しなければならない。"
+        },
+        "match": "内閣官房令で定める場合"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年総理府令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第五条に規定する内閣官房令で定める職員は、内閣官房内閣人事局の職員とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年政令第十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "内閣総理大臣は、内閣官房令で定める職員をして、人事記録の作成並びに人事記録及びその附属書類の保管の状況について、実地に検査させることができる。"
+        },
+        "match": "内閣官房令で定める職員"
+    }
+]

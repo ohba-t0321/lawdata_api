@@ -1,0 +1,94 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十六年政令第三百二十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "内水面漁業の振興に関する法律（以下「法」という。）第二十六条第一項の政令で定める養殖業は、うなぎ養殖業とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十六年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "漁業法の規定が適用される水面以外の水面で営まれる養殖業であって政令で定めるもの（以下「指定養殖業」という。）を営もうとする者は、養殖場ごとに、農林水産大臣の許可を受けなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十六年政令第三百二十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十八条第一項の政令で定める養殖業は、陸地において営む養殖業であって、次の各号のいずれにも該当するものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十六年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "漁業法の規定が適用される水面以外の水面で営まれる指定養殖業以外の養殖業であって政令で定めるもの（以下「届出養殖業」という。）を営もうとする者は、養殖場ごとに、その養殖業を開始する日の一月前までに、農林水産省令で定めるところにより、次に掲げる事項を農林水産大臣に届け出なければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十六年農林水産省令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十七条の農林水産省令で定める期間は、一年とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十六年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定養殖業の許可を受けた者（以下「許可養殖業者」という。）が農林水産省令で定める期間以上にわたって休業しようとするときは、休業期間を定め、あらかじめ農林水産大臣に届け出なければならない。"
+        },
+        "match": "農林水産省令で定める期間"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十六年農林水産省令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二十八条第一項第四号の農林水産省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十六年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "その他農林水産省令で定める事項"
+        },
+        "match": "農林水産省令で定める事項"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和五十年労働省令第三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "雇用保険法施行令（昭和五十年政令第二十五号。以下「令」という。）第二条第一号の厚生労働省令で定める漁業は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十年政令第二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "漁業法（昭和二十四年法律第二百六十七号）第三十七条に規定する大臣許可漁業のうち厚生労働省令で定めるものに従事する漁船"
+        },
+        "match": "厚生労働省令で定める"
+    }
+]

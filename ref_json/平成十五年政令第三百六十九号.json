@@ -1,0 +1,163 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十五年文部科学省令第五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第三条第一項第二号の内閣府令で定める額は、別表上欄に定める障害の程度に応じた等級に対応する同表中欄に定める額（令第五条第二項第四号に掲げる場合及び第二十六条第二号に掲げる場合に係る障害にあっては、その額に二分の一を乗じて得た額）とする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年政令第三百六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "障害見舞金障害の程度に応じ四千万円から八十八万円までの範囲（第五条第二項第四号に掲げる場合（これに準ずる場合として同項第五号の内閣府令で定める場合を含む。次号において同じ。）に係る障害見舞金にあっては、二千万円から四十四万円までの範囲）内で内閣府令で定める額"
+        },
+        "match": "号の内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年文部科学省令第五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第五条第一項第二号の児童生徒等の疾病でその原因である事由が学校の管理下において生じたもののうち内閣府令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年政令第三百六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "学校給食に起因する中毒その他児童生徒等の疾病でその原因である事由が学校の管理下において生じたもののうち、内閣府令で定めるもの。ただし、療養に要する費用が五千円以上のものに限る。"
+        },
+        "match": "内閣府令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年文部科学省令第五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第五条第一項第三号の負傷又は疾病が治った場合において存する障害のうち内閣府令で定める程度のものは、別表下欄に定める程度のものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年政令第三百六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "第一号の負傷又は前号の疾病が治った場合において存する障害のうち、内閣府令で定める程度のもの"
+        },
+        "match": "内閣府令で定める程度のもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年文部科学省令第五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第五条第一項第四号の児童生徒等の死亡でその原因である事由が学校の管理下において生じたもののうち内閣府令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年政令第三百六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "児童生徒等の死亡でその原因である事由が学校の管理下において生じたもののうち、内閣府令で定めるもの"
+        },
+        "match": "内閣府令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年文部科学省令第五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第五条第一項第五号の内閣府令で定める死亡は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年政令第三百六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "前号に掲げるもののほか、これに準ずるものとして内閣府令で定めるもの"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年文部科学省令第五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第五条第二項第五号の内閣府令で定める場合は、次に掲げる場合とする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年政令第三百六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "5"
+            },
+            "text": "前各号に掲げる場合のほか、これらの場合に準ずる場合として内閣府令で定める場合"
+        },
+        "match": "内閣府令で定める場合"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年文部科学省令第五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第六条第二号の内閣府令で定める契約締結期限は、各年度について、当該年度の五月三十一日とする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年政令第三百六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "災害共済給付契約を締結する場合において、当該災害共済給付契約の申込みが内閣府令で定める契約締結期限の経過後に行われること。"
+        },
+        "match": "内閣府令で定める契約締結期限"
+    }
+]

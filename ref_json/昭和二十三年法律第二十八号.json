@@ -1,0 +1,71 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第二百五十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "257",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "海上保安大学校及び海上保安学校は、海上保安庁法第五条第二十八号に規定する政令で定める文教研修施設とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "28"
+            },
+            "text": "政令で定める文教研修施設において所掌事務に関する研修を行うこと。"
+        },
+        "match": "政令で定める文教研修施設"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第二百五十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "259",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "海上保安庁法第十二条第四項に規定する政令で定める数は、五十五とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "管区海上保安本部に、政令で定める数の範囲内において、国土交通省令で定めるところにより、部を置くことができる。"
+        },
+        "match": "政令で定める数"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十一年政令第百七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "総合通信局の出張所、警察署及び派出所、地方整備局の事務所（国土交通省設置法（平成十一年法律第百号）第三十二条第一項に規定する地方整備局の事務所をいう。）で総務省令で定めるもの、管区海上保安本部の事務所（海上保安庁法（昭和二十三年法律第二十八号）第十三条に規定する管区海上保安本部の事務所をいう。）で総務省令で定めるもの並びに地方気象台及び測候所並びにこれらの出張所"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国土交通大臣は、管区海上保安本部の所掌事務の一部を分掌させるため、所要の地に、管区海上保安本部の事務所を置くことができる。その名称、位置、管轄区域、所掌事務の範囲及び内部組織は、国土交通省令で定める。"
+        },
+        "match": "省令で定める"
+    }
+]

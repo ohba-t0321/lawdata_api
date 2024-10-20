@@ -1,0 +1,209 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十七年厚生労働省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条の五第二項の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十年法律第百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9_5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録事務規程で定めるべき事項は、厚生労働省令で定める。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年厚生労働省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条の八の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十年法律第百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9_8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定登録機関は、厚生労働省令で定めるところにより、帳簿を備え付け、これに登録事務に関する事項で厚生労働省令で定めるものを記載し、及びこれを保存しなければならない。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年厚生労働省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条の七において準用する法第九条の五第二項の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十年法律第百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9_5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録事務規程で定めるべき事項は、厚生労働省令で定める。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年厚生労働省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条の四第二項の厚生労働省令で定める要件は、次の各号のいずれかに該当する者であることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十年法律第百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定試験機関は、試験委員を選任しようとするときは、厚生労働省令で定める要件を備える者のうちから選任しなければならない。"
+        },
+        "match": "厚生労働省令で定める要件"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年厚生労働省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条の七において準用する法第九条の八の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十年法律第百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9_8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定登録機関は、厚生労働省令で定めるところにより、帳簿を備え付け、これに登録事務に関する事項で厚生労働省令で定めるものを記載し、及びこれを保存しなければならない。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十年厚生省令第二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "歯科技工士法（昭和三十年法律第百六十八号。以下「法」という。）第四条第二号の厚生労働省令で定める者は、視覚又は精神の機能の障害により歯科技工士の業務を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十年法律第百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "心身の障害により歯科技工士の業務を適正に行うことができない者として厚生労働省令で定めるもの"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十年厚生省令第二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第三項の厚生労働省令で定める二年ごとの年は、昭和五十七年を初年とする同年以後の二年ごとの各年とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十年法律第百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "業務に従事する歯科技工士は、厚生労働省令で定める二年ごとの年の十二月三十一日現在における氏名、住所その他厚生労働省令で定める事項を、当該年の翌年一月十五日までに、その就業地の都道府県知事に届け出なければならない。"
+        },
+        "match": "厚生労働省令で定める二年ごとの年"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十年政令第二百二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "歯科技工士法（以下「法」という。）第九条の六第二項の政令で定める手数料の額は、次の各号に掲げる者の区分に応じ、当該各号に定める額とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十年法律第百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9_6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定登録機関が登録事務を行う場合において、歯科技工士名簿に免許に関する事項の登録を受けようとする者又は歯科技工士免許証明書（以下「免許証明書」という。）の書換交付を受けようとする者は、実費を勘案して政令で定める額の手数料を指定登録機関に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十年政令第二百二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条の二第一項の政令で定める受験手数料の額は、三万円とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十年法律第百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "試験を受けようとする者は、実費を勘案して政令で定める額の受験手数料を国に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    }
+]

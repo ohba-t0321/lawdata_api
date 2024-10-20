@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和三十一年政令第二百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "化製場等に関する法律（以下「法」という。）第九条第一項の政令で定める動物の種類は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第百四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "都道府県の条例で定める基準に従い都道府県知事が指定する区域内において、政令で定める種類の動物を、その飼養又は収容のための施設で、当該動物の種類ごとに都道府県の条例で定める数以上に飼養し、又は収容しようとする者は、当該動物の種類ごとに、その施設の所在地の都道府県知事の許可を受けなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十一年政令第二百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第六項の政令で定める施設は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第百四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "6",
+                "item": "0"
+            },
+            "text": "第一項から第四項までの規定は、家畜市場その他政令で定める施設には、適用しない。"
+        },
+        "match": "政令で定める施設"
+    }
+]

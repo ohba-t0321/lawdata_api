@@ -1,0 +1,94 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成七年政令第四百三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国際機関等に派遣される防衛省の職員の処遇等に関する法律（以下「法」という。）第二条第一項に規定する政令で定める職員は、次に掲げる職員とする。"
+        },
+        "referred": {
+            "lawNum": "平成七年法律第百二十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "防衛大臣は、条約その他の国際約束若しくはこれに準ずるものに基づき又は次に掲げる機関の要請に応じ、これらの機関の業務に従事させるため、職員（政令で定める職員を除く。以下この項において同じ。）を派遣することができる。ただし、防衛装備庁に所属する職員（自衛隊法（昭和二十九年法律第百六十五号）第三十条の二第一項第六号に規定する幹部隊員及び自衛官を除く。）の派遣は、防衛装備庁長官が行う。"
+        },
+        "match": "政令で定める職員"
+    },
+    {
+        "ref": {
+            "lawNum": "平成七年政令第四百三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第一項第三号に規定する政令で定める機関は、次に掲げる機関とする。"
+        },
+        "referred": {
+            "lawNum": "平成七年法律第百二十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "前二号に準ずる機関で、政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成七年政令第四百三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二条第二項ただし書に規定する政令で定める国際連合事務局の内部部局は、平和活動局及び活動支援局とする。"
+        },
+        "referred": {
+            "lawNum": "平成七年法律第百二十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の業務は、次に掲げるものとする。ただし、第十一号から第十四号までに掲げる業務にあっては、国際連合事務局の内部部局であって当該業務を所掌するものとして政令で定めるものにおいて行うものに限る。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成七年政令第四百三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第二条第二項第七号に規定する政令で定める業務は、次に掲げる業務（第一号に掲げる業務にあっては、イラクが同号に規定する査察その他の検証を受け入れ、又は受け入れる旨を表明する前に同国内において行われるものを除く。）とする。"
+        },
+        "referred": {
+            "lawNum": "平成七年法律第百二十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "2",
+                "item": "7"
+            },
+            "text": "前各号に掲げる業務に準ずるものとして政令で定める業務"
+        },
+        "match": "政令で定める業務"
+    }
+]

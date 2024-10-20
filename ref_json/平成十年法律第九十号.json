@@ -1,0 +1,94 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十年政令第二百三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "投資事業有限責任組合契約に関する法律（平成十年法律第九十号。以下「法」という。）第二条第一項の政令で定める者は、外国法人のうち、次の各号に掲げる者のいずれかに該当する者とする。"
+        },
+        "referred": {
+            "lawNum": "平成十年法律第九十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律において「事業者」とは、法人（外国法人（本邦法人又は本邦人がその経営を実質的に支配し、又は経営に重要な影響を及ぼすものとして政令で定める者を除く。次条第一項第十一号において同じ。）を除く。）及び事業を行う個人をいう。"
+        },
+        "match": "政令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年政令第二百三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三条第一項第三号の事業者の資金調達に資するものとして政令で定める有価証券は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十年法律第九十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "金融商品取引法（昭和二十三年法律第二十五号）第二条第一項各号（第九号及び第十四号を除く。）に掲げる有価証券（同項第一号から第八号まで、第十号から第十三号まで及び第十五号から第二十一号までに掲げる有価証券に表示されるべき権利であって同条第二項の規定により有価証券とみなされるものを含む。）のうち社債その他の事業者の資金調達に資するものとして政令で定めるもの（以下「指定有価証券」という。）の取得及び保有"
+        },
+        "match": "の事業者の資金調達に資するものとして政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年政令第二百三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三条第一項第十号の政令で定める事業は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十年法律第九十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "10"
+            },
+            "text": "前各号の事業に付随する事業であって、政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年政令第二百三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三条第一項第十二号の政令で定める方法は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十年法律第九十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "12"
+            },
+            "text": "組合契約の目的を達成するため、政令で定める方法により行う業務上の余裕金の運用"
+        },
+        "match": "政令で定める方法"
+    }
+]

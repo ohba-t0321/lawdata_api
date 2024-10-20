@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十三年政令第三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農水産業協同組合の再生手続の特例等に関する法律（以下「法」という。）第二条第二項に規定する政令で定めるものは、農水産業協同組合貯金保険法施行令（昭和四十八年政令第二百一号）第二十四条に規定する貯金等とする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第九十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "この法律において「貯金等債権」とは、農水産業協同組合貯金保険法第二条第二項に規定する貯金等（政令で定めるものを除く。次項において「貯金等」という。）に係る債権をいう。"
+        },
+        "match": "政令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年政令第三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十七条に規定する政令で定めるものは、法第二十九条第一項の規定による破産手続開始の申立てとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第九十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "47",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "内閣総理大臣は、この法律による権限（政令で定めるものを除く。）を金融庁長官に委任する。"
+        },
+        "match": "政令で定めるもの"
+    }
+]

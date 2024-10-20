@@ -1,0 +1,117 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "電気通信回線による登記情報の提供に関する法律第二条第一項の政令で定める帳簿は、次に掲げる帳簿とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律において「登記情報」とは、法務大臣が指定する登記所における登記簿等（不動産の登記簿、商業登記簿その他登記記録の全部又は一部が記録されている帳簿で政令で定めるものをいう。以下この項において同じ。）であって磁気ディスク（これに準ずる方法により一定の事項を確実に記録することができる物を含む。）をもって調製されたものに記録されている情報で次に掲げるものをいう。ただし、電気通信回線を使用して提供することに適しないものとして法務省令で定めるものを除く。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年法務省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1_2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二条第一項第二号の法務省令で定めるものは、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "当該登記簿等に記録されている事項の一部についての情報で法務省令で定めるもの"
+        },
+        "match": "法務省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年法務省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第二項の法務省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "業務規程には、登記情報提供業務の実施方法、登記情報提供業務に関する料金その他の法務省令で定める事項を定めておかなければならない。"
+        },
+        "match": "の法務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年法務省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第一項の法務省令で定める正当な理由は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定法人は、第四条第一項の委託に係る契約（以下「情報提供契約」という。）の申込者が情報提供契約を締結していたことがある者である場合においてその者につき支払期限を超えてまだ支払われていない登記情報提供業務に関する料金があるとき、その他法務省令で定める正当な理由があるときを除き、情報提供契約の締結を拒絶してはならない。"
+        },
+        "match": "法務省令で定める正当な理由"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年法務省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第二項の法務省令で定める正当な理由は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定法人は、情報提供契約を締結した者が支払期限後二月以内に登記情報提供業務に関する料金を支払わなかったとき、その他法務省令で定める正当な理由があるときを除き、情報提供契約を解除してはならない。"
+        },
+        "match": "法務省令で定める正当な理由"
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和五十三年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "大規模地震対策特別措置法（以下「法」という。）第五条第二項の政令で定める事項は、地震防災対策強化地域に係る大規模な地震に関し、指定行政機関の長、地方公共団体の長その他の執行機関、指定公共機関等が共同して行う総合的な防災訓練に関する事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十三年法律第七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "地震防災基本計画は、警戒宣言が発せられた場合における国の地震防災に関する基本的方針、地震防災強化計画及び地震防災応急計画の基本となるべき事項その他政令で定める事項について定めるものとする。"
+        },
+        "match": "政令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十三年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第一項第二号の政令で定める施設等は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十三年法律第七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "避難地、避難路、消防用施設その他当該大規模な地震に関し地震防災上緊急に整備すべき施設等で政令で定めるものの整備に関する事項"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十三年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第一項第三号の政令で定める事項は、地震防災上必要な教育及び広報に関する事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十三年法律第七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "当該大規模な地震に係る防災訓練に関する事項その他当該大規模な地震に係る地震防災上重要な対策に関する事項で政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十三年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一項第二号の政令で定めるものは、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十三年法律第七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "石油類、火薬類、高圧ガスその他政令で定めるものの製造、貯蔵、処理又は取扱いを行う施設"
+        },
+        "match": "政令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十三年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第四項の政令で定める事項は、当該施設又は事業についての大規模な地震に係る防災訓練並びに地震防災上必要な教育及び広報に関する事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十三年法律第七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "地震防災応急計画は、当該施設又は事業についての地震防災応急対策に係る措置に関する事項その他政令で定める事項について定めるものとする。"
+        },
+        "match": "政令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十三年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十三条第一項及び第二項の政令で定める者は、指定地方公共機関とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十三年法律第七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "市町村長は、警戒宣言が発せられた場合において、第七条第六項又は第八条第二項の規定による送付をした者（政令で定める者を除く。）が第二十一条第二項の規定による地震防災応急対策の実施をしていないことが明らかであると認めるときは、その者に対し、直ちにその実施をすべきことを指示することができる。"
+        },
+        "match": "政令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十三年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十三条第五項の政令で定める管区海上保安本部の事務所は、その管轄区域及び所掌事務を勘案して内閣府令で定める事務所とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十三年法律第七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "都道府県知事、警察本部長又は政令で定める管区海上保安本部の事務所の長は、市町村長から要求があつたときは、前各項に規定する指示、要請又は勧告をすることができる。"
+        },
+        "match": "政令で定める管区海上保安本部の事務所"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十四年総理府令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第一項第八号の計画又は規程に準ずるものとして内閣府令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十三年法律第七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "8"
+            },
+            "text": "前各号に掲げる計画又は規程に準ずるものとして内閣府令で定めるもの"
+        },
+        "match": "計画又は規程に準ずるものとして内閣府令で定めるもの"
+    }
+]

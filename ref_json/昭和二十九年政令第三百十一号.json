@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十九年文部省令第三十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "理科教育振興法施行令（昭和二十九年政令第三百十一号）第二条第二項の規定に基づき、同条第一項に定める設備の基準について文部科学省令で定める細目は、それぞれ別表第一から別表第二十九までに定めるところによる。"
+        },
+        "referred": {
+            "lawNum": "昭和二十九年政令第三百十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の基準に関する細目は、中央教育審議会の議を経て、文部科学省令で定める。"
+        },
+        "match": "文部科学省令で定める"
+    }
+]

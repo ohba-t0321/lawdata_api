@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第二百五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "101",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "経済産業研修所は、経済産業省設置法第四条第一項第五十九号に規定する政令で定める文教研修施設とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第九十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "59"
+            },
+            "text": "政令で定める文教研修施設において、鉱山における保安に関する技術及び実務の教授並びに所掌事務に関する研修を行うこと。"
+        },
+        "match": "政令で定める文教研修施設"
+    }
+]

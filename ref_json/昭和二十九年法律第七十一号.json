@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和三十年政令第百九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十六条に規定する政令で定める手数料の額は、次の各号に掲げる区分ごとに、それぞれ当該各号に定めるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十九年法律第七十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "46",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "次に掲げる者は、実費を勘案して政令で定める額の手数料を国庫に納めなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十九年厚生省令第二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十四条第一号の厚生労働省令で定める者は、精神の機能の障害により法の規定に基づき適正にけしの栽培の業務を行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十九年法律第七十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "心身の障害によりこの法律の規定に基づき適正にけしの栽培の業務を行うことができない者として厚生労働省令で定めるもの"
+        },
+        "match": "厚生労働省令で定める"
+    }
+]

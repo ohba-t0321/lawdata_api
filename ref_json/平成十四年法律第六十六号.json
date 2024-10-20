@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十五年法務省令第十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第六条の法務省令で定める事項は、受入移送同意書に記載されている事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十四年法律第六十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "前条第一号の同意は、次の各号のいずれかに掲げる職員が確認するものとする。この場合において、当該職員は、受入受刑者をして、第十六条及び第十七条の規定に関する事項その他法務省令で定める事項を記載した書面に、当該職員の面前で、署名押印させるものとする。"
+        },
+        "match": "法務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年法務省令第十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第三十一条第一項の法務省令で定める事項は、送出移送同意書に記載されている事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十四年法律第六十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "送出受刑者は、第二十八条第一号の同意をするときは、その収容されている刑事施設の長又はその指定する職員の立会いの下に、法務省令で定める事項を記載した書面に署名押印しなければならない。"
+        },
+        "match": "法務省令で定める事項"
+    }
+]

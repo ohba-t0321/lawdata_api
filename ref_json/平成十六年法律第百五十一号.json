@@ -1,0 +1,393 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十八年政令第百八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "裁判外紛争解決手続の利用の促進に関する法律（以下「法」という。）第二条第一号ただし書の政令で定める裁判外紛争解決手続は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "民間紛争解決手続民間事業者が、紛争の当事者が和解をすることができる民事上の紛争について、紛争の当事者双方からの依頼を受け、当該紛争の当事者との間の契約に基づき、和解の仲介を行う裁判外紛争解決手続をいう。ただし、法律の規定により指定を受けた者が当該法律の規定による紛争の解決の業務として行う裁判外紛争解決手続で政令で定めるものを除く。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年政令第百八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第九号及び第十号の政令で定める使用人は、法第五条の認証の申請をした者の使用人であって、民間紛争解決手続の業務に関し法第八条第一項第二号の事務所の業務を統括する者及びこれに準ずる者として法務省令で定める者とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "9"
+            },
+            "text": "法人でその役員又は政令で定める使用人のうちに前各号のいずれかに該当する者のあるもの"
+        },
+        "match": "政令で定める使用人"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年政令第百八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第三項の政令で定める手数料の額は、申請一件につき十四万五千円とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "第五条の認証の申請をする者は、実費を勘案して政令で定める額の手数料を納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年政令第百八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十二条第四項において準用する法第八条第三項の政令で定める手数料の額は、申請一件につき六万六百円とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "第五条の認証の申請をする者は、実費を勘案して政令で定める額の手数料を納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一号の法務省令で定める者は、精神の機能の障害により民間紛争解決手続の業務を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "心身の故障により民間紛争解決手続の業務を適正に行うことができない者として法務省令で定めるもの"
+        },
+        "match": "法務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第一項第三号の法務省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "前二号に掲げるもののほか、法務省令で定める事項"
+        },
+        "match": "法務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "10"
+            },
+            "text": "法第七条第九号及び第十号に規定する政令で定める使用人（以下「重要な使用人」という。）の氏名、生年月日、本籍、住所及び職名又は呼称"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "9"
+            },
+            "text": "法人でその役員又は政令で定める使用人のうちに前各号のいずれかに該当する者のあるもの"
+        },
+        "match": "政令で定める使用人"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第二項第四号に規定する法務省令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "申請者の財産目録、貸借対照表、収支計算書又は損益計算書その他の当該申請に係る民間紛争解決手続の業務を行うのに必要な経理的基礎を有することを明らかにする書類であって法務省令で定めるもの"
+        },
+        "match": "法務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第八条第二項第五号の法務省令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "2",
+                "item": "5"
+            },
+            "text": "前各号に掲げるもののほか、法務省令で定める書類"
+        },
+        "match": "法務省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条第二項に規定する法務省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "認証紛争解決事業者は、認証紛争解決手続を利用し、又は利用しようとする者に適正な情報を提供するため、法務省令で定めるところにより、認証紛争解決事業者である旨並びにその認証紛争解決手続の業務の内容及びその実施方法に係る事項であって法務省令で定めるものを、認証紛争解決手続の業務を行う事務所において見やすいように掲示し、又はインターネットの利用その他の方法により公表しなければならない。"
+        },
+        "match": "法務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条第一項の法務省令で定める軽微な変更は、次に掲げる変更とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認証紛争解決事業者は、その認証紛争解決手続の業務の内容又はその実施方法を変更しようとするときは、法務大臣の変更の認証を受けなければならない。ただし、法務省令で定める軽微な変更については、この限りでない。"
+        },
+        "match": "法務省令で定める軽微な変更"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十二条第三項の法務省令で定める書類は、法第八条第二項各号（第二号を除く。）に掲げる書類のうち変更に係るものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の申請書には、変更後の業務の内容及びその実施方法を記載した書類その他法務省令で定める書類を添付しなければならない。"
+        },
+        "match": "法務省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十三条第一項第四号の法務省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "前三号に掲げるもののほか、法務省令で定める事項の変更"
+        },
+        "match": "法務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第十三条第二項の法務省令で定める場合は、精神の機能の障害を有する状態となり認証紛争解決手続の業務の継続が著しく困難となった場合とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "次の各号に掲げる者が心身の故障により認証紛争解決手続の業務を適正に行うことができないおそれがある場合として法務省令で定める場合に該当するに至ったときは、当該各号に定める者は、法務省令で定めるところにより、遅滞なく、その旨を法務大臣に届け出るものとする。"
+        },
+        "match": "法務省令で定める場合"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十四条第四号の法務省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "前三号に掲げるもののほか、法務省令で定める事項"
+        },
+        "match": "法務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十六条第六号に規定する法務省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "6"
+            },
+            "text": "前各号に掲げるもののほか、実施した認証紛争解決手続の内容を明らかにするため必要な事項であって法務省令で定めるもの"
+        },
+        "match": "法務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年法務省令第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十一条に規定する法務省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十六年法律第百五十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法務大臣は、認証紛争解決手続の業務に関する情報を広く国民に提供するため、法務省令で定めるところにより、認証紛争解決事業者の氏名又は名称及び住所、当該業務を行う事務所の所在地並びに当該業務の内容及びその実施方法に係る事項であって法務省令で定めるものについて、インターネットの利用その他の方法により公表することができる。"
+        },
+        "match": "法務省令で定める"
+    }
+]

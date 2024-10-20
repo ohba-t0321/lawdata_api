@@ -1,0 +1,163 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十八年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "診療放射線技師法（以下「法」という。）第二条第一項第五号の政令で定める電磁波又は粒子線は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "その他政令で定める電磁波又は粒子線"
+        },
+        "match": "政令で定める電磁波又は粒子線"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条の二第一号の政令で定める装置は、次に掲げる装置とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24_2",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "磁気共鳴画像診断装置、超音波診断装置その他の画像による診断を行うための装置であつて政令で定めるものを用いた検査（医師又は歯科医師の指示の下に行うものに限る。）を行うこと。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年厚生省令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "診療放射線技師法（昭和二十六年法律第二百二十六号。以下「法」という。）第四条第一号の厚生労働省令で定める者は、視覚、聴覚、音声機能若しくは言語機能又は精神の機能の障害により診療放射線技師の業務を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "心身の障害により診療放射線技師の業務（第二十四条の二各号に掲げる業務を含む。同条及び第二十六条第二項を除き、以下同じ。）を適正に行うことができない者として厚生労働省令で定めるもの"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年厚生省令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条の二第二号の厚生労働省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24_2",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "第二条第二項に規定する業務又は前号に規定する検査に関連する行為として厚生労働省令で定めるもの（医師又は歯科医師の具体的な指示を受けて行うものに限る。）を行うこと。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年厚生省令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十六条第二項第二号の厚生労働省令で定める検査は、胸部エックス線検査（コンピュータ断層撮影装置を用いたものを除く。）及びマンモグラフィー検査とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "2",
+                "item": "2"
+            },
+            "text": "多数の者の健康診断を一時に行う場合において、胸部エックス線検査（コンピュータ断層撮影装置を用いた検査を除く。）その他の厚生労働省令で定める検査のため百万電子ボルト未満のエネルギーを有するエックス線を照射するとき。"
+        },
+        "match": "の厚生労働省令で定める検査"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年厚生省令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十六条第二項第四号の厚生労働省令で定める装置は、超音波診断装置とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "医師又は歯科医師が診察した患者について、その医師又は歯科医師の指示を受け、出張して超音波診断装置その他の画像による診断を行うための装置であつて厚生労働省令で定めるものを用いた検査を行うとき。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年厚生省令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十八条第一項に規定する厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "診療放射線技師は、放射線の人体に対する照射をしたときは、遅滞なく厚生労働省令で定める事項を記載した照射録を作成し、その照射について指示をした医師又は歯科医師の署名を受けなければならない。"
+        },
+        "match": "厚生労働省令で定める事項"
+    }
+]

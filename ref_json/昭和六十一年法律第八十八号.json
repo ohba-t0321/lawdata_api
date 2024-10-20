@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和六十二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の国土交通省令で定める重要な財産は、次に掲げる財産とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十一年法律第八十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "会社は、国土交通省令で定める重要な財産を譲渡し、又は担保に供しようとするときは、国土交通大臣の認可を受けなければならない。"
+        },
+        "match": "国土交通省令で定める重要な財産"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "会社が日本国有鉄道改革法等施行法（昭和六十一年法律第九十三号）附則第二十三条第八項の規定により無償で譲渡する鉄道施設は、第七条の規定にかかわらず、法第八条の運輸省令で定める重要な財産には該当しないものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十一年法律第八十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "会社は、国土交通省令で定める重要な財産を譲渡し、又は担保に供しようとするときは、国土交通大臣の認可を受けなければならない。"
+        },
+        "match": "省令で定める重要な財産"
+    }
+]

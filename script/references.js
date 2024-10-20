@@ -100,8 +100,8 @@ function setregex(left_right){
         なお、「第○条」のところは「第○条の○」となるケースもあるため、それに対応している
         法律によっては第○条の○条の○…と続くことがあるが、それは対応が難しいので非対応
         */
-        const synonymRegex = new RegExp(xmlData[lawNum] + '<span class="annotation">（以下「(.*?)」という。）</span>' , 'g');
-        while ((match = synonymRegex.exec(lawTextElement.innerHTML)) !== null) {
+        const synonymRegex = new RegExp(xmlData[lawNum] + '(?:<span class="annotation">)?（以下「(.*?)」という。）(?:</span>)?' , 'g');
+        while ((match = synonymRegex.exec(lawTextElement)) !== null) {
             if (match[1]){
                 synonym[lawNum] = match[1];
             }
@@ -168,7 +168,37 @@ async function setupHover(lawTextElement, synonym, lawNum) {
     hovered = lawTextElement.querySelectorAll('.hovered');
     hovered.forEach(itm=>{
         setupLink(itm);
-    })
+    });
+}
+
+async function setupHover_reference(outputFrame) {
+    const lawTextElement = document.getElementById('law-content-' + outputFrame);
+
+    const framelawNum = document.getElementById('law-num-' + outputFrame).innerHTML.replace('(','').replace(')','')
+    const file = './ref_json/' + framelawNum + '.json';
+    fetch(file).then(response => response.json())
+        .then(data => {
+
+            data.forEach(item => {
+                referredJson = item.referred.lawArticle;
+                referredNum = referredJson.provision + '-' + referredJson.article + '-' + referredJson.paragraph + '-' + referredJson.item;
+                refJson = item.ref.lawArticle;
+                const words = item.match;
+                const lawData = `lawNum=${item.ref.lawNum} ${refJson.article!='0'?'article='+refJson.article:''}${' paragraph='+ refJson.paragraph}${refJson.item!=0?' item='+refJson.item:''}`
+                linkSentence = lawTextElement.querySelector('span.xml-Sentence[data-item="'+ referredNum +'"]')
+                console.log('読み込み中...:' + linkSentence.innerHTML + "("+ words +")")
+                if (linkSentence){
+                    linkSentence.innerHTML = linkSentence.innerHTML.replace(words, `<span class="hovered" ${lawData}>${words}</span>`);
+
+                };
+                hovered = linkSentence.querySelectorAll('.hovered');
+                hovered.forEach(itm=>{
+                    setupLink(itm);
+                });
+            });
+        })
+        .catch(error => console.error('データの読み込みに失敗しました:', error))
+
 }
 
 function setupLink(itm) {
@@ -176,10 +206,10 @@ function setupLink(itm) {
     itm.addEventListener('click', async (event) => {
         frameContent.style.opacity = 1;
         frameContent.style.zIndex = 99;
-        let lawArticleParagraph = itm.innerHTML
-        // 参照する条文の中に（元号○○年法律/政令/...第○号）や（元号○○年法律/政令/...第○号。以下「○○法」という。）があれば除去する
-        const removeregex = /（((?:令和|平成|昭和|大正|明治)[一二三四五六七八九十]+年(?:法律|政令|省令|内閣府令)第[一二三四五六七八九十百千万]+号)?。?(?:以下「(.*?)」という。)?）/g;
-        lawArticleParagraph = lawArticleParagraph.replaceAll(removeregex,'')
+        // let lawArticleParagraph = itm.innerHTML
+        // // 参照する条文の中に（元号○○年法律/政令/...第○号）や（元号○○年法律/政令/...第○号。以下「○○法」という。）があれば除去する
+        // const removeregex = /（((?:令和|平成|昭和|大正|明治)[一二三四五六七八九十]+年(?:法律|政令|省令|内閣府令)第[一二三四五六七八九十百千万]+号)?。?(?:以下「(.*?)」という。)?）/g;
+        // lawArticleParagraph = lawArticleParagraph.replaceAll(removeregex,'')
         const lawNum = itm.getAttribute('lawNum')
         const lawArticleNum = itm.getAttribute('article')
         const lawParagraphNum = itm.getAttribute('paragraph')
@@ -193,12 +223,12 @@ function setupLink(itm) {
         .then(response => response.text())
         .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
         .then(data => {
-            lawTitle.innerHTML = lawArticleParagraph;
-            // 第○項の部分は不要（記載している）ので削除する
-            paragraphNums = data.querySelectorAll('ParagraphNum')
-            paragraphNums.forEach(paragraphNum=>{
-                paragraphNum.remove();
-            });
+            lawTitle.innerHTML = xmlData[lawNum] + ' ' + convertToArticleFormat(lawArticleNum);
+            // // 第○項の部分は不要（記載している）ので削除する→政令等を見に行く場合はわからないことがあるのでそのまま残すことにする
+            // paragraphNums = data.querySelectorAll('ParagraphNum')
+            // paragraphNums.forEach(paragraphNum=>{
+            //     paragraphNum.remove();
+            // });
             // 第○条の部分やキャプションは不要なので削除する
             captions = data.querySelectorAll('ArticleCaption')
             captions.forEach(caption=>{
@@ -215,3 +245,17 @@ function setupLink(itm) {
         })
     });
 };
+function convertToArticleFormat(input) {
+    // アンダースコアで分割して配列にする
+    const parts = input.split('_');
+
+    // 最初の部分を「第◯条」に変換
+    let result = `第${parts[0]}条`;
+
+    // 残りの部分があれば「の◯」を追加
+    for (let i = 1; i < parts.length; i++) {
+        result += `の${parts[i]}`;
+    }
+
+    return result;
+}

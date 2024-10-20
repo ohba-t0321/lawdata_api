@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十七年経済産業省令第二十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第一条第一号の経済産業省令で定めるエアコンディショナーは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十三年政令第三百九十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "エアコンディショナー（特定製品以外のものであって、室内ユニット及び室外ユニットが一体的に、かつ、壁を貫通して設置されるものその他経済産業省令で定めるものを除く。）"
+        },
+        "match": "経済産業省令で定める"
+    }
+]

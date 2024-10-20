@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成四年総理府令第四十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "令第五条第二項の内閣府令で定める被服は、別表第二のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成四年政令第二百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "国際連合平和維持活動として実施される法第三条第五号リに掲げる業務に係る国際平和協力業務に従事する隊員は、当該業務に従事する間、記章のほか、内閣府令で定める被服を着用しなければならない。"
+        },
+        "match": "内閣府令で定める被服"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年総理府令第四十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十条第四項の内閣府令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成四年政令第二百六十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "管理責任者は、帳簿を備え付けてこれに小型武器の貸与及び返納の日時、貸与された小型武器の種類及び規格その他内閣府令で定める事項を記録し、かつ、その帳簿を保存しなければならない。"
+        },
+        "match": "内閣府令で定める事項"
+    }
+]

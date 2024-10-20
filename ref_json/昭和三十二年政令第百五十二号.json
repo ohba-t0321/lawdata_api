@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十三年厚生省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第五条第二号の厚生労働省令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年政令第百五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "体温その他の健康状態その他厚生労働省令で定める事項の確認の求めに応じること。"
+        },
+        "match": "厚生労働省令で定める事項"
+    }
+]

@@ -1,0 +1,278 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "整備法第百三条第二項第三号の内閣府令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "103",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "前二号に掲げるもののほか、内閣府令で定める書類"
+        },
+        "match": "内閣府令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "整備法第百十九条第二項第一号ハに規定する内閣府令で定める支出は、特例民法法人が整備法第四十五条の認可を受けた後も継続して行う不特定かつ多数の者の利益の増進に寄与する目的に関する事業のための支出（同号イに掲げるものを除く。）とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "119",
+                "paragraph": "2",
+                "item": "1"
+            },
+            "text": "公益の目的のための次に掲げる支出公益目的事業のための支出公益法人認定法第五条第十七号に規定する者に対する寄附第四十五条の認可を受けた後も継続して行う不特定かつ多数の者の利益の増進に寄与する目的に関する事業のための支出（イに掲げるものを除く。）その他の内閣府令で定める支出"
+        },
+        "match": "内閣府令で定める支出"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "整備法第百十九条第一項に規定する内閣府令で定める額は、零とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "119",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第四十五条の認可を受けようとする特例民法法人は、当該認可を受けたときに解散するものとした場合において旧民法第七十二条の規定によれば当該特例民法法人の目的に類似する目的のために処分し、又は国庫に帰属すべきものとされる残余財産の額に相当するものとして当該特例民法法人の貸借対照表上の純資産額を基礎として内閣府令で定めるところにより算定した額が内閣府令で定める額を超える場合には、内閣府令で定めるところにより、当該算定した額（以下この款において「公益目的財産額」という。）に相当する金額を公益の目的のために支出することにより零とするための計画（以下この款において「公益目的支出計画」という。）を作成しなければならない。"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "整備法第百十九条第二項第三号に規定する内閣府令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "119",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "前号に掲げるもののほか、第一号の支出を確保するために必要な事項として内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "29",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "整備法第百二十条第二項第三号の内閣府令で定める書類は、次に掲げる事項を記載した書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "120",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "公益目的財産額及びその計算を記載した内閣府令で定める書類"
+        },
+        "match": "内閣府令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "整備法第百二十条第二項第四号の内閣府令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "120",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "財産目録、貸借対照表その他の認可申請法人の財務内容を示す書類として内閣府令で定めるもの"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "整備法第百二十条第二項第六号の内閣府令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "120",
+                "paragraph": "2",
+                "item": "6"
+            },
+            "text": "前各号に掲げるもののほか、内閣府令で定める書類"
+        },
+        "match": "内閣府令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "32",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "整備法第百二十条第三項に規定する内閣府令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "120",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の規定にかかわらず、第四十五条の認可の申請が第百十六条第一項の規定によりされたものである場合には、第一項の申請書には、内閣府令で定める書類の添付を省略することができる。"
+        },
+        "match": "内閣府令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "35",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "整備法第百二十五条第一項の内閣府令で定める軽微な変更は、次に掲げる変更とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "125",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "移行法人は、公益目的支出計画の変更（内閣府令で定める軽微な変更を除く。）をしようとするときは、内閣府令で定めるところにより、認可行政庁の認可を受けなければならない。"
+        },
+        "match": "内閣府令で定める軽微な変更"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "38",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "整備法第百二十六条第二項第二号の内閣府令で定める書類は、次の各号に掲げる移行法人の区分に応じ、当該各号に定める書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "126",
+                "paragraph": "2",
+                "item": "2"
+            },
+            "text": "合併をする移行法人の最終事業年度（一般社団法人である移行法人にあっては一般社団・財団法人法第二条第二号に規定する最終事業年度をいい、一般財団法人である移行法人にあっては同条第三号に規定する最終事業年度をいう。次号において同じ。）に係る貸借対照表その他の財務内容を示す書類として内閣府令で定めるもの"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "38",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "整備法第百二十六条第二項第四号の内閣府令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "126",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "前三号に掲げるもののほか、内閣府令で定める書類"
+        },
+        "match": "内閣府令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年内閣府令第六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "46",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "整備法第百二十七条第六項第二号の内閣府令で定める方法は、当該電磁的記録に記録された事項を紙面又は出力装置の映像面に表示する方法とする。"
+        },
+        "referred": {
+            "lawNum": "平成十八年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "127",
+                "paragraph": "6",
+                "item": "2"
+            },
+            "text": "公益目的支出計画実施報告書が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を内閣府令で定める方法により表示したものの閲覧の請求"
+        },
+        "match": "内閣府令で定める方法"
+    }
+]

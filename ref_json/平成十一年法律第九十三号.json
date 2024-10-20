@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第二百四十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "60",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法務総合研究所及び矯正研修所は、法務省設置法第四条第一項第三十七号に規定する政令で定める文教研修施設とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第九十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "37"
+            },
+            "text": "政令で定める文教研修施設において所掌事務に関する研修を行うこと。"
+        },
+        "match": "政令で定める文教研修施設"
+    }
+]

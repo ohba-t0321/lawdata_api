@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十五年国土交通省令第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第三条第三号の国土交通省令で定める速度は、最高速度百三十キロメートル毎時とする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年政令第二百九十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "新幹線鉄道の列車が国土交通省令で定める速度以上の速度で走行することができる構造とするための軌間の変更、軌道及び路盤の強化その他の本線路の改良"
+        },
+        "match": "国土交通省令で定める速度"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年国土交通省令第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "令第三条第四号の国土交通省令で定める速度は、最高速度百三十キロメートル毎時とする。"
+        },
+        "referred": {
+            "lawNum": "平成十五年政令第二百九十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "列車（新幹線鉄道の列車を除く。）が国土交通省令で定める速度以上の速度で走行することができる構造とするための軌道及び路盤の強化その他の本線路の改良（第六号に掲げるものを除く。）"
+        },
+        "match": "国土交通省令で定める速度"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十五年厚生省令第三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3_5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条の七第二項の厚生労働省令で定める要件は、次の各号のいずれかに該当する者であることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年法律第二百七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7_7",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定試験機関は、試験委員を選任しようとするときは、厚生労働省令で定める要件を備える者のうちから選任しなければならない。"
+        },
+        "match": "厚生労働省令で定める要件"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十五年厚生省令第三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3_10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条の十一の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年法律第二百七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7_11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定試験機関は、厚生労働省令で定めるところにより、試験事務に関する事項で厚生労働省令で定めるものを記載した帳簿を備え、これを保存しなければならない。"
+        },
+        "match": "厚生労働省令で定める"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十六年政令第三百七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "個別労働関係紛争の解決の促進に関する法律第七条第一項の政令で定める人数は、三十六人とする。"
+        },
+        "referred": {
+            "lawNum": "平成十三年法律第百十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "委員会は、三人以上政令で定める人数以内の委員をもって組織する。"
+        },
+        "match": "政令で定める人数"
+    }
+]

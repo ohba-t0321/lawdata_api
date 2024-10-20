@@ -1,0 +1,163 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十二年経済産業省令第四十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条第一項第一号の経済産業省令で定める基準は、基本財産又は資本金の額が千万円以上であることとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十二年法律第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "需要開拓支援業務を的確に実施するために必要と認められる経済産業省令で定める基準に適合する財産的基礎を有し、かつ、需要開拓支援業務に係る収支の見込みが適正であること。"
+        },
+        "match": "経済産業省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十二年経済産業省令第四十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十二条第二項の経済産業省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十二年法律第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "需要開拓支援業務の実施の方法その他の業務規程で定めるべき事項は、経済産業省令で定める。"
+        },
+        "match": "経済産業省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十二年経済産業省令第四十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十六条の経済産業省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十二年法律第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "需要開拓支援法人は、経済産業省令で定めるところにより、需要開拓支援業務に関する事項で経済産業省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。"
+        },
+        "match": "経済産業省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十二年財務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第三項の主務省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十二年法律第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "業務規程には、特定事業促進業務の実施体制及び実施方法に関する事項その他の主務省令で定める事項を定めなければならない。"
+        },
+        "match": "の主務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十二年財務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第四項第三号イの主務省令で定める者は、精神の機能の障害のため役員の職務を適正に執行するに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十二年法律第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "4",
+                "item": "3"
+            },
+            "text": "法人であって、その業務を行う役員のうちに、次のいずれかに該当する者がある者心身の故障のため職務を適正に執行することができない者として主務省令で定める者破産手続開始の決定を受けて復権を得ない者指定金融機関が第十五条第一項の規定により指定を取り消された場合において、当該指定の取消しに係る聴聞の期日及び場所の公示の日前六十日以内にその指定金融機関の役員であった者で当該指定の取消しの日から起算して五年を経過しないもの"
+        },
+        "match": "主務省令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十二年財務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条第一項第三号の主務省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十二年法律第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "前二号に掲げるもののほか、指定金融機関が行う特定事業促進業務及び公庫が行う特定事業促進円滑化業務の内容及び方法その他の主務省令で定める事項"
+        },
+        "match": "の主務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十二年財務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条の主務省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十二年法律第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定金融機関は、特定事業促進業務について、主務省令で定めるところにより、帳簿を備え、主務省令で定める事項を記載し、これを保存しなければならない。"
+        },
+        "match": "主務省令で定める"
+    }
+]

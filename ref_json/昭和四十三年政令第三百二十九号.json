@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和四十六年厚生省・通商産業省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第六条第二項の環境省令で定める数値の算定は、いおう酸化物については第一号から第三号まで、ばいじんについては第四号に掲げるところによる。"
+        },
+        "referred": {
+            "lawNum": "昭和四十三年政令第三百二十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "一時間値、一時間値の一日平均値その他の前項に規定する数値の算定に関し必要な事項は、環境省令で定める。"
+        },
+        "match": "環境省令で定める"
+    }
+]

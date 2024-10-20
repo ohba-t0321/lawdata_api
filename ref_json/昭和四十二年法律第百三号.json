@@ -1,0 +1,186 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十二年総理府・建設省令第八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第三項第三号の国土交通省令で定める基準は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "3",
+                "item": "3"
+            },
+            "text": "第一項各号に掲げる事項について国土交通省令で定める基準に適合するものであること。"
+        },
+        "match": "国土交通省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十三年政令第九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "近畿圏の保全区域の整備に関する法律（以下「法」という。）第四条第一項の政令で定める施設は、次に掲げる施設とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "保全区域整備計画には、文化財の保存、緑地の保全又は観光資源の保全若しくは開発に関連して必要とされる道路、公園その他の政令で定める施設の整備に関する事項を定めるものとする。"
+        },
+        "match": "の政令で定める施設"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十三年政令第九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第一項第四号の政令で定める行為は、次に掲げる行為とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "前三号に掲げるもののほか、当該近郊緑地の保全に影響を及ぼすおそれのある行為で政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十三年政令第九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第四項第一号の政令で定める行為は、第一条第一号に掲げる施設及びこれに類する施設のうち近郊緑地保全区域又は近郊緑地特別保全地区内の近郊緑地の保全に関連して必要とされる施設について行う行為とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "4",
+                "item": "1"
+            },
+            "text": "保全区域整備計画に基づいて行う行為で政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十三年政令第九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第四項第三号の政令で定める行為は、次に掲げる行為とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "4",
+                "item": "3"
+            },
+            "text": "通常の管理行為、軽易な行為その他の行為で政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十三年政令第九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第四項第六号の政令で定める行為は、次に掲げる行為とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "4",
+                "item": "6"
+            },
+            "text": "前各号に掲げるもののほか、公益性が特に高いと認められる事業の実施に係る行為のうち当該近郊緑地の保全上著しい支障を及ぼすおそれがないと認められるものであつて、政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "9",
+                "item": "5"
+            },
+            "text": "近畿圏保全法第八条第四項第一号の政令で定める行為に該当する行為"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "4",
+                "item": "1"
+            },
+            "text": "保全区域整備計画に基づいて行う行為で政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "9",
+                "item": "2"
+            },
+            "text": "近畿圏保全法第八条第四項第一号の政令で定める行為に該当する行為"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "4",
+                "item": "1"
+            },
+            "text": "保全区域整備計画に基づいて行う行為で政令で定めるもの"
+        },
+        "match": "政令で定める"
+    }
+]

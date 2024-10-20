@@ -1,0 +1,1428 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "平成一六年一一月二五日法律第一四一号",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "一　この法律による改正前の住宅の品質確保の促進等に関する法律（以下「旧法」という。）第七条第二項の国土交通省令で定める区分に係る旧法第五条第一項の指定"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請は、国土交通省令で定めるところにより、評価の業務を行おうとする住宅の種類及び規模に応じ、次に掲げる住宅の種別ごとに国土交通省令で定める区分に従って行わなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年法律第六十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の住宅建設瑕疵担保保証金の額は、当該基準日における同項の新築住宅（当該建設業者が第十七条第一項に規定する住宅瑕疵担保責任保険法人（以下この章及び次章において単に「住宅瑕疵担保責任保険法人」という。）と住宅建設瑕疵担保責任保険契約を締結し、当該発注者に、保険証券又はこれに代わるべき書面を交付し、又はこれらに記載すべき事項を記録した電磁的記録（電磁的方式（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式をいう。）で作られる記録をいう。第十一条第二項において同じ。）を提供した場合における当該住宅建設瑕疵担保責任保険契約に係る新築住宅を除く。以下この条において「建設新築住宅」という。）の合計戸数の別表の上欄に掲げる区分に応じ、それぞれ同表の下欄に掲げる金額の範囲内で、建設新築住宅の合計戸数を基礎として、新築住宅に住宅品質確保法第九十四条第一項に規定する瑕疵があった場合に生ずる損害の状況を勘案して政令で定めるところにより算定する額（以下この章において「基準額」という。）以上の額とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "94",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "住宅を新築する建設工事の請負契約（以下「住宅新築請負契約」という。）においては、請負人は、注文者に引き渡した時から十年間、住宅のうち構造耐力上主要な部分又は雨水の浸入を防止する部分として政令で定めるもの（次条において「住宅の構造耐力上主要な部分等」という。）の瑕疵かし（構造耐力又は雨水の浸入に影響のないものを除く。次条において同じ。）について、民法（明治二十九年法律第八十九号）第四百十五条、第五百四十一条及び第五百四十二条並びに同法第五百五十九条において準用する同法第五百六十二条及び第五百六十三条に規定する担保の責任を負う。"
+        },
+        "match": "して政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "住宅の品質確保の促進等に関する法律（以下「法」という。）第五条第一項の国土交通省令・内閣府令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第七条から第十条までの規定の定めるところにより国土交通大臣の登録を受けた者（以下「登録住宅性能評価機関」という。）は、申請により、住宅性能評価（設計された住宅又は建設された住宅について、日本住宅性能表示基準に従って表示すべき性能に関し、評価方法基準（第五十八条第一項の特別評価方法認定を受けた方法を用いる場合における当該方法を含む。第三十一条第一項において同じ。）に従って評価することをいう。以下同じ。）を行い、国土交通省令・内閣府令で定める事項を記載し、国土交通省令・内閣府令で定める標章を付した評価書（以下「住宅性能評価書」という。）を交付することができる。"
+        },
+        "match": "国土交通省令・内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第一項の国土交通省令・内閣府令で定める標章で設計住宅性能評価書に係るものは、別記第一号様式に定める標章とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第七条から第十条までの規定の定めるところにより国土交通大臣の登録を受けた者（以下「登録住宅性能評価機関」という。）は、申請により、住宅性能評価（設計された住宅又は建設された住宅について、日本住宅性能表示基準に従って表示すべき性能に関し、評価方法基準（第五十八条第一項の特別評価方法認定を受けた方法を用いる場合における当該方法を含む。第三十一条第一項において同じ。）に従って評価することをいう。以下同じ。）を行い、国土交通省令・内閣府令で定める事項を記載し、国土交通省令・内閣府令で定める標章を付した評価書（以下「住宅性能評価書」という。）を交付することができる。"
+        },
+        "match": "国土交通省令・内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第五条第一項の国土交通省令・内閣府令で定める標章で建設住宅性能評価書に係るものは、住宅性能評価を行った住宅が新築住宅である場合にあっては別記第二号様式に、既存住宅である場合にあっては別記第三号様式に定める標章とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第七条から第十条までの規定の定めるところにより国土交通大臣の登録を受けた者（以下「登録住宅性能評価機関」という。）は、申請により、住宅性能評価（設計された住宅又は建設された住宅について、日本住宅性能表示基準に従って表示すべき性能に関し、評価方法基準（第五十八条第一項の特別評価方法認定を受けた方法を用いる場合における当該方法を含む。第三十一条第一項において同じ。）に従って評価することをいう。以下同じ。）を行い、国土交通省令・内閣府令で定める事項を記載し、国土交通省令・内閣府令で定める標章を付した評価書（以下「住宅性能評価書」という。）を交付することができる。"
+        },
+        "match": "国土交通省令・内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第二項の国土交通省令で定める区分は、同項各号に掲げる住宅の種別ごとにそれぞれ次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請は、国土交通省令で定めるところにより、評価の業務を行おうとする住宅の種類及び規模に応じ、次に掲げる住宅の種別ごとに国土交通省令で定める区分に従って行わなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第五号の国土交通省令で定める者は、精神の機能の障害により評価の業務を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "心身の故障により評価の業務を適正に行うことができない者として国土交通省令で定めるもの"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第二項第六号の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "6"
+            },
+            "text": "前各号に掲げるもののほか、国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十条第一項の国土交通省令で定める事項は、前条各号に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国土交通大臣は、登録をしたときは、前条第二項第二号から第五号までに掲げる事項その他国土交通省令で定める事項を公示しなければならない。"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条第二項の国土交通省令で定める基準は、次に掲げるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、公正に、かつ、国土交通省令で定める基準に適合する方法により評価の業務を行わなければならない。"
+        },
+        "match": "国土交通省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第十六条第二項の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "評価業務規程には、評価の業務の実施の方法、評価の業務に関する料金その他の国土交通省令で定める事項を定めておかなければならない。"
+        },
+        "match": "の国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十七条の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、国土交通省令で定めるところにより、登録の区分その他国土交通省令で定める事項について、その事務所において公衆に見やすいように掲示するとともに、電気通信回線に接続して行う自動公衆送信（公衆によって直接受信されることを目的として公衆からの求めに応じ自動的に送信を行うことをいい、放送又は有線放送に該当するものを除く。第六十六条第四項において同じ。）により公衆の閲覧に供しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条第二項第三号の国土交通省令で定める方法は、当該電磁的記録に記録された事項を紙面又は出力装置の映像面に表示する方法とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "財務諸表等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を国土交通省令で定める方法により表示したものの閲覧又は謄写の請求"
+        },
+        "match": "国土交通省令で定める方法"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条第二項第四号の国土交通省令で定める電磁的方法は、次に掲げるもののうち、登録住宅性能評価機関が定めるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "前号の電磁的記録に記録された事項を電磁的方法であって国土交通省令で定めるものにより提供することの請求又は当該事項を記載した書面の交付の請求"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十九条第一項の評価の業務に関する事項で国土交通省令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、国土交通省令で定めるところにより、評価の業務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十九条第二項の評価の業務に関する書類で国土交通省令で定めるものは、次の各号に掲げる区分に応じ、当該各号に定めるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項に定めるもののほか、登録住宅性能評価機関は、国土交通省令で定めるところにより、評価の業務に関する書類で国土交通省令で定めるものを保存しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十六条第三号の国土交通省令で定める者は、精神の機能の障害により講習の業務を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "心身の故障により講習の業務を適正に行うことができない者として国土交通省令で定めるもの"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十七条第二項第四号の国土交通省令で定める事項は、役員の氏名（登録講習機関が法人である場合に限る。）とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "前三号に掲げるもののほか、国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第二項において準用する法第十条第一項の国土交通省令で定める事項は、前条に規定する事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国土交通大臣は、登録をしたときは、前条第二項第二号から第五号までに掲げる事項その他国土交通省令で定める事項を公示しなければならない。"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第二項において準用する法第十五条第二項の国土交通省令で定める基準は、次に掲げるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、公正に、かつ、国土交通省令で定める基準に適合する方法により評価の業務を行わなければならない。"
+        },
+        "match": "国土交通省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第二十五条第二項において準用する法第十六条第二項の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "評価業務規程には、評価の業務の実施の方法、評価の業務に関する料金その他の国土交通省令で定める事項を定めておかなければならない。"
+        },
+        "match": "の国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "32",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第二項において準用する法第十八条第二項第三号の国土交通省令で定める方法は、当該電磁的記録に記録された事項を紙面又は出力装置の映像面に表示する方法とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "財務諸表等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を国土交通省令で定める方法により表示したものの閲覧又は謄写の請求"
+        },
+        "match": "国土交通省令で定める方法"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第二項において準用する法第十八条第二項第四号の国土交通省令で定める電磁的方法は、次に掲げるもののうち、登録講習機関が定めるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "前号の電磁的記録に記録された事項を電磁的方法であって国土交通省令で定めるものにより提供することの請求又は当該事項を記載した書面の交付の請求"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "34",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第二項において準用する法第十九条第一項の講習の業務に関する事項で国土交通省令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、国土交通省令で定めるところにより、評価の業務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十条の国土交通省令で定める手数料の額は、九万九千六百円とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "前条第一項の規定により国土交通大臣が行う講習を受けようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を国に納めなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "44",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十三条第二項の国土交通省令で定める申請書に記載すべき事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請をしようとする者は、国土交通省令で定めるところにより、国土交通省令で定める事項を記載した申請書を提出して、これを行わなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "50",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十八条第一項の国土交通省令で定める場合は、次に掲げる場合とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "38",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認証型式住宅部分等製造者は、その認証に係る型式住宅部分等の製造をするときは、当該型式住宅部分等がその認証に係る型式に適合するようにしなければならない。ただし、本邦において外国に輸出するため当該型式住宅部分等の製造をする場合、試験的に当該型式住宅部分等の製造をする場合その他の国土交通省令で定める場合は、この限りでない。"
+        },
+        "match": "の国土交通省令で定める場合は、"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "52",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十九条第一項の国土交通省令で定める方式による特別な標章は、別記第四十六号様式に定める標章とし、認証型式住宅部分等製造者がその認証に係る型式住宅部分等の見やすい箇所に付するものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認証型式住宅部分等製造者は、その認証に係る型式住宅部分等の製造をしたときは、これに当該型式住宅部分等が認証型式住宅部分等製造者が製造をした型式住宅部分等であることを示す国土交通省令で定める方式による特別な標章を付することができる。ただし、第四十三条第一項又は第二項の規定により、その標章を付することを禁止されたときは、この限りでない。"
+        },
+        "match": "国土交通省令で定める方式による特別な標章"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "58_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十五条第三号の国土交通省令で定める者は、精神の機能の障害により認定等の業務を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "45",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "心身の故障により認定等の業務を適正に行うことができない者として国土交通省令で定めるもの"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "59",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十六条第二項第六号の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "46",
+                "paragraph": "2",
+                "item": "6"
+            },
+            "text": "前各号に掲げるもののほか、国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "60",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十四条第三項において準用する法第十条第一項の国土交通省令で定める事項は、前条各号に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国土交通大臣は、登録をしたときは、前条第二項第二号から第五号までに掲げる事項その他国土交通省令で定める事項を公示しなければならない。"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "64",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十四条第三項において準用する法第十五条第二項の国土交通省令で定める基準は、次に掲げるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、公正に、かつ、国土交通省令で定める基準に適合する方法により評価の業務を行わなければならない。"
+        },
+        "match": "国土交通省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "65",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十四条第三項において準用する法第十八条第二項第三号の国土交通省令で定める方法は、当該電磁的記録に記録された事項を紙面又は出力装置の映像面に表示する方法とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "財務諸表等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を国土交通省令で定める方法により表示したものの閲覧又は謄写の請求"
+        },
+        "match": "国土交通省令で定める方法"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "66",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十四条第三項において準用する法第十八条第二項第四号の国土交通省令で定める電磁的方法は、次に掲げるもののうち、登録住宅型式性能認定等機関が定めるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "前号の電磁的記録に記録された事項を電磁的方法であって国土交通省令で定めるものにより提供することの請求又は当該事項を記載した書面の交付の請求"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "67",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十四条第三項において準用する法第十九条第一項の認定等の業務に関する事項で国土交通省令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、国土交通省令で定めるところにより、評価の業務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "68",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十四条第三項において準用する法第十九条第二項の認定等の業務に関する書類で国土交通省令で定めるものは、次の各号に掲げる認定等の業務の区分に応じ、それぞれ当該各号に定めるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項に定めるもののほか、登録住宅性能評価機関は、国土交通省令で定めるところにより、評価の業務に関する書類で国土交通省令で定めるものを保存しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "70",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第四十九条第二項の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "49",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "認定等業務規程には、認定等の業務の実施の方法、認定等の業務に関する料金その他の国土交通省令で定める事項を定めておかなければならない。"
+        },
+        "match": "の国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "77",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五十七条の国土交通省令で定める手数料の額は、次の各号に掲げる認定等の区分に応じ、それぞれ当該各号に定める額とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "57",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "前条第一項の規定により国土交通大臣が行う認定等の申請をしようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を国に納めなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "79",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五十八条第二項の国土交通省令で定める申請書に記載すべき事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "58",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請をしようとする者は、国土交通省令で定めるところにより、国土交通省令で定める事項を記載した申請書を提出して、これを行わなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "81",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第六十条の国土交通省令で定める手数料の額は、申請一件につき二万円とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "60",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "特別評価方法認定の申請をしようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を国に納めなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "84_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十二条第三号の国土交通省令で定める者は、精神の機能の障害により試験の業務を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "62",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "心身の故障により試験の業務を適正に行うことができない者として国土交通省令で定めるもの"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "85",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十三条第二項第六号の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "63",
+                "paragraph": "2",
+                "item": "6"
+            },
+            "text": "前各号に掲げるもののほか、国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "86",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十一条第三項において準用する法第十条第一項の国土交通省令で定める事項は、前条各号に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国土交通大臣は、登録をしたときは、前条第二項第二号から第五号までに掲げる事項その他国土交通省令で定める事項を公示しなければならない。"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "90",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十一条第三項において準用する法第十五条第二項の国土交通省令で定める基準は、次に掲げるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、公正に、かつ、国土交通省令で定める基準に適合する方法により評価の業務を行わなければならない。"
+        },
+        "match": "国土交通省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "91",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十一条第三項において準用する法第十八条第二項第三号の国土交通省令で定める方法は、当該電磁的記録に記録された事項を紙面又は出力装置の映像面に表示する方法とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "財務諸表等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を国土交通省令で定める方法により表示したものの閲覧又は謄写の請求"
+        },
+        "match": "国土交通省令で定める方法"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "92",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十一条第三項において準用する法第十八条第二項第四号の国土交通省令で定める電磁的方法は、次に掲げるもののうち、登録試験機関が定めるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "前号の電磁的記録に記録された事項を電磁的方法であって国土交通省令で定めるものにより提供することの請求又は当該事項を記載した書面の交付の請求"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "93",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十一条第三項において準用する法第十九条第一項の試験の業務に関する事項で国土交通省令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、国土交通省令で定めるところにより、評価の業務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "94",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十一条第三項において準用する法第十九条第二項の試験の業務に関する書類で国土交通省令で定めるものは、第八十二条第一項各号に掲げる図書及び証明書の写しその他の審査の結果を記載した書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項に定めるもののほか、登録住宅性能評価機関は、国土交通省令で定めるところにより、評価の業務に関する書類で国土交通省令で定めるものを保存しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "96",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第六十一条第三項において準用する法第四十九条第二項の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "49",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "認定等業務規程には、認定等の業務の実施の方法、認定等の業務に関する料金その他の国土交通省令で定める事項を定めておかなければならない。"
+        },
+        "match": "の国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "99",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十一条第三項において準用する法第五十七条の国土交通省令で定める手数料の額は、申請一件につき、次の表の（い）欄に掲げる試験の区分に応じ、（ろ）欄及び（は）欄に掲げる額の合計額を加算した額とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "57",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "前条第一項の規定により国土交通大臣が行う認定等の申請をしようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を国に納めなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "113",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十八条第一項の国土交通省令で定める数は、十人とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "68",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定住宅紛争処理機関は、人格が高潔で識見の高い者のうちから、国土交通省令で定める数以上の紛争処理委員を選任しなければならない。"
+        },
+        "match": "国土交通省令で定める数"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "114",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第七十三条第一項の国土交通省令で定める額は、一万円とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "73",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "住宅紛争処理の申請をする者は、国土交通省令で定めるところにより、実費を超えない範囲内において国土交通省令で定める額の申請手数料を指定住宅紛争処理機関に納めなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "117",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八十四条第二項の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "84",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "支援等業務規程には、支援等の業務の実施の方法その他の国土交通省令で定める事項を定めておかなければならない。"
+        },
+        "match": "の国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "118",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八十二条第三項において準用する法第十九条第一項の支援等の業務に関する事項で国土交通省令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "登録住宅性能評価機関は、国土交通省令で定めるところにより、評価の業務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年建設省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "119",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八十二条第三項において準用する法第十九条第二項の支援等の業務に関する書類（以下この条において単に「書類」という。）で国土交通省令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項に定めるもののほか、登録住宅性能評価機関は、国土交通省令で定めるところにより、評価の業務に関する書類で国土交通省令で定めるものを保存しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "住宅の品質確保の促進等に関する法律（以下「法」という。）第十一条第一項（法第二十五条第二項、第四十四条第三項又は第六十一条第三項において準用する場合を含む。）の政令で定める期間は、五年とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "登録は、五年以上十年以内において政令で定める期間ごとにその更新を受けなければ、その期間の経過によって、その効力を失う。"
+        },
+        "match": "政令で定める期間"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十六条第一項の政令で定める期間は、五年とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "36",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第三十三条第一項の認証は、五年以上十年以内において政令で定める期間ごとにその更新を受けなければ、その期間の経過によって、その効力を失う。"
+        },
+        "match": "政令で定める期間"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十三条第四項の政令で定める費用は、同項の検査のため法第四十二条第一項の職員がその検査に係る工場、営業所、事務所、倉庫その他の事業場の所在地に出張をするのに要する旅費の額に相当するものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "43",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "前条第一項の規定による認証外国型式住宅部分等製造者に対する検査に要する費用（政令で定めるものに限る。）は、当該認証外国型式住宅部分等製造者の負担とする。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五十五条第五項及び第六十五条第五項の政令で定める費用は、法第五十五条第五項又は第六十五条第五項の検査のため法第四十四条第三項又は第六十一条第三項において準用する法第二十二条第一項の職員がその検査に係る事務所の所在地に出張をするのに要する旅費の額に相当するものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "55",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "第四十四条第三項において準用する第二十二条第一項の規定による登録外国住宅型式性能認定等機関に対する検査に要する費用（政令で定めるものに限る。）は、当該登録外国住宅型式性能認定等機関の負担とする。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九十四条第一項の住宅のうち構造耐力上主要な部分として政令で定めるものは、住宅の基礎、基礎ぐい、壁、柱、小屋組、土台、斜材（筋かい、方づえ、火打材その他これらに類するものをいう。）、床版、屋根版又は横架材（はり、けたその他これらに類するものをいう。）で、当該住宅の自重若しくは積載荷重、積雪、風圧、土圧若しくは水圧又は地震その他の震動若しくは衝撃を支えるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "94",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "住宅を新築する建設工事の請負契約（以下「住宅新築請負契約」という。）においては、請負人は、注文者に引き渡した時から十年間、住宅のうち構造耐力上主要な部分又は雨水の浸入を防止する部分として政令で定めるもの（次条において「住宅の構造耐力上主要な部分等」という。）の瑕疵かし（構造耐力又は雨水の浸入に影響のないものを除く。次条において同じ。）について、民法（明治二十九年法律第八十九号）第四百十五条、第五百四十一条及び第五百四十二条並びに同法第五百五十九条において準用する同法第五百六十二条及び第五百六十三条に規定する担保の責任を負う。"
+        },
+        "match": "部分として政令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第九十四条第一項の住宅のうち雨水の浸入を防止する部分として政令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "94",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "住宅を新築する建設工事の請負契約（以下「住宅新築請負契約」という。）においては、請負人は、注文者に引き渡した時から十年間、住宅のうち構造耐力上主要な部分又は雨水の浸入を防止する部分として政令で定めるもの（次条において「住宅の構造耐力上主要な部分等」という。）の瑕疵かし（構造耐力又は雨水の浸入に影響のないものを除く。次条において同じ。）について、民法（明治二十九年法律第八十九号）第四百十五条、第五百四十一条及び第五百四十二条並びに同法第五百五十九条において準用する同法第五百六十二条及び第五百六十三条に規定する担保の責任を負う。"
+        },
+        "match": "雨水の浸入を防止する部分として政令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九十九条第二項の政令で定める権限は、法第三条第一項及び第四項、第三条の二第三項並びに第九十八条の二に規定する内閣総理大臣の権限とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第八十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "99",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "この法律に規定する内閣総理大臣の権限（政令で定めるものを除く。）は、消費者庁長官に委任する。"
+        },
+        "match": "政令で定める"
+    }
+]

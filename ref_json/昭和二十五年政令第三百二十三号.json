@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十五年通商産業省令第八十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "80",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第六条第一号ニの経済産業省令で定める事項は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年政令第三百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "次に掲げる事項についての条項を含む委託契約書を作成すること。委託に係る免状交付事務の内容に関する事項委託に係る免状交付事務を処理する場所及び方法に関する事項委託契約の期間及びその解除に関する事項その他経済産業省令で定める事項"
+        },
+        "match": "経済産業省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十五年通商産業省令第八十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "83",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第五条第二項の経済産業省令で定める方法は、次の各号のいずれかに該当するものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年政令第三百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "火薬類の取扱いをさせようとする者は、前項に規定する者に該当するかどうかの判定に当たり、医師の診断書その他の経済産業省令で定める方法によるものとする。"
+        },
+        "match": "の経済産業省令で定める方法"
+    }
+]

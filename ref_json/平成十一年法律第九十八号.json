@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第二百五十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "89",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "農林水産研修所は、法第四条第一項第八十四号に規定する政令で定める文教研修施設とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第九十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "84"
+            },
+            "text": "政令で定める文教研修施設において、所掌事務に関する研修を行うこと。"
+        },
+        "match": "政令で定める文教研修施設"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第二百五十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "116",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "森林技術総合研修所は、法第四条第一項第八十四号に規定する政令で定める文教研修施設とする。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第九十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "84"
+            },
+            "text": "政令で定める文教研修施設において、所掌事務に関する研修を行うこと。"
+        },
+        "match": "政令で定める文教研修施設"
+    }
+]

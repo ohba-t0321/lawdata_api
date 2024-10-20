@@ -1,0 +1,71 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十四年政令第二百三十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "原子力規制委員会設置法第十五条第一項の政令で定める員数は、三十人とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十四年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "原子炉安全専門審査会は、政令で定める員数以内の審査委員をもって組織する。"
+        },
+        "match": "政令で定める員数"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年政令第二百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "原子力規制委員会設置法第十九条第一項の政令で定める員数は、二十人とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十四年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "核燃料安全専門審査会は、政令で定める員数以内の審査委員をもって組織する。"
+        },
+        "match": "政令で定める員数"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年政令第二百二十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "原子力規制委員会設置法第二十二条第一項の政令で定める員数は、四十人とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十四年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "原子力規制委員会に、原子力規制委員会の指示があった場合において、原子力災害対策特別措置法第二条第二号に規定する原子力緊急事態における応急対策に関する事項を調査審議させるため、政令で定める員数以内の緊急事態応急対策委員（以下「応急対策委員」という。）を置く。"
+        },
+        "match": "政令で定める員数"
+    }
+]

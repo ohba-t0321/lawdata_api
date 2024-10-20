@@ -1,0 +1,347 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十九年政令第百二十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第二項の政令で定める施設は、国有財産法施行令（昭和二十三年政令第二百四十六号）第十二条の六各号に掲げる施設とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定により国有林野を貸し付け、又は貸付け以外の方法により使用させる場合には、国有財産法第二十一条から第二十五条まで（鉄道、道路その他政令で定める施設の用に供される土地に地上権を設定する場合にあつては、第二十一条及び第二十三条を除く。）の規定を準用する。"
+        },
+        "match": "政令で定める施設"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十九年政令第百二十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の二第一項第五号の政令で定める施設は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_2",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "その他公用、公共用又は公益事業の用に供する施設で政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十九年政令第百二十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の三第四号の政令で定める施設は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_3",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "その他農林漁業の用に供する共同利用施設で政令で定めるものの敷地"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条の五第一項第二号の農林水産省令で定める記号（以下単に「記号」という。）は、別記様式によるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6_5",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "前号の調査により農林水産大臣が定める伐採又は売払いの基準に適合すると認められる樹木に、農林水産省令で定める記号を表示すること。"
+        },
+        "match": "農林水産省令で定める記号"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13_4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条の十一第一項の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6_11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定調査機関は、帳簿を備え、調査業務に関し農林水産省令で定める事項を記載し、これを保存しなければならない。"
+        },
+        "match": "農林水産省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第三号の農林水産省令で定める者は、左の通りとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "当該林野に特別の縁故がある者で農林水産省令で定めるもの"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の六第一項の農林水産省令で定める基準は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣は、効率的かつ安定的な林業経営の育成を図るため、樹木の採取に適する相当規模の森林資源が存在する一団の国有林野の区域であつて、当該区域の所在する地域において国有林野事業及び民有林野に係る施策を一体的に推進することにより産業の振興に寄与すると認められるものであることその他の農林水産省令で定める基準に該当するものを樹木採取区として指定することができる。"
+        },
+        "match": "の農林水産省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28_5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の七第七号の農林水産省令で定めるものは、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_7",
+                "paragraph": "1",
+                "item": "7"
+            },
+            "text": "前各号に掲げるもののほか、次条第一項の規定による申請をするために必要な事項として農林水産省令で定めるもの"
+        },
+        "match": "農林水産省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28_7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の九第一項第四号の農林水産省令で定めるものは、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_9",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "経営管理（森林について自然的経済的社会的諸条件に応じた適切な経営又は管理を持続的に行うことをいう。以下同じ。）を効率的かつ安定的に行う能力及び経営管理を確実に行うに足りる経理的基礎を有することを明らかにするために必要な事項として農林水産省令で定めるもの"
+        },
+        "match": "農林水産省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28_8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の九第一項第六号の農林水産省令で定めるものは、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_9",
+                "paragraph": "1",
+                "item": "6"
+            },
+            "text": "木材利用事業者等（木材の安定供給の確保に関する特別措置法（平成八年法律第四十七号）第四条第一項に規定する木材利用事業者等をいう。以下同じ。）及び木材製品利用事業者等（同項に規定する木材製品利用事業者等をいう。以下同じ。）との取引関係、同項に規定する木材生産流通改善施設の所在地、種類及び規模（当該木材生産流通改善施設を整備しようとする場合に限る。）並びに木材の用途の拡大その他の木材の需要の開拓その他これらの者との連携による木材の安定的な取引関係の確立に関する事項として農林水産省令で定めるもの"
+        },
+        "match": "農林水産省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28_9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の九第一項第七号の農林水産省令で定めるものは、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_9",
+                "paragraph": "1",
+                "item": "7"
+            },
+            "text": "前各号に掲げるもののほか、事業の実施による雇用の増大その他の樹木採取区の所在する地域における産業の振興に対する寄与に関する事項その他の樹木採取権者の選定に関し必要となる事項として農林水産省令で定めるもの"
+        },
+        "match": "農林水産省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28_11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の十第二項の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_10",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "農林水産大臣は、前項の規定により審査した結果、申請者が同項各号に掲げる基準に適合していると認められるときは、申請額、事業の実施体制、樹木採取区の所在する地域における産業の振興に対する寄与の程度その他農林水産省令で定める事項を勘案して、その適合していると認められた全ての申請者の申請書について評価し、樹木採取権の設定を受ける者を選定するものとする。"
+        },
+        "match": "農林水産省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28_13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の十四第一項第五号の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_14",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "事業の円滑な実施のために必要な事項その他農林水産省令で定める事項"
+        },
+        "match": "農林水産省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28_16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の十八第二項の農林水産省令で定める期間は、届出をした者に同項の通知が到達した日から一年とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8_18",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "農林水産大臣は、前項の規定による届出が、次に掲げる基準に適合すると認めるときは、その旨をその届出をした者に通知し、当該基準に適合しないと認めるときは、樹木採取権を譲渡するために通常必要と認められる期間として農林水産省令で定める期間内に譲渡すべき旨をその届出をした者に通知しなければならない。"
+        },
+        "match": "農林水産省令で定める期間"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条第一項第四号の農林水産省令で定める林産物は、左の通りとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十六年法律第二百四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "エネルギー源として共同の利用に供するための林産物その他農林水産省令で定める林産物の採取"
+        },
+        "match": "農林水産省令で定める林産物"
+    }
+]

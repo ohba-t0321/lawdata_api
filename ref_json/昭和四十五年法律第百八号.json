@@ -1,0 +1,71 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和四十五年政令第二百五十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "公害紛争処理法（以下「法」という。）第二十四条第一項第一号の政令で定める公害に係る紛争は、次の各号の一に該当するものを含む紛争とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十五年法律第百八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "現に人の健康又は生活環境（環境基本法第二条第三項に規定する生活環境をいう。）に公害に係る著しい被害が生じ、かつ、当該被害が相当多数の者に及び、又は及ぶおそれのある場合における当該公害に係る紛争であつて政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十五年政令第二百五十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条第一項第二号の政令で定める公害に係る紛争は、次の各号の一に該当するものを含む紛争とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十五年法律第百八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "前号に掲げるもののほか、二以上の都道府県にわたる広域的な見地から解決する必要がある公害に係る紛争であつて政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十五年政令第二百五十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十四条第一項の政令で定める費用は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十五年法律第百八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "44",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "中央委員会において行うあつせん、調停、仲裁、責任裁定、原因裁定又は証拠保全の手続に要する費用は、政令で定めるものを除き、各当事者又は証拠保全の申立てをした者が負担する。"
+        },
+        "match": "政令で定める"
+    }
+]

@@ -1,0 +1,301 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和六十三年建設省令第十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "大都市地域における優良宅地開発の促進に関する緊急措置法（以下「法」という。）第三条第三項第八号の国土交通省令で定める事項は、宅地開発事業の名称、目的及び実施方法とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "3",
+                "item": "8"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年建設省令第十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三条第四項の国土交通省令で定める図書は、次に掲げるもの（申請者が大都市地域における優良宅地開発の促進に関する緊急措置法施行令（以下「令」という。）第七条に規定する者である場合にあつては、第一号から第四号までに掲げるものを除く。）とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "宅地開発事業計画には、国土交通省令で定める図書を添付しなければならない。"
+        },
+        "match": "国土交通省令で定める図書"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年建設省令第十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一項第四号の国土交通省令で定める基準は、次の各号に掲げる造成宅地に建設される住宅の区分に応じ、それぞれ当該各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "住宅の用に供する造成宅地の規模が当該造成宅地に建設される住宅の戸数及び規模を勘案して国土交通省令で定める基準に適合するものであること。"
+        },
+        "match": "国土交通省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年建設省令第十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条の国土交通省令で定める事項は、宅地の造成又は公共施設の整備に関する工事の開始の時期とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定事業者は、宅地の造成又は公共施設の整備に関する工事を開始しようとするときは、あらかじめ、その開始の時期その他の国土交通省令で定める事項を国土交通大臣に届け出なければならない。"
+        },
+        "match": "の国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年建設省令第十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定事業者は、造成宅地の処分をしようとするときは、あらかじめ、処分の時期その他の国土交通省令で定める事項を国土交通大臣に届け出なければならない。"
+        },
+        "match": "の国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年政令第二百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "大都市地域における優良宅地開発の促進に関する緊急措置法（以下「法」という。）第二条第一項第二号の政令で定める区域は、別表に掲げる市町村の区域とし、その区域は、昭和六十三年八月一日における区域とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "前号の区域と自然的及び社会的に密接な関係がある区域として政令で定める区域"
+        },
+        "match": "政令で定める区域"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年政令第二百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第五項の政令で定める公共の用に供する施設は、広場、緑地、河川及び水路並びに防水又は防砂の施設とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "この法律において「公共施設」とは、道路、公園、下水道その他政令で定める公共の用に供する施設をいう。"
+        },
+        "match": "政令で定める公共の用に供する施設"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年政令第二百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三条第一項の政令で定める面積は、五ヘクタールとする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地開発事業者は、大都市地域において政令で定める面積以上の事業区域を有する宅地開発事業（当該事業区域が都市計画法（昭和四十三年法律第百号）第四条第二項に規定する都市計画区域内にあるものに限る。）を実施しようとするときは、当該宅地開発事業ごとに宅地開発事業に関する計画（以下「宅地開発事業計画」という。）を作成し、これを国土交通大臣に提出し、当該宅地開発事業計画が優良である旨の認定を受けることができる。"
+        },
+        "match": "政令で定める面積"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年政令第二百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一項第三号の政令で定める面積は、事業区域の面積から公共施設の用に供する土地の区域の面積を控除した面積の二分の一の面積とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "事業区域のうち住宅の用に供する土地の区域の面積が政令で定める面積以上であること。"
+        },
+        "match": "政令で定める面積"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年政令第二百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一項第六号の政令で定める面積は、二十ヘクタールとする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "6"
+            },
+            "text": "政令で定める面積以上の事業区域を有する宅地開発事業については、当該事業区域における住宅市街地の早期の形成に必要な購買施設を含む一団の公益的施設の用に供する宅地が適切に確保されていること。"
+        },
+        "match": "政令で定める面積"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年政令第二百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一項第七号の政令で定める宅地開発事業は、次に掲げる要件に該当する宅地開発事業とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "7"
+            },
+            "text": "周辺の状況その他の事情から居住者の雇用機会の増大及び事業区域の昼間人口の増加に寄与する業務施設を当該事業区域内に併せて立地させる必要がある宅地開発事業として政令で定める宅地開発事業については、当該業務施設の用に供する宅地が良好な居住環境と調和しつつ適切に確保されていること。"
+        },
+        "match": "政令で定める宅地開発事業"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年政令第二百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一項第十号の政令で定める者は、地方公共団体、地方住宅供給公社及び日本勤労者住宅協会とする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "10"
+            },
+            "text": "申請者が宅地建物取引業法（昭和二十七年法律第百七十六号）第三条第一項に規定する宅地建物取引業の免許を受けている者で宅地開発事業者としての実績その他により当該宅地開発事業を誠実に遂行すると認められるものその他の政令で定める者であること。"
+        },
+        "match": "の政令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年政令第二百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一項の政令で定める軽微な変更は、宅地開発事業者を特定するために必要な事項その他の事項の変更で国土交通省令で定めるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "計画の認定を受けた宅地開発事業者（以下「認定事業者」という。）は、当該計画の認定を受けた宅地開発事業計画（以下「認定計画」という。）を変更しようとするときは、国土交通大臣の認定を受けなければならない。ただし、変更に係る事項が政令で定める軽微なものであるときは、この限りでない。"
+        },
+        "match": "政令で定める軽微な"
+    }
+]

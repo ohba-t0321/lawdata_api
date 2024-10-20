@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "令和元年法務省令第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "沖縄弁護士に関する政令第四条第一項第二号に規定する法務省令で定める者は、精神の機能の障害により沖縄弁護士の職務を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年政令第百六十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "心身の故障により沖縄弁護士の職務を適正に行うことができない者として法務省令で定めるもの"
+        },
+        "match": "法務省令で定める"
+    }
+]

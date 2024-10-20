@@ -1,0 +1,163 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和三十三年総理府令第十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十二条第二項第二号及び第三十四条第一項第三号の内閣府令で定める実包又は金属性弾丸の数は、六発（ライフル銃以外の猟銃にあつては、三発）とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年政令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "2",
+                "item": "2"
+            },
+            "text": "構造の一部として内閣府令で定める数以上の実包又は金属性弾丸を充塡することができる弾倉がないこと。"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十三年総理府令第十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "令第十二条第二項第三号及び第三十四条第一項第四号の内閣府令で定める口径の長さは、次に掲げるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年政令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "口径が内閣府令で定める長さを超えないこと。"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十三年総理府令第十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "令第十二条第二項第四号及び第三十四条第一項第五号の内閣府令で定める銃身長及び銃の全長は、次に掲げるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年政令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "銃身長及び銃の全長が内閣府令で定める長さを超えること。"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十三年総理府令第十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "令第十二条第二項第五号及び第三十四条第一項第六号の内閣府令で定める消音装置は、専ら発射音を減殺するための装置とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年政令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "2",
+                "item": "5"
+            },
+            "text": "構造の一部として内閣府令で定める消音装置がないこと。"
+        },
+        "match": "内閣府令で定める消音装置"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十三年総理府令第十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "84",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第三十九条第一項第二号ロの内閣府令で定める空気銃の数は、二丁とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年政令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "法第十条の五第一項第四号に掲げる者次のいずれかに該当する場合その者の指導の下に、年少射撃資格の認定（法第九条の十三第一項の規定による資格の認定をいう。）を受けた者が、当該許可に係る空気銃を用いて、空気銃射撃競技に参加し、又はこれに参加するため指定射撃場において射撃の練習をする場合当該許可に係る空気銃以外に法第四条第一項第五号の二の規定による許可を受けて所持する空気銃がないか、又はあつてもその数が内閣府令で定める数以下である場合イ又はロに掲げるもののほか、当該許可に係る空気銃の修理を委託する場合、当該空気銃の保管を委託する相手方を変更する場合その他保管の委託をしないことについて正当な理由がある場合"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十三年総理府令第十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "89",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第四十条第一号の内閣府令で定める消音器は、銃砲の発射音を減殺するために製作された器具で、消音効果のあるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年政令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "消音器にあつては、専ら銃砲に取り付けて使用するもので、内閣府令で定めるもの"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十年総理府・文部省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "銃砲刀剣類所持等取締法施行令第五条第二号の内閣府令・文部科学省令で定める銃砲は、明治十八年以前に製造されたものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年政令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "内閣府令・文部科学省令で定める銃砲を使用して行う銃砲又は銃砲弾に関する学術研究であつて、政治、経済、文化、技術等の歴史の研究に資するものである旨の文化庁長官の証明を受けたもの"
+        },
+        "match": "内閣府令・文部科学省令で定める銃砲"
+    }
+]

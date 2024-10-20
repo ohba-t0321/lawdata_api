@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "令和四年法務省令第四十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "家事事件手続法第百四十六条の二第二項の法務省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第五十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "146_2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "家庭裁判所が選任した管理人は、前項の規定による供託をしたときは、法務省令で定めるところにより、その旨その他法務省令で定める事項を公告しなければならない。"
+        },
+        "match": "法務省令で定める"
+    }
+]

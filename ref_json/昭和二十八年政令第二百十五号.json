@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十五年総務省令第五十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国家公務員退職手当法施行令（以下「施行令」という。）第九条の五第一項第七号の内閣官房令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第二百十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9_5",
+                "paragraph": "1",
+                "item": "7"
+            },
+            "text": "その他内閣官房令で定める事項"
+        },
+        "match": "内閣官房令で定める事項"
+    }
+]

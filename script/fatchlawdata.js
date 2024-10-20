@@ -178,6 +178,7 @@ async function fetchLawDetails(lawNo) {
     document.querySelectorAll('.xml-Sentence').forEach(sentence => {
         observer.observe(sentence);
     });
+    setupHover_reference(outputFrame);
 };
 // 右クリックでspan内の文字列をコピーする処理
 document.oncontextmenu = function(event){

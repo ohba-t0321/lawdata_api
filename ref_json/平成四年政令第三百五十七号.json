@@ -1,0 +1,71 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成四年通商産業省令第八十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第七条第二号の経済産業省令で定めるものは、次の各号に掲げる計量器であって、別表第十二の中欄又は下欄に掲げる表示を付したもののうち法定計量単位により計量することが著しく困難なものに用いるものとして、経済産業大臣の承認を受けたものとする。"
+        },
+        "referred": {
+            "lawNum": "平成四年政令第三百五十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "輸出すべき貨物の設計若しくは検査又は輸入する貨物の検査に用いる計量器であって、経済産業省令で定めるもの"
+        },
+        "match": "経済産業省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年通商産業省令第八十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第七条第三号の経済産業省令で定めるものは、次の各号に掲げる計量器とする。"
+        },
+        "referred": {
+            "lawNum": "平成四年政令第三百五十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "前二号に掲げるものの検査に用いる計量器であって、経済産業省令で定めるもの"
+        },
+        "match": "経済産業省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年通商産業省令第八十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十二条第一号の経済産業省令で定めるものは、次の各号に掲げる計量器とする。"
+        },
+        "referred": {
+            "lawNum": "平成四年政令第三百五十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "ヤードポンド単位による目盛又は表記を付した次に掲げる計量器であって、経済産業省令で定めるもの次に掲げる計量に用いる計量器航空機の運航に係る計量航空機による運送に係る計量航空機及び航空機用機器並びにこれらの部品に係る計量航空機の運航に関する気象、地象又は水象に係る計量自衛隊が武器の一部として使用する計量器イ又はロに掲げるものの検査に用いる計量器"
+        },
+        "match": "経済産業省令で定めるもの"
+    }
+]

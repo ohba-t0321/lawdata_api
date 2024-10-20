@@ -1,0 +1,347 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条第二項の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録事務規程で定めるべき事項は、厚生労働省令で定める。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定登録機関は、厚生労働省令で定めるところにより、帳簿を備え付け、これに登録事務に関する事項で厚生労働省令で定めるものを記載し、及びこれを保存しなければならない。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十条において準用する法第十五条第二項の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録事務規程で定めるべき事項は、厚生労働省令で定める。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十七条第二項の厚生労働省令で定める要件は、次の各号のいずれかに該当する者であることとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "37",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定試験機関は、試験委員を選任しようとするときは、厚生労働省令で定める要件を備える者のうちから選任しなければならない。"
+        },
+        "match": "厚生労働省令で定める要件"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十条において準用する法第十八条の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定登録機関は、厚生労働省令で定めるところにより、帳簿を備え付け、これに登録事務に関する事項で厚生労働省令で定めるものを記載し、及びこれを保存しなければならない。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "言語聴覚士法（平成九年法律第百三十二号。以下「法」という。）第四条第三号の厚生労働省令で定める者は、視覚、聴覚、音声機能若しくは言語機能又は精神の機能の障害により言語聴覚士の業務を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "心身の障害により言語聴覚士の業務を適正に行うことができない者として厚生労働省令で定めるもの"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十三条第一号の厚生労働省令で定める者は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "学校教育法（昭和二十二年法律第二十六号）第九十条第一項の規定により大学に入学することができる者（この号の規定により文部科学大臣の指定した学校が大学である場合において、当該大学が同条第二項の規定により当該大学に入学させた者を含む。）その他その者に準ずるものとして厚生労働省令で定める者で、文部科学大臣が指定した学校又は都道府県知事が指定した言語聴覚士養成所において、三年以上言語聴覚士として必要な知識及び技能を修得したもの"
+        },
+        "match": "厚生労働省令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十三条第二号の厚生労働省令で定める学校、文教研修施設又は養成所は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "学校教育法に基づく大学若しくは高等専門学校、旧大学令（大正七年勅令第三百八十八号）に基づく大学又は厚生労働省令で定める学校、文教研修施設若しくは養成所において二年（高等専門学校にあっては、五年）以上修業し、かつ、厚生労働大臣の指定する科目を修めた者で、文部科学大臣が指定した学校又は都道府県知事が指定した言語聴覚士養成所において、一年以上言語聴覚士として必要な知識及び技能を修得したもの"
+        },
+        "match": "厚生労働省令で定める学校、文教研修施設"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十三条第三号の厚生労働省令で定める学校、文教研修施設又は養成所は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "学校教育法に基づく大学若しくは高等専門学校、旧大学令に基づく大学又は厚生労働省令で定める学校、文教研修施設若しくは養成所において一年（高等専門学校にあっては、四年）以上修業し、かつ、厚生労働大臣の指定する科目を修めた者で、文部科学大臣が指定した学校又は都道府県知事が指定した言語聴覚士養成所において、二年以上言語聴覚士として必要な知識及び技能を修得したもの"
+        },
+        "match": "厚生労働省令で定める学校、文教研修施設"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十三条第四号の厚生労働省令で定める者は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "学校教育法に基づく大学（短期大学を除く。）又は旧大学令に基づく大学において厚生労働大臣の指定する科目を修めて卒業した者その他その者に準ずるものとして厚生労働省令で定める者"
+        },
+        "match": "厚生労働省令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十三条第五号の厚生労働省令で定める者は、学校教育法第九十一条第二項又は第百二条第一項本文の規定により、同法に基づく大学（短期大学を除く。）の専攻科又は大学院への入学に関し大学を卒業した者と同等以上の学力があると認められる者（旧大学令に基づく大学を卒業した者を除く。）とする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "学校教育法に基づく大学（短期大学を除く。）又は旧大学令に基づく大学を卒業した者その他その者に準ずるものとして厚生労働省令で定める者で、文部科学大臣が指定した学校又は都道府県知事が指定した言語聴覚士養成所において、二年以上言語聴覚士として必要な知識及び技能を修得したもの"
+        },
+        "match": "厚生労働省令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年厚生省令第七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十二条第一項の厚生労働省令で定める行為は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "42",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "言語聴覚士は、保健師助産師看護師法（昭和二十三年法律第二百三号）第三十一条第一項及び第三十二条の規定にかかわらず、診療の補助として、医師又は歯科医師の指示の下に、嚥えん下訓練、人工内耳の調整その他厚生労働省令で定める行為を行うことを業とすることができる。"
+        },
+        "match": "厚生労働省令で定める行為"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年政令第二百九十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "言語聴覚士法（以下「法」という。）第十一条の政令で定める手数料の額は、四千八百円とする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "言語聴覚士免許証の再交付を受けようとする者は、実費を勘案して政令で定める額の手数料を国に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年政令第二百九十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十六条第二項の政令で定める手数料の額は、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める額とする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定登録機関が登録事務を行う場合において、言語聴覚士名簿に免許に関する事項の登録を受けようとする者又は言語聴覚士免許証明書の書換え交付を受けようとする者は、実費を勘案して政令で定める額の手数料を指定登録機関に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十年政令第二百九十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十五条第一項の政令で定める受験手数料の額は、三万八千四百円とする。"
+        },
+        "referred": {
+            "lawNum": "平成九年法律第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "35",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "試験を受けようとする者は、実費を勘案して政令で定める額の受験手数料を国に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    }
+]

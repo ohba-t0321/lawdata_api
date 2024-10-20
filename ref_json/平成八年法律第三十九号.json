@@ -1,0 +1,393 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第一項ただし書に規定する財務省令で定める鉱物は、ポリハリット、キイゼリット、カルナリット、クルギット、タクヒドリット、ピンノイト、グラウベリット、アストラカニット、シェーニット、ボラチット及びアンヒドリットとする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律において「塩」とは、塩化ナトリウムの含有量が百分の四十以上の固形物をいう。ただし、チリ硝石、カイニット、シルビニットその他財務省令で定める鉱物を除く。"
+        },
+        "match": "財務省令で定める鉱物"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第一項に規定する用途又は性状が特殊な塩であって財務省令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "塩の製造を業として行おうとする者（用途若しくは性状が特殊な塩であって財務省令で定めるもの（以下「特殊用塩」という。）又は製造の方法が特殊な塩であって財務省令で定めるもの（特殊用塩を除く。以下「特殊製法塩」という。）のみの製造を業として行おうとする者を除く。）は、財務大臣の登録を受けなければならない。"
+        },
+        "match": "は性状が特殊な塩であって財務省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第一項に規定する製造の方法が特殊な塩であって財務省令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "塩の製造を業として行おうとする者（用途若しくは性状が特殊な塩であって財務省令で定めるもの（以下「特殊用塩」という。）又は製造の方法が特殊な塩であって財務省令で定めるもの（特殊用塩を除く。以下「特殊製法塩」という。）のみの製造を業として行おうとする者を除く。）は、財務大臣の登録を受けなければならない。"
+        },
+        "match": "が特殊な塩であって財務省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第五条第二項第七号に規定する財務省令で定める事項は、現に営んでいる他の事業の種類とする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "7"
+            },
+            "text": "その他財務省令で定める事項"
+        },
+        "match": "財務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第三項に規定する財務省令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の申請書には、第七条第一項各号のいずれにも該当しないことを誓約する書面その他財務省令で定める書類を添付しなければならない。"
+        },
+        "match": "財務省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第一項第二号に規定する財務省令で定めるときは、次の各号に掲げるときとする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "その他財務省令で定めるとき。"
+        },
+        "match": "財務省令で定めるとき"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十条に規定する財務省令で定める事項は、次の各号に掲げるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "塩製造業者は、財務省令で定めるところにより、帳簿を備え、その業務に関し財務省令で定める事項を記載し、これを保存しなければならない。"
+        },
+        "match": "財務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十五条第一項第七号の財務省令で定める事項は、製造しようとする特殊用塩又は特殊製法塩の主な原材料（塩である場合には、その種類）とする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "7"
+            },
+            "text": "その他財務省令で定める事項"
+        },
+        "match": "財務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十六条第二項第六号に規定する財務省令で定める事項は、現に営んでいる他の事業の種類とする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "6"
+            },
+            "text": "その他財務省令で定める事項"
+        },
+        "match": "財務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十六条第三項に規定する財務省令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次条において準用する第七条第一項各号のいずれにも該当しないことを誓約する書面その他財務省令で定める書類を添付しなければならない。"
+        },
+        "match": "財務省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "第一項の規定にかかわらず、前条第一項に規定する税関長が住民基本台帳法（昭和四十二年法律第八十一号）第三十条の九の規定により地方公共団体情報システム機構から当該登録申請者の氏名、生年月日及び住所に関する情報の提供を受け、これを確認することができるときは、法第十六条第三項に規定する財務省令で定める書類は、第一項第一号ロからニまで及び第二号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次条において準用する第七条第一項各号のいずれにも該当しないことを誓約する書面その他財務省令で定める書類を添付しなければならない。"
+        },
+        "match": "財務省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十八条第一項第五号の財務省令で定める事項は、塩の特定販売を行おうとする特殊用塩の原産地とする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "その他財務省令で定める事項"
+        },
+        "match": "財務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十九条第二項第六号に規定する財務省令で定める事項は、現に営んでいる他の事業の種類とする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "2",
+                "item": "6"
+            },
+            "text": "その他財務省令で定める事項"
+        },
+        "match": "財務省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十九条第三項に規定する財務省令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次条において準用する第七条第一項各号のいずれにも該当しないことを誓約する書面その他財務省令で定める書類を添付しなければならない。"
+        },
+        "match": "財務省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条第三項に規定する財務省令で定める生活用塩供給等業務規程に記載すべき事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "生活用塩供給等業務規程に記載すべき事項は、財務省令で定める。"
+        },
+        "match": "財務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第二項に規定する財務省令で定める場合は、次に掲げるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "生活用塩供給等業務特別勘定とその他の勘定の間においては、財務省令で定める場合を除き、資金の相互流用をすることができない。"
+        },
+        "match": "財務省令で定める場合"
+    },
+    {
+        "ref": {
+            "lawNum": "平成八年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法附則第四十条第一項に規定する塩の卸売を業として行うに足る経験を有するものとして財務省令で定める要件は、法第十九条第一項の登録を受けようとする者（当該登録を受けようとする者が法人である場合にあっては、その代表者のうちのいずれかの者）が旧法第十九条第三項に規定する塩の買受け及び販売の業務又は法第二条第四項に規定する塩の卸売の業務に通算して五年以上従事した経験を有していることとする。"
+        },
+        "referred": {
+            "lawNum": "平成八年法律第三十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次条において準用する第七条第一項各号のいずれにも該当しないことを誓約する書面その他財務省令で定める書類を添付しなければならない。"
+        },
+        "match": "財務省令で定める"
+    }
+]

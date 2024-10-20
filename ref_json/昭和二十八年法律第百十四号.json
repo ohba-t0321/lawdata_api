@@ -1,0 +1,117 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十八年厚生省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第六項の厚生労働省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年法律第百十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "6",
+                "item": "0"
+            },
+            "text": "と畜場の管理者は、衛生管理責任者を置き、又は自ら衛生管理責任者となつたときは、その日から十五日以内に、都道府県知事に、その衛生管理責任者の氏名又は自ら衛生管理責任者となつた旨その他厚生労働省令で定める事項を届け出なければならない。衛生管理責任者を変更したときも、同様とする。"
+        },
+        "match": "厚生労働省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年厚生省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第七項の厚生労働省令で定める講習会の課程は、次に掲げる要件のすべてに適合するものでなければならない。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年法律第百十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "7",
+                "item": "0"
+            },
+            "text": "受講科目その他第五項第三号の講習会の課程に関して必要な事項は、厚生労働省令で定める。"
+        },
+        "match": "厚生労働省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年厚生省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十四条第三項第二号の厚生労働省令で定める疾病は、伝達性海綿状脳症のうち牛に係るものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年法律第百十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "3",
+                "item": "2"
+            },
+            "text": "厚生労働省令で定める疾病の有無についてのこの項本文に規定する検査を行う場合において都道府県知事の許可を得て獣畜の皮を持ち出すときその他の衛生上支障がない場合として政令で定めるとき。"
+        },
+        "match": "厚生労働省令で定める疾病"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年政令第二百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "法第十四条第三項第二号の厚生労働省令で定める疾病の有無についての同項本文に規定する検査（次号及び第三号において「解体後検査」という。）を行う場合において、都道府県知事の許可を得て皮革の原料として牛の皮を持ち出すとき。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年法律第百十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "3",
+                "item": "2"
+            },
+            "text": "厚生労働省令で定める疾病の有無についてのこの項本文に規定する検査を行う場合において都道府県知事の許可を得て獣畜の皮を持ち出すときその他の衛生上支障がない場合として政令で定めるとき。"
+        },
+        "match": "厚生労働省令で定める疾病の有無についての"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年政令第二百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十四条第五項の政令で定める疾病は、伝達性海綿状脳症のうち牛、めん羊及び山羊に係るものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年法律第百十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "前各項に規定する都道府県知事の権限に属する事務のうち、政令で定める疾病の有無についての検査に係るものは、前各項の規定にかかわらず、政令で定めるところにより、都道府県知事及び厚生労働大臣が行う。"
+        },
+        "match": "政令で定める疾病"
+    }
+]

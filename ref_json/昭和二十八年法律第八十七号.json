@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十二年法律第百四十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "消防施設強化促進法（昭和二十八年法律第八十七号）第三条に規定する消防施設、防災行政無線設備その他政令で定める消防の用に供する施設及び設備の整備"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年法律第八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律の規定により国が補助を行うことができる消防施設は、消防の用に供する機械器具及び設備で政令で定めるものとする。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十五年法律第六十三号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "消防施設強化促進法（昭和二十八年法律第八十七号）第三条に規定する消防施設及び政令で定めるその他の消防用施設の整備"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年法律第八十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律の規定により国が補助を行うことができる消防施設は、消防の用に供する機械器具及び設備で政令で定めるものとする。"
+        },
+        "match": "政令で定める"
+    }
+]

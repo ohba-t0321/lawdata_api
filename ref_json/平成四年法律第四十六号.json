@@ -1,0 +1,186 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成四年政令第二百七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条第二項の政令で定める利率、償還期限及び据置期間の範囲は、利率については最高年八分五厘、償還期限については据置期間を含め十年、据置期間については二年とする。"
+        },
+        "referred": {
+            "lawNum": "平成四年法律第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項に規定する資金の貸付けの利率、償還期限及び据置期間については、政令で定める範囲内で、株式会社日本政策金融公庫が定める。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年農林水産省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "獣医療法（以下「法」という。）第三条前段の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成四年法律第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "診療施設を開設した者（以下「開設者」という。）は、その開設の日から十日以内に、当該診療施設の所在地を管轄する都道府県知事に農林水産省令で定める事項を届け出なければならない。当該診療施設を休止し、若しくは廃止し、又は届け出た事項を変更したときも、同様とする。"
+        },
+        "match": "農林水産省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年農林水産省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条の農林水産省令で定める診療施設の構造設備の基準は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成四年法律第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "診療施設の構造設備は、農林水産省令で定める基準に適合したものでなければならない。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年農林水産省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第二項の農林水産省令で定める診療施設の管理者が遵守すべき事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成四年法律第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定により診療施設を管理する者（以下「管理者」という。）が、その構造設備、医薬品その他の物品の管理及び飼育動物の収容につき遵守すべき事項については、農林水産省令で定める。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年農林水産省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第二項において準用する法第五条第二項の農林水産省令で定める管理者が遵守すべき事項は、第三条第一項第五号及び第八号に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成四年法律第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "第五条の規定は、農林水産省令で定める診療用機器その他の物品（以下「診療用機器等」という。）を所有し、又は借り受けてこれを使用する往診診療者等について準用する。この場合において、同条中「診療施設」とあり、及び「構造設備、医薬品その他の物品の管理及び飼育動物の収容」とあるのは、「診療用機器等」と読み替えるものとする。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年農林水産省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第二項において準用する法第五条第二項の農林水産省令で定める管理者が遵守すべき事項は、第三条第一項第五号及び第八号に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成四年法律第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定により診療施設を管理する者（以下「管理者」という。）が、その構造設備、医薬品その他の物品の管理及び飼育動物の収容につき遵守すべき事項については、農林水産省令で定める。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年農林水産省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十七条第二項前段の農林水産省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成四年法律第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定にかかわらず、獣医師又は診療施設の業務に関する技能、療法又は経歴に関する事項のうち、広告しても差し支えないものとして農林水産省令で定めるものは、広告することができる。この場合において、農林水産省令で定めるところにより、その広告の方法その他の事項について必要な制限をすることができる。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成四年農林水産省令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十七条第二項後段の農林水産省令で定める制限は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成四年法律第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定にかかわらず、獣医師又は診療施設の業務に関する技能、療法又は経歴に関する事項のうち、広告しても差し支えないものとして農林水産省令で定めるものは、広告することができる。この場合において、農林水産省令で定めるところにより、その広告の方法その他の事項について必要な制限をすることができる。"
+        },
+        "match": "農林水産省令で定める"
+    }
+]

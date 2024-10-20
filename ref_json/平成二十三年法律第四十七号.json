@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十三年厚生労働省令第九十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一項第三号の厚生労働省令で定める基準は、次の各号に掲げる事項について、当該各号に定めるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "その他厚生労働省令で定める基準に適合するものであること。"
+        },
+        "match": "厚生労働省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十三年厚生労働省令第九十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条第三号の厚生労働省令で定めるものは、認定職業訓練を行う者による就職の支援に関する措置とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "前二号に掲げるもののほか、厚生労働省令で定めるもの"
+        },
+        "match": "厚生労働省令で定めるもの"
+    }
+]

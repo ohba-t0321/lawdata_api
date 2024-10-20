@@ -1,0 +1,393 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十三年政令第四十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "電子署名及び認証業務に関する法律（以下「法」という。）第七条第一項（法第十五条第二項において準用する場合を含む。）の政令で定める期間は、一年とする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第四条第一項の認定は、一年を下らない政令で定める期間ごとにその更新を受けなければ、その期間の経過によって、その効力を失う。"
+        },
+        "match": "政令で定める期間"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年政令第四十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十二条第一項（法第三十一条第六項において準用する場合を含む。）の政令で定める期間は、五年とする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定は、五年以上十年以内において政令で定める期間ごとにその更新を受けなければ、その期間の経過によって、その効力を失う。"
+        },
+        "match": "政令で定める期間"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十条第二号の主務省令で定める構成員は、次の各号に掲げる法人の種類ごとに、それぞれ当該各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "法人にあっては、その役員又は法人の種類に応じて主務省令で定める構成員の構成が調査の公正な実施に支障を及ぼすおそれがないものであること。"
+        },
+        "match": "主務省令で定める構成員"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第二項の主務省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "調査業務規程で定めるべき事項は、主務省令で定める。"
+        },
+        "match": "主務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十六条の主務省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定調査機関は、主務省令で定めるところにより、帳簿を備え、調査の業務に関し主務省令で定める事項を記載し、これを保存しなければならない。"
+        },
+        "match": "主務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第三項の主務省令で定める基準は、電子署名の安全性が次のいずれかの有する困難性に基づくものであることとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "この法律において「特定認証業務」とは、電子署名のうち、その方式に応じて本人だけが行うことができるものとして主務省令で定める基準に適合するものについて行われる認証業務をいう。"
+        },
+        "match": "主務省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第四条第二項の主務省令で定める書類は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の認定を受けようとする者は、主務省令で定めるところにより、次の事項を記載した申請書その他主務省令で定める書類を主務大臣に提出しなければならない。"
+        },
+        "match": "主務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第一項第一号の主務省令で定める基準は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "申請に係る業務の用に供する設備が主務省令で定める基準に適合するものであること。"
+        },
+        "match": "主務省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第一項第二号の主務省令で定める方法は、次に掲げる方法とする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "申請に係る業務における利用者の真偽の確認が主務省令で定める方法により行われるものであること。"
+        },
+        "match": "主務省令で定める方法"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第一項第三号の主務省令で定める基準は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "前号に掲げるもののほか、申請に係る業務が主務省令で定める基準に適合する方法により行われるものであること。"
+        },
+        "match": "主務省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第一項ただし書の主務省令で定める軽微な変更は、同一室内における既設の設備と同等以上の性能を有する設備への変更及びその増設とする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定認証事業者は、第四条第二項第二号又は第三号の事項を変更しようとするときは、主務大臣の認定を受けなければならない。ただし、主務省令で定める軽微な変更については、この限りでない。"
+        },
+        "match": "主務省令で定める軽微な変更"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第九条第二項の主務省令で定める書類は、第三条第二項各号に掲げる書類（認定若しくはその更新又は変更の認定の申請書に添えて提出されたものにつきその内容に変更がある部分に限る。）とする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の変更の認定を受けようとする者は、主務省令で定めるところにより、変更に係る事項を記載した申請書その他主務省令で定める書類を主務大臣に提出しなければならない。"
+        },
+        "match": "主務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条の主務省令で定める業務に関する帳簿書類は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定認証事業者は、主務省令で定めるところにより、その認定に係る業務に関する帳簿書類を作成し、これを保存しなければならない。"
+        },
+        "match": "主務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十三年総務省・法務省・経済産業省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十三条第一項の主務省令で定めるものは、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定認証事業者は、認定に係る業務の用に供する電子証明書等（利用者が電子署名を行ったものであることを確認するために用いられる事項が当該利用者に係るものであることを証明するために作成する電磁的記録その他の認証業務の用に供するものとして主務省令で定めるものをいう。次項において同じ。）に、主務省令で定めるところにより、当該業務が認定を受けている旨の表示を付することができる。"
+        },
+        "match": "主務省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年政令第四百八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7_9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "特定認証業務（電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第三項に規定する特定認証業務をいう。以下この条及び次条において同じ。）を行う者は、法第十七条第一項第五号の認定を受けようとするときは、次に掲げる事項を記載した申請書に主務省令で定める書類を添付して、内閣総理大臣及び総務大臣（以下「主務大臣」という。）に提出しなければならない。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "この法律において「特定認証業務」とは、電子署名のうち、その方式に応じて本人だけが行うことができるものとして主務省令で定める基準に適合するものについて行われる認証業務をいう。"
+        },
+        "match": "主務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十四年総務省・法務省・経済産業省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条第二項において準用する法第九条第一項の変更の認定に係る法第十五条第三項の主務省令で定める事項は、第二条各号に掲げる事項（第四号から第七号までについては、変更に係る部分に限る。）とする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定認証事業者は、第四条第二項第二号又は第三号の事項を変更しようとするときは、主務大臣の認定を受けなければならない。ただし、主務省令で定める軽微な変更については、この限りでない。"
+        },
+        "match": "主務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十四年総務省・法務省・経済産業省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条第二項において準用する法第九条第一項の変更の認定に係る法第十五条第三項の主務省令で定める事項は、第二条各号に掲げる事項（第四号から第七号までについては、変更に係る部分に限る。）とする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "主務大臣は、第一項の認定若しくはその更新又は前項において準用する第九条第一項の変更の認定を受けようとする者が外国の法令に基づく認証業務に関する制度で第四条第一項の認定の制度に類するものに基づいて当該外国にある事務所により認証業務を行う者である場合であって、我が国が当該外国と締結した条約その他の国際約束を誠実に履行するために必要があると認めるときは、それらの者に対して、前項において準用する第六条第二項（前項において準用する第七条第二項及び第九条第三項において準用する場合を含む。）の規定による調査に代えて、主務省令で定める事項を記載した書類の提出をさせることができる。"
+        },
+        "match": "主務省令で定める事項"
+    }
+]

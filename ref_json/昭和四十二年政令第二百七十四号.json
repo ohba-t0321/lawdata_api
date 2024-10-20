@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和四十二年自治省令第二十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十八条ただし書及び令第六条第三項の総務省令で定める場合は、次に掲げる場合とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年政令第二百七十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "船員が次の各号のいずれかに該当する場合（総務省令で定める場合に限る。）には、その拘禁され、又は収容されている期間については、予後補償は、行わない。"
+        },
+        "match": "総務省令で定める場合"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十七年厚生労働省令第四十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "35",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十五条第四号に規定する厚生労働省令で定める場合は、次の各号に掲げる場合とする。"
+        },
+        "referred": {
+            "lawNum": "平成十七年政令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "前三号に掲げる場合のほか、法の規定による徴収金の収納職員による収納が納付義務者の利便に資する場合その他の法の規定による徴収金の収納職員による収納が適切かつ効果的な場合として厚生労働省令で定める場合"
+        },
+        "match": "厚生労働省令で定める場合"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年厚生労働省令第四十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "36",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十六条第二項に規定する厚生労働省令で定めるものは、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十七年政令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "機構は、前項の公示があったときは、遅滞なく、年金事務所の名称及び所在地その他の法の規定による徴収金の収納に関し必要な事項として厚生労働省令で定めるものを公表しなければならない。これを変更したときも、同様とする。"
+        },
+        "match": "厚生労働省令で定めるもの"
+    }
+]

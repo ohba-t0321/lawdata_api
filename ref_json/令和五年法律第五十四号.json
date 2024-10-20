@@ -1,0 +1,209 @@
+[
+    {
+        "ref": {
+            "lawNum": "令和五年防衛省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "法第四条第二項第五号の防衛省令で定める事項は、装備品安定製造等確保計画に係る特定取組を行うに当たり他の法令（外国の法令を含む。）の規定による免許、許可、認可、承認、指定その他の処分又はこれらに類する行為（以下「免許等」という。）を必要とするものである場合には、当該免許等を受けたこと又は受けようとしていることを証する事項とする。"
+        },
+        "referred": {
+            "lawNum": "令和五年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "5"
+            },
+            "text": "前各号に掲げるもののほか、防衛省令で定める事項"
+        },
+        "match": "防衛省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "令和五年防衛省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第一項ただし書の防衛省令で定める軽微な変更は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "令和五年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第四条第一項の認定を受けた装備品製造等事業者（次条において「認定装備品安定製造等確保事業者」という。）は、当該認定を受けた装備品安定製造等確保計画を変更するときは、あらかじめ、防衛大臣の認定を受けなければならない。ただし、防衛省令で定める軽微な変更については、この限りでない。"
+        },
+        "match": "防衛省令で定める軽微な変更"
+    },
+    {
+        "ref": {
+            "lawNum": "令和五年防衛省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "法第九条第二項第五号の防衛省令で定める事項は、装備移転仕様等調整計画に係る装備移転仕様等調整を行うに当たり他の法令（外国の法令を含む。）の規定による免許等を必要とするものである場合には、当該免許等を受けたこと又は受けようとしていることを証する事項とする。"
+        },
+        "referred": {
+            "lawNum": "令和五年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "5"
+            },
+            "text": "前各号に掲げるもののほか、防衛省令で定める事項"
+        },
+        "match": "防衛省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "令和五年防衛省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条第一項ただし書の防衛省令で定める軽微な変更は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "令和五年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第九条第一項の認定を受けた装備品製造等事業者（以下「認定装備移転事業者」という。）は、当該認定を受けた装備移転仕様等調整計画を変更するときは、あらかじめ、防衛大臣の認定を受けなければならない。ただし、防衛省令で定める軽微な変更については、この限りでない。"
+        },
+        "match": "防衛省令で定める軽微な変更"
+    },
+    {
+        "ref": {
+            "lawNum": "令和五年防衛省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第十五条第一項第三号の防衛省令で定める基準は、装備移転支援業務に関して知り得た情報を適切に管理し、及び秘密を確実に保持するために必要な措置が講じられていることとする。"
+        },
+        "referred": {
+            "lawNum": "令和五年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "前二号に掲げるもののほか、装備移転支援業務を適正かつ確実に実施することができるものとして、防衛省令で定める基準に適合するものであること。"
+        },
+        "match": "防衛省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "令和五年防衛省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十七条第二項第一号ニの防衛省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "令和五年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "2",
+                "item": "1"
+            },
+            "text": "第十五条第三項第一号に掲げる業務に関する次に掲げる事項認定装備移転事業者に対する助成金の交付の要件に関する事項認定装備移転事業者による助成金の交付申請書に記載すべき事項認定装備移転事業者に対する助成金の交付の決定に際し付すべき条件に関する事項イからハまでに掲げるもののほか、助成金の交付に関し必要な事項として防衛省令で定める事項"
+        },
+        "match": "防衛省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "令和五年防衛省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十七条第二項第三号の防衛省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "令和五年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "前二号に掲げるもののほか、装備移転支援業務に関し必要な事項として防衛省令で定める事項"
+        },
+        "match": "防衛省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "令和五年防衛省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二十二条の防衛省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "令和五年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定装備移転支援法人は、装備移転支援業務について、防衛省令で定めるところにより、帳簿を備え、防衛省令で定める事項を記載し、これを保存しなければならない。"
+        },
+        "match": "防衛省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和五年防衛省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十条第四項の防衛省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "令和五年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "施設委託管理業務規程には、施設委託管理業務の実施の方法その他の防衛省令で定める事項を定めておかなければならない。"
+        },
+        "match": "の防衛省令で定める事項"
+    }
+]

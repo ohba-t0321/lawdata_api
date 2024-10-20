@@ -1,0 +1,140 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十三条第六項の国土交通省令で定める重要な財産は、土地及び構築物であってその帳簿価額が三千万円以上のものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "6",
+                "item": "0"
+            },
+            "text": "指定会社は、国土交通省令で定める重要な財産を譲渡し、又は担保に供しようとするときは、国土交通大臣の認可を受けなければならない。"
+        },
+        "match": "国土交通省令で定める重要な財産"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条の国土交通省令で定める重要な財産は、土地、建物及び構築物であってその帳簿価額が三億円以上のものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "会社は、国土交通省令で定める重要な財産を譲渡し、又は担保に供しようとするときは、国土交通大臣の認可を受けなければならない。"
+        },
+        "match": "国土交通省令で定める重要な財産"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年政令第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第一項第三号の両空港の機能を確保するために必要な政令で定める施設は、次に掲げる施設とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "両空港の機能を確保するために必要な航空旅客及び航空貨物の取扱施設、航空機給油施設その他の政令で定める施設並びにこれらの施設以外の施設で、両空港を利用する者の利便に資するために両空港の敷地内に建設することが適当であると認められる事務所、店舗その他の政令で定めるものの建設及び管理"
+        },
+        "match": "政令で定める施設"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年政令第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第一項第三号の両空港を利用する者の利便に資するために両空港の敷地内に建設することが適当であると認められる政令で定める施設は、次に掲げる施設とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "両空港の機能を確保するために必要な航空旅客及び航空貨物の取扱施設、航空機給油施設その他の政令で定める施設並びにこれらの施設以外の施設で、両空港を利用する者の利便に資するために両空港の敷地内に建設することが適当であると認められる事務所、店舗その他の政令で定めるものの建設及び管理"
+        },
+        "match": "政令で定める施設"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年政令第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十三条第三項の政令で定める貸付けの条件は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "指定会社は、会社に対する空港用地の貸付けに係る貸付料その他の政令で定める貸付けの条件について、あらかじめ、国土交通大臣の認可を受けなければならない。これを変更しようとするときも、同様とする。"
+        },
+        "match": "の政令で定める貸付けの条件"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年政令第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十三条第四項の政令で定める基準は、貸付料にあっては第一号に掲げる基準とし、貸付期間にあっては第二号に掲げる基準とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "国土交通大臣は、前項の貸付料その他の貸付けの条件が、空港用地の整備に要した費用に係る債務の返済の確実かつ円滑な実施が図られるものとして政令で定める基準に適合する場合でなければ、同項の認可をしてはならない。"
+        },
+        "match": "政令で定める基準"
+    }
+]

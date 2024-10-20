@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第五百二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "公益的法人等への一般職の地方公務員の派遣等に関する法律第二条第一項第三号の政令で定める法人は、次に掲げる法人とする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "特別の法律により設立された法人（前号に掲げるもの及び営利を目的とするものを除く。）で政令で定めるもの"
+        },
+        "match": "政令で定める"
+    }
+]

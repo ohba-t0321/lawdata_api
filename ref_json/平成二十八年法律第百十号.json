@@ -1,0 +1,508 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第六条第二項第五号の内閣府令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "2",
+                "item": "5"
+            },
+            "text": "その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第六条第三項第四号の内閣府令で定める書類は、財産目録、貸借対照表及び収支計算書又は損益計算書とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "3",
+                "item": "4"
+            },
+            "text": "申請者の財産目録、貸借対照表、収支計算書又は損益計算書その他の当該申請に係る養子縁組あっせん事業を行うのに必要な経理的基礎を有することを明らかにする書類であって内閣府令で定めるもの"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "法第六条第三項第五号の内閣府令で定める書類は、手数料表（様式第二号）とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "3",
+                "item": "5"
+            },
+            "text": "養子縁組のあっせんに関し手数料を徴収する場合にあっては、当該手数料の算定の基準を記載した書類であって内閣府令で定めるもの"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "法第六条第三項第六号の内閣府令で定める書類は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "3",
+                "item": "6"
+            },
+            "text": "その他内閣府令で定める書類"
+        },
+        "match": "内閣府令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一項第三号の内閣府令で定める者は、公益社団法人、公益財団法人、一般社団法人、一般財団法人又は特定非営利活動促進法（平成十年法律第七号）第二条第二項の規定に基づき設立された特定非営利活動法人とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "申請者が社会福祉法人、医療法人その他内閣府令で定める者であること。"
+        },
+        "match": "内閣府令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第八条第一号の内閣府令で定める者は、精神の機能の障害により養子縁組あっせん事業の業務を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "心身の故障により養子縁組あっせん事業を適正に行うことができない者として内閣府令で定めるもの"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第一項の内閣府令で定める手数料の種類は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "民間あっせん機関は、内閣府令で定める種類の手数料を徴収する場合を除き、養子縁組のあっせんに関し、いかなる名義でも、実費その他の手数料又は報酬を受けてはならない。"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十三条第一項の内閣府令で定めるものは、民間あっせん機関が取次機関を利用しなくなった場合における当該取次機関の名称、住所及び事業内容とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "民間あっせん機関は、第六条第二項各号に掲げる事項（内閣府令で定めるものを除く。）に変更があったときは、遅滞なく、その旨を都道府県知事に届け出なければならない。この場合において、当該変更に係る事項が養子縁組あっせん事業を行う事業所の新設に係るものであるときは、当該事業所に係る事業計画書その他内閣府令で定める書類を添付しなければならない。"
+        },
+        "match": "内閣府令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第十三条第一項の内閣府令で定める書類は、新設する事業所に係る法第六条第三項第三号に掲げる書類並びに第一条第五項第三号及び第四号に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "民間あっせん機関は、第六条第二項各号に掲げる事項（内閣府令で定めるものを除く。）に変更があったときは、遅滞なく、その旨を都道府県知事に届け出なければならない。この場合において、当該変更に係る事項が養子縁組あっせん事業を行う事業所の新設に係るものであるときは、当該事業所に係る事業計画書その他内閣府令で定める書類を添付しなければならない。"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条の内閣府令で定めるものは、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "民間あっせん機関は、内閣府令で定めるところにより、養子縁組のあっせんに係る業務に関する事項で内閣府令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条第二項第五号の内閣府令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "2",
+                "item": "5"
+            },
+            "text": "その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二十五条第二項第六号の内閣府令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "2",
+                "item": "6"
+            },
+            "text": "その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十条第三号の内閣府令で定める事項は、特別養子縁組の成立の審判に対する即時抗告の提起の有無及び即時抗告が提起された場合にあっては、当該即時抗告についての決定の内容とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "前号の養子縁組が成立した場合において、その成立の日から六月間における当該養子縁組に係る児童の監護の状況その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十二条第一項第二号の内閣府令で定める事項は、法第二十四条第二項第一号及び第二号に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "32",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "縁組成立前養育の開始第二十四条第二項第三号から第五号までに掲げる事項、第二十五条第二項各号に掲げる事項その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第三十二条第一項第三号の内閣府令で定める事項は、縁組成立前養育（法第二十七条第七項の縁組成立前養育をいう。以下この項において同じ。）を開始した時から法第二十九条第五項各号に掲げる事由が生じた時までの間における縁組成立前養育における監護の状況とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "32",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "第二十九条第五項各号に掲げる事由（縁組成立前養育が行われている場合に限る。）当該事由の内容その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第三十二条第一項第三号の内閣府令で定める事項は、縁組成立前養育（法第二十七条第七項の縁組成立前養育をいう。以下この項において同じ。）を開始した時から法第二十九条第五項各号に掲げる事由が生じた時までの間における縁組成立前養育における監護の状況とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "7",
+                "item": "0"
+            },
+            "text": "民間あっせん機関は、特別養子縁組に係る養子縁組のあっせんを行うときは、養親希望者による養子縁組の成立前の児童の養育（以下「縁組成立前養育」という。）に先立ち、縁組成立前養育を行うことについて、当該養子縁組のあっせんに係る児童の出生後に、内閣府令で定めるところにより、第一項各号に掲げる者から同意を得なければならない。"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第三十二条第一項第四号の内閣府令で定める事項は、特定の養親希望者があっせんに係る児童の養育を開始した時から養子縁組を成立させるために必要な手続を開始した時までの間における監護の状況とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "32",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "養子縁組を成立させるために必要な手続の開始第二号に掲げる事項（縁組成立前養育が行われていない場合に限る。）その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "法第三十二条第一項第五号の内閣府令で定める事項は、養子縁組を成立させるために必要な手続を開始した時から当該養子縁組の成否が確定した時までの間における監護の状況並びに当該養子縁組のあっせんに関して当該養子縁組に係る養親希望者及び児童の父母等から徴収する手数料の額とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "32",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "児童と養親希望者との間の養子縁組の成否の確定当該養子縁組の成否その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十四条第一項の内閣府令で定めるものは、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "34",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "民間あっせん機関は、その養子縁組のあっせんに係る児童について養親希望者又は養親となった者（以下この条において「養親希望者等」という。）による養育が開始されるまでに、当該養親希望者等に対し、当該児童の心身の状況に関し、当該児童の養育に必要な情報として内閣府令で定めるものを提供しなければならない。"
+        },
+        "match": "内閣府令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年厚生労働省令第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第三十四条第二項の内閣府令で定めるものは、児童の父母の同意がない情報（前項各号に掲げる情報を除く。）とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "34",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "民間あっせん機関は、養親希望者等に対し、養子縁組のあっせんに係る児童の父母に関する情報（当該児童との養子縁組を成立させるために必要な手続をとる際に必要な情報を除く。）として内閣府令で定めるものを提供してはならない。"
+        },
+        "match": "内閣府令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年政令第二百九十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律（以下「法」という。）第八条第四号の政令で定める法律は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "この法律、児童福祉法（昭和二十二年法律第百六十四号）、児童買春、児童ポルノに係る行為等の規制及び処罰並びに児童の保護等に関する法律（平成十一年法律第五十二号）その他国民の福祉に関する法律で政令で定めるものの規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して五年を経過しない者"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十九年政令第二百九十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十六条第二号の政令で定める法律は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "この法律、児童福祉法、児童買春、児童ポルノに係る行為等の規制及び処罰並びに児童の保護等に関する法律その他国民の福祉に関する法律で政令で定めるものの規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなるまでの者"
+        },
+        "match": "政令で定める"
+    }
+]

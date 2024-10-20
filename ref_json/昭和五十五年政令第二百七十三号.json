@@ -1,0 +1,71 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和五十五年建設省令第十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第三条第三号の国土交通省令で定める要件は、主として住居等の用に供されている建築物がおおむね五十以上連たんしていることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十五年政令第二百七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "前二号に掲げるもののほか、市町村の中心の市街地その他の地域で国土交通省令で定める要件に該当するもの"
+        },
+        "match": "国土交通省令で定める要件"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十五年建設省令第十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十条第三号の国土交通省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十五年政令第二百七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "都市計画法第二十九条第一項第三号に掲げる開発行為その他の公益上必要な事業の実施に係る行為で沿道地区計画の目的を達成する上で著しい支障を及ぼすおそれが少ないと認められるもののうち、用途上又は構造上やむを得ないものとして国土交通省令で定めるもの"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十五年建設省令第十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第十一条第二号の国土交通省令で定める事業は、住宅地区改良法（昭和三十五年法律第八十四号）第二条第一項に規定する住宅地区改良事業又は流通業務市街地の整備に関する法律（昭和四十一年法律第百十号）第二条第二項に規定する流通業務団地造成事業とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十五年政令第二百七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "都市計画法第四条第七項に規定する市街地開発事業又は地方公共団体が行うこれに準ずる事業で国土交通省令で定めるものの用に供する土地"
+        },
+        "match": "国土交通省令で定める"
+    }
+]

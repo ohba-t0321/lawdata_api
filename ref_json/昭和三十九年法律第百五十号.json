@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和三十九年通商産業省令第百五十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "日本電気計器検定所法（昭和三十九年法律第百五十号）第二十五条第一項の経済産業省令で定める資格を有する者は、次の各号のいずれかに該当する者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十九年法律第百五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "検定所は、第二十三条第一項第一号の業務を行なうときは、経済産業省令で定める資格を有する者に同号の検定等を行なわせなければならない。"
+        },
+        "match": "経済産業省令で定める資格を有する者"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十年通商産業省令第三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十三条の経済産業省令で定める重要な財産は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十九年法律第百五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "検定所は、経済産業省令で定める重要な財産を譲渡し、又は担保に供しようとするときは、経済産業大臣の認可を受けなければならない。"
+        },
+        "match": "経済産業省令で定める重要な財産"
+    }
+]

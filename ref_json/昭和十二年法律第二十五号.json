@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十八年農林省令第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第二項の農林水産省令で定める事由は、保険期間が一年を超えていることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和十二年法律第二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "保険料は、農林水産省令で定める事由がある場合には、分割して払い込むことができる。"
+        },
+        "match": "農林水産省令で定める事由"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年農林省令第四十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条第四号の農林水産省令で定める場合は、塡補すべき額が法第二条第一項に規定する保険事故によつて生じた損害についての調査に通常要する費用の額を勘案して農林水産大臣が定める基準に従つて機構が定める額未満のときとする。"
+        },
+        "referred": {
+            "lawNum": "昭和十二年法律第二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "塡補すべき額が少額であると認められる場合として農林水産省令で定める場合"
+        },
+        "match": "農林水産省令で定める場合"
+    }
+]

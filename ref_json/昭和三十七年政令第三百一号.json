@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和三十七年自治省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第二条第十五号に規定する共同利用施設その他の総務省令で定める施設は、共同利用施設及び地方公共団体又は農業協同組合その他の公共的団体が設置する施設（共同利用施設を除く。）とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十七年政令第三百一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "15"
+            },
+            "text": "農業（畜産業を含む。）、林業又は漁業の経営の近代化のための施設のうち、共同利用施設その他の施設で総務省令で定めるもの"
+        },
+        "match": "総務省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十七年自治省令第十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第二条第十六号に規定する総務省令で定める施設は、次に掲げる施設とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十七年政令第三百一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "16"
+            },
+            "text": "地場産業の振興に資する施設のうち、生産施設、加工施設、流通販売施設その他の施設で総務省令で定めるもの"
+        },
+        "match": "総務省令で定める"
+    }
+]

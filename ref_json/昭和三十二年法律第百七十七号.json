@@ -1,0 +1,1267 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一項に規定する国土交通省令で定める書類及び図面は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道事業経営の認可の申請をするには、申請書に、事業計画書、工事設計書その他国土交通省令で定める書類（図面を含む。）を添えて、これを国土交通大臣に提出しなければならない。"
+        },
+        "match": "国土交通省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1_3",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "地方公共団体が申請者である場合であつて、当該申請が他の水道事業の全部を譲り受けることに伴うものであるときは、法第七条第一項に規定する国土交通省令で定める書類及び図面は、前項の規定にかかわらず、同項第三号、第六号及び第七号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道事業経営の認可の申請をするには、申請書に、事業計画書、工事設計書その他国土交通省令で定める書類（図面を含む。）を添えて、これを国土交通大臣に提出しなければならない。"
+        },
+        "match": "国土交通省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第四項第八号に規定する国土交通省令で定める事項は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "4",
+                "item": "8"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第五項第八号に規定する国土交通省令で定める事項は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "5",
+                "item": "8"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十条第一項第一号の国土交通省令で定める軽微な変更は、次のいずれかの変更とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "その変更が国土交通省令で定める軽微なものであるとき。"
+        },
+        "match": "国土交通省令で定める軽微な"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第一条の三第一項の規定は、法第十条第二項において準用する法第七条第一項に規定する国土交通省令で定める書類及び図面について準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道事業経営の認可の申請をするには、申請書に、事業計画書、工事設計書その他国土交通省令で定める書類（図面を含む。）を添えて、これを国土交通大臣に提出しなければならない。"
+        },
+        "match": "国土交通省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "第二条の規定は、法第十条第二項において準用する法第七条第四項第八号に規定する国土交通省令で定める事項について準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "4",
+                "item": "8"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "第四条の規定は、法第十条第二項において準用する法第七条第五項第八号に規定する国土交通省令で定める事項について準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "5",
+                "item": "8"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十六条の二第三項の国土交通省令で定める給水装置の軽微な変更は、単独水栓の取替え及び補修並びにこま、パッキン等給水装置の末端に設置される給水用具の部品の取替え（配管を伴わないものに限る。）とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16_2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の場合において、水道事業者は、当該水道によつて水の供給を受ける者の給水装置が当該水道事業者又は指定給水装置工事事業者の施行した給水装置工事に係るものでないときは、供給規程の定めるところにより、その者の給水契約の申込みを拒み、又はその者に対する給水を停止することができる。ただし、国土交通省令で定める給水装置の軽微な変更であるとき、又は当該給水装置の構造及び材質が前条の規定に基づく政令で定める基準に適合していることが確認されたときは、この限りでない。"
+        },
+        "match": "国土交通省令で定める給水装置の軽微な変更"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十条の六第二項の国土交通省令・環境省令で定める方法は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録水質検査機関は、公正に、かつ、国土交通省令・環境省令で定める方法により水質検査を行わなければならない。"
+        },
+        "match": "国土交通省令・環境省令で定める方法"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十条の八第二項の国土交通省令・環境省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_8",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "水質検査業務規程には、水質検査の実施方法、水質検査に関する料金その他の国土交通省令・環境省令で定める事項を定めておかなければならない。"
+        },
+        "match": "の国土交通省令・環境省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十条の十第二項第三号の国土交通省令・環境省令で定める方法は、当該電磁的記録に記録された事項を紙面又は出力装置の映像面に表示する方法とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_10",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "財務諸表等が電磁的記録をもつて作成されているときは、当該電磁的記録に記録された事項を国土交通省令・環境省令で定める方法により表示したものの閲覧又は謄写の請求"
+        },
+        "match": "国土交通省令・環境省令で定める方法"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十条の十第二項第四号に規定する国土交通省令・環境省令で定める電磁的方法は、次の各号に掲げるもののうちいずれかの方法とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_10",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "前号の電磁的記録に記録された事項を電磁的方法であつて国土交通省令・環境省令で定めるものにより提供することの請求又は当該事項を記載した書面の交付の請求"
+        },
+        "match": "国土交通省令・環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15_10",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二十条の十四の国土交通省令・環境省令で定める事項は次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "登録水質検査機関は、国土交通省令・環境省令で定めるところにより、水質検査に関する事項で国土交通省令・環境省令で定めるものを記載した帳簿を備え、これを保存しなければならない。"
+        },
+        "match": "国土交通省令・環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十二条の二第一項の国土交通省令で定める基準は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道事業者は、国土交通省令で定める基準に従い、水道施設を良好な状態に保つため、その維持及び修繕を行わなければならない。"
+        },
+        "match": "国土交通省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17_7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条の三第二項の規定による業務の委託の届出に係る国土交通省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24_3",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "水道事業者は、前項の規定により業務を委託したときは、遅滞なく、国土交通省令で定める事項を国土交通大臣に届け出なければならない。委託に係る契約が効力を失つたときも、同様とする。"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17_7",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二十四条の三第二項の規定による委託に係る契約が効力を失つたときの届出に係る国土交通省令で定める事項は、前項各号に掲げるもののほか、当該契約が効力を失つた理由とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24_3",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "水道事業者は、前項の規定により業務を委託したときは、遅滞なく、国土交通省令で定める事項を国土交通大臣に届け出なければならない。委託に係る契約が効力を失つたときも、同様とする。"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17_9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条の五第一項に規定する国土交通省令で定める書類（図面を含む。）は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24_5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "前条第一項前段の許可の申請をするには、申請書に、水道施設運営等事業実施計画書その他国土交通省令で定める書類（図面を含む。）を添えて、これを国土交通大臣に提出しなければならない。"
+        },
+        "match": "国土交通省令で定める書類（図面を含む。）"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17_10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条の五第三項第十号の国土交通省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24_5",
+                "paragraph": "3",
+                "item": "10"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の二第二項第四号の国土交通省令で定める事項は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25_2",
+                "paragraph": "2",
+                "item": "4"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の三第一項第二号の国土交通省令で定める機械器具は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25_3",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "国土交通省令で定める機械器具を有する者であること。"
+        },
+        "match": "国土交通省令で定める機械器具"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の三第一項第三号イの国土交通省令で定める者は、精神の機能の障害により給水装置工事の事業を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25_3",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "次のいずれにも該当しない者であること。心身の故障により給水装置工事の事業を適正に行うことができない者として国土交通省令で定めるもの破産手続開始の決定を受けて復権を得ない者この法律に違反して、刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から二年を経過しない者第二十五条の十一第一項の規定により指定を取り消され、その取消しの日から二年を経過しない者その業務に関し不正又は不誠実な行為をするおそれがあると認めるに足りる相当の理由がある者法人であつて、その役員のうちにイからホまでのいずれかに該当する者があるもの"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の四第三項第四号の国土交通省令で定める給水装置工事主任技術者の職務は、水道事業者の給水区域において施行する給水装置工事に関し、当該水道事業者と次の各号に掲げる連絡又は調整を行うこととする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25_4",
+                "paragraph": "3",
+                "item": "4"
+            },
+            "text": "その他国土交通省令で定める職務"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "34",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の七の国土交通省令で定める事項は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25_7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定給水装置工事事業者は、事業所の名称及び所在地その他国土交通省令で定める事項に変更があつたとき、又は給水装置工事の事業を廃止し、休止し、若しくは再開したときは、国土交通省令で定めるところにより、その旨を水道事業者に届け出なければならない。"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "36",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の八に規定する国土交通省令で定める給水装置工事の事業の運営に関する基準は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25_8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定給水装置工事事業者は、国土交通省令で定める給水装置工事の事業の運営に関する基準に従い、適正な給水装置工事の事業の運営に努めなければならない。"
+        },
+        "match": "国土交通省令で定める給水装置工事の事業の運営に関する基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の十六第二項の国土交通省令・環境省令で定める要件は、次の各号のいずれかに該当する者であることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25_16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定試験機関は、試験委員を選任しようとするときは、国土交通省令・環境省令で定める要件を備える者のうちから選任しなければならない。"
+        },
+        "match": "国土交通省令・環境省令で定める要件"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "43",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の十八第二項の国土交通省令・環境省令で定める試験事務規程で定めるべき事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25_18",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "試験事務規程で定めるべき事項は、国土交通省令・環境省令で定める。"
+        },
+        "match": "国土交通省令・環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "45",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条の二十の国土交通省令・環境省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25_20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定試験機関は、国土交通省令・環境省令で定めるところにより、試験事務に関する事項で国土交通省令・環境省令で定めるものを記載した帳簿を備え、これを保存しなければならない。"
+        },
+        "match": "国土交通省令・環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "49",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十七条第一項に規定する国土交通省令で定める書類及び図面は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道用水供給事業経営の認可の申請をするには、申請書に、事業計画書、工事設計書その他国土交通省令で定める書類（図面を含む。）を添えて、これを国土交通大臣に提出しなければならない。"
+        },
+        "match": "国土交通省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "49",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "地方公共団体が申請者である場合であつて、当該申請が他の水道用水供給事業の全部を譲り受けることに伴うものであるときは、法第二十七条第一項に規定する国土交通省令で定める書類及び図面は、前項の規定にかかわらず、同項第五号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道用水供給事業経営の認可の申請をするには、申請書に、事業計画書、工事設計書その他国土交通省令で定める書類（図面を含む。）を添えて、これを国土交通大臣に提出しなければならない。"
+        },
+        "match": "国土交通省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "50",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十七条第四項第六号に規定する国土交通省令で定める事項は、工事費の算出根拠及び借入金の償還方法とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "4",
+                "item": "6"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "51",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第四条の規定は、法第三十条第二項において準用する法第二十七条第五項第七号に規定する国土交通省令で定める事項について準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "5",
+                "item": "7"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "51",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "第四十九条の規定は、法第三十条第二項において準用する法第二十七条第一項に規定する国土交通省令で定める書類及び図面について準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道用水供給事業経営の認可の申請をするには、申請書に、事業計画書、工事設計書その他国土交通省令で定める書類（図面を含む。）を添えて、これを国土交通大臣に提出しなければならない。"
+        },
+        "match": "国土交通省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "51",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前条の規定は、法第三十条第二項において準用する法第二十七条第四項第六号に規定する国土交通省令で定める事項について準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "4",
+                "item": "6"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "51_4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十条第一項第一号の国土交通省令で定める軽微な変更は、次のいずれかの変更とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "その変更が国土交通省令で定める軽微なものであるとき。"
+        },
+        "match": "国土交通省令で定める軽微な"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "53",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十三条第一項に規定する国土交通省令で定める書類及び図面は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "前条の確認の申請をするには、申請書に、工事設計書その他国土交通省令で定める書類（図面を含む。）を添えて、これを都道府県知事に提出しなければならない。"
+        },
+        "match": "国土交通省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "55",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十四条の二第一項に規定する国土交通省令で定める基準は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "34_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "簡易専用水道の設置者は、国土交通省令で定める基準に従い、その水道を管理しなければならない。"
+        },
+        "match": "国土交通省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "56_4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十四条の四において読み替えて準用する法第二十条の六第二項の国土交通省令・環境省令で定める方法は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録水質検査機関は、公正に、かつ、国土交通省令・環境省令で定める方法により水質検査を行わなければならない。"
+        },
+        "match": "国土交通省令・環境省令で定める方法"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "56_6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十四条の四において読み替えて準用する法第二十条の八第二項の国土交通省令・環境省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_8",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "水質検査業務規程には、水質検査の実施方法、水質検査に関する料金その他の国土交通省令・環境省令で定める事項を定めておかなければならない。"
+        },
+        "match": "の国土交通省令・環境省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年厚生省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "56_9",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第三十四条の四において読み替えて準用する法第二十条の十四の国土交通省令・環境省令で定める事項は次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "登録水質検査機関は、国土交通省令・環境省令で定めるところにより、水質検査に関する事項で国土交通省令・環境省令で定めるものを記載した帳簿を備え、これを保存しなければならない。"
+        },
+        "match": "国土交通省令・環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道法（以下「法」という。）第三条第六項ただし書に規定する政令で定める基準は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "6",
+                "item": "0"
+            },
+            "text": "この法律において「専用水道」とは、寄宿舎、社宅、療養所等における自家用の水道その他水道事業の用に供する水道以外の水道であつて、次の各号のいずれかに該当するものをいう。ただし、他の水道から供給を受ける水のみを水源とし、かつ、その水道施設のうち地中又は地表に施設されている部分の規模が政令で定める基準以下である水道を除く。"
+        },
+        "match": "政令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第三条第六項第二号に規定する政令で定める基準は、人の飲用その他の国土交通省令で定める目的のために使用する水量が二十立方メートルであることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "6",
+                "item": "2"
+            },
+            "text": "その水道施設の一日最大給水量（一日に給水することができる最大の水量をいう。以下同じ。）が政令で定める基準を超えるもの"
+        },
+        "match": "政令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三条第七項ただし書に規定する政令で定める基準は、水道事業の用に供する水道から水の供給を受けるために設けられる水槽の有効容量の合計が十立方メートルであることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "7",
+                "item": "0"
+            },
+            "text": "この法律において「簡易専用水道」とは、水道事業の用に供する水道及び専用水道以外の水道であつて、水道事業の用に供する水道から供給を受ける水のみを水源とするものをいう。ただし、その用に供する施設の規模が政令で定める基準以下のものを除く。"
+        },
+        "match": "政令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三条第十項に規定する政令で定める水道施設の増設又は改造の工事は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "10",
+                "item": "0"
+            },
+            "text": "この法律において「水道の布設工事」とは、水道施設の新設又は政令で定めるその増設若しくは改造の工事をいう。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条第二項に規定する政令で定める基準は、給水人口が五千人であることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "地方公共団体以外の水道事業者（給水人口が政令で定める基準を超えるものに限る。）が、前項の許可の申請をしようとするときは、あらかじめ、当該水道事業の給水区域をその区域に含む市町村に協議しなければならない。"
+        },
+        "match": "政令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条第二項（法第三十一条において準用する場合を含む。）に規定する政令で定める資格は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の業務を行う者は、政令で定める資格（当該水道事業者が地方公共団体である場合にあつては、当該資格を参酌して当該地方公共団体の条例で定める資格）を有する者でなければならない。"
+        },
+        "match": "政令で定める資格"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十九条第三項（法第三十一条及び第三十四条第一項において準用する場合を含む。）に規定する政令で定める資格は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "水道技術管理者は、政令で定める資格（当該水道事業者が地方公共団体である場合にあつては、当該資格を参酌して当該地方公共団体の条例で定める資格）を有する者でなければならない。"
+        },
+        "match": "政令で定める資格"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十条の五第一項（法第三十四条の四において準用する場合を含む。）の政令で定める期間は、三年とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第二十条第三項の登録は、三年を下らない政令で定める期間ごとにその更新を受けなければ、その期間の経過によつて、その効力を失う。"
+        },
+        "match": "政令で定める期間"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条の三第一項（法第三十一条及び第三十四条第一項において準用する場合を含む。）に規定する政令で定める要件は、法第二十四条の三第一項の規定により委託を受けて行う業務を適正かつ確実に遂行するに足りる経理的及び技術的な基礎を有するものであることとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道事業者は、政令で定めるところにより、水道の管理に関する技術上の業務の全部又は一部を他の水道事業者若しくは水道用水供給事業者又は当該業務を適正かつ確実に実施することができる者として政令で定める要件に該当するものに委託することができる。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条の三第五項（法第三十一条及び第三十四条第一項において準用する場合を含む。）に規定する政令で定める資格は、第七条の規定により水道技術管理者たる資格を有する者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24_3",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "受託水道業務技術管理者は、政令で定める資格を有する者でなければならない。"
+        },
+        "match": "政令で定める資格"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十四条に規定する政令で定める費用は、別表の中欄に掲げる費用とし、同条の規定による補助は、その費用につき国土交通大臣が定める基準によつて算出した額（同表の中欄に掲げる施設の新設又は増設に関して寄附金その他の収入金があるときは、その額からその収入金の額を限度として国土交通大臣が定める額を控除した額）に、それぞれ同表の下欄に掲げる割合を乗じて得た額について行うものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "44",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国は、水道事業又は水道用水供給事業を経営する地方公共団体に対し、その事業に要する費用のうち政令で定めるものについて、予算の範囲内において、政令の定めるところにより、その一部を補助することができる。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十五条の三第一項の政令で定める手数料の額は、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める額とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "45_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "給水装置工事主任技術者免状の交付、書換え交付又は再交付を受けようとする者は、国に、実費を勘案して政令で定める額の手数料を納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第四十五条の三第二項の政令で定める受験手数料の額は、二万千三百円とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "45_3",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "給水装置工事主任技術者試験を受けようとする者は、国（指定試験機関が試験事務を行う場合にあつては、指定試験機関）に、実費を勘案して政令で定める額の受験手数料を納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十二年政令第三百三十六号",
+            "lawArticle": {
+                "provision": "昭和六〇年五月二一日政令第一四一号",
+                "article": "2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "水源開発施設又は水道施設の新設又は増設に要する費用につき昭和五十九年度以前の年度の予算に係る国の補助が行われた当該施設の新設又は増設についての水道法第四十四条に規定する政令で定める費用については、なお従前の例による。"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "44",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国は、水道事業又は水道用水供給事業を経営する地方公共団体に対し、その事業に要する費用のうち政令で定めるものについて、予算の範囲内において、政令の定めるところにより、その一部を補助することができる。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十六年自治省令第六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31_6",
+                "paragraph": "7",
+                "item": "4"
+            },
+            "text": "水道法（昭和三十二年法律第百七十七号）第十二条第二項に規定する政令で定める資格（同条第一項の水道事業者が地方公共団体である場合にあっては、当該資格を参酌して当該地方公共団体の条例で定める資格）を有する者"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第百七十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の業務を行う者は、政令で定める資格（当該水道事業者が地方公共団体である場合にあつては、当該資格を参酌して当該地方公共団体の条例で定める資格）を有する者でなければならない。"
+        },
+        "match": "政令で定める資格（"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和五十年建設省令第四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第三項第五号の国土交通省令で定める図書は、次に掲げる事項を記載した書面とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "3",
+                "item": "5"
+            },
+            "text": "その他国土交通省令で定める図書"
+        },
+        "match": "国土交通省令で定める図書"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十年建設省令第四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条の国土交通省令で定める事項は、法第十四条第一項（法第十九条において準用する場合を含む。以下同じ。）の規定による申出に関する事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "施行者は、土地収用法第二十八条の二の規定により補償等について周知させるための措置を講ずる場合においては、同条に規定する事項のほか、当初収用率その他国土交通省令で定める事項を附加してしなければならない。"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十年建設省令第四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条の国土交通省令で定める事項は、法第十四条第一項（法第十九条において準用する場合を含む。以下同じ。）の規定による申出に関する事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "施行区域内の土地の所有者又は土地に関して所有権以外の権利を有する者（先取特権者、質権者、抵当権者、既登記の差押債権者又は既登記の仮差押債権者を除く。以下「関係用益権者」という。）は、前条第二項の規定による公告があつた後、国土交通省令で定めるところにより、施行者に対し、自己の権利に係る各筆の土地について、施行者が収用すべき土地の部分が各筆ごとに一団のものとなるように指定して、その旨を申し出ることができる。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十年建設省令第四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "38",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十五条第一項に規定する国土交通省令で定める軽微な変更は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "45",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "施行者である地方公共団体は、処分計画を定めようとする場合においては、国土交通省令で定めるところにより、あらかじめ、都道府県にあつては国土交通大臣に、市町村にあつては都道府県知事に協議し、その同意を得なければならない。これを変更しようとする場合（国土交通省令で定める軽微な変更をしようとする場合を除く。）においても、同様とする。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十年建設省令第四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "42",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五十三条第一項に規定する国土交通省令で定める標識は、標示杭に新都市基盤整備事業の名称及び新都市基盤整備事業を施行しようとする者又は施行者の名称を表示したものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "53",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "新都市基盤整備事業を施行しようとする者又は施行者は、新都市基盤整備事業の施行の準備若しくは施行に必要な測量を行なうため、又は仮換地若しくは換地の位置を表示するため必要がある場合においては、国土交通省令で定める標識を設けることができる。"
+        },
+        "match": "国土交通省令で定める標識"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十七年政令第四百三十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "新都市基盤整備法（以下「法」という。）第二条第五項の根幹的な公共の用に供する施設として政令で定めるものは、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "この法律において「根幹公共施設」とは、施行区域を良好な環境の都市とするために必要な根幹的な道路、鉄道、公園、下水道その他の公共の用に供する施設として政令で定めるものをいう。"
+        },
+        "match": "公共の用に供する施設として政令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十七年政令第四百三十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第七項第一号の政令で定める公共の用に供する施設は、道路、公園、緑地、広場、河川及び水路とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "7",
+                "item": "1"
+            },
+            "text": "道路、広場、河川その他の政令で定める公共の用に供する施設（以下「公共施設」という。）の用に供されている土地で国又は地方公共団体が所有するもの"
+        },
+        "match": "の政令で定める公共の用に供する施設"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十七年政令第四百三十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第七項第三号の学術上又は宗教上特別な価値のある土地で政令で定めるものは、次に掲げる土地とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "7",
+                "item": "3"
+            },
+            "text": "学術上又は宗教上特別な価値のある土地で政令で定めるもの"
+        },
+        "match": "学術上又は宗教上特別な価値のある土地で政令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十七年政令第四百三十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十三条第一項第五号の政令で定める事項は、地積の決定の方法に関する事項とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "その他政令で定める事項"
+        },
+        "match": "政令で定める事項"
+    }
+]

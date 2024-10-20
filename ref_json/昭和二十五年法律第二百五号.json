@@ -1,0 +1,94 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成十八年政令第二百三十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国土形成計画法（以下「法」という。）第九条第一項第一号の政令で定める県は、茨城県、栃木県、群馬県、千葉県及び山梨県とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年法律第二百五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "首都圏（埼玉県、東京都、神奈川県その他政令で定める県の区域を一体とした区域をいう。）"
+        },
+        "match": "政令で定める県"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年政令第二百三十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第九条第一項第二号の政令で定める県は、滋賀県、奈良県及び和歌山県とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年法律第二百五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "近畿圏（京都府、大阪府、兵庫県その他政令で定める県の区域を一体とした区域をいう。）"
+        },
+        "match": "政令で定める県"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年政令第二百三十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第九条第一項第三号の政令で定める県は、長野県、岐阜県及び静岡県とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年法律第二百五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "中部圏（愛知県、三重県その他政令で定める県の区域を一体とした区域をいう。）"
+        },
+        "match": "政令で定める県"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十八年政令第二百三十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "法第九条第一項第四号の政令で定める区域は、次に掲げる区域とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年法律第二百五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "その他自然、経済、社会、文化等において密接な関係が相当程度認められる二以上の県の区域であつて、一体として総合的な国土の形成を推進する必要があるものとして政令で定める区域"
+        },
+        "match": "政令で定める区域"
+    }
+]

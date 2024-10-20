@@ -1,0 +1,71 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成二十年国土交通省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国土交通省組織令第二百四十三条の二第二項の国土交通省令で定める区域は、別表のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年政令第二百五十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "243_2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の首席地方事故調査官は、国土交通省令で定める区域ごとに置く。"
+        },
+        "match": "国土交通省令で定める区域"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十年国土交通省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国土交通省組織令第二百四十三条の八第一号の国土交通省令で定める重大な船舶事故等は、次の各号のいずれかに該当するものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年政令第二百五十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "243_8",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "旅客の死亡を伴う船舶事故その他の国土交通省令で定める重大な船舶事故等以外の船舶事故等であってその置かれた第二百四十三条の二第二項に規定する区域において発生したものの原因を究明するための調査に関すること。"
+        },
+        "match": "の国土交通省令で定める重大な船舶事故等"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十年国土交通省令第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "国土交通省組織令第二百四十三条の八第二号の国土交通省令で定める重大な船舶事故は、前項各号のいずれかに該当するものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十二年政令第二百五十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "243_8",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "旅客の死亡を伴う船舶事故その他の国土交通省令で定める重大な船舶事故以外の船舶事故であってその置かれた第二百四十三条の二第二項に規定する区域において発生したものに伴い発生した被害の原因を究明するための調査に関すること。"
+        },
+        "match": "の国土交通省令で定める重大な船舶事故"
+    }
+]

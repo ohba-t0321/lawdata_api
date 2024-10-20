@@ -1,0 +1,692 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和四十八年政令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "自然環境保全法（以下「法」という。）第十四条第一項の政令で定める面積は、千ヘクタールとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "環境大臣は、その区域における自然環境が人の活動によつて影響を受けることなく原生の状態を維持しており、かつ、政令で定める面積以上の面積を有する土地の区域であつて、国又は地方公共団体が所有するもの（森林法（昭和二十六年法律第二百四十九号）第二十五条第一項又は第二十五条の二第一項若しくは第二項の規定により指定された保安林（同条第一項後段又は第二項後段において準用する同法第二十五条第二項の規定により指定された保安林を除く。）の区域を除く。）のうち、当該自然環境を保全することが特に必要なものを原生自然環境保全地域として指定することができる。"
+        },
+        "match": "政令で定める面積"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年政令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十六条第一項の政令で定める施設は、管理上必要な巡視歩道、管理舎、標識その他これらに類する施設とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "原生自然環境保全地域に関する保全事業（原生自然環境保全地域に関する保全計画に基づいて執行する事業であつて、当該地域における自然環境の保全のための施設で政令で定めるものに関するものをいう。以下同じ。）は、国が執行する。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年政令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十二条第一項第一号の政令で定める面積は千ヘクタールとし、同号の政令で定める地域は北海道とし、同号の政令で定める標高は八百メートルとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "高山性植生又は亜高山性植生が相当部分を占める森林又は草原の区域（これと一体となつて自然環境を形成している土地の区域を含む。）でその面積が政令で定める面積以上のもの（政令で定める地域にあつては、政令で定める標高以上の標高の土地の区域に限る。）"
+        },
+        "match": "政令で定める面積"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年政令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二十二条第一項第二号の政令で定める面積は、百ヘクタールとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "優れた天然林が相当部分を占める森林の区域（これと一体となつて自然環境を形成している土地の区域を含む。）でその面積が政令で定める面積以上のもの"
+        },
+        "match": "政令で定める面積"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年政令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第二十二条第一項第三号から第五号までの政令で定める面積は、十ヘクタールとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "地形若しくは地質が特異であり、又は特異な自然の現象が生じている土地の区域及びこれと一体となつて自然環境を形成している土地の区域でその面積が政令で定める面積以上のもの"
+        },
+        "match": "政令で定める面積"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年政令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "法第二十二条第一項第六号の政令で定める土地の区域は植物の自生地、野生動物の生息地若しくは繁殖地又は樹齢が特に高く、かつ、学術的価値を有する人工林が相当部分を占める森林の区域とし、同号の政令で定める面積は十ヘクタールとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "6"
+            },
+            "text": "植物の自生地、野生動物の生息地その他の政令で定める土地の区域でその区域における自然環境が前各号に掲げる区域における自然環境に相当する程度を維持しているもののうち、その面積が政令で定める面積以上のもの"
+        },
+        "match": "の政令で定める土地の区域"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年政令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条第一項の政令で定める施設は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "自然環境保全地域に関する保全事業（自然環境保全地域に関する保全計画に基づいて執行する事業であつて、当該地域における自然環境の保全のための施設で政令で定めるものに関するものをいう。以下同じ。）は、国が執行する。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年政令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十五条の四第三項第四号の政令で定める行為は、二酸化炭素の貯留事業に関する法律（令和六年法律第三十八号）第百七条第一項に規定する探査を行うことであつて環境大臣が経済産業大臣の同意を得て定める方法によるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "35_4",
+                "paragraph": "3",
+                "item": "4"
+            },
+            "text": "前三号に掲げるもののほか、沖合海底自然環境保全地域における自然環境の保全に影響を及ぼすおそれがある行為で政令で定めるもの"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年政令第三十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六十条第一項の政令で定める者は、警察官及び海上保安官とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "60",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "司法警察員である者であつて政令で定めるもの（以下「取締官」という。）は、次に掲げる場合には、当該船舶の船長（船長に代わつてその職務を行う者を含む。）及び違反者（当該船舶の乗組員に限る。以下同じ。）に対し、遅滞なく、次項に掲げる事項を告知しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十七条第五項第二号の環境省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "5",
+                "item": "2"
+            },
+            "text": "通常の管理行為又は軽易な行為のうち、原生自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるもの"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十九条第三項第四号の環境省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "3",
+                "item": "4"
+            },
+            "text": "通常の管理行為又は軽易な行為のうち、原生自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるものを行なうために立ち入る場合"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第六項の環境省令で定める基準は、次の各号に掲げる行為の区分に従い、当該各号に定めるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "6",
+                "item": "0"
+            },
+            "text": "環境大臣は、第四項各号に掲げる行為で環境省令で定める基準に適合しないものについては、同項の許可をしてはならない。"
+        },
+        "match": "環境省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第十項第三号の環境省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "10",
+                "item": "3"
+            },
+            "text": "法令に基づいて国又は地方公共団体が行う行為のうち、自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるもの"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第十項第四号の環境省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "10",
+                "item": "4"
+            },
+            "text": "通常の管理行為又は軽易な行為のうち、自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるもの"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十六条第三項第五号の環境省令で定める行為は、第十八条各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "3",
+                "item": "5"
+            },
+            "text": "法令に基づいて国又は地方公共団体が行う行為のうち、自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるものを行うためにする場合"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十六条第三項第六号の環境省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "3",
+                "item": "6"
+            },
+            "text": "通常の管理行為又は軽易な行為のうち、自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるものを行うためにする場合"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十七条第五項の環境省令で定める基準は、次の各号に掲げる行為の区分に従い、当該各号に定めるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "環境大臣は、第三項各号に掲げる行為で環境省令で定める基準に適合しないものについては、同項の許可をしてはならない。"
+        },
+        "match": "環境省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十七条第九項第三号の環境省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "9",
+                "item": "3"
+            },
+            "text": "法令に基づいて国又は地方公共団体が行う行為のうち、自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるもの"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十七条第九項第四号の環境省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "9",
+                "item": "4"
+            },
+            "text": "通常の管理行為又は軽易な行為のうち、自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるもの"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第二十八条第一項の環境省令で定める事項は、行為者の住所及び氏名（法人にあつては、主たる事務所の所在地及び名称並びに代表者の氏名）、行為の目的、行為地及びその付近の状況並びに行為の完了予定日とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "自然環境保全地域の区域のうち特別地区及び海域特別地区に含まれない区域（以下「普通地区」という。）内において次に掲げる行為をしようとする者は、あらかじめ、環境大臣に対し、環境省令で定めるところにより、行為の種類、場所、施行方法及び着手予定日その他環境省令で定める事項を届け出なければならない。ただし、第一号から第三号までに掲げる行為で森林法第三十四条第二項本文の規定に該当するものを保安林等の区域内においてしようとする者及び第一号から第三号までに掲げる行為で海域内において漁具の設置その他漁業を行うために必要とされるものをしようとする者は、この限りでない。"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十八条第一項第一号の環境省令で定める基準は、次の各号に掲げる区域の区分に従い、工作物の種類ごとに当該各号に定めるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "その規模が環境省令で定める基準を超える建築物その他の工作物を新築し、改築し、又は増築すること（改築又は増築後において、その規模が環境省令で定める基準を超えるものとなる場合における改築又は増築を含む。）。"
+        },
+        "match": "環境省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十八条第六項第四号の環境省令で定める行為は、第十八条各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "6",
+                "item": "4"
+            },
+            "text": "法令に基づいて国又は地方公共団体が行う行為のうち、自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるもの"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "29",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十八条第六項第五号の環境省令で定める行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "6",
+                "item": "5"
+            },
+            "text": "通常の管理行為又は軽易な行為のうち、自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるもの"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30_4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第三十条の三第四項第四号に規定する環境省令で定める事項は、生態系維持回復事業を行う期間とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30_3",
+                "paragraph": "4",
+                "item": "4"
+            },
+            "text": "前三号に掲げるもののほか、環境省令で定める事項"
+        },
+        "match": "環境省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30_4",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第三十条の三第五項に規定する環境省令で定める書類は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30_3",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "前項の申請書には、生態系維持回復事業を行う区域を示す図面その他の環境省令で定める書類を添付しなければならない。"
+        },
+        "match": "環境省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30_5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十条の三第六項ただし書に規定する環境省令で定める軽微な変更は、同条第四項第一号に掲げる事項に係る変更とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30_3",
+                "paragraph": "6",
+                "item": "0"
+            },
+            "text": "第二項の確認又は第三項の認定を受けた者は、第四項各号に掲げる事項を変更しようとするときは、地方公共団体にあつては環境大臣の確認を、国及び地方公共団体以外の者にあつては環境大臣の認定を受けなければならない。ただし、環境省令で定める軽微な変更については、この限りでない。"
+        },
+        "match": "環境省令で定める軽微な変更"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31_5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十五条の四第五項の環境省令で定める基準は、次の各号に掲げる特定行為の区分に従い、当該各号に定めるとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "35_4",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "環境大臣は、特定行為で当該特定行為に伴う海底の形質の変更が沖合海底特別地区における自然環境の保全に支障を及ぼすおそれが少ないことその他の環境省令で定める基準に適合しないものについては、第三項の許可をしてはならない。"
+        },
+        "match": "の環境省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31_6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十五条の四第八項の環境省令で定める特定行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "35_4",
+                "paragraph": "8",
+                "item": "0"
+            },
+            "text": "特定行為のうち、沖合海底特別地区における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるものについては、第三項の規定は、適用しない。"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31_7",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第三十五条の五第一項の環境省令で定める事項は、特定行為をしようとする者の住所及び氏名（法人にあつては、主たる事務所の所在地及び名称並びに代表者の氏名）、特定行為の目的、特定行為の実施場所及びその付近の状況、特定行為の完了予定日、特定行為の自然環境に及ぼす影響（鉱物の掘採を行う場合に限る。）並びに特定行為を行う海底の区域及びその周辺の海域における当該特定行為の自然環境に及ぼす影響の監視に関する計画（鉱物の採掘を行う場合に限る。）とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "35_5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "沖合海底自然環境保全地域の区域のうち沖合海底特別地区に含まれない区域内において特定行為をしようとする者は、あらかじめ、環境大臣に対し、環境省令で定めるところにより、特定行為の種類、場所、施行方法及び着手予定日その他環境省令で定める事項を届け出なければならない。"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十八年総理府令第六十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31_8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十五条の五第五項第一号の環境省令で定める特定行為は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年法律第八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "35_5",
+                "paragraph": "5",
+                "item": "1"
+            },
+            "text": "特定行為のうち、沖合海底自然環境保全地域における自然環境の保全に支障を及ぼすおそれがないもので環境省令で定めるもの"
+        },
+        "match": "環境省令で定める"
+    }
+]

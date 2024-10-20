@@ -1,0 +1,209 @@
+[
+    {
+        "ref": {
+            "lawNum": "平成七年建設省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第三項第六号の国土交通省令で定める事業は、住宅地区改良法（昭和三十五年法律第八十四号）による住宅地区改良事業とし、同号の国土交通省令で定める公告、告示等は、住宅地区改良法第八条第一項に規定する告示とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十五年法律第八十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "施行者は、事業計画を定めたときは、国土交通省令で定めるところにより、その旨を告示しなければならない。"
+        },
+        "match": "国土交通省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十五年建設省令第十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第二項第三号に規定する国土交通省令で定める事項は、改良住宅、公営住宅法（昭和二十六年法律第百九十三号）の規定による公営住宅又は一団地の住宅施設に関する都市計画事業により建設される住宅の建設予定戸数とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十五年法律第八十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十五年建設省令第十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第三項第五号に規定する国土交通省令で定める事項は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十五年法律第八十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "3",
+                "item": "5"
+            },
+            "text": "その他国土交通省令で定める事項"
+        },
+        "match": "国土交通省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十五年建設省令第十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十四条第一項に規定する国土交通省令で定める標識は、標示杭ぐいに住宅地区改良事業及び施行者の名称を表示したものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十五年法律第八十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "都道府県又は市町村は、住宅地区改良事業の施行の準備又は施行に必要な測量を行なうため必要がある場合においては、国土交通省令で定める標識を設けることができる。"
+        },
+        "match": "国土交通省令で定める標識"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十五年政令第百二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第七項に規定する政令で定める施設は、保育所、幼保連携型認定こども園、授産所、隣保館及び管理事務所とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十五年法律第八十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "7",
+                "item": "0"
+            },
+            "text": "この法律において「地区施設」とは、児童遊園、共同浴場、集会所、共同作業場その他改良地区内に建設される住宅の居住者の共同の福祉又は利便のため必要な施設で政令で定めるものをいう。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十五年政令第百二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第八項に規定する政令で定める施設は、緑地、鉄道、軌道、水道、下水道及び河川とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十五年法律第八十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "8",
+                "item": "0"
+            },
+            "text": "この法律において「公共施設」とは、道路、公園、広場その他公共の用に供する施設で政令で定めるものをいう。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十五年政令第百二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一項に規定する政令で定める基準は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十五年法律第八十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国土交通大臣は、不良住宅が密集して、保安、衛生等に関し危険又は有害な状況にある一団地で政令で定める基準に該当するものを改良地区として指定することができる。"
+        },
+        "match": "政令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十五年政令第百二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第二項及び第八条第三項に規定する政令で定める軽微な変更は、次の各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十五年法律第八十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定は、施行者が事業計画を変更しようとする場合（政令で定める軽微な変更をしようとする場合を除く。）に準用する。"
+        },
+        "match": "政令で定める軽微な変更"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十五年政令第百二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条第一項に規定する政令で定める移動の容易でない物件は、その重量が五トンをこえる物件（容易に分割され、分割された各部分の重量がそれぞれ五トン以下となるものを除く。）とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十五年法律第八十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "前条第一項の告示があつた日後、改良地区内において、住宅地区改良事業の施行の障害となるおそれがある土地の形質の変更若しくは建築物その他の工作物の新築、改築若しくは増築を行い、又は政令で定める移動の容易でない物件の設置若しくは堆積を行おうとする者は、都道府県知事（市が施行する住宅地区改良事業の区域内にあつては、当該市の長。以下「都道府県知事等」という。）の許可を受けなければならない。"
+        },
+        "match": "政令で定める移動の容易でない物件"
+    }
+]

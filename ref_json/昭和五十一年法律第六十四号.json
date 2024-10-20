@@ -1,0 +1,232 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和五十一年政令第二百八十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "振動規制法（以下「法」という。）第二条第一項の政令で定める施設は、別表第一に掲げる施設とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律において「特定施設」とは、工場又は事業場に設置される施設のうち、著しい振動を発生する施設であつて政令で定めるものをいう。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年政令第二百八十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第三項の政令で定める作業は、別表第二に掲げる作業とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "この法律において「特定建設作業」とは、建設工事として行われる作業のうち、著しい振動を発生する作業であつて政令で定めるものをいう。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年政令第二百八十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十二条第三項の政令で定める施設は、別表第一第一号ニに掲げる施設とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前二項の規定は、第七条第一項の規定による届出をした者の当該届出に係る特定工場等については、同項に規定する指定地域となつた日又は同項に規定する特定施設となつた日から三年間（当該施設が政令で定める施設である場合にあつては、四年間）は、適用しない。ただし、当該地域が指定地域となつた際又は当該施設が特定施設となつた際その者に適用されている地方公共団体の条例の規定で第一項の規定に相当するものがあるとき、及びその者が第八条第一項の規定による届出をした場合において当該届出が受理された日から三十日を経過したときは、この限りでない。"
+        },
+        "match": "政令で定める施設"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年総理府令第五十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第六条第一項第六号の環境省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "6"
+            },
+            "text": "その他環境省令で定める事項"
+        },
+        "match": "環境省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年総理府令第五十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第六条第二項（法第七条第二項及び第八条第三項において準用する場合を含む。）の環境省令で定める書類は、特定工場等及びその付近の見取図とする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定による届出には、特定施設の配置図その他環境省令で定める書類を添付しなければならない。"
+        },
+        "match": "環境省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年総理府令第五十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第八条第一項ただし書の環境省令で定める軽微な変更は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "8",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第六条第一項又は前条第一項の規定による届出をした者は、その届出に係る第六条第一項第三号から第五号に掲げる事項の変更をしようとするときは、当該事項の変更に係る工事の開始の日の三十日前までに、環境省令で定めるところにより、その旨を市町村長に届け出なければならない。ただし、その変更が環境省令で定める軽微なものであるときは、この限りでない。"
+        },
+        "match": "環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年総理府令第五十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十四条第一項第五号の環境省令で定める事項は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "その他環境省令で定める事項"
+        },
+        "match": "環境省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年総理府令第五十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第十四条第三項の環境省令で定める書類は、特定建設作業を伴う建設工事の工程の概要を示した工事工程表で特定建設作業の工程を明示したものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前二項の規定による届出には、当該特定建設作業の場所の付近の見取図その他環境省令で定める書類を添付しなければならない。"
+        },
+        "match": "環境省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年総理府令第五十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条第一項の環境省令で定める基準は、別表第一のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "市町村長は、指定地域内において行われる特定建設作業に伴つて発生する振動が環境省令で定める基準に適合しないことによりその特定建設作業の場所の周辺の生活環境が著しく損なわれると認めるときは、当該建設工事を施工する者に対し、期限を定めて、その事態を除去するために必要な限度において、振動の防止の方法を改善し、又は特定建設作業の作業時間を変更すべきことを勧告することができる。"
+        },
+        "match": "環境省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年総理府令第五十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十六条第一項の環境省令で定める限度は、別表第二のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年法律第六十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "市町村長は、第十九条の測定を行つた場合において、指定地域内における道路交通振動が環境省令で定める限度を超えていることにより道路の周辺の生活環境が著しく損なわれていると認めるときは、道路管理者に対し当該道路の部分につき道路交通振動の防止のための舗装、維持又は修繕の措置を執るべきことを要請し、又は都道府県公安委員会に対し道路交通法（昭和三十五年法律第百五号）の規定による措置を執るべきことを要請するものとする。"
+        },
+        "match": "環境省令で定める限度"
+    }
+]

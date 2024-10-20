@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "令和四年内閣府令第四十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第三項第八号に規定する内閣府令で定める事項は、性行為映像制作物について頒布又は上映を行う国名又は地域名（国内の一部で頒布又は上映を行う場合にあっては、その都道府県名）及び公衆送信を行う国名又は地域名（自動公衆送信装置（著作権法（昭和四十五年法律第四十八号）第二条第一項第九号の五イに規定する自動公衆送信装置をいう。）を用いる場合にあっては、当該自動公衆送信装置の設置者の氏名又は名称及び住所地の属する国名又は地域名）とする。"
+        },
+        "referred": {
+            "lawNum": "令和四年法律第七十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "3",
+                "item": "8"
+            },
+            "text": "その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "令和四年内閣府令第四十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第一項第五号に規定する内閣府令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "令和四年法律第七十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "その他内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    }
+]

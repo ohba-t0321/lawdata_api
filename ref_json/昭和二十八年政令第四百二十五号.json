@@ -1,0 +1,117 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十八年文部省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1_2",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "施行令第一条の二第二項第二号に規定する文部科学省令で定めるものは、厚生年金保険法（昭和二十九年法律第百十五号）第十二条第五号ロに規定する厚生労働省令で定める賃金に相当するものとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第四百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1_2",
+                "paragraph": "2",
+                "item": "2"
+            },
+            "text": "報酬（最低賃金法（昭和三十四年法律第百三十七号）第四条第三項各号に掲げる賃金に相当するものとして文部科学省令で定めるものを除く。）について、文部科学省令で定めるところにより、法第二十二条第八項の規定の例により算定した額が、八万八千円未満であること。"
+        },
+        "match": "文部科学省令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年文部省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1_2",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "施行令第一条の二第二項第三号に規定する文部科学省令で定める者は、厚生年金保険法第十二条第五号ハに規定する厚生労働省令で定める者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第四百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1_2",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "学校教育法（昭和二十二年法律第二十六号）第五十条に規定する高等学校の生徒、同法第八十三条に規定する大学の学生その他の文部科学省令で定める者であること。"
+        },
+        "match": "文部科学省令で定める者"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年文部省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "施行令第十一条第一項第五号に規定する文部科学省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第四百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "その他文部科学省令で定める事項"
+        },
+        "match": "文部科学省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年文部省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "施行令第十一条第二項第三号に規定する文部科学省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第四百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "その他文部科学省令で定める事項"
+        },
+        "match": "文部科学省令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年文部省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "36",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "施行令第三十一条の文部科学省令で定める金額は、会長及びその他の委員につき予算の範囲内で別に事業団の理事長が文部科学大臣の承認を受けて定める金額とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第四百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "31",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "事業団は、共済審査会の委員（以下「委員」という。）に対し、共済審査会に出席した日数に応じ、文部科学省令で定める金額の報酬を支払うものとする。"
+        },
+        "match": "文部科学省令で定める金額"
+    }
+]
