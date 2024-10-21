@@ -184,7 +184,7 @@ async function setupHover_reference(outputFrame) {
                 referredNum = referredJson.provision + '-' + referredJson.article + '-' + referredJson.paragraph + '-' + referredJson.item;
                 refJson = item.ref.lawArticle;
                 const words = item.match;
-                const lawData = `lawNum=${item.ref.lawNum} ${refJson.article!='0'?'article='+refJson.article:''}${' paragraph='+ refJson.paragraph}${refJson.item!=0?' item='+refJson.item:''}`
+                const lawData = `lawNum=${item.ref.lawNum}${refJson.article!='0'?' article='+refJson.article:''}${' paragraph='+ refJson.paragraph}${refJson.item!=0?' item='+refJson.item:''}`
                 linkSentences = lawTextElement.querySelectorAll('span.xml-Sentence[data-item="'+ referredNum +'"]')
                 linkSentences.forEach(linkSentence=>{
                     if (linkSentence){
@@ -248,15 +248,20 @@ function setupLink(itm) {
 };
 function convertToArticleFormat(input) {
     // アンダースコアで分割して配列にする
-    const parts = input.split('_');
+    if (input){
 
-    // 最初の部分を「第◯条」に変換
-    let result = `第${parts[0]}条`;
+        const parts = input.split('_');
 
-    // 残りの部分があれば「の◯」を追加
-    for (let i = 1; i < parts.length; i++) {
-        result += `の${parts[i]}`;
+        // 最初の部分を「第◯条」に変換
+        let result = `第${parts[0]}条`;
+
+        // 残りの部分があれば「の◯」を追加
+        for (let i = 1; i < parts.length; i++) {
+            result += `の${parts[i]}`;
+        }
+
+        return result;
+    } else {
+        return '';
     }
-
-    return result;
 }
