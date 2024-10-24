@@ -110,8 +110,8 @@ function setregex(left_right){
 
     // searchResultsをソート
     const sortedResults = Array.from(searchResults).sort((a, b) => {
-        const nameA = xmlData[a] || a;  // 法令番号がxmlDataに存在しない場合、デフォルトで法令番号を使用
-        const nameB = xmlData[b] || b;
+        const nameA = synonym[a] || xmlData[a] || 1;  // 法令番号がxmlDataに存在しない場合、1とする
+        const nameB = synonym[b] || xmlData[b] || 1;
         return nameB.length - nameA.length;  // 長さでソート（降順）
     });
     return {
