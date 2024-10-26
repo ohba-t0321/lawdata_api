@@ -1,17 +1,3 @@
-var searchText = {};
-
-refJson = [
-    {'referred':{'lawNum':'昭和二十三年法律第百七十八号','lawArticle':{'Provision':'MainProvision','article':'2','paragraph':'1'},'words':'政令で定める日'},
-    'ref':{'lawNum':'昭和四十一年政令第三百七十六号','lawArticle':{'paragraph':'1'}}}
-]
-
-// JSONをkey1=value1 key2=value2 ...の形に変換する関数
-function jsonToString(obj) {
-    return Object.entries(obj)
-        .map(([key, value]) => `${key}=${value}`)
-        .join(' ');
-}
-
 // 漢数字を算用数字に直す関数
 function kanjiToNumber(kanji) {
     if (kanji){
@@ -82,7 +68,7 @@ function setregex(left_right){
     const searchResults = new Set();
     const synonym = {};
     const lawTextElement = document.getElementById('law-content-' + left_right).innerHTML;
-    const regex = /(?<=（)((?:令和|平成|昭和|大正|明治)[一二三四五六七八九十]+年(?:法律|政令|省令|内閣府令)第[一二三四五六七八九十百千万]+号)(?:。以下「(.*?)」という。)?(?=）)/g;
+    const regex = /(?<=（)((?:令和|平成|昭和|大正|明治)[元一二三四五六七八九十]+年(?:法律|政令|省令|内閣府令)第[一二三四五六七八九十百千万]+号)(?:。以下「(.*?)」という。)?(?=）)/g;
     while ((match = regex.exec(lawTextElement)) !== null) {
         if (match[1]){
             searchResults.add(match[1]);
@@ -123,40 +109,6 @@ function setregex(left_right){
 
 // Function to set up hover functionality
 async function setupHover(lawTextElement, synonym, lawNum) {
-    // const lawTextElement = document.getElementById('law-content-' + left_right);
-    // const framelawNum = document.getElementById('law-num-' + left_right).innerHTML.replace('(','').replace(')','')
-
-    // // idを格納するためのセットを作成
-    // const lawNumSet = new Set();
-
-    // // JSONデータをループしてidをセットに追加
-    // refJson.forEach(item => {
-    //     if (item.referred.lawNum !== undefined) {
-    //         lawNumSet.add(item.referred.lawNum);
-    //     }
-    // });
-    // // セットをリストに変換
-    // const lawNumList = Array.from(lawNumSet);
-    // if (lawNumList.includes(framelawNum)) {
-    //     refJson.forEach(refdata => {
-    //         const words = refdata.referred.words;
-    //         const lawNum = refdata.ref.lawNum;
-    //         const lawArticle = refdata.ref.lawArticle;
-
-    //         const apiUrl = `https://elaws.e-gov.go.jp/api/1/articles;lawNum=${lawNum};${jsonToString(lawArticle)}`; // ここに実際のAPI URLを入力
-    //         fetch(apiUrl)
-    //         .then(response => response.text())
-    //         .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
-    //         .then(data => {
-    //             textdata = ''
-    //             data.querySelectorAll('Sentence').forEach(selector =>{
-    //                 textdata += selector.innerHTML
-    //             });
-    //             lawTextElement.innerHTML = lawTextElement.innerHTML.replace(words, `<span class="hovered" data-popup="${lawNum} 第${lawArticle.Paragraph}条" popup-text="">${words}</span>`);
-                
-    //         });    
-    //     });
-    // }
     const regex = new RegExp('(?:' + xmlData[lawNum] + (synonym[lawNum]? '|' + synonym[lawNum] : '') + ')' + '(?:<span class="annotation">（(?:' + lawNum + ')?。?(?:以下「[^「]*?」という。)?）</span>)?第([一二三四五六七八九十百千万]+)条(?:の([一二三四五六七八九十百千万]+))?(?:第([一二三四五六七八九十百千万]+)項)?' , 'g');
     const newHTML = lawTextElement.innerHTML.replaceAll(regex,(match, lawArticleNum, lawArticleSubNum, lawParagraphNum) =>{
         lawArticleNum = kanjiToNumber(lawArticleNum);
@@ -209,10 +161,6 @@ function setupLink(itm) {
     itm.addEventListener('click', async (event) => {
         frameContent.style.opacity = 1;
         frameContent.style.zIndex = 99;
-        // let lawArticleParagraph = itm.innerHTML
-        // // 参照する条文の中に（元号○○年法律/政令/...第○号）や（元号○○年法律/政令/...第○号。以下「○○法」という。）があれば除去する
-        // const removeregex = /（((?:令和|平成|昭和|大正|明治)[一二三四五六七八九十]+年(?:法律|政令|省令|内閣府令)第[一二三四五六七八九十百千万]+号)?。?(?:以下「(.*?)」という。)?）/g;
-        // lawArticleParagraph = lawArticleParagraph.replaceAll(removeregex,'')
         const lawNum = itm.getAttribute('lawNum')
         const lawArticleNum = itm.getAttribute('article')
         const lawParagraphNum = itm.getAttribute('paragraph')
