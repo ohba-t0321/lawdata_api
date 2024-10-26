@@ -29,7 +29,7 @@ async function fetchLawDetails(lawNo) {
         }
     };
 
-    const apiUrl = `https://elaws.e-gov.go.jp/api/1/lawdata/${lawNo}`; // ここに実際のAPI URLを入力
+    const apiUrl = `https://laws.e-gov.go.jp/api/1/lawdata/${lawNo}`; // ここに実際のAPI URLを入力
     response = await fetch(apiUrl)
     str = await response.text()
     data = new window.DOMParser().parseFromString(str, "application/xml")

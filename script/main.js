@@ -3,7 +3,7 @@ var xmlData;
 
 window.onload = function() {
     // APIのURLを指定
-    const apiUrl = `https://elaws.e-gov.go.jp/api/1/lawlists/1`;
+    const apiUrl = `https://laws.e-gov.go.jp/api/1/lawlists/1`;
 
     // APIを呼び出してXMLデータを取得
     fetch(apiUrl)

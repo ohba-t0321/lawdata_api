@@ -68,7 +68,7 @@ function setregex(left_right){
     const searchResults = new Set();
     const synonym = {};
     const lawTextElement = document.getElementById('law-content-' + left_right).innerHTML;
-    const regex = /(?<=（)((?:令和|平成|昭和|大正|明治)[元一二三四五六七八九十]+年(?:法律|政令|省令|内閣府令)第[一二三四五六七八九十百千万]+号)(?:。以下「(.*?)」という。)?(?=）)/g;
+    const regex = /(?<=（)((?:令和|平成|昭和|大正|明治)[元一二三四五六七八九十]+年(?:法律|政令|(?:.*?省令)|内閣府令)第[一二三四五六七八九十百千万]+号)(?:。以下「(.*?)」という。)?(?=）)/g;
     while ((match = regex.exec(lawTextElement)) !== null) {
         if (match[1]){
             searchResults.add(match[1]);
@@ -109,12 +109,13 @@ function setregex(left_right){
 
 // Function to set up hover functionality
 async function setupHover(lawTextElement, synonym, lawNum) {
-    const regex = new RegExp('(?:' + xmlData[lawNum] + (synonym[lawNum]? '|' + synonym[lawNum] : '') + ')' + '(?:<span class="annotation">（(?:' + lawNum + ')?。?(?:以下「[^「]*?」という。)?）</span>)?第([一二三四五六七八九十百千万]+)条(?:の([一二三四五六七八九十百千万]+))?(?:第([一二三四五六七八九十百千万]+)項)?' , 'g');
-    const newHTML = lawTextElement.innerHTML.replaceAll(regex,(match, lawArticleNum, lawArticleSubNum, lawParagraphNum) =>{
+    const regex = new RegExp('(?:' + xmlData[lawNum] + (synonym[lawNum]? '|' + synonym[lawNum] : '') + ')' + '(?:<span class="annotation">（(?:' + lawNum + ')?。?(?:以下「[^「]*?」という。)?）</span>)?(附則)?第([一二三四五六七八九十百千万]+)条(?:の([一二三四五六七八九十百千万]+))?(?:第([一二三四五六七八九十百千万]+)項)?' , 'g');
+    const newHTML = lawTextElement.innerHTML.replaceAll(regex,(match, suppl, lawArticleNum, lawArticleSubNum, lawParagraphNum) =>{
+        provision = !(suppl)
         lawArticleNum = kanjiToNumber(lawArticleNum);
         lawArticleSubNum = kanjiToNumber(lawArticleSubNum);
         lawParagraphNum = kanjiToNumber(lawParagraphNum);
-        const lawData = `lawNum=${lawNum} ${lawArticleNum?'article='+lawArticleNum:''}${lawArticleSubNum? '_'+ lawArticleSubNum : ''}${lawParagraphNum? ' paragraph='+ lawParagraphNum: ''}`
+        const lawData = `lawNum=${lawNum}${provision?' provision="MainProvision"':' provision="SupplProvision"'}${lawArticleNum?' article='+lawArticleNum:''}${lawArticleSubNum? '_'+ lawArticleSubNum : ''}${lawParagraphNum? ' paragraph='+ lawParagraphNum: ''}`
         // return `<span class="hovered" ${lawData}><span data-lawnum=${lawNum}>${lawName}</span>${match_rest}</span>`;
         return `<span class="hovered" ${lawData}>${match}</span>`;
     });
@@ -162,6 +163,7 @@ function setupLink(itm) {
         frameContent.style.opacity = 1;
         frameContent.style.zIndex = 99;
         const lawNum = itm.getAttribute('lawNum')
+        const lawProvision = itm.getAttribute('provision')
         const lawArticleNum = itm.getAttribute('article')
         const lawParagraphNum = itm.getAttribute('paragraph')
         lawTitle = frameContent.getElementsByClassName('article-num')[0];
@@ -169,31 +171,56 @@ function setupLink(itm) {
         lawTitle.innerHTML = ''
         lawContent.innerHTML = ''
 
-        const apiUrl = `https://elaws.e-gov.go.jp/api/1/articles;lawNum=${lawNum};${lawArticleNum?'article=' + lawArticleNum:''}${lawParagraphNum? ';paragraph='+ lawParagraphNum:''}`;
-        fetch(apiUrl)
-        .then(response => response.text())
-        .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
-        .then(data => {
-            lawTitle.innerHTML = xmlData[lawNum] + ' ' + convertToArticleFormat(lawArticleNum);
-            // // 第○項の部分は不要（記載している）ので削除する→政令等を見に行く場合はわからないことがあるのでそのまま残すことにする
-            // paragraphNums = data.querySelectorAll('ParagraphNum')
-            // paragraphNums.forEach(paragraphNum=>{
-            //     paragraphNum.remove();
-            // });
-            // 第○条の部分やキャプションは不要なので削除する
-            captions = data.querySelectorAll('ArticleCaption')
-            captions.forEach(caption=>{
-                caption.remove();
+        if (lawProvision === 'SupplProvision'){
+            const apiUrl = `https://laws.e-gov.go.jp/api/1/lawdata/${lawNum}`;
+            fetch(apiUrl)
+            .then(response => response.text())
+            .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
+            .then(data => {
+                suppldata = data.querySelector("SupplProvision:not([AmendLawNum])");
+                supplarticle = suppldata.querySelector(`Article[Num="${lawArticleNum}"]`)
+                lawTitle.innerHTML = xmlData[lawNum] + ' ' + convertToArticleFormat(lawArticleNum);
+                // 第○条の部分やキャプションは不要なので削除する
+                captions = supplarticle.querySelectorAll('ArticleCaption')
+                captions.forEach(caption=>{
+                    caption.remove();
+                });
+                articletitles = supplarticle.querySelectorAll('ArticleTitle')
+                articletitles.forEach(articletitle=>{
+                    articletitle.remove();
+                });
+                lawContent.innerHTML = supplarticle.innerHTML;
+            })
+            .catch(error =>{
+                console.error('データ取得失敗:',error)
             });
-            articletitles = data.querySelectorAll('ArticleTitle')
-            articletitles.forEach(articletitle=>{
-                articletitle.remove();
+        } else {
+            const apiUrl = `https://laws.e-gov.go.jp/api/1/articles;lawNum=${lawNum};${lawArticleNum?'article=' + lawArticleNum:''}${lawParagraphNum? ';paragraph='+ lawParagraphNum:''}`;
+            fetch(apiUrl)
+            .then(response => response.text())
+            .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
+            .then(data => {
+                lawTitle.innerHTML = xmlData[lawNum] + ' ' + convertToArticleFormat(lawArticleNum);
+                // // 第○項の部分は不要（記載している）ので削除する→政令等を見に行く場合はわからないことがあるのでそのまま残すことにする
+                // paragraphNums = data.querySelectorAll('ParagraphNum')
+                // paragraphNums.forEach(paragraphNum=>{
+                //     paragraphNum.remove();
+                // });
+                // 第○条の部分やキャプションは不要なので削除する
+                captions = data.querySelectorAll('ArticleCaption')
+                captions.forEach(caption=>{
+                    caption.remove();
+                });
+                articletitles = data.querySelectorAll('ArticleTitle')
+                articletitles.forEach(articletitle=>{
+                    articletitle.remove();
+                });
+                lawContent.innerHTML = data.getElementsByTagName('LawContents')[0].innerHTML;
+            })
+            .catch(error =>{
+                console.error('データ取得失敗:',error)
             });
-            lawContent.innerHTML = data.getElementsByTagName('LawContents')[0].innerHTML;
-        })
-        .catch(error =>{
-            console.error('データ取得失敗:',error)
-        })
+        }
     });
 };
 function convertToArticleFormat(input) {
