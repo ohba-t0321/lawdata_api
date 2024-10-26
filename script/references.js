@@ -103,7 +103,9 @@ function setregex(left_right){
         const synonymRegex = new RegExp(xmlData[lawNum] + '(?:<span class="annotation">)?（以下「(.*?)」という。）(?:</span>)?' , 'g');
         while ((match = synonymRegex.exec(lawTextElement)) !== null) {
             if (match[1]){
-                synonym[lawNum] = match[1];
+                if (!(synonym[lawNum])){ //附則で改正法令によって上書きしていることがあるため、最初に出てきたものを優先する
+                    synonym[lawNum] = match[1];
+                }
             }
         }
     });
