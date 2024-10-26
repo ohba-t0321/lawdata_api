@@ -136,9 +136,9 @@ async function fetchLawDetails(lawNo) {
                         for (let i = 0; i < attr.length; i++) {
                             // 属性名と値を付加
                             html += ' ';
-                            html += attr.name;
+                            html += attr[i].name;
                             html += '=';
-                            html += attr.value;
+                            html += attr[i].value;
                           }
                           
                         html += '>'
