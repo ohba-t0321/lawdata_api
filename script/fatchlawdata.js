@@ -157,7 +157,7 @@ async function fetchLawDetails(lawNo) {
                 if (((nName.indexOf('Title')>0)||(nName.indexOf('Num')>0))&&(node.childNodes.length>0)){
                     html += "　"
                 }
-                if ((nName.indexOf('Column')>=0)&&(node.getAttribute('Num'))&&(node.getAttribute('Num')>1)&&(node.childNodes.length>0)){
+                if ((nName.indexOf('Column')>=0)&&(node.getAttribute('Num'))&&(node.childNodes.length>0)){
                     html += "　"
                 }
                 if (nName.startsWith('Table')) {
