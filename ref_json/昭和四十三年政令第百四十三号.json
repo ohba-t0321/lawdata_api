@@ -96,6 +96,29 @@
             "lawNum": "昭和四十三年大蔵省令第二十七号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第四条に規定する債権者で内閣府令で定めるものは、保護預り契約に係る債権者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十三年政令第百四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条、第二十六条第二項（法第三十一条及び第五十八条において準用する場合を含む。）又は第三十八条第二項（法第四十三条及び第六十三条において準用する場合を含む。）に規定する政令で定める債権者は、保護預り契約に係る債権者その他の金融機関の業務に係る多数人を相手方とする定型的契約の債権者で内閣府令で定めるものとする。"
+        },
+        "match": "債権者で内閣府令で定めるもの"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十三年大蔵省令第二十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "26",
                 "paragraph": "1",
                 "item": "0"

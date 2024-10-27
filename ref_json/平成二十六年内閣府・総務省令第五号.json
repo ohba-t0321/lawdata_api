@@ -1,0 +1,140 @@
+[
+    {
+        "ref": {
+            "lawNum": "大正十五年内務省令第三十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "159_8",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令（平成二十六年内閣府・総務省令第五号）第二条各号に掲げる事務"
+        },
+        "referred": {
+            "lawNum": "平成二十六年内閣府・総務省令第五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法別表二の項の主務省令で定める事務は、次のとおりとする。"
+        },
+        "match": "の主務省令で定める事務"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年厚生労働省令第百二十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "120",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令（平成二十六年内閣府・総務省令第五号）第四十六条各号に掲げる事務"
+        },
+        "referred": {
+            "lawNum": "平成二十六年内閣府・総務省令第五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "46",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法別表八十五の項の主務省令で定める事務は、次のとおりとする。"
+        },
+        "match": "の主務省令で定める事務"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十三年厚生省令第五十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "44_2_2",
+                "paragraph": "1",
+                "item": "6"
+            },
+            "text": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令（平成二十六年内閣府・総務省令第五号）第二十四条各号に掲げる事務"
+        },
+        "referred": {
+            "lawNum": "平成二十六年内閣府・総務省令第五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法別表四十四の項の主務省令で定める事務は、次のとおりとする。"
+        },
+        "match": "の主務省令で定める事務"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十三年大蔵省令第五十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "125_3",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令（平成二十六年内閣府・総務省令第五号）第二十三条の二の二各号に規定する事務"
+        },
+        "referred": {
+            "lawNum": "平成二十六年内閣府・総務省令第五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法別表四十一の項の主務省令で定める事務は、次のとおりとする。"
+        },
+        "match": "の主務省令で定める事務"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年文部省令第二十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39_2",
+                "paragraph": "2",
+                "item": "3"
+            },
+            "text": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令（平成二十六年内閣府・総務省令第五号）第二十条の二各号（第四号、第五号、第十二号及び第十三号を除く。）に掲げる事務"
+        },
+        "referred": {
+            "lawNum": "平成二十六年内閣府・総務省令第五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法別表三十五の項の主務省令で定める事務は、次のとおりとする。"
+        },
+        "match": "の主務省令で定める事務"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和十五年厚生省令第五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "223",
+                "paragraph": "1",
+                "item": "6"
+            },
+            "text": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令（平成二十六年内閣府・総務省令第五号）第四条各号に掲げる事務"
+        },
+        "referred": {
+            "lawNum": "平成二十六年内閣府・総務省令第五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法別表四の項の主務省令で定める事務は、次のとおりとする。"
+        },
+        "match": "の主務省令で定める事務"
+    }
+]

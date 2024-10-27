@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和五十一年農林省令第二十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "漁業経営の改善及び再建整備に関する特別措置法施行令（以下「令」という。）第二条の農林水産省令で定める業種は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年政令第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一項第一号の政令で定める業種は、漁業法（昭和二十四年法律第二百六十七号）第三十七条に規定する大臣許可漁業のうち農林水産省令で定めるものとする。"
+        },
+        "match": "農林水産省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十一年農林省令第二十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第六条の農林水産省令で定める業種は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "昭和五十一年政令第百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第六条第一項の政令で定める業種は、次のとおりとする。"
+        },
+        "match": "令で定める業種は、次のとおりとする。"
+    }
+]

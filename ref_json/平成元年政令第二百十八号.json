@@ -1,0 +1,140 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和五十七年大蔵省令第十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "56",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "全国連合会債令第一条第十二号に規定する内閣府令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成元年政令第二百十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "12"
+            },
+            "text": "前各号に掲げるもののほか、内閣府令で定めるもの"
+        },
+        "match": "内閣府令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十七年大蔵省令第十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "57",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五十四条の九第一項及び全国連合会債令第五条第四号に規定する内閣府令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成元年政令第二百十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "前三号に掲げるもののほか、内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十七年大蔵省令第十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "59",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五十四条の九第四項に規定する内閣府令で定める場合は、法第五十四条の十三の規定に基づく公告により全国連合会債令第五条各号の事項を提供している場合であつて、全国連合会が法第五十四条の九第一項の申込みをしようとする者に対して通知事項（同項に規定する通知事項をいう。）を提供している場合とする。"
+        },
+        "referred": {
+            "lawNum": "平成元年政令第二百十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五十四条の十三に規定する政令で定める事項は、次に掲げる事項とする。"
+        },
+        "match": "令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十七年大蔵省令第十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "60",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "全国連合会債令第九条第一項第七号に規定する内閣府令で定める事項は、次に掲げる事項とする。"
+        },
+        "referred": {
+            "lawNum": "平成元年政令第二百十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "7"
+            },
+            "text": "前各号に掲げるもののほか、内閣府令で定める事項"
+        },
+        "match": "内閣府令で定める事項"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十七年大蔵省令第十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "62",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "全国連合会債令第十六条第二項に規定する内閣府令で定める場合は、次に掲げる場合とする。"
+        },
+        "referred": {
+            "lawNum": "平成元年政令第二百十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定による請求は、利害関係人の利益を害するおそれがないものとして内閣府令で定める場合を除き、その取得した全国連合会債の債権者として全国連合会債原簿に記載され、若しくは記録された者又はその相続人その他の一般承継人と共同してしなければならない。"
+        },
+        "match": "内閣府令で定める場合"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和五十七年大蔵省令第十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "62",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定にかかわらず、取得者が取得した全国連合会債が債券を発行する定めがあるものである場合には、全国連合会債令第十六条第二項に規定する内閣府令で定める場合は、取得者が全国連合会債の債券を提示して請求をした場合とする。"
+        },
+        "referred": {
+            "lawNum": "平成元年政令第二百十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の規定による請求は、利害関係人の利益を害するおそれがないものとして内閣府令で定める場合を除き、その取得した全国連合会債の債権者として全国連合会債原簿に記載され、若しくは記録された者又はその相続人その他の一般承継人と共同してしなければならない。"
+        },
+        "match": "内閣府令で定める場合"
+    }
+]

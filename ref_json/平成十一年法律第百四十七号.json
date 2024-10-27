@@ -4,6 +4,29 @@
             "lawNum": "平成十一年政令第四百三号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "無差別大量殺人行為を行った団体の規制に関する法律（以下「法」という。）第五条第二項及び第三項（同条第五項において準用する場合を含む。）の規定による報告をしなければならない団体は、法務省令で定める様式に従い、文書で、当該報告をしなければならない。"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の処分を受けた団体は、政令で定めるところにより、当該処分が効力を生じた日から起算して三十日以内に、次に掲げる事項を公安調査庁長官に報告しなければならない。"
+        },
+        "match": "令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十一年政令第四百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "2",
                 "paragraph": "1",
                 "item": "0"

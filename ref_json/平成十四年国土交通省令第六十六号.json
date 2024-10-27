@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十九年総理府令第二十三号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "6",
+                "paragraph": "79",
+                "item": "0"
+            },
+            "text": "法附則第十五条第三十八項に規定する一体型滞在快適性等向上事業で総務省令で定めるものは、都市再生特別措置法施行規則（平成十四年国土交通省令第六十六号）第十一条の三各号に掲げるもののうち同令第十一条の二各号に掲げる施設等の整備に関する事業とする。"
+        },
+        "referred": {
+            "lawNum": "平成十四年国土交通省令第六十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十六条第三項第二号イの国土交通省令で定める事業は、次に掲げるものとする。"
+        },
+        "match": "省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十九年総理府令第二十三号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "6",
+                "paragraph": "80",
+                "item": "0"
+            },
+            "text": "法附則第十五条第三十八項に規定する滞在快適性等向上施設等で総務省令で定めるものは、都市再生特別措置法施行規則第十一条の二各号に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十四年国土交通省令第六十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十六条第三項第二号イの国土交通省令で定める施設等は、次に掲げるものとする。"
+        },
+        "match": "省令で定める"
+    }
+]

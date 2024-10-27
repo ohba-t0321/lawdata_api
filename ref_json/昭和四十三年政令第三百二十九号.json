@@ -4,6 +4,29 @@
             "lawNum": "昭和四十六年厚生省・通商産業省令第一号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "5_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第三条の五の環境省令で定める基準は、別表第三の三の中欄に掲げる施設の種類及び規模に該当することとする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十三年政令第三百二十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3_5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二条第十四項の政令で定める施設は、条約附属書Ｄに掲げる施設又は同附属書Ｄに掲げる工程を行う施設のうち、条約第八条２（ｂ）の基準として環境省令で定める基準に該当するものとする。"
+        },
+        "match": "環境省令で定める基準"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十六年厚生省・通商産業省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "6",
                 "paragraph": "1",
                 "item": "0"

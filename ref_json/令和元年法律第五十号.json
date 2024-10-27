@@ -1,0 +1,255 @@
+[
+    {
+        "ref": {
+            "lawNum": "令和三年政令第二百七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "愛玩動物看護師法（以下「法」という。）第二条第一項の政令で定める動物は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律において「愛玩動物」とは、獣医師法（昭和二十四年法律第百八十六号）第十七条に規定する飼育動物のうち、犬、猫その他政令で定める動物をいう。"
+        },
+        "match": "政令で定める動物"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年政令第二百七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十一条（法第十六条第一項の規定により読み替えて適用する場合を含む。）の政令で定める手数料の額は、三千四百円とする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "11",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "愛玩動物看護師免許証の再交付を受けようとする者は、実費を勘案して政令で定める額の手数料を国に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年政令第二百七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十六条第二項の政令で定める手数料の額は、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める額とする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定登録機関が登録事務を行う場合において、愛玩動物看護師名簿に免許に関する事項の登録を受けようとする者又は愛玩動物看護師免許証明書の書換交付を受けようとする者は、実費を勘案して政令で定める額の手数料を指定登録機関に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年政令第二百七十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十三条第一項（法第三十七条第二項の規定により読み替えて適用する場合を含む。）の政令で定める受験手数料の額は、二万七千二百円とする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "試験を受けようとする者は、実費を勘案して政令で定める額の受験手数料を国に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年政令第二百七十三号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法附則第三条第三項において準用する法第三十三条第一項（法附則第四条第二項の規定により読み替えて適用する法第三十七条第二項の規定により読み替えて適用する場合を含む。）の政令で定める受験手数料の額は、一万四千円とする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "試験を受けようとする者は、実費を勘案して政令で定める額の受験手数料を国に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年政令第二百七十三号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法附則第四条第二項の規定により読み替えて適用する法第三十七条第二項の規定により読み替えて適用する法第三十三条第一項の政令で定める受験手数料の額は、二万七千二百円とする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "33",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "試験を受けようとする者は、実費を勘案して政令で定める額の受験手数料を国に納付しなければならない。"
+        },
+        "match": "政令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・環境省令第八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条第二項の農林水産省令・環境省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録事務規程で定めるべき事項は、農林水産省令・環境省令で定める。"
+        },
+        "match": "農林水産省令・環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・環境省令第八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条の農林水産省令・環境省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "指定登録機関は、農林水産省令・環境省令で定めるところにより、帳簿を備え付け、これに登録事務に関する事項で農林水産省令・環境省令で定めるものを記載し、及びこれを保存しなければならない。"
+        },
+        "match": "農林水産省令・環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・環境省令第六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "愛玩動物看護師法（以下「法」という。）第四条第三号の農林水産省令・環境省令で定める者は、次の各号のいずれかに該当する者とする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "心身の障害により愛玩動物看護師の業務を適正に行うことができない者として農林水産省令・環境省令で定めるもの"
+        },
+        "match": "農林水産省令・環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和元年農林水産省・環境省令第七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十八条において読み替えて準用する法第十五条第二項の農林水産省令・環境省令で定める事項は、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "登録事務規程で定めるべき事項は、農林水産省令・環境省令で定める。"
+        },
+        "match": "農林水産省令・環境省令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "令和元年農林水産省・環境省令第七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十五条第二項の農林水産省令・環境省令で定める要件は、次の各号のいずれかに該当する者であることとする。"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "35",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "指定試験機関は、試験委員を選任しようとするときは、農林水産省令・環境省令で定める要件を備える者のうちから選任しなければならない。"
+        },
+        "match": "農林水産省令・環境省令で定める要件"
+    }
+]

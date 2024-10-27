@@ -27,6 +27,52 @@
             "lawNum": "平成十四年国土交通省令第百十六号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "67",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第三十二条の国土交通省令で定める損失は、次に掲げるものとする。"
+        },
+        "referred": {
+            "lawNum": "平成十四年政令第三百六十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "32",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第百四十三条第三項の政令で定める額は、移転料、営業上の損失その他国土交通省令で定める損失について、国土交通省令で定めるところにより計算した額とする。"
+        },
+        "match": "国土交通省令で定める損失"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十四年国土交通省令第百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "67",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "令第三十二条の国土交通省令で定めるところにより計算した額は、次に掲げる額を合算した額とする。"
+        },
+        "referred": {
+            "lawNum": "平成十四年政令第三百六十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "32",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第百四十三条第三項の政令で定める額は、移転料、営業上の損失その他国土交通省令で定める損失について、国土交通省令で定めるところにより計算した額とする。"
+        },
+        "match": "国土交通省令で定めるところにより計算した額"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十四年国土交通省令第百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "76",
                 "paragraph": "1",
                 "item": "0"

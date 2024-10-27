@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和五十九年政令第二百二十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "公証人法第十三条ノ二の政令で定める審議会等は、検察官・公証人特別任用等審査会とする。"
+        },
+        "referred": {
+            "lawNum": "明治四十一年法律第五十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "裁判官（簡易裁判所判事ヲ除ク）、検察官（副検事ヲ除ク）又ハ弁護士タルノ資格ヲ有スル者ハ試験及実地修習ヲ経スシテ公証人ニ任セラルルコトヲ得"
+        },
+        "match": ""
+    }
+]

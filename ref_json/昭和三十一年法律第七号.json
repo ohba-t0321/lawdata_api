@@ -428,6 +428,29 @@
             "lawNum": "昭和三十一年法律第七号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "道路管理者は、前項の条例を制定したときは、遅滞なく、次に掲げる事項を記載した書類及び設計図その他国土交通省令で定める書面を添えて、その旨を国土交通大臣に届け出なければならない。"
+        },
+        "match": "令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十一年政令第三百十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "法第十八条第二項又は第十九条第二項の規定による届出に係る道路に係る法第二十三条第一項第三号の政令で定める費用は、次に掲げる費用の財源に充てるための地方債又は一時借入金の元本の償還及び利息の支払に要する費用とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十一年法律第七号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "23",
                 "paragraph": "1",
                 "item": "3"

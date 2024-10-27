@@ -27,6 +27,29 @@
             "lawNum": "昭和二十七年政令第百四十八号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第九条の政令で定める資格を有する者は、次の各号のいずれかに該当する者とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年法律第百六十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣が農林水産省令で定めるところにより行う普及指導員資格試験に合格した者その他政令で定める資格を有する者でなければ、普及指導員に任用されることができない。"
+        },
+        "match": "政令で定める資格を有する者"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十七年政令第百四十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "4",
                 "paragraph": "1",
                 "item": "0"

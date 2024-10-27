@@ -68,7 +68,7 @@ function setregex(left_right){
     const searchResults = new Set();
     const synonym = {};
     const lawTextElement = document.getElementById('law-content-' + left_right).innerHTML;
-    const regex = /(?<=（)((?:令和|平成|昭和|大正|明治)[元一二三四五六七八九十]+年(?:法律|政令|(?:.*?省令)|内閣府令)第[一二三四五六七八九十百千万]+号)(?:。以下「(.*?)」という。)?(?=）)/g;
+    const regex = /(?<=（)((?:令和|平成|昭和|大正|明治)[元一二三四五六七八九十]+年(?:法律|政令|(?:[^）]?省令)|内閣府令)第[一二三四五六七八九十百千万]+号)(?:。以下「([^）]*?)」という。)?(?=）)/g;
     while ((match = regex.exec(lawTextElement)) !== null) {
         if (match[1]){
             searchResults.add(match[1]);

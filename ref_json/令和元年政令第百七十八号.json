@@ -1,0 +1,94 @@
+[
+    {
+        "ref": {
+            "lawNum": "令和二年法務省令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第四条第一項の法務省令で定める方法は、遺言書保管ファイルに記録されている次に掲げる事項を出力装置の映像面に表示する方法とする。"
+        },
+        "referred": {
+            "lawNum": "令和元年政令第百七十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "遺言者は、遺言書保管官に対し、いつでも、法第四条第一項の申請に係る遺言書に係る遺言書保管ファイルに記録された事項を法務省令で定める方法により表示したものの閲覧の請求をすることができる。"
+        },
+        "match": "法務省令で定める方法"
+    },
+    {
+        "ref": {
+            "lawNum": "令和二年法務省令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "29",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第三条第三項（次条第二項において準用する場合を含む。）の法務省令で定める書類は、次に掲げる書類とする。"
+        },
+        "referred": {
+            "lawNum": "令和元年政令第百七十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "第一項の規定による届出をしようとする遺言者は、法務省令で定めるところにより、変更が生じた事項を記載した届出書に法務省令で定める書類を添付して、遺言書保管官に提出しなければならない。"
+        },
+        "match": "法務省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "令和二年法務省令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第三十四条の規定は、令第九条第三項の法務省令で定める書類について準用する。"
+        },
+        "referred": {
+            "lawNum": "令和元年政令第百七十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "第一項の請求をしようとする者は、法務省令で定めるところにより、その旨を記載した請求書に法務省令で定める書類を添付して、遺言書保管官に提出しなければならない。"
+        },
+        "match": "法務省令で定める書類"
+    },
+    {
+        "ref": {
+            "lawNum": "令和二年法務省令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "47",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第七条第八号の法務省令で定める者は、次に掲げる者とする。"
+        },
+        "referred": {
+            "lawNum": "令和元年政令第百七十八号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "8"
+            },
+            "text": "前各号に掲げる者のほか、これらに類するものとして法務省令で定める者"
+        },
+        "match": "法務省令で定める者"
+    }
+]

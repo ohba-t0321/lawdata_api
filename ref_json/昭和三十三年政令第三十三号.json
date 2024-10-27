@@ -139,6 +139,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和三十三年総理府令第十六号",
+            "lawArticle": {
+                "provision": "令和四年一月二七日内閣府令第四号",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "改正法附則第三条第五項において読み替えて準用する新法第十一条第十項の内閣府令で定める手続については、新府令第四十条の規定を準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年政令第三十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十条の七の政令で定める消音器、弾倉又は替え銃身は、それぞれ次に掲げるものとする。"
+        },
+        "match": "令で定める"
+    },
+    {
+        "ref": {
             "lawNum": "昭和五十年総理府・文部省令第一号",
             "lawArticle": {
                 "provision": "MainProvision",

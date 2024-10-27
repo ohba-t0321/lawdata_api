@@ -50,6 +50,29 @@
             "lawNum": "昭和四十三年政令第九号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第九項の規定による裁決の申請は、国土交通省令で定める様式に従い、土地収用法（昭和二十六年法律第二百十九号）第九十四条第三項各号（第三号を除く。）に掲げる事項を記載した裁決申請書を収用委員会に提出してしなければならない。"
+        },
+        "referred": {
+            "lawNum": "昭和四十二年法律第百三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "9",
+                "item": "0"
+            },
+            "text": "前項の規定による協議が成立しない場合においては、国土交通大臣又は損失を受けた者は、政令で定めるところにより、収用委員会に土地収用法（昭和二十六年法律第二百十九号）第九十四条第二項の規定による裁決を申請することができる。"
+        },
+        "match": "令で定める"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十三年政令第九号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "3",
                 "paragraph": "1",
                 "item": "0"

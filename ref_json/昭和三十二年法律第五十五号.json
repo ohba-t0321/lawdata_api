@@ -231,6 +231,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和三十二年政令第四十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "46_11",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "揮発油税法第十四条第一項第五号の規定による承認を受けた場所その他財務省令で定める場所（次号において「特定蔵置場」という。）以外の場所"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年法律第五十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "前各号に掲げる揮発油以外の揮発油で、その製造場内における蔵置場が狭くなつたことその他のやむを得ない事情があるため当該揮発油を他の場所へ移出すること及び当該他の場所につき、政令で定めるところにより、当該製造場の所在地の所轄税務署長の承認を受けたもの当該他の場所"
+        },
+        "match": "令で定める"
+    },
+    {
+        "ref": {
             "lawNum": "昭和三十二年法律第二十六号",
             "lawArticle": {
                 "provision": "MainProvision",

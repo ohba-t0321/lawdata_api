@@ -70,6 +70,29 @@
     },
     {
         "ref": {
+            "lawNum": "平成二十二年厚生労働省令第六十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十八条第一項に規定する厚生労働省令で定めるものは、次のとおりとする。"
+        },
+        "referred": {
+            "lawNum": "平成二十一年法律第三十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "厚生労働大臣は、会計法（昭和二十二年法律第三十五号）第七条第一項の規定にかかわらず、政令で定める場合における第六条第一項の規定による徴収金及び延滞金その他の厚生労働省令で定めるものの収納を、政令で定めるところにより、機構に行わせることができる。"
+        },
+        "match": "厚生労働省令で定めるもの"
+    },
+    {
+        "ref": {
             "lawNum": "平成二十二年政令第百三十三号",
             "lawArticle": {
                 "provision": "MainProvision",

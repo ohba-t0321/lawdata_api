@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和四十七年政令第二百三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "財務大臣が法第五十九条の二第一項の規定に基づき日本たばこ産業株式会社に取り扱わせる法の施行に関する事務は、次に掲げる事務のうち財務省令で定める事務とする。"
+        },
+        "referred": {
+            "lawNum": "昭和三十三年法律第百三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "59_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "財務大臣は、政令で定めるところにより、この法律の施行に関する事務の一部を会社に取り扱わせることができる。"
+        },
+        "match": "令で定める"
+    }
+]

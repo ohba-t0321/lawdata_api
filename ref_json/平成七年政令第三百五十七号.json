@@ -1,0 +1,25 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和二十六年農林省令第三十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "令第四条第二項の農林水産省令で定める者は、農産物の出荷の事業を行う者とする。"
+        },
+        "referred": {
+            "lawNum": "平成七年政令第三百五十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第二十七条第二項の政令で定める者は、農業協同組合その他農林水産省令で定める者とする。"
+        },
+        "match": "農林水産省令で定める者"
+    }
+]
