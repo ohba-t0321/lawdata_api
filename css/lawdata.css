@@ -67,6 +67,10 @@
     cursor: pointer;
     text-decoration: underline;
 }
+.hovered.small-text{
+    font-size: calc(1em - 1pt);
+    color: #666;
+}
 #ref-article-num {
     font-weight: bold;
 }
@@ -91,4 +95,19 @@ itemtitle{
     color:var(--annotate-color);
     display:var(--annotate-display);
     transition: all 0.3s;
+}
+.annotation.lv1 {
+    color:var(--annotate-color-lv1);
+}
+.annotation.lv2 {
+    color:var(--annotate-color-lv2);
+}
+.annotation.lv3 {
+    color:var(--annotate-color-lv3);
+}
+.annotation.lv4 {
+    color:var(--annotate-color-lv4);
+}
+.annotation.lv5 {
+    color:var(--annotate-color-lv5);
 }

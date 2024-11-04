@@ -3,6 +3,29 @@
         "ref": {
             "lawNum": "平成十五年厚生労働省令第八十六号",
             "lawArticle": {
+                "provision": "平成三一年二月二二日厚生労働省令第一七号",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この省令の施行の際この省令による改正前の健康増進法施行規則別記様式第一号及び第二号並びにこの省令第一条の規定による改正後の健康増進法施行規則別記様式第三号（次項において「旧様式」という。）により使用されている証明書は、この省令による改正後の様式によるものとみなす。"
+        },
+        "referred": {
+            "lawNum": "平成十四年政令第三百六十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "健康増進法（以下「法」という。）第十条第二項の政令で定める事務は、集計とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十五年厚生労働省令第八十六号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "12",
                 "paragraph": "1",

@@ -1,6 +1,52 @@
 [
     {
         "ref": {
+            "lawNum": "昭和四十六年厚生省令第三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6_3",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "燃料として使用される再生品（容器包装に係る分別収集及び再商品化の促進等に関する法律施行令（平成七年政令第四百十一号）第一条に規定する製品であつて環境大臣が定めるものを除く。）を得るためのものでないこと。"
+        },
+        "referred": {
+            "lawNum": "平成七年政令第四百十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "容器包装に係る分別収集及び再商品化の促進等に関する法律（以下「法」という。）第二条第八項第一号の政令で定める製品は、次のとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十六年厚生省令第三十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12_12_4",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "燃料として使用される再生品（容器包装に係る分別収集及び再商品化の促進等に関する法律施行令第一条に規定する製品であつて環境大臣が定めるものを除く。）を得るためのものでないこと。"
+        },
+        "referred": {
+            "lawNum": "平成七年政令第四百十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "容器包装に係る分別収集及び再商品化の促進等に関する法律（以下「法」という。）第二条第八項第一号の政令で定める製品は、次のとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成七年大蔵省・厚生省・農林水産省・通商産業省令第一号",
             "lawArticle": {
                 "provision": "MainProvision",

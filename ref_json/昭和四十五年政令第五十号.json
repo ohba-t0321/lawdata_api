@@ -1,6 +1,29 @@
 [
     {
         "ref": {
+            "lawNum": "平成二十一年政令第三十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "二　国税不服審判所組織令（昭和四十五年政令第五十号）第一条第一項の規定に基づき次長に充てられた国税審判官の属する職制上の段階"
+        },
+        "referred": {
+            "lawNum": "昭和四十五年政令第五十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国税不服審判所に、次長一人を置き、国税審判官をもつてこれに充てる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和四十五年大蔵省令第十七号",
             "lawArticle": {
                 "provision": "MainProvision",

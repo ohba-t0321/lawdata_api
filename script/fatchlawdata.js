@@ -1,11 +1,13 @@
+// 他法令が参照している情報をJSONで格納しておく
+var jsonData
+
 // 号をさらに分割しているときのため、Subitem1,Subitem2,...Subitem10を定義しておく
 subitemNode = []
 for (let i=1; i<10 ;i++) {
     subitemNode.push(`Subitem${i}`)
 }
 
-async function fetchLawDetails(lawNo) {
-    const outputFrame = document.getElementById('outputFrame').value
+async function fetchLawDetails(lawNo, outputFrame) {
     frameContent = document.getElementById(outputFrame)
     lawTitle = frameContent.getElementsByClassName('law-title')[0];
     lawNum = frameContent.getElementsByClassName('law-num')[0];
@@ -187,11 +189,21 @@ async function fetchLawDetails(lawNo) {
     //     setupHover(outputFrame, synonym, lawNum);
     // });
     annotation(outputFrame);
+
+    // 他法令からの参照データを取得しておく
+    const framelawNum = document.getElementById('law-num-' + outputFrame).innerHTML.replace('(','').replace(')','')
+    const file = './ref_json/' + framelawNum + '.json';
+
+    jsonData = await fetch(file).then(response => response.json())
+        .catch(error => console.error('データの読み込みに失敗しました:', error));
     // すべてのセクションを監視対象として登録
     document.querySelectorAll('.xml-Sentence').forEach(sentence => {
         observer.observe(sentence);
     });
-    setupHover_reference(outputFrame);
+    // hovered = await setupHover_reference(outputFrame);
+    // hovered.forEach(itm=>{
+    //     setupLink(itm);
+    // });
 };
 // 右クリックでspan内の文字列をコピーする処理
 document.oncontextmenu = function(event){
@@ -250,7 +262,12 @@ const observerCallback = (entries, observer) => {
                 searchResults.forEach(lawNum => {
                     setupHover(sentence, synonym, lawNum);
                 });
-            }
+                setupHover_reference2(sentence);
+                hovered = sentence.querySelectorAll('.hovered');
+                hovered.forEach(itm=>{
+                    setupLink(itm);
+                });
+        }
             // 1度リンクを付与したら監視を解除する
             observer.unobserve(entry.target);
         }
@@ -261,7 +278,7 @@ const observerCallback = (entries, observer) => {
 const options = {
     root: null, // ビューポートがroot
     rootMargin: '0px',
-    threshold: 0.1 // 要素が50%以上表示されたときに検知
+    threshold: 0.1 // 要素が10%以上表示されたときに検知
 };
 
 // IntersectionObserverを作成

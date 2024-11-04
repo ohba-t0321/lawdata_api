@@ -1,6 +1,75 @@
 [
     {
         "ref": {
+            "lawNum": "平成十五年政令第四百九十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "一部改正法附則第六条において準用する船舶職員及び小型船舶操縦者法第十七条の三第一項の規定に基づく登録の更新については、船舶職員及び小型船舶操縦者法施行令（昭和五十八年政令第十三号）第二条の規定を準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和五十八年政令第十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十七条の三第一項（法第十七条の十七及び第十七条の十九において準用する場合を含む。）の政令で定める期間は、三年とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年運輸省令第九十一号",
+            "lawArticle": {
+                "provision": "昭和五八年四月九日運輸省令第二〇号",
+                "article": "14",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "令第二条ただし書の規定（第四号を除く。）は、前項の場合について準用する。"
+        },
+        "referred": {
+            "lawNum": "昭和五十八年政令第十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十七条の三第一項（法第十七条の十七及び第十七条の十九において準用する場合を含む。）の政令で定める期間は、三年とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年運輸省令第九十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9_3",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "総トン数二十トン以上の船舶の機関長、機関士若しくは運航士（運航士（一号職務）を除く。）又は令第十三条第一項第一号の機関長"
+        },
+        "referred": {
+            "lawNum": "昭和五十八年政令第十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "13",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "機関長を乗船させる必要がある小型船舶帆船以外の小型船舶であつて国土交通省令で定める区域を航行するもの"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和二十六年運輸省令第九十一号",
             "lawArticle": {
                 "provision": "MainProvision",

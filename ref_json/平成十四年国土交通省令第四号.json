@@ -1,6 +1,29 @@
 [
     {
         "ref": {
+            "lawNum": "昭和二十二年運輸省令第二十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "イに掲げる船舶以外の船舶にあつては、小型船舶の登録等に関する法律第十四条の規定による登録事項証明書等のうち、小型船舶登録規則（平成十四年国土交通省令第四号）第二十九条第一号の一部事項証明書又は同条第二号の全部事項証明書（現に小型船舶の登録等に関する法律第三条に規定する小型船舶登録原簿に登録された事項を証するものに限る。）"
+        },
+        "referred": {
+            "lawNum": "平成十四年国土交通省令第四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "29",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "一部事項証明書第十二号様式"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成十四年国土交通省令第五号",
             "lawArticle": {
                 "provision": "MainProvision",

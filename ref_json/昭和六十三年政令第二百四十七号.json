@@ -27,6 +27,29 @@
             "lawNum": "昭和六十三年建設省令第十七号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の造成宅地処分届出書には、次に掲げる図書（認定事業者が令第七条に規定する者である場合にあつては、第三号に掲げるものを除く。）を添付しなければならない。"
+        },
+        "referred": {
+            "lawNum": "昭和六十三年政令第二百四十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四条第一項第十号の政令で定める者は、地方公共団体、地方住宅供給公社及び日本勤労者住宅協会とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和六十三年建設省令第十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "6",
                 "paragraph": "1",
                 "item": "0"
