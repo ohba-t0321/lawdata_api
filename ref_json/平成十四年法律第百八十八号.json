@@ -277,29 +277,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和二十七年会計検査院規則第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "東京地下鉄株式会社法（平成十四年法律第百八十八号）第六条"
-        },
-        "referred": {
-            "lawNum": "平成十四年法律第百八十八号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "6",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "会社は、毎事業年度の開始前に、その事業年度の事業計画を定め、国土交通大臣に提出しなければならない。これを変更しようとするときも、同様とする。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十六年国土交通省令第二十一号",
             "lawArticle": {
                 "provision": "MainProvision",

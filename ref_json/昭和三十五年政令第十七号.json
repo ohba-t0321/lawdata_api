@@ -1,29 +1,6 @@
 [
     {
         "ref": {
-            "lawNum": "平成二年通商産業省令第四十一号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "実用新案法施行令（昭和三十五年政令第十七号）第二条第一項に規定する申請書の提出"
-        },
-        "referred": {
-            "lawNum": "昭和三十五年政令第十七号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法第三十二条の二の規定による登録料の軽減若しくは免除又はその納付の猶予を受けようとする者は、次に掲げる事項を記載した申請書を特許庁長官に提出しなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和三十五年通商産業省令第十一号",
             "lawArticle": {
                 "provision": "MainProvision",

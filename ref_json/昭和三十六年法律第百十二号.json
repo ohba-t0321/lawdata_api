@@ -461,29 +461,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和五十六年法律第九十三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "後進地域の開発に関する公共事業に係る国の負担割合の特例に関する法律（昭和三十六年法律第百十二号）第三条第一項及び第二項"
-        },
-        "referred": {
-            "lawNum": "昭和三十六年法律第百十二号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "開発指定事業に係る経費に対する国の負担割合は、当分の間、適用団体ごとに当該開発指定事業に係る経費に対する通常の国の負担割合に次の式により算定した数（小数点以下二位未満は、切り上げるものとする。以下「引上率」という。）を乗じて算定するものとする。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和六十年法律第六十三号",
             "lawArticle": {
                 "provision": "MainProvision",

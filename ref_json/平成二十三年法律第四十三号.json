@@ -185,29 +185,6 @@
     },
     {
         "ref": {
-            "lawNum": "令和五年総務省令第四十三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "（二）　東日本大震災に対処するための土地改良法の特例に関する法律（平成二十三年法律第四十三号）第五条の規定による負担金"
-        },
-        "referred": {
-            "lawNum": "平成二十三年法律第四十三号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "5",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "国が行う特定災害復旧事業及び復旧関連事業についての土地改良法第九十条第一項の規定による負担金の額は、同項の規定にかかわらず、次に掲げる額とする。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成二十四年法律第二十五号",
             "lawArticle": {
                 "provision": "MainProvision",

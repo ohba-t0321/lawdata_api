@@ -93,29 +93,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和四十二年法律第三十五号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "著作権等管理事業法（平成十二年法律第百三十一号）第三条（登録）の規定による著作権等管理事業者の登録"
-        },
-        "referred": {
-            "lawNum": "平成十二年法律第百三十一号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "著作権等管理事業を行おうとする者は、文化庁長官の登録を受けなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十三年文部科学省令第七十三号",
             "lawArticle": {
                 "provision": "MainProvision",

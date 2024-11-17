@@ -95,29 +95,6 @@
         "ref": {
             "lawNum": "平成十二年政令第二百五十号",
             "lawArticle": {
-                "provision": "平成一五年九月二五日政令第四四三号",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "この政令は、法第三条の規定の施行の日（平成十五年十月二日）から施行する。"
-        },
-        "referred": {
-            "lawNum": "平成十一年法律第九十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "財務省は、健全な財政の確保、適正かつ公平な課税の実現、税関業務の適正な運営、国庫の適正な管理、通貨に対する信頼の維持及び外国為替の安定の確保を図ることを任務とする。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十二年政令第二百五十号",
-            "lawArticle": {
                 "provision": "SupplProvision",
                 "article": "2_2",
                 "paragraph": "1",

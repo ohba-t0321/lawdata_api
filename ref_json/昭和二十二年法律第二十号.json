@@ -47,29 +47,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成二十六年政令第百五十五号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "恩赦法（昭和二十二年法律第二十号）第四条の特赦、同法第六条の減刑（同条に規定する特定の者に対するものに限る。）、同法第八条の刑の執行の免除又は同法第九条の復権（同条に規定する特定の者に対するものに限る。）が行われるとき。"
-        },
-        "referred": {
-            "lawNum": "昭和二十二年法律第二十号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "4",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "特赦は、有罪の言渡を受けた特定の者に対してこれを行う。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和二十二年司法省令第七十八号",
             "lawArticle": {
                 "provision": "MainProvision",

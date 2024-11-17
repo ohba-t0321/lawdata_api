@@ -1,29 +1,6 @@
 [
     {
         "ref": {
-            "lawNum": "昭和三十七年運輸省令第四十九号",
-            "lawArticle": {
-                "provision": "令和二年二月六日国土交通省令第六号",
-                "article": "1",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "第二条中自動車点検基準第二条、第四条第二項及び第五条第二項の改正規定並びに別表第五の次に一表を加える改正規定並びに第七条中指定自動車整備事業規則第六条第一項の改正規定"
-        },
-        "referred": {
-            "lawNum": "昭和二十六年運輸省令第七十号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法第四十八条第一項の国土交通省令で定める技術上の基準は、次の各号に掲げる自動車の区分に応じ、当該各号に定めるとおりとする。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和二十六年運輸省令第七十四号",
             "lawArticle": {
                 "provision": "MainProvision",

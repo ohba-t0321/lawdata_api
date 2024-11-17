@@ -93,29 +93,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成十七年国土交通省令第二十六号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "第一条において準用する船舶職員及び小型船舶操縦者法施行規則第三条の十二第二項"
-        },
-        "referred": {
-            "lawNum": "昭和二十六年運輸省令第九十一号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3_12",
-                "paragraph": "2",
-                "item": "0"
-            },
-            "text": "登録海技免許講習実施機関は、法第十七条の十二の帳簿並びに登録海技免許講習の受講申請書及びその添付書類を備え、登録海技免許講習を終了した日から三年間これを保存しなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十六年国土交通省令第八号",
             "lawArticle": {
                 "provision": "MainProvision",

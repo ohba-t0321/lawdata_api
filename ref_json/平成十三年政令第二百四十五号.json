@@ -90,51 +90,5 @@
             "text": "法第百三条の二第十四項本文の政令で定める無線局は、次に掲げるものとする。"
         },
         "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十三年政令第二百四十五号",
-            "lawArticle": {
-                "provision": "平成二〇年三月三一日政令第一二七号",
-                "article": "4",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "第二十条の規定による改正前の電波法施行令第十三条第九号に掲げる独立行政法人"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第二百四十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "13",
-                "paragraph": "1",
-                "item": "9"
-            },
-            "text": "国立研究開発法人海上・港湾・航空技術研究所"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十三年政令第二百四十五号",
-            "lawArticle": {
-                "provision": "平成二〇年三月三一日政令第一二七号",
-                "article": "4",
-                "paragraph": "1",
-                "item": "2"
-            },
-            "text": "第二十条の規定による改正前の電波法施行令第十三条第十号に掲げる独立行政法人"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第二百四十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "13",
-                "paragraph": "1",
-                "item": "10"
-            },
-            "text": "独立行政法人海技教育機構"
-        },
-        "match": "★引用個所不明★"
     }
 ]

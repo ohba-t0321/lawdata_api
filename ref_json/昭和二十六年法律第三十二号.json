@@ -323,29 +323,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和四十二年法律第三十五号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "（二十九）　海事代理士法（昭和二十六年法律第三十二号）第九条第一項（登録）の海事代理士の登録"
-        },
-        "referred": {
-            "lawNum": "昭和二十六年法律第三十二号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "9",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "海事代理士となるには、海事代理士名簿に左の事項について登録を受けなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和二十六年運輸省令第四十二号",
             "lawArticle": {
                 "provision": "MainProvision",

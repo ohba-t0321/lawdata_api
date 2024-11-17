@@ -162,75 +162,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "一　令第二条第一号に係る国外適合性評価事業に係る認定"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "日欧協定の通信端末機器及び無線機器に関する分野別附属書（以下この条及び次条において「日欧協定通信端末機器等附属書」という。）第Ｂ部第二節の表の上欄第一号に掲げる関係法令等同部第一節の表の上欄に掲げる関係法令等に定める通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "二　令第二条第一号に係る国外適合性評価事業に係る認定の更新"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "日欧協定の通信端末機器及び無線機器に関する分野別附属書（以下この条及び次条において「日欧協定通信端末機器等附属書」という。）第Ｂ部第二節の表の上欄第一号に掲げる関係法令等同部第一節の表の上欄に掲げる関係法令等に定める通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "三　令第二条第一号に係る国外適合性評価事業に係る変更の認定"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "日欧協定の通信端末機器及び無線機器に関する分野別附属書（以下この条及び次条において「日欧協定通信端末機器等附属書」という。）第Ｂ部第二節の表の上欄第一号に掲げる関係法令等同部第一節の表の上欄に掲げる関係法令等に定める通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十三年総務省・経済産業省令第二号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -760,29 +691,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第二号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "（２）　令第二条第六号に係る国外適合性評価事業の区分に係る指定申請者（法第十四条第一項の指定を受けようとする者をいう。以下同じ。）は、書面による調査及び事業場（調査申請者が国外適合性評価事業を実施する場所をいう。以下同じ。）における調査（以下「書面等の調査」という。）の実施に係る技術的な問題を解決するための委員会を設置すること。"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "6"
-            },
-            "text": "日シ協定附属書Ⅲの通信端末機器及び無線機器に関する分野別附属書（次条第六号において「日シ協定通信端末機器等附属書」という。）第Ｂ部第二節の表の下欄に掲げる関係法令等同部第一節の表の下欄に掲げる関係法令等に定める通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十三年総務省・経済産業省令第三号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -990,75 +898,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "四　令第二条第八号に係る国外適合性評価事業に係る認定"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "8"
-            },
-            "text": "日米協定附属書第一節の表の上欄に掲げる関係法令等同附属書第六節の表の上欄に掲げる通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "五　令第二条第八号に係る国外適合性評価事業に係る認定の更新"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "8"
-            },
-            "text": "日米協定附属書第一節の表の上欄に掲げる関係法令等同附属書第六節の表の上欄に掲げる通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "六　令第二条第八号に係る国外適合性評価事業に係る変更の認定"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "8"
-            },
-            "text": "日米協定附属書第一節の表の上欄に掲げる関係法令等同附属書第六節の表の上欄に掲げる通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十三年総務省・経済産業省令第二号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -1205,75 +1044,6 @@
                 "item": "4"
             },
             "text": "令第二条第九号から第十一号までに係る国外適合性評価事業の区分については、様式第八による標章とする。"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "9"
-            },
-            "text": "日英協定の相互承認に関する議定書の通信端末機器及び無線機器に関する分野別附属書（次号及び次条において「日英協定通信端末機器等附属書」という。）第Ｂ部第二節の表の上欄第一号に掲げる関係法令等同部第一節の表の上欄第一号に掲げる関係法令等に定める通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "七　令第二条第九号に係る国外適合性評価事業に係る認定"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "9"
-            },
-            "text": "日英協定の相互承認に関する議定書の通信端末機器及び無線機器に関する分野別附属書（次号及び次条において「日英協定通信端末機器等附属書」という。）第Ｂ部第二節の表の上欄第一号に掲げる関係法令等同部第一節の表の上欄第一号に掲げる関係法令等に定める通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "八　令第二条第九号に係る国外適合性評価事業に係る認定の更新"
-        },
-        "referred": {
-            "lawNum": "平成十三年政令第三百五十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "9"
-            },
-            "text": "日英協定の相互承認に関する議定書の通信端末機器及び無線機器に関する分野別附属書（次号及び次条において「日英協定通信端末機器等附属書」という。）第Ｂ部第二節の表の上欄第一号に掲げる関係法令等同部第一節の表の上欄第一号に掲げる関係法令等に定める通信端末機器及び無線機器"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十三年総務省・経済産業省令第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "九　令第二条第九号に係る国外適合性評価事業に係る変更の認定"
         },
         "referred": {
             "lawNum": "平成十三年政令第三百五十五号",

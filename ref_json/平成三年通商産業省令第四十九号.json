@@ -1,29 +1,6 @@
 [
     {
         "ref": {
-            "lawNum": "平成十三年経済産業省令第二百四十九号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "2"
-            },
-            "text": "輸出貿易管理令別表第一及び外国為替令別表の規定に基づき貨物又は技術を定める省令（平成三年通商産業省令第四十九号）第一条第二号に規定する原子炉（発電の用に供する軽水炉を除く。）又はその部分品若しくは附属装置の開発等"
-        },
-        "referred": {
-            "lawNum": "平成三年通商産業省令第四十九号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "1",
-                "paragraph": "1",
-                "item": "2"
-            },
-            "text": "原子炉若しくはその部分品若しくは附属装置又は車両、船舶、航空機若しくは宇宙空間用若しくは打ち上げ用の飛しょう体の原子炉用に設計した発電若しくは推進のための装置"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "令和四年経済産業省令第十五号",
             "lawArticle": {
                 "provision": "MainProvision",

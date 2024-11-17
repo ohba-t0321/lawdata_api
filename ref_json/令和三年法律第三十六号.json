@@ -1036,52 +1036,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和三十九年人事院規則九―一七",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "デジタル庁設置法（令和三年法律第三十六号）第十三条第一項に規定する職又は当該職のつかさどる職務の全部若しくは一部を助ける職に就いている職員で構成される組織"
-        },
-        "referred": {
-            "lawNum": "令和三年法律第三十六号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "13",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "デジタル庁には、その所掌事務の能率的な遂行のためその一部を所掌する職を置く。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "昭和四十一年人事院規則一七―〇",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "デジタル庁設置法（令和三年法律第三十六号）第十三条第一項に規定する職又は当該職のつかさどる職務の全部若しくは一部を助ける職に就いている職員で構成される組織"
-        },
-        "referred": {
-            "lawNum": "令和三年法律第三十六号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "13",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "デジタル庁には、その所掌事務の能率的な遂行のためその一部を所掌する職を置く。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成二十六年人事院規則二一―〇―六",
             "lawArticle": {
                 "provision": "MainProvision",

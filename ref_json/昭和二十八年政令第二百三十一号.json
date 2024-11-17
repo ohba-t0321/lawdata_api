@@ -530,29 +530,6 @@
     },
     {
         "ref": {
-            "lawNum": "令和六年厚生労働省令第百六号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "栄養士法施行令（昭和二十八年政令第二百三十一号）第五条第三項の規定による手数料及び同令第六条第三項の規定による手数料"
-        },
-        "referred": {
-            "lawNum": "昭和二十八年政令第二百三十一号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "5",
-                "paragraph": "3",
-                "item": "0"
-            },
-            "text": "前項の申請をするには、厚生労働省令で定める額の手数料を納めなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "令和六年デジタル庁・総務省令第九号",
             "lawArticle": {
                 "provision": "MainProvision",

@@ -26,29 +26,6 @@
         "ref": {
             "lawNum": "昭和二十五年建設省令第三十八号",
             "lawArticle": {
-                "provision": "令和元年九月一三日国土交通省令第三四号",
-                "article": "1",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "第四条及び第二十三条（建築士法に基づく中央指定登録機関等に関する省令第十二条第一号及び第十三条の改正規定に限る。）の規定"
-        },
-        "referred": {
-            "lawNum": "平成二十年国土交通省令第三十七号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "12",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "法第五条の二、法第八条の二又は建築士法施行規則（昭和二十五年建設省令第三十八号）第六条第四項の規定による届出当該届出に係る事項"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "昭和二十五年建設省令第三十八号",
-            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "20_2",
                 "paragraph": "3",

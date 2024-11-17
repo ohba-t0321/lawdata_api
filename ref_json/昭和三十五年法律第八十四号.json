@@ -346,29 +346,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成二十五年法律第二十七号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "五十二　住宅地区改良法（昭和三十五年法律第八十四号）第二条第二項に規定する施行者である都道府県知事又は市町村長"
-        },
-        "referred": {
-            "lawNum": "昭和三十五年法律第八十四号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "2",
-                "item": "0"
-            },
-            "text": "この法律において「施行者」とは、住宅地区改良事業を施行する者をいう。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和三十五年政令第百二十八号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -484,52 +461,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成十四年政令第百二号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "住宅地区改良法（昭和三十五年法律第八十四号）第二条第六項に規定する改良住宅の建設（当該建設のため必要な土地の取得及びその土地を宅地に造成することを含む。別表第三の二の項において同じ。）"
-        },
-        "referred": {
-            "lawNum": "昭和三十五年法律第八十四号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "6",
-                "item": "0"
-            },
-            "text": "この法律において「改良住宅」とは、第十七条の規定により施行者が建設する住宅及びその附帯施設をいう。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十四年政令第百二号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "住宅地区改良法第二条第六項に規定する改良住宅の建設"
-        },
-        "referred": {
-            "lawNum": "昭和三十五年法律第八十四号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "6",
-                "item": "0"
-            },
-            "text": "この法律において「改良住宅」とは、第十七条の規定により施行者が建設する住宅及びその附帯施設をいう。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十四年法律第二十二号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -538,29 +469,6 @@
                 "item": "0"
             },
             "text": "前条第二項の規定による交付金を充てて建設された住宅地区改良法（昭和三十五年法律第八十四号）第二条第六項に規定する改良住宅についての同法第二十九条の規定の適用については、同条第一項中「第二十七条第二項の規定により国の補助を受けて」とあるのは「都市再生特別措置法第四十七条第二項の規定による交付金を充てて」と、同条第三項中「第十三条第三項」とあるのは「第十二条第一項中「の補助」とあるのは「の補助（都市再生特別措置法第四十七条第二項の規定による交付金（以下この項において「都市再生交付金」という。）を含む。）」と、「から補助」とあるのは「から補助（都市再生交付金を含む。）」と、旧公営住宅法第十三条第三項」とする。"
-        },
-        "referred": {
-            "lawNum": "昭和三十五年法律第八十四号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "6",
-                "item": "0"
-            },
-            "text": "この法律において「改良住宅」とは、第十七条の規定により施行者が建設する住宅及びその附帯施設をいう。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十四年法律第十四号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "住宅地区改良法（昭和三十五年法律第八十四号）第二条第六項に規定する改良住宅の建設（当該建設のため必要な土地の取得及びその土地を宅地に造成することを含む。）"
         },
         "referred": {
             "lawNum": "昭和三十五年法律第八十四号",

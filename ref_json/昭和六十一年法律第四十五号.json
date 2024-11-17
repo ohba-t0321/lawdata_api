@@ -208,29 +208,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和二十七年会計検査院規則第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "東京湾横断道路の建設に関する特別措置法（昭和六十一年法律第四十五号）第五条"
-        },
-        "referred": {
-            "lawNum": "昭和六十一年法律第四十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "5",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "東京湾横断道路建設事業者は、国土交通省令で定めるところにより、毎事業年度、当該事業年度以降の二年間について資金計画及び事業計画を作成し、当該事業年度の開始前に、機構を経由して国土交通大臣に届け出なければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和六十一年政令第百六十七号",
             "lawArticle": {
                 "provision": "MainProvision",
