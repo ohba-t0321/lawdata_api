@@ -1,0 +1,48 @@
+[
+    {
+        "ref": {
+            "lawNum": "昭和三十九年総理府令第十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6_2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規程第七条第四項に規定する各庁の長が定める方法は、旅行者の使用に係る電子計算機と支出官等の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用する方法とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "法第十三条第五項に規定する電磁的方法は、各庁の長が定める方法とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十七年総理府令第十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国家公務員等の旅費支給規程（昭和二十五年大蔵省令第四十五号）第七条第四項に規定する各庁の長が定める方法は、旅費の支給を受けようとする旅行者等の使用に係る電子計算機と支出官等の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用する方法とする。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年大蔵省令第四十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "法第十三条第五項に規定する電磁的方法は、各庁の長が定める方法とする。"
+        },
+        "match": "★引用個所不明★"
+    }
+]

@@ -65,9 +65,22 @@ header h1 {
     transition: .3s ease-in-out;
     z-index: 1;
 }
+.ref-buttons button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    float: right;
+    padding: 2px 5px;
+    font-size: 12px;
+    background-color: #fff;
+}
+.ref-item-index{
+    position: relative;
+    float: right;
+    margin-right: 5px;
+}
 #closeButton{
     position: relative;
-    float :right;
+    float: right;
     margin: 5px;
-
 }

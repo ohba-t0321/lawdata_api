@@ -1,11 +1,13 @@
+// 他法令が参照している情報をJSONで格納しておく
+var jsonData
+
 // 号をさらに分割しているときのため、Subitem1,Subitem2,...Subitem10を定義しておく
 subitemNode = []
 for (let i=1; i<10 ;i++) {
     subitemNode.push(`Subitem${i}`)
 }
 
-async function fetchLawDetails(lawNo) {
-    const outputFrame = document.getElementById('outputFrame').value
+async function fetchLawDetails(lawNo, outputFrame) {
     frameContent = document.getElementById(outputFrame)
     lawTitle = frameContent.getElementsByClassName('law-title')[0];
     lawNum = frameContent.getElementsByClassName('law-num')[0];
@@ -29,7 +31,7 @@ async function fetchLawDetails(lawNo) {
         }
     };
 
-    const apiUrl = `https://elaws.e-gov.go.jp/api/1/lawdata/${lawNo}`; // ここに実際のAPI URLを入力
+    const apiUrl = `https://laws.e-gov.go.jp/api/1/lawdata/${lawNo}`; // ここに実際のAPI URLを入力
     response = await fetch(apiUrl)
     str = await response.text()
     data = new window.DOMParser().parseFromString(str, "application/xml")
@@ -131,7 +133,17 @@ async function fetchLawDetails(lawNo) {
                     } else if (nName === 'TableRow'){
                         html += '<tr>'
                     } else if (nName === 'TableColumn'){
-                        html += '<td>'
+                        html += '<td'
+                        const attr = node.attributes;
+                        for (let i = 0; i < attr.length; i++) {
+                            // 属性名と値を付加
+                            html += ' ';
+                            html += attr[i].name;
+                            html += '=';
+                            html += attr[i].value;
+                          }
+                          
+                        html += '>'
                     } else {
                         html += `<span class="xml-${nName}">`
                     }
@@ -145,6 +157,9 @@ async function fetchLawDetails(lawNo) {
                     }
                 }
                 if (((nName.indexOf('Title')>0)||(nName.indexOf('Num')>0))&&(node.childNodes.length>0)){
+                    html += "　"
+                }
+                if ((nName.indexOf('Column')>=0)&&(node.getAttribute('Num'))&&(node.childNodes.length>0)){
                     html += "　"
                 }
                 if (nName.startsWith('Table')) {
@@ -174,10 +189,24 @@ async function fetchLawDetails(lawNo) {
     //     setupHover(outputFrame, synonym, lawNum);
     // });
     annotation(outputFrame);
+
+    // 法令内の他法令参照データをdict型に格納する
+    getReferenceList(data, outputFrame);
+
+    // 他法令からの参照データを取得しておく
+    const framelawNum = document.getElementById('law-num-' + outputFrame).innerHTML.replace('(','').replace(')','')
+    const file = './ref_json/' + framelawNum + '.json';
+
+    jsonData = await fetch(file).then(response => response.json())
+        .catch(error => console.error('データの読み込みに失敗しました:', error));
     // すべてのセクションを監視対象として登録
     document.querySelectorAll('.xml-Sentence').forEach(sentence => {
         observer.observe(sentence);
     });
+    // hovered = await setupHover_reference(outputFrame);
+    // hovered.forEach(itm=>{
+    //     setupLink(itm);
+    // });
 };
 // 右クリックでspan内の文字列をコピーする処理
 document.oncontextmenu = function(event){
@@ -198,6 +227,7 @@ document.oncontextmenu = function(event){
                 text += element.innerText
             }
         });
+        text = text.replaceAll('★引用条文★', '');
         navigator.clipboard.writeText(text).then(() => {
             alert('テキストがコピーされました: ' + text);
         }).catch(err => {
@@ -212,47 +242,6 @@ document.getElementById('closeButton').addEventListener('click', function(event)
     document.getElementById('reference').style.opacity = 0;
     document.getElementById('reference').style.zIndex = 0;
 });
-
-// span内の文字列をダブルクリックでコピーする処理
-// 処理を凍結
-/*
-document.addEventListener('dblclick', function(event) {
-    if (event.target.matches('.xml-Sentence')) {
-        const targetElement = event.target;
-        if (targetElement.closest('#left')){
-            selectedElement = document.querySelector('#left')
-        }
-        else if (targetElement.closest('#right')){
-            selectedElement = document.querySelector('#right')
-        }
-        const groupValue = targetElement.getAttribute('data-article');
-        const elements = selectedElement.querySelectorAll(`[data-article="${groupValue}"]`)
-        let text = ''
-        elements.forEach(element=> {
-            // xml-Articleのデータは一番外側のデータなので、当該データが抽出できれば十分。
-            if (element.className === 'xml-Article'){
-                text += element.innerText
-            }
-        });
-        navigator.clipboard.writeText(text).then(() => {
-            alert('テキストがコピーされました: ' + text);
-        }).catch(err => {
-            console.error('コピーに失敗しました: ', err);
-        });
-        return false;
-    }
-});
-*/
-
-// tag名が存在した場合にはそのテキストを返し、存在しない場合には''(空文字を返す関数)
-// 使っているところがないが念のため残しておく
-// function processTag(xmlDoc, tagName){
-//     sentence = ''
-//     xmlDoc.querySelectorAll(tagName).forEach(item =>{
-//         sentence += item.textContent
-//     });
-//     return sentence
-// };
 
 // IntersectionObserverのコールバック関数
 const observerCallback = (entries, observer) => {
@@ -270,13 +259,27 @@ const observerCallback = (entries, observer) => {
                 outputFrame = undefined;
             }
             if (outputFrame){
-                const value1 = setregex(outputFrame);
-                const searchResults = value1.searchResults;
-                const synonym = value1.synonym;
-                // 要素がビューポートに入ったらリンクを付与
-                searchResults.forEach(lawNum => {
-                    setupHover(sentence, synonym, lawNum);
-                });
+                if (sentence.closest('.xml-SupplProvision:not([data-article="SupplProvision-0"])')){
+                    lawNumData = sentence.closest('.xml-SupplProvision:not([data-article="SupplProvision-0"])');
+                    lawNo = lawNumData.getAttribute('data-article').replace('-0','');
+                }
+                else {
+                    lawNo = document.getElementById('law-num-' + outputFrame).innerHTML.replace('(','').replace(')','');
+                }
+                const value1 = referenceList[lawNo];
+                if (value1){
+                    const searchResults = value1.searchResults;
+                    const synonym = value1.synonym;
+                    // 要素がビューポートに入ったらリンクを付与
+                    searchResults.forEach(lawNum => {
+                        setupHover(sentence, synonym, lawNum);
+                    });
+                    setupHover_reference2(sentence);
+                    hovered = sentence.querySelectorAll('.hovered');
+                    hovered.forEach(itm=>{
+                        setupLink(itm);
+                    });
+                }
             }
             // 1度リンクを付与したら監視を解除する
             observer.unobserve(entry.target);
@@ -288,7 +291,7 @@ const observerCallback = (entries, observer) => {
 const options = {
     root: null, // ビューポートがroot
     rootMargin: '0px',
-    threshold: 0.1 // 要素が50%以上表示されたときに検知
+    threshold: 0.1 // 要素が10%以上表示されたときに検知
 };
 
 // IntersectionObserverを作成
