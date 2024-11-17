@@ -1,3 +1,5 @@
+let referenceList={};
+
 var clickItm;
 var itmIndex;
 itmIndex = 0;
@@ -66,6 +68,78 @@ function kanjiToNumber(kanji) {
         return undefined;
     }
 };
+
+function getReferenceList(data, outputFrame){
+    lawNum = data.getElementsByTagName('LawNum')[0].innerHTML;
+    // MainProvisionについての参照を作る
+    lawTextList = [];
+    ['EnactStatement', 'Preamble', 'MainProvision', 'SupplProvision:not([AmendLawNum])'].forEach(tag=>{
+        data.querySelectorAll(tag).forEach(e=>{
+            lawTextList.push(e.textContent);
+        });
+    });
+    value1 = getReferenceList_sub(lawTextList);
+    referenceList[lawNum]={};
+    referenceList[lawNum]['searchResults'] = value1.searchResults;
+    referenceList[lawNum]['synonym'] = value1.synonym; 
+
+    // SupplProvisionについての参照を作る
+    data.querySelectorAll('SupplProvision[AmendLawNum]').forEach(e=>{
+        lawNum = e.getAttribute('AmendLawNum')
+        lawTextList = [];
+        lawTextList.push(e.textContent);
+        value1 = getReferenceList_sub(lawTextList);
+        referenceList[lawNum]={};
+        referenceList[lawNum]['searchResults'] = value1.searchResults;
+        referenceList[lawNum]['synonym'] = value1.synonym; 
+    })
+}
+
+function getReferenceList_sub(lawTextList){
+    const regex = /(?<=（)((?:令和|平成|昭和|大正|明治)[元一二三四五六七八九十]+年(?:法律|政令|(?:[^）]?省令)|内閣府令)第[一二三四五六七八九十百千万]+号)(?:。以下「([^）]*?)」という。)?(?=）)/g;
+    const searchResults = new Set();
+    const synonym = {};
+    lawTextList.forEach(text=>{
+        while ((match = regex.exec(text)) !== null) {
+            if (match[1]){
+                searchResults.add(match[1]);
+                if (match[2]){
+                    synonym[match[1]] = match[2];
+                }
+            }
+        };
+    });
+    searchResults.forEach(lawNum => {
+        /*
+        法令の参照では以下の記述となっていることが多いので、正規表現で該当するところを取得した。
+        [法令名が初めて現れる場合]：(法令名)（元号○○年法律/政令/...第○号）第○条第○項
+        [法令名が初めて現れる場合で、法令を省略する場合](法令名)（元号○○年法律/政令/...第○号。以下「○○法」という。）第○条第○項
+        [法令名が2回目以降の場合](法令名もしくは略称名)第○条第○項
+        なお、「第○条」のところは「第○条の○」となるケースもあるため、それに対応している
+        法律によっては第○条の○条の○…と続くことがあるが、それは対応が難しいので非対応
+        */
+        const synonymRegex = new RegExp(xmlData[lawNum] + '（以下「(.*?)」という。）' , 'g');
+        lawTextList.forEach(text=>{
+            while ((match = synonymRegex.exec(text)) !== null) {
+                if (match[1]){
+                    if (!(synonym[lawNum])){ //附則で改正法令によって上書きしていることがあるため、最初に出てきたものを優先する
+                        synonym[lawNum] = match[1];
+                    }
+                }
+            }
+        });
+    });
+    // searchResultsをソート
+    const sortedResults = Array.from(searchResults).sort((a, b) => {
+        const nameA = synonym[a] || xmlData[a] || 1;  // 法令番号がxmlDataに存在しない場合、1とする
+        const nameB = synonym[b] || xmlData[b] || 1;
+        return nameB.length - nameA.length;  // 長さでソート（降順）
+    });
+    return {
+        searchResults: sortedResults, 
+        synonym: synonym
+    }
+;}
 
 function setregex(left_right){
     const searchResults = new Set();

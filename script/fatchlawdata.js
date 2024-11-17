@@ -190,6 +190,9 @@ async function fetchLawDetails(lawNo, outputFrame) {
     // });
     annotation(outputFrame);
 
+    // 法令内の他法令参照データをdict型に格納する
+    getReferenceList(data, outputFrame);
+
     // 他法令からの参照データを取得しておく
     const framelawNum = document.getElementById('law-num-' + outputFrame).innerHTML.replace('(','').replace(')','')
     const file = './ref_json/' + framelawNum + '.json';
@@ -224,6 +227,7 @@ document.oncontextmenu = function(event){
                 text += element.innerText
             }
         });
+        text = text.replaceAll('★引用条文★', '');
         navigator.clipboard.writeText(text).then(() => {
             alert('テキストがコピーされました: ' + text);
         }).catch(err => {
@@ -255,19 +259,28 @@ const observerCallback = (entries, observer) => {
                 outputFrame = undefined;
             }
             if (outputFrame){
-                const value1 = setregex(outputFrame);
-                const searchResults = value1.searchResults;
-                const synonym = value1.synonym;
-                // 要素がビューポートに入ったらリンクを付与
-                searchResults.forEach(lawNum => {
-                    setupHover(sentence, synonym, lawNum);
-                });
-                setupHover_reference2(sentence);
-                hovered = sentence.querySelectorAll('.hovered');
-                hovered.forEach(itm=>{
-                    setupLink(itm);
-                });
-        }
+                if (sentence.closest('.xml-SupplProvision:not([data-article="SupplProvision-0"])')){
+                    lawNumData = sentence.closest('.xml-SupplProvision:not([data-article="SupplProvision-0"])');
+                    lawNo = lawNumData.getAttribute('data-article').replace('-0','');
+                }
+                else {
+                    lawNo = document.getElementById('law-num-' + outputFrame).innerHTML.replace('(','').replace(')','');
+                }
+                const value1 = referenceList[lawNo];
+                if (value1){
+                    const searchResults = value1.searchResults;
+                    const synonym = value1.synonym;
+                    // 要素がビューポートに入ったらリンクを付与
+                    searchResults.forEach(lawNum => {
+                        setupHover(sentence, synonym, lawNum);
+                    });
+                    setupHover_reference2(sentence);
+                    hovered = sentence.querySelectorAll('.hovered');
+                    hovered.forEach(itm=>{
+                        setupLink(itm);
+                    });
+                }
+            }
             // 1度リンクを付与したら監視を解除する
             observer.unobserve(entry.target);
         }
