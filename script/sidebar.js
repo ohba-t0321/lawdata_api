@@ -4,6 +4,12 @@ document.getElementById('searchButton').addEventListener('click', function(event
     const searchType = document.getElementById('searchType').value;
     const apiUrl = `https://elaws.e-gov.go.jp/api/1/lawlists/1`;
 
+    const params = new URLSearchParams(window.location.search);
+    const encodedKeyword = encodeURIComponent(keyword);
+    params.set("keyword", encodedKeyword);
+    params.set("searchType", searchType);
+    // URLを書き換え（履歴に追加）
+    window.history.pushState({}, "", "?" + params.toString());
     fetch(apiUrl)
         .then(response => response.text())
         .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
@@ -67,6 +73,11 @@ function createAndAppendDiv(law, resultsDiv) {
     // ダブルクリックイベントを追加
     row.addEventListener('dblclick', async function() {
         const outputFrame = document.getElementById('outputFrame').value;
+        const params = new URLSearchParams(window.location.search);
+        const encodedlawNo = encodeURIComponent(lawNo);
+        params.set(outputFrame, encodedlawNo);
+        // URLを書き換え（履歴に追加）
+        window.history.pushState({}, "", "?" + params.toString());
         await fetchLawDetails(lawNo, outputFrame);
     });
 };

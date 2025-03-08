@@ -1,7 +1,7 @@
 // グローバル変数を宣言
 var xmlData;
 
-window.onload = function() {
+window.onload = async function() {
     // APIのURLを指定
     const apiUrl = `https://laws.e-gov.go.jp/api/1/lawlists/1`;
 
@@ -22,6 +22,24 @@ window.onload = function() {
         .catch(error => {
             console.error('Error fetching XML data:', error);
         });
+    // クエリパラメータを取得
+    const params = new URLSearchParams(window.location.search);
+    const keyword = params.get("keyword");
+    if (keyword) {
+        inputbox = document.getElementById('keyword');
+        const decoded = decodeURIComponent(keyword);
+        inputbox.value = decoded;
+        document.getElementById('searchButton').click();
+    }
+    const left = params.get("left");
+    if (left) {
+        await fetchLawDetails(left, 'left');
+    }
+    const right = params.get("right");
+    if (right) {
+        await fetchLawDetails(right, 'right');
+    }
+
 };
 
 function xmlToJson(xml) {
