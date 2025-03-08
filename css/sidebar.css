@@ -16,6 +16,32 @@
     font-size: 24px;
     color: #ccc;
 }
+.toggle-btn {
+    cursor: pointer;
+    /* display: flex; */
+    align-items: center;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sideber-content {
+    display: block;
+    margin-left: 20px;
+}
+.hidden {
+    display: none;
+}
+/* アニメーション用のラッパー */
+.content-wrapper {
+    overflow: hidden;
+    transition: height 0.3s ease-in-out; /* 高さをアニメーション */
+    height: 0;  /* 初期状態は閉じた状態 */
+}
+
+/* 開いたとき */
+.content-wrapper.open {
+    height: auto; /* JSで適切な高さを設定 */
+}
 #searchResults { 
     padding: 10px; 
 }
