@@ -760,29 +760,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和二十七年会計検査院規則第三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "成田国際空港株式会社法（平成十五年法律第百二十四号）第十一条"
-        },
-        "referred": {
-            "lawNum": "平成十五年法律第百二十四号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "11",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "会社は、毎事業年度の開始前に、国土交通省令で定めるところにより、当該事業年度の事業計画を国土交通大臣に提出して、その認可を受けなければならない。これを変更しようとするときも、同様とする。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十六年国土交通省令第十九号",
             "lawArticle": {
                 "provision": "MainProvision",

@@ -47,29 +47,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和二十七年運輸省令第四十二号",
-            "lawArticle": {
-                "provision": "平成一二年九月一日運輸省令第三〇号",
-                "article": "9",
-                "paragraph": "1",
-                "item": "2"
-            },
-            "text": "海運組合（内航海運組合法第三条に規定する内航海運組合をいう。以下同じ。）に加入している場合にあっては、当該海運組合の名称"
-        },
-        "referred": {
-            "lawNum": "昭和三十二年法律第百六十二号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "内航海運事業を営む者は、その共同の利益を増進するため、内航海運組合（以下「海運組合」という。）を組織することができる。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和三十二年運輸省令第三十九号",
             "lawArticle": {
                 "provision": "MainProvision",

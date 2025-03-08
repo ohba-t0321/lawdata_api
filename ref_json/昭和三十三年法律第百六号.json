@@ -1,29 +1,6 @@
 [
     {
         "ref": {
-            "lawNum": "昭和三十三年政令第百八十七号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法第三条の公正証書の謄本及びその他の登記原因を証する情報"
-        },
-        "referred": {
-            "lawNum": "昭和三十三年法律第百六号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "企業担保権の設定又は変更を目的とする契約は、公正証書によつてしなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成七年政令第四百二十五号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -325,29 +302,6 @@
         "ref": {
             "lawNum": "昭和三十三年政令第百八十七号",
             "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "企業担保権の登記、実行手続の開始の登記及び管財人の登記の抹消（法第五十四条第一項第一号の規定により管財人が申請するものに限る。）"
-        },
-        "referred": {
-            "lawNum": "昭和三十三年法律第百六号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "54",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "企業担保権の登記及び第二十三条の規定によつてされた登記のまつ消"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "昭和三十三年政令第百八十七号",
-            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "19",
                 "paragraph": "1",
@@ -515,29 +469,6 @@
                 "item": "0"
             },
             "text": "法第五十九条の規定による法第二十四条の規定によつてされた登録の抹消を申請する場合には、申請書に実行の申立ての取下げ若しくは実行手続の開始の決定の取消しを証する書面又は差押えの消滅を証する書面を添付しなければならない。"
-        },
-        "referred": {
-            "lawNum": "昭和三十三年法律第百六号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "59",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "管財人は、実行手続が実行の申立の取下又は実行手続の開始の決定の取消により終結したときは、遅滞なく、第二十三条又は第二十四条の規定によつてされた登記又は登録のまつ消を申請しなければならない。第五十七条第二項の規定により差押の消滅した財産についても、同様とする。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "昭和三十三年政令第百八十七号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "実行手続の開始の登記及び管財人の登記の抹消（法第五十九条の規定により管財人が申請するものに限る。）"
         },
         "referred": {
             "lawNum": "昭和三十三年法律第百六号",

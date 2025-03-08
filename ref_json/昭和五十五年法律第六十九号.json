@@ -1,52 +1,6 @@
 [
     {
         "ref": {
-            "lawNum": "平成二十九年政令第二百八十二号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "9"
-            },
-            "text": "国際捜査共助等に関する法律（昭和五十五年法律第六十九号）第一条第一号に規定する共助（同条第四号に規定する受刑者証人移送を除く。）又は同法第十八条第一項の協力が行われる場合"
-        },
-        "referred": {
-            "lawNum": "昭和五十五年法律第六十九号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "1",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "共助外国の要請により、当該外国の刑事事件の捜査に必要な証拠の提供（受刑者証人移送を含む。）をすることをいう。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成二十六年政令第百五十五号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "11"
-            },
-            "text": "国際捜査共助等に関する法律（昭和五十五年法律第六十九号）第一条第一号に規定する共助（同条第四号に規定する受刑者証人移送を除く。）又は同法第十八条第一項の協力が行われるとき。"
-        },
-        "referred": {
-            "lawNum": "昭和五十五年法律第六十九号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "1",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "共助外国の要請により、当該外国の刑事事件の捜査に必要な証拠の提供（受刑者証人移送を含む。）をすることをいう。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十九年法律第三十七号",
             "lawArticle": {
                 "provision": "MainProvision",

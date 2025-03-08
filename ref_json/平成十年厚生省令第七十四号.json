@@ -164,29 +164,6 @@
         "ref": {
             "lawNum": "平成十年文部省・厚生省令第二号",
             "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "2"
-            },
-            "text": "学校教育法に基づく大学若しくは高等専門学校、旧大学令に基づく大学又は言語聴覚士法施行規則第十五条に定める学校、文教研修施設若しくは養成所において既に履修した科目については、免除することができる。"
-        },
-        "referred": {
-            "lawNum": "平成十年厚生省令第七十四号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "15",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法第三十三条第三号の厚生労働省令で定める学校、文教研修施設又は養成所は、次のとおりとする。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十年文部省・厚生省令第二号",
-            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "4",
                 "paragraph": "4",

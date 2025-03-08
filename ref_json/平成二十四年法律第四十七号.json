@@ -26,29 +26,6 @@
         "ref": {
             "lawNum": "平成二十四年政令第二百三十号",
             "lawArticle": {
-                "provision": "平成三〇年一一月二一日政令第三一九号",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "この政令は、改正法第五条の規定の施行の日（平成三十一年九月一日）から施行する。"
-        },
-        "referred": {
-            "lawNum": "平成二十四年法律第四十七号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "5",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "原子力規制委員会の委員長及び委員は、独立してその職権を行う。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成二十四年政令第二百三十号",
-            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "7",
                 "paragraph": "1",

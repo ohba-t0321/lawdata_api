@@ -116,29 +116,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和三十八年農林省令第五号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "太平洋の公海（排他的経済水域及び大陸棚に関する法律（平成八年法律第七十四号）第一条第一項に規定する排他的経済水域及び外国の排他的経済水域を除く。）"
-        },
-        "referred": {
-            "lawNum": "平成八年法律第七十四号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "1",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "我が国が海洋法に関する国際連合条約（以下「国連海洋法条約」という。）に定めるところにより国連海洋法条約第五部に規定する沿岸国の主権的権利その他の権利を行使する水域として、排他的経済水域を設ける。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和二十五年法律第二百五号",
             "lawArticle": {
                 "provision": "MainProvision",

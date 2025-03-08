@@ -93,29 +93,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和二十九年政令第百五十一号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "2"
-            },
-            "text": "オウム真理教犯罪被害者等を救済するための給付金の支給に関する法律第三条第一項に規定する給付金に関すること。"
-        },
-        "referred": {
-            "lawNum": "平成二十年法律第八十号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "国は、この法律の定めるところにより、オウム真理教犯罪被害者等に対し、給付金を支給する。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和二十九年政令第百八十号",
             "lawArticle": {
                 "provision": "MainProvision",

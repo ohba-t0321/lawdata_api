@@ -300,29 +300,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成九年政令第三百四十九号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "10"
-            },
-            "text": "特別支援学校への就学奨励に関する法律（昭和二十九年法律第百四十四号）第四条の規定による負担金"
-        },
-        "referred": {
-            "lawNum": "昭和二十九年法律第百四十四号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "4",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "国は、第二条第一項の規定により都道府県が支弁する経費の二分の一を負担する。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "令和六年デジタル庁・総務省令第九号",
             "lawArticle": {
                 "provision": "MainProvision",

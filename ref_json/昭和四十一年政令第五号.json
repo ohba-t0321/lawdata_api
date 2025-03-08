@@ -139,29 +139,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和五十二年政令第二百二十号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "石油ガス税法施行令（昭和四十一年政令第五号）第十条第一項（引取りに係る課税石油ガスの特定用途免税の手続）の規定による申請書の提出及び書類の添付"
-        },
-        "referred": {
-            "lawNum": "昭和四十一年政令第五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "10",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法第十三条第一項の承認を受けようとする者は、次に掲げる事項を記載した申請書に、その引き取ろうとする課税石油ガスが第七条に規定する用途に供されるものであることを証する書類を添付して、これを当該税関長に提出しなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十年大蔵省令第四十三号",
             "lawArticle": {
                 "provision": "MainProvision",

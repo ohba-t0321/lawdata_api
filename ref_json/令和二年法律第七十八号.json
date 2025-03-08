@@ -5935,29 +5935,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和四十年法律第三十四号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "労働者協同組合（労働者協同組合法（令和二年法律第七十八号）第九十四条の三第二号（認定の基準）に規定する特定労働者協同組合に限る。）"
-        },
-        "referred": {
-            "lawNum": "令和二年法律第七十八号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "94_3",
-                "paragraph": "1",
-                "item": "2"
-            },
-            "text": "その定款に解散した場合において組合員に対しその出資額を限度として分配した後の残余財産が国若しくは地方公共団体又は他の特定労働者協同組合（前条の認定を受けた組合をいう。以下同じ。）に帰属する旨の定めがあること。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "令和四年厚生労働省令第八十九号",
             "lawArticle": {
                 "provision": "MainProvision",

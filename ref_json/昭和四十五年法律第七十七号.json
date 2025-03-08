@@ -185,29 +185,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和四十二年法律第二十三号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "清酒製造業等の安定に関する特別措置法（昭和四十五年法律第七十七号）第三条第一項第一号（中央会の事業の範囲の特例）の事業に関する文書"
-        },
-        "referred": {
-            "lawNum": "昭和四十五年法律第七十七号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3",
-                "paragraph": "1",
-                "item": "1"
-            },
-            "text": "会員たる酒造組合、会員たる酒造組合連合会、当該酒造組合連合会の構成員たる酒造組合その他政令で定める者（第六条において「酒造組合等」という。）が、清酒の製造に係る資金で政令で定めるものを銀行その他の金融機関から借り入れることによりこれらの金融機関に対して負担する債務の保証"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和四十五年政令第百二十五号",
             "lawArticle": {
                 "provision": "MainProvision",

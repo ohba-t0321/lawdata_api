@@ -141,29 +141,6 @@
         "ref": {
             "lawNum": "昭和四十八年政令第二百七十四号",
             "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法第二条第二項第一号に掲げる者及び水産業協同組合"
-        },
-        "referred": {
-            "lawNum": "昭和四十八年法律第百号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "2",
-                "item": "1"
-            },
-            "text": "漁業をおもな業務とする者（水産業協同組合を除く。）であつて政令で定めるもの"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "昭和四十八年政令第二百七十四号",
-            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "2",
                 "paragraph": "2",
@@ -193,29 +170,6 @@
                 "item": "1"
             },
             "text": "水産業協同組合等以外の融資機関が法第二条第二項第二号から第四号までに掲げる者に事業の経営に必要な資金又は生活に必要な資金として貸し付ける場合"
-        },
-        "referred": {
-            "lawNum": "昭和四十八年法律第百号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "2",
-                "item": "2"
-            },
-            "text": "水産加工業をおもな業務とする者（水産業協同組合を除く。）であつて政令で定めるもの"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "昭和四十八年政令第二百七十四号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法第二条第二項第二号から第四号までに掲げる者"
         },
         "referred": {
             "lawNum": "昭和四十八年法律第百号",
@@ -389,29 +343,6 @@
             "text": "第二項第三号から第六号までの損失は、融資元本の償還期限の到来後政令で定める期間を経過してもなお元本又は利息（政令で定める遅延利息を含む。）の全部又は一部が回収されなかつた場合におけるその回収されなかつた金額とする。"
         },
         "match": "政令で定める遅延利息"
-    },
-    {
-        "ref": {
-            "lawNum": "昭和四十八年政令第二百七十四号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "水系及び河川の名称は、河川法第四条第一項の水系を指定する政令（昭和四十年政令第四十三号）に掲げる水系及びこれに係る河川で建設大臣が指定したものの名称による。"
-        },
-        "referred": {
-            "lawNum": "昭和四十八年法律第百号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "4",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "前条第二項の規定により政府が都道府県に対して交付する補助金の額は、次の各号に掲げる経費の区分に従い、当該各号に掲げる額の範囲内とする。"
-        },
-        "match": "★引用個所不明★"
     },
     {
         "ref": {

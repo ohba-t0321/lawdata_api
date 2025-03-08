@@ -1,29 +1,6 @@
 [
     {
         "ref": {
-            "lawNum": "平成二十三年法律第五十二号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "性同一性障害者の性別の取扱いの特例に関する法律（平成十五年法律第百十一号）第三条第一項"
-        },
-        "referred": {
-            "lawNum": "平成十五年法律第百十一号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "家庭裁判所は、性同一性障害者であって次の各号のいずれにも該当するものについて、その者の請求により、性別の取扱いの変更の審判をすることができる。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和二十二年法律第二百二十四号",
             "lawArticle": {
                 "provision": "MainProvision",

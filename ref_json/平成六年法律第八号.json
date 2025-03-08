@@ -47,29 +47,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成七年通商産業省令第七十七号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "水道原水水質保全事業の実施の促進に関する法律（平成六年法律第八号）第二条第三項に規定する取水地点（以下「水道原水取水地点」という。）並びに国又は地方公共団体が測定している水質の測定点（以下「水質の測定点」という。）の生物化学的酸素要求量又は化学的酸素要求量、全窒素、全燐りん並びに位置"
-        },
-        "referred": {
-            "lawNum": "平成六年法律第八号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "3",
-                "item": "0"
-            },
-            "text": "この法律において「取水地点」とは、水道原水に係る取水施設が設置されている地点をいう。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十一年総理府令第三十一号",
             "lawArticle": {
                 "provision": "MainProvision",

@@ -185,29 +185,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和二十三年法律第二百八十二号",
-            "lawArticle": {
-                "provision": "平成二二年三月三一日法律第二〇号",
-                "article": "2",
-                "paragraph": "1",
-                "item": "2"
-            },
-            "text": "道路の修繕に関する法律第二条第三項"
-        },
-        "referred": {
-            "lawNum": "昭和二十三年法律第二百八十二号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "3",
-                "item": "0"
-            },
-            "text": "第一項の修繕に要する費用は、国の負担とする。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和二十四年政令第六十一号",
             "lawArticle": {
                 "provision": "MainProvision",

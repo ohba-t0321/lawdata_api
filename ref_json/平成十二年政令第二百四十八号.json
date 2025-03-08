@@ -1,29 +1,6 @@
 [
     {
         "ref": {
-            "lawNum": "昭和二十四年法務府令第四十号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法務省組織令（平成十二年政令第二百四十八号）第六十四条第二項の事務以外の事務に関する札幌法務局の管轄区域"
-        },
-        "referred": {
-            "lawNum": "平成十二年政令第二百四十八号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "64",
-                "paragraph": "2",
-                "item": "0"
-            },
-            "text": "法務大臣は、法務局長に、その管轄区域内の地方法務局の事務を指揮監督させることができる。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和五十年法務省令第六十八号",
             "lawArticle": {
                 "provision": "MainProvision",

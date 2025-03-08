@@ -93,29 +93,6 @@
     },
     {
         "ref": {
-            "lawNum": "明治三十二年法律第十五号",
-            "lawArticle": {
-                "provision": "昭和二四年五月三一日法律第一三七号",
-                "article": "0",
-                "paragraph": "5",
-                "item": "0"
-            },
-            "text": "従前の供託法第一条ノ三又は第一条ノ七第一項の規定によつてした抗告に関しては、この法律施行後でも、なお従前の例による。"
-        },
-        "referred": {
-            "lawNum": "明治三十二年法律第十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "1",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法令ノ規定ニ依リテ供託スル金銭及ヒ有価証券ハ法務局若ハ地方法務局若ハ此等ノ支局又ハ法務大臣ノ指定スル此等ノ出張所カ供託所トシテ之ヲ保管ス"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和二十二年勅令第百六十五号",
             "lawArticle": {
                 "provision": "MainProvision",

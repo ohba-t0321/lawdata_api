@@ -300,29 +300,6 @@
     },
     {
         "ref": {
-            "lawNum": "令和六年厚生労働省令第百六号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "薬剤師法施行令（昭和三十六年政令第十三号）第八条第三項（第九条第三項において準用する場合を含む。）の規定による手数料"
-        },
-        "referred": {
-            "lawNum": "昭和三十六年政令第十三号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "8",
-                "paragraph": "3",
-                "item": "0"
-            },
-            "text": "第一項の申請をする場合には、厚生労働大臣の定める額の手数料を納めなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和三十六年厚生省令第五号",
             "lawArticle": {
                 "provision": "MainProvision",

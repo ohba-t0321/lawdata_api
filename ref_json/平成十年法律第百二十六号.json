@@ -1450,29 +1450,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和四十二年法律第三十五号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "債権管理回収業に関する特別措置法（平成十年法律第百二十六号）第三条（債権管理回収業の許可）の債権管理回収業の許可"
-        },
-        "referred": {
-            "lawNum": "平成十年法律第百二十六号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "3",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "債権管理回収業は、法務大臣の許可を受けた株式会社でなければ、営むことができない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十一年法務省令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -2186,29 +2163,6 @@
     },
     {
         "ref": {
-            "lawNum": "平成十七年法務省令第四十四号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "債権管理回収業に関する特別措置法第十五条第一項の規定による受取証書の交付"
-        },
-        "referred": {
-            "lawNum": "平成十年法律第百二十六号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "15",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "債権回収会社は、特定金銭債権の全部又は一部について弁済を受けたときは、その都度、直ちに、法務省令で定めるところにより、債権回収会社の商号及び本店の所在地、受領金額その他の法務省令で定める事項を記載した書面を当該弁済をした者に交付しなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十一年法務省令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -2390,52 +2344,6 @@
             "text": "債権回収会社は、法務省令で定めるところにより、その業務に関する帳簿書類を作成し、これを保存しなければならない。"
         },
         "match": "法務省令で定める"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十七年法務省令第四十四号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "債権管理回収業に関する特別措置法（平成十年法律第百二十六号）第二十条の規定による帳簿書類の保存"
-        },
-        "referred": {
-            "lawNum": "平成十年法律第百二十六号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "20",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "債権回収会社は、法務省令で定めるところにより、その業務に関する帳簿書類を作成し、これを保存しなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成十七年法務省令第四十四号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "債権管理回収業に関する特別措置法第二十条の規定による帳簿書類の作成"
-        },
-        "referred": {
-            "lawNum": "平成十年法律第百二十六号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "20",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "債権回収会社は、法務省令で定めるところにより、その業務に関する帳簿書類を作成し、これを保存しなければならない。"
-        },
-        "match": "★引用個所不明★"
     },
     {
         "ref": {

@@ -1,29 +1,6 @@
 [
     {
         "ref": {
-            "lawNum": "昭和六十三年法律第百八号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "9"
-            },
-            "text": "墓地、埋葬等に関する法律（昭和二十三年法律第四十八号）第二条第一項（定義）に規定する埋葬に係る埋葬料又は同条第二項に規定する火葬に係る火葬料を対価とする役務の提供"
-        },
-        "referred": {
-            "lawNum": "昭和二十三年法律第四十八号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "この法律で「埋葬」とは、死体（妊娠四箇月以上の死胎を含む。以下同じ。）を土中に葬ることをいう。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "令和四年政令第三百十六号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -32,29 +9,6 @@
                 "item": "2"
             },
             "text": "墓地（墓地、埋葬等に関する法律（昭和二十三年法律第四十八号）第二条第五項に規定する墓地をいう。）内の土地"
-        },
-        "referred": {
-            "lawNum": "昭和二十三年法律第四十八号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "2",
-                "paragraph": "5",
-                "item": "0"
-            },
-            "text": "この法律で「墓地」とは、墳墓を設けるために、墓地として都道府県知事（市又は特別区にあつては、市長又は区長。以下同じ。）の許可を受けた区域をいう。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
-            "lawNum": "平成三年法律第六十九号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "24"
-            },
-            "text": "墓地、埋葬等に関する法律（昭和二十三年法律第四十八号）第二条第五項（定義）に規定する墓地又は同条第七項に規定する火葬場の用に供されている土地等"
         },
         "referred": {
             "lawNum": "昭和二十三年法律第四十八号",

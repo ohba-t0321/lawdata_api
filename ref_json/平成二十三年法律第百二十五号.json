@@ -668,29 +668,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和四十一年人事院規則一七―〇",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "復興庁設置法（平成二十三年法律第百二十五号）第十二条第一項に規定する職又は当該職のつかさどる職務の全部若しくは一部を助ける職に就いている職員で構成される組織"
-        },
-        "referred": {
-            "lawNum": "平成二十三年法律第百二十五号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "12",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "復興庁には、その所掌事務の能率的な遂行のためその一部を所掌する職を置く。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成二十四年人事院規則一―五七",
             "lawArticle": {
                 "provision": "MainProvision",

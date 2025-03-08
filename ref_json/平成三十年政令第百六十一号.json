@@ -1,29 +1,6 @@
 [
     {
         "ref": {
-            "lawNum": "昭和五十二年政令第二百二十号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "国際観光旅客税法施行令（平成三十年政令第百六十一号）第六条第一項（国外事業者の納税地の特例の承認の申請）の規定による申請書の提出又は同条第四項の規定による書類の提出"
-        },
-        "referred": {
-            "lawNum": "平成三十年政令第百六十一号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "6",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "法第十三条第一項ただし書の承認を受けようとする国外事業者は、次に掲げる事項を記載した申請書を承認を受けようとする場所の所在地を所轄する税関長に提出しなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成十年大蔵省令第四十三号",
             "lawArticle": {
                 "provision": "MainProvision",

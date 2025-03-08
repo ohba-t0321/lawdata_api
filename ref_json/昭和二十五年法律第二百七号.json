@@ -783,29 +783,6 @@
     },
     {
         "ref": {
-            "lawNum": "昭和四十二年法律第八十一号",
-            "lawArticle": {
-                "provision": "SupplProvision",
-                "article": "0",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "五十七の四十二　クリーニング業法（昭和二十五年法律第二百七号）第七条の二第一項に規定する指定試験機関"
-        },
-        "referred": {
-            "lawNum": "昭和二十五年法律第二百七号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "7_2",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "都道府県知事は、厚生労働大臣の指定する者（以下「指定試験機関」という。）に、クリーニング師の試験の実施に関する事務（以下「試験事務」という。）の全部又は一部を行わせることができる。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "昭和二十五年厚生省令第三十五号",
             "lawArticle": {
                 "provision": "MainProvision",
