@@ -34,46 +34,60 @@
     </label>
     <div class="contents">
         <div id="sidebarMenu">
-            <div class="searchHeader">
-                <form id="searchForm">
-                    <h5>検索キーワード</h5>
-                    <input type="text" id="keyword" placeholder="キーワードを入力" class="form-control" aria-describedby="inputGroupPrepend">
-                    検索方法：
-                    <select id="searchType">
-                        <option value="includes">～を含む</option>
-                        <option value="startsWith">～で始まる</option>
-                        <option value="equal">～と一致する</option>
-                    </select>
-                    <button type="submit" class="btn btn-primary" id="searchButton"> <i class="bi bi-search"></i>検索 </button>
-                    <div id="outputWindowSelect">
-                        出力フレーム:
-                        <select id="outputFrame">
-                            <option value="left">左</option>
-                            <option value="right">右</option>
-                        </select>
-                    </div>
-                    <div id="clearwindow">
-                    フレームのクリア：
-                        <button type="submit" class="btn-outline-secondary" id="left-clear">左側</button>
-                        <button type="submit" class="btn-outline-secondary" id="right-clear">右側</button>
-                    </div>
-                    <fieldset>
-                        <legend>カッコ書きの表示方法</legend>
-                        <div id="annotationdisplay">
-                            <label>
-                                <input type="radio" id="annotate_normal" name="annotate" checked>通常
-                            </label>
-                            <label>
-                                <input type="radio" id="annotate_gray" name="annotate">薄くする
-                            </label>
-                            <label>
-                                <input type="radio" id="annotate_none" name="annotate">消去する
-                            </label>
-                        </div>
-                    </fieldset>
-                </form>
+            <div class="toggle-btn" onclick="toggleContent(this)">
+                <span class="arrow">▶</span>検索キーワード
             </div>
-            <div id="searchResults"></div>
+            <div class="content-wrapper" id="searchForm">
+                <input type="text" id="keyword" placeholder="キーワードを入力" class="form-control" aria-describedby="inputGroupPrepend">
+                検索方法：
+                <select id="searchType">
+                    <option value="includes">～を含む</option>
+                    <option value="startsWith">～で始まる</option>
+                    <option value="equal">～と一致する</option>
+                </select>
+                <button type="submit" class="btn btn-primary" id="searchButton"> <i class="bi bi-search"></i>検索 </button>
+                <div id="outputWindowSelect">
+                    出力フレーム:
+                    <select id="outputFrame">
+                        <option value="left">左</option>
+                        <option value="right">右</option>
+                    </select>
+                </div>
+                <div id="searchResults"></div>
+            </div>
+            <div class="toggle-btn" onclick="toggleContent(this)">
+                <span class="arrow">▶</span>フレームの設定
+            </div>
+            <div class="content-wrapper" class="frameSetting">
+                <div id="clearwindow">
+                    フレームのクリア：
+                    <button type="submit" class="btn-outline-secondary btn-sm" id="left-clear">左側</button>
+                    <button type="submit" class="btn-outline-secondary btn-sm" id="right-clear">右側</button>
+                </div>
+                <fieldset>
+                    <legend>カッコ書きの表示方法</legend>
+                    <div id="annotationdisplay">
+                        <label>
+                            <input type="radio" id="annotate_normal" name="annotate" checked>通常
+                        </label>
+                        <label>
+                            <input type="radio" id="annotate_gray" name="annotate">薄くする
+                        </label>
+                        <label>
+                            <input type="radio" id="annotate_none" name="annotate">消去する
+                        </label>
+                    </div>
+                </fieldset>
+            </div>
+            <div class="toggle-btn" onclick="toggleContent(this)">
+                <span class="arrow">▶</span>該当条文にジャンプ（本則のみ対応、条文番号は「第○条の○」形式、または算用数字で入力）
+            </div>
+            <div class="content-wrapper" id="jumpForm">
+                <button type="button" class="btn-outline-secondary" data-bs-toggle="button" id="left-jump">左側</button>
+                <button type="button" class="btn-outline-secondary" data-bs-toggle="button" id="right-jump">右側</button>
+                <input type="text" id="jumpArticle" placeholder="条文番号を入力" class="form-control" aria-describedby="inputGroupPrepend">
+                <button type="submit" class="btn btn-primary" id="jumpButton">ジャンプ</button>
+            </div>
         </div>
         <div class="headline">
             このアプリは、<a href="https://elaws.e-gov.go.jp/docs/law-data-basic/8529371-law-api-v1/">法令API</a>を利用して、法令を検索しています。<br>
@@ -104,7 +118,7 @@
                 </div>
             </div>
             <div class="reference" id="reference" style="opacity: 0">
-                <button type="submit" class="btn btn-secondary" id="closeButton">閉じる </button>
+                <button type="submit" class="btn-secondary" id="closeButton">閉じる </button>
                 <span class="ref-buttons">
                     <button id="ref-next" onclick="ref_law(clickItm,1)">▶</button>
                     <button id="ref-previous" onclick="ref_law(clickItm,-1)">◀</button>
@@ -113,7 +127,7 @@
                 <div class="article-num" id="ref-article-num"></div>
                 <div class="law-content" id="ref-law-content"></div>
             </div>
-    </div>
+        </div>
     </div>
     <script src="script/main.js"></script>
     <script src="script/sidebar.js"></script>
@@ -124,6 +138,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 </html>
