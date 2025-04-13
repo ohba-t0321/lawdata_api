@@ -57,8 +57,8 @@ header h1 {
 .reference{
     position:absolute;
     overflow-y: scroll;
-    height:25%;
-    top:75%;
+    height:25dvh;
+    top:75dvh;
     width: 100%;
     background-color: #ddd;
     border-radius: 5px;
