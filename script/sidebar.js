@@ -83,7 +83,8 @@ function createAndAppendDiv(law, resultsDiv) {
     tableBody.appendChild(row);
 
     // ダブルクリックイベントを追加
-    row.addEventListener('dblclick', async function() {
+    row.addEventListener('dblclick', async function(event) {
+        event.preventDefault();
         const outputFrame = document.getElementById('outputFrame').value;
         const params = new URLSearchParams(window.location.search);
         const encodedlawNo = encodeURIComponent(lawNo);
