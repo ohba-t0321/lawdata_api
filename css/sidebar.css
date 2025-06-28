@@ -71,6 +71,7 @@
     padding: 8px;
     text-align: left;
     border: 1px solid #ddd;
+    user-select: none;
 }
 /* マウスオーバー時のハイライト */
 #lawTable tbody tr:hover {
