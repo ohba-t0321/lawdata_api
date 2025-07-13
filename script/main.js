@@ -2,26 +2,44 @@
 var xmlData;
 
 window.onload = async function() {
-    // APIのURLを指定
-    const apiUrl = `https://laws.e-gov.go.jp/api/1/lawlists/1`;
 
-    // APIを呼び出してXMLデータを取得
-    fetch(apiUrl)
-        .then(response => response.text())
-        .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
-        .then(data => {
-            const laws = data.getElementsByTagName('LawNameListInfo');
-            const obj = {}
-            Array.from(laws).forEach(law => {
-                const title = law.getElementsByTagName('LawName')[0].textContent;
-                const lawNo = law.getElementsByTagName('LawNo')[0].textContent;
-                obj[lawNo] = title
-            });
-            xmlData = obj;
-        })
-        .catch(error => {
-            console.error('Error fetching XML data:', error);
-        });
+
+    try {
+        const cached = await getLawListFromCache();
+        const now = Date.now();
+
+        if (cached && now - cached.timestamp < CACHE_EXPIRE_MS) {
+            xmlData = await cached.data;
+        } else {
+            // APIのURLを指定
+            const apiUrl = `https://laws.e-gov.go.jp/api/1/lawlists/1`;
+
+            // APIを呼び出してXMLデータを取得
+            xmlData = await fetch(apiUrl)
+                .then(response => response.text())
+                .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
+                .then(data => {
+                    const laws = data.getElementsByTagName('LawNameListInfo');
+                    const obj = {}
+                    Array.from(laws).forEach(law => {
+                        const title = law.getElementsByTagName('LawName')[0].textContent;
+                        const lawNo = law.getElementsByTagName('LawNo')[0].textContent;
+                        obj[lawNo] = title
+                    });
+                    return obj;
+                })
+                .catch(error => {
+                    console.error('Error fetching XML data:', error);
+                    // エラーが発生した場合は空のオブジェクトを返す
+                    return {};
+                });
+                await saveLawListToCache();
+        }
+    } catch (err) {
+        console.log(`エラー：${err.message}`);
+    }
+
+
     // クエリパラメータを取得
     const params = new URLSearchParams(window.location.search);
     const keyword = params.get("keyword");

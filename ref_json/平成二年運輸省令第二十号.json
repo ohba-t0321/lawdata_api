@@ -1,6 +1,29 @@
 [
     {
         "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則（平成二年運輸省令第二十号）第四条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成二十四年国土交通省令第五十七号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -9,6 +32,75 @@
                 "item": "0"
             },
             "text": "貨物利用運送事業法施行規則（平成二年運輸省令第二十号）第四条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則（平成二年運輸省令第二十号）第四条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則（平成二年運輸省令第二十号）第四条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四条第二項各号に掲げる書類"
         },
         "referred": {
             "lawNum": "平成二年運輸省令第二十号",
@@ -47,9 +139,9 @@
     },
     {
         "ref": {
-            "lawNum": "平成二十四年国土交通省令第五十七号",
+            "lawNum": "平成二十七年国土交通省令第五十八号",
             "lawArticle": {
-                "provision": "MainProvision",
+                "provision": "SupplProvision",
                 "article": "0",
                 "paragraph": "1",
                 "item": "0"
@@ -77,6 +169,190 @@
                 "paragraph": "1",
                 "item": "0"
             },
+            "text": "貨物利用運送事業法施行規則第九条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一項の規定により第一種貨物利用運送事業の変更登録を申請しようとする者は、次に掲げる事項を記載した変更登録申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第九条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一項の規定により第一種貨物利用運送事業の変更登録を申請しようとする者は、次に掲げる事項を記載した変更登録申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第九条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一項の規定により第一種貨物利用運送事業の変更登録を申請しようとする者は、次に掲げる事項を記載した変更登録申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第九条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第一項の規定により第一種貨物利用運送事業の変更登録を申請しようとする者は、次に掲げる事項を記載した変更登録申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第九条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、第四条第二項に掲げる書類のうち変更登録に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第九条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、第四条第二項に掲げる書類のうち変更登録に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第九条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、第四条第二項に掲げる書類のうち変更登録に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第九条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、第四条第二項に掲げる書類のうち変更登録に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
             "text": "貨物利用運送事業法施行規則第十条第一項各号に掲げる事項"
         },
         "referred": {
@@ -88,6 +364,443 @@
                 "item": "0"
             },
             "text": "法第七条第三項の規定により登録事項の変更の届出をしようとする者は、次に掲げる事項を記載した登録事項変更届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第五十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第三項の規定により登録事項の変更の届出をしようとする者は、次に掲げる事項を記載した登録事項変更届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第三項の規定により登録事項の変更の届出をしようとする者は、次に掲げる事項を記載した登録事項変更届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第三項の規定により登録事項の変更の届出をしようとする者は、次に掲げる事項を記載した登録事項変更届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第七条第三項の規定により登録事項の変更の届出をしようとする者は、次に掲げる事項を記載した登録事項変更届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第四条第二項に掲げる書類のうち登録事項の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第四条第二項に掲げる書類のうち登録事項の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第四条第二項に掲げる書類のうち登録事項の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第四条第二項に掲げる書類のうち登録事項の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十四条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十一条の規定により運輸に関する協定の締結又は変更の届出をしようとする者は、次に掲げる事項を記載した運輸に関する協定締結（変更）届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十四条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十一条の規定により運輸に関する協定の締結又は変更の届出をしようとする者は、次に掲げる事項を記載した運輸に関する協定締結（変更）届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十四条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十一条の規定により運輸に関する協定の締結又は変更の届出をしようとする者は、次に掲げる事項を記載した運輸に関する協定締結（変更）届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十四条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第十一条の規定により運輸に関する協定の締結又は変更の届出をしようとする者は、次に掲げる事項を記載した運輸に関する協定締結（変更）届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十四条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、協定書の写しを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十四条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、協定書の写しを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十四条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、協定書の写しを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十四条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "14",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、協定書の写しを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十五条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十四条第二項の規定により第一種貨物利用運送事業者の地位の承継の届出をしようとする者は、次に掲げる事項を記載した承継届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十五条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の届出書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十六条各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十五条の規定により第一種貨物利用運送事業の廃止の届出をしようとする者は、次に掲げる事項を記載した事業の廃止届出書を提出しなければならない。"
         },
         "match": "★引用個所不明★"
     },
@@ -139,6 +852,29 @@
     },
     {
         "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十九条第一項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十一条第二項の国土交通省令で定める事項を記載した書類は、次のとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成二十四年国土交通省令第五十七号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -162,11 +898,80 @@
     },
     {
         "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十九条第一項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十一条第二項の国土交通省令で定める事項を記載した書類は、次のとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十九条第一項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十一条第二項の国土交通省令で定める事項を記載した書類は、次のとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第十九条第一項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十一条第二項の国土交通省令で定める事項を記載した書類は、次のとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成二年運輸省令第二十一号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "35",
-                "paragraph": "3",
+                "article": "35_5",
+                "paragraph": "2",
                 "item": "0"
             },
             "text": "この場合において、第十六条第三項第三号中「第三条第六号、第七号又は第八号」とあるのは、「貨物利用運送事業法施行規則（平成二年運輸省令第二十号）第十九条第一項第四号、第五号又は第六号」と読み替えるものとする。"
@@ -208,9 +1013,9 @@
     },
     {
         "ref": {
-            "lawNum": "平成二十四年国土交通省令第五十七号",
+            "lawNum": "平成二十七年国土交通省令第五十八号",
             "lawArticle": {
-                "provision": "MainProvision",
+                "provision": "SupplProvision",
                 "article": "0",
                 "paragraph": "1",
                 "item": "0"
@@ -238,6 +1043,213 @@
                 "paragraph": "1",
                 "item": "0"
             },
+            "text": "貨物利用運送事業法施行規則第二十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第一項の規定により事業計画又は集配事業計画の変更の認可を申請しようとする者は、次に掲げる事項を記載した事業計画変更認可申請書又は集配事業計画変更認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第一項の規定により事業計画又は集配事業計画の変更の認可を申請しようとする者は、次に掲げる事項を記載した事業計画変更認可申請書又は集配事業計画変更認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第一項の規定により事業計画又は集配事業計画の変更の認可を申請しようとする者は、次に掲げる事項を記載した事業計画変更認可申請書又は集配事業計画変更認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十五条第一項の規定により事業計画又は集配事業計画の変更の認可を申請しようとする者は、次に掲げる事項を記載した事業計画変更認可申請書又は集配事業計画変更認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、前条第一項に掲げる書類のうち事業計画又は集配事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、前条第一項に掲げる書類のうち事業計画又は集配事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、前条第一項に掲げる書類のうち事業計画又は集配事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、前条第一項に掲げる書類のうち事業計画又は集配事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十一条第二項各号又は第二十二条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の集配事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した集配事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第五十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
             "text": "貨物利用運送事業法施行規則第二十一条第二項各号又は同令第二十二条第二項各号に掲げる事項"
         },
         "referred": {
@@ -249,6 +1261,328 @@
                 "item": "0"
             },
             "text": "前項の集配事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した集配事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十一条第二項各号又は第二十二条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の集配事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した集配事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十一条第二項各号又は第二十二条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の集配事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した集配事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十一条第二項各号又は第二十二条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の集配事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した集配事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十一条第三項又は第二十二条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第十九条第一項に掲げる書類のうち集配事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十一条第三項又は第二十二条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第十九条第一項に掲げる書類のうち集配事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十一条第三項又は第二十二条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第十九条第一項に掲げる書類のうち集配事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十一条第三項又は第二十二条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第十九条第一項に掲げる書類のうち集配事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十六条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十九条第一項の規定により第二種貨物利用運送事業の譲渡し及び譲受けの認可を申請しようとする者は、次に掲げる事項を記載した事業の譲渡譲受認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十六条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十七条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第二十九条第二項の規定により第二種貨物利用運送事業者たる法人の合併又は分割の認可を申請しようとする者は、次に掲げる事項を記載した法人の合併（分割）認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十七条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "27",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十八条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十条第一項の規定により相続による第二種貨物利用運送事業の継続の認可を申請しようとする相続人は、次に掲げる事項を記載した事業の継続認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十八条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第二十九条各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "29",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十一条の規定により第二種貨物利用運送事業の休止又は廃止の届出をしようとする者は、次に掲げる事項を記載した事業の休止（廃止）届出書を提出しなければならない。"
         },
         "match": "★引用個所不明★"
     },
@@ -323,9 +1657,101 @@
     },
     {
         "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第三十九条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十五条第一項の規定により外国人等による国際貨物運送に係る第二種貨物利用運送事業（以下「外国人国際第二種貨物利用運送事業」という。）の許可を申請しようとする者は、同項に規定する国際貨物運送の区分に応じ、次に掲げる事項を記載した外国人国際第二種貨物利用運送事業許可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成二十四年国土交通省令第五十七号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第三十九条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十五条第一項の規定により外国人等による国際貨物運送に係る第二種貨物利用運送事業（以下「外国人国際第二種貨物利用運送事業」という。）の許可を申請しようとする者は、同項に規定する国際貨物運送の区分に応じ、次に掲げる事項を記載した外国人国際第二種貨物利用運送事業許可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第三十九条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十五条第一項の規定により外国人等による国際貨物運送に係る第二種貨物利用運送事業（以下「外国人国際第二種貨物利用運送事業」という。）の許可を申請しようとする者は、同項に規定する国際貨物運送の区分に応じ、次に掲げる事項を記載した外国人国際第二種貨物利用運送事業許可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第三十九条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十五条第一項の規定により外国人等による国際貨物運送に係る第二種貨物利用運送事業（以下「外国人国際第二種貨物利用運送事業」という。）の許可を申請しようとする者は、同項に規定する国際貨物運送の区分に応じ、次に掲げる事項を記載した外国人国際第二種貨物利用運送事業許可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
                 "article": "0",
                 "paragraph": "1",
                 "item": "0"
@@ -369,9 +1795,101 @@
     },
     {
         "ref": {
-            "lawNum": "平成二十四年国土交通省令第五十七号",
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第三十九条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第三十九条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第三十九条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第三十九条第二項各号に掲げる書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "39",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
                 "article": "0",
                 "paragraph": "1",
                 "item": "0"
@@ -399,6 +1917,213 @@
                 "paragraph": "1",
                 "item": "0"
             },
+            "text": "貨物利用運送事業法施行規則第四十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十六条第二項の規定により事業計画の変更の認可を申請しようとする者は、次に掲げる事項を記載した事業計画変更認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十六条第二項の規定により事業計画の変更の認可を申請しようとする者は、次に掲げる事項を記載した事業計画変更認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十六条第二項の規定により事業計画の変更の認可を申請しようとする者は、次に掲げる事項を記載した事業計画変更認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十条第一項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第四十六条第二項の規定により事業計画の変更の認可を申請しようとする者は、次に掲げる事項を記載した事業計画変更認可申請書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、前条第二項に掲げる書類のうち事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、前条第二項に掲げる書類のうち事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、前条第二項に掲げる書類のうち事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十条第二項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "40",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、前条第二項に掲げる書類のうち事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十一条第二項各号又は第四十二条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第五十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
             "text": "貨物利用運送事業法施行規則第四十一条第二項各号又は同令第四十二条第二項各号に掲げる事項"
         },
         "referred": {
@@ -410,6 +2135,190 @@
                 "item": "0"
             },
             "text": "前項の事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十一条第二項各号又は第四十二条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十一条第二項各号又は第四十二条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十一条第二項各号又は第四十二条第二項各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の事業計画の変更の届出をしようとする者は、次に掲げる事項を記載した事業計画変更事前届出書を提出しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十七年国土交通省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十一条第三項又は第四十二条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第三十九条第二項に掲げる書類のうち事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成二十四年国土交通省令第八十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十一条第三項又は第四十二条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第三十九条第二項に掲げる書類のうち事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十一条第三項又は第四十二条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第三十九条第二項に掲げる書類のうち事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十九年国土交通省令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十一条第三項又は第四十二条第三項に規定する書類"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "前項の届出書には、第三十九条第二項に掲げる書類のうち事業計画の変更に伴いその内容が変更されるものを添付しなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十七年農林水産省・経済産業省・国土交通省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "貨物利用運送事業法施行規則第四十三条において準用する同令第三十六条各号に掲げる事項"
+        },
+        "referred": {
+            "lawNum": "平成二年運輸省令第二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "43",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第三十六条の規定は、法第四十八条の規定による外国人国際第二種貨物利用運送事業の廃止の届出について準用する。この場合において、第三十六条第一号中「その代表者の氏名並びに登録番号」とあるのは、「その代表者の氏名」と読み替えるものとする。"
         },
         "match": "★引用個所不明★"
     },

@@ -323,6 +323,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和四十二年法律第二十三号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国立研究開発法人海洋研究開発機構法（平成十五年法律第九十五号）第十七条第三号（業務の範囲）の業務に関する文書"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第九十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "大学及び大学共同利用機関における海洋に関する学術研究に関し、船舶の運航その他の協力を行うこと。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成十六年文部科学省令第九号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -392,6 +415,29 @@
     },
     {
         "ref": {
+            "lawNum": "平成二十年政令第三百十四号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国立研究開発法人海洋研究開発機構法（平成十五年法律第九十五号）第十七条第七号"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第九十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "7"
+            },
+            "text": "科学技術・イノベーション創出の活性化に関する法律（平成二十年法律第六十三号）第三十四条の六第一項の規定による出資並びに人的及び技術的援助のうち政令で定めるものを行うこと。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成十六年文部科学省令第九号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -433,6 +479,52 @@
                 "item": "8"
             },
             "text": "前各号の業務に附帯する業務を行うこと。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第三百十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国立研究開発法人海洋研究開発機構法（平成十五年法律第九十五号）第十八条第一項"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第九十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "機構は、通則法第三十五条の四第二項第一号に規定する中長期目標の期間（以下この項において「中長期目標の期間」という。）の最後の事業年度に係る通則法第四十四条第一項又は第二項の規定による整理を行った後、同条第一項の規定による積立金があるときは、その額に相当する金額のうち文部科学大臣の承認を受けた金額を、当該中長期目標の期間の次の中長期目標の期間に係る通則法第三十五条の五第一項の認可を受けた中長期計画（同項後段の規定による変更の認可を受けたときは、その変更後のもの）の定めるところにより、当該次の中長期目標の期間における第十七条に規定する業務の財源に充てることができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十七年会計検査院規則第三号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "国立研究開発法人海洋研究開発機構法（平成十五年法律第九十五号）第十八条第三項"
+        },
+        "referred": {
+            "lawNum": "平成十五年法律第九十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "18",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "機構は、第一項に規定する積立金の額に相当する金額から同項の規定による承認を受けた金額を控除してなお残余があるときは、その残余の額を国庫に納付しなければならない。"
         },
         "match": "★引用個所不明★"
     }

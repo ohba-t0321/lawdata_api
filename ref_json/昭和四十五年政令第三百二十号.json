@@ -93,6 +93,29 @@
     },
     {
         "ref": {
+            "lawNum": "平成九年政令第三百四十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "ロ　高速自動車国道法第四条第一項の高速自動車国道の改築の事業であって、車線（道路構造令（昭和四十五年政令第三百二十号）第二条第七号の登坂車線、同条第八号の屈折車線及び同条第九号の変速車線を除く。以下同じ。）の数の増加を伴うもの（車線の数の増加に係る部分の長さが一キロメートル以上であるものに限る。）"
+        },
+        "referred": {
+            "lawNum": "昭和四十五年政令第三百二十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "7"
+            },
+            "text": "登坂車線上り勾配の道路において速度の著しく低下する車両を他の車両から分離して通行させることを目的とする車線をいう。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和四十六年建設省令第七号",
             "lawArticle": {
                 "provision": "MainProvision",

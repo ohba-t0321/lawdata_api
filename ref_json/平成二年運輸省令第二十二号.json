@@ -70,29 +70,6 @@
     },
     {
         "ref": {
-            "lawNum": "令和五年国土交通省令第六十二号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "1",
-                "paragraph": "1",
-                "item": "3"
-            },
-            "text": "運行指示書（貨物自動車運送事業輸送安全規則（平成二年運輸省令第二十二号）第九条の三第一項に規定する運行指示書をいう。）を作成する機能"
-        },
-        "referred": {
-            "lawNum": "平成二年運輸省令第二十二号",
-            "lawArticle": {
-                "provision": "MainProvision",
-                "article": "9_3",
-                "paragraph": "1",
-                "item": "0"
-            },
-            "text": "一般貨物自動車運送事業者等は、第七条第三項に規定する業務を含む運行ごとに、次の各号に掲げる事項を記載した運行指示書を作成し、これにより事業用自動車の運転者等に対し適切な指示を行い、及びこれを当該運転者等に携行させなければならない。"
-        },
-        "match": "★引用個所不明★"
-    },
-    {
-        "ref": {
             "lawNum": "平成二年運輸省令第二十号",
             "lawArticle": {
                 "provision": "MainProvision",

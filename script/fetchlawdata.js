@@ -7,6 +7,14 @@ for (let i=1; i<10 ;i++) {
     subitemNode.push(`Subitem${i}`)
 }
 
+async function fetchLawFromAPI(lawNo) {
+  // ★ 必要に応じて法令APIに合わせて修正してください
+  const url = `https://laws.e-gov.go.jp/api/1/lawdata/${lawNo}`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error("法令の取得に失敗しました");
+  return await res.text();
+}
+
 async function fetchLawDetails(lawNo, outputFrame) {
     frameContent = document.getElementById(outputFrame)
     lawTitle = frameContent.getElementsByClassName('law-title')[0];
@@ -31,9 +39,21 @@ async function fetchLawDetails(lawNo, outputFrame) {
         }
     };
 
-    const apiUrl = `https://laws.e-gov.go.jp/api/1/lawdata/${lawNo}`; // ここに実際のAPI URLを入力
-    response = await fetch(apiUrl)
-    str = await response.text()
+    let str = '';
+    try {
+        const cached = await getLawFromCache(lawNo);
+        const now = Date.now();
+
+        if (cached && now - cached.timestamp < CACHE_EXPIRE_MS) {
+            str = cached.lawData;
+        } else {
+            str = await fetchLawFromAPI(lawNo);
+            await saveLawToCache(lawNo, str);
+        }
+    } catch (err) {
+        console.log(`エラー：${err.message}`);
+    }
+
     data = new window.DOMParser().parseFromString(str, "application/xml")
     lawTitle.innerHTML = data.getElementsByTagName('LawTitle')[0].innerHTML;
     lawNum.innerHTML =  "(" + data.getElementsByTagName('LawNum')[0].innerHTML + ")";

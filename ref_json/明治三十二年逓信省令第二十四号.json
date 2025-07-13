@@ -47,6 +47,29 @@
     },
     {
         "ref": {
+            "lawNum": "平成十四年国土交通省令第四号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "小型船舶が船舶法施行細則（明治三十二年逓信省令第二十四号）第十二条の二第三項の規定により総トン数計算書の謄本の交付を受けた後、船体の改造を行わずに新規登録を受けようとする場合であって、当該謄本を提出したときの手数料の額は、四千円とする。"
+        },
+        "referred": {
+            "lawNum": "明治三十二年逓信省令第二十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12_2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "管海官庁ニ於ケル総トン数ノ測度又ハ改測ノ結果当該船舶ノ総トン数ガ二十トン未満デアルト判明シタル場合ト雖モ総トン数計算書ノ謄本ヲ請受クル申請者ニ対シテハ之ヲ交付スベシ"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和二十七年運輸省令第四十二号",
             "lawArticle": {
                 "provision": "MainProvision",

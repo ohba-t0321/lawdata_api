@@ -4,6 +4,29 @@
             "lawNum": "昭和二十六年土地調整委員会規則第二号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "25",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第一条各号の処分に関する手続の期日及び期日外に行う手続における写真の撮影、速記、録音、録画又は放送は、手続の主宰者の許可を得なければすることができない。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年法律第二百九十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律は、鉱業、採石業又は砂利採取業と一般公益又は農業、林業その他の産業との調整を図るため公害等調整委員会（以下「委員会」という。）が行う次に掲げる処分の手続等に関し、必要な事項を定めることを目的とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十六年土地調整委員会規則第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "10_2",
                 "paragraph": "1",
                 "item": "0"

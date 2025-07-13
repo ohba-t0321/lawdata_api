@@ -231,6 +231,52 @@
     },
     {
         "ref": {
+            "lawNum": "平成十六年法律第百十二号",
+            "lawArticle": {
+                "provision": "平成二五年六月一四日法律第四四号",
+                "article": "1",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "第一条、第五条、第七条（消防組織法第十五条の改正規定に限る。）、第九条、第十条、第十四条（地方独立行政法人法目次の改正規定（「第六章"
+        },
+        "referred": {
+            "lawNum": "昭和二十二年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "消防長は、市町村長が任命し、消防長以外の消防職員は、市町村長の承認を得て消防長が任命する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十四年法律第百九十三号",
+            "lawArticle": {
+                "provision": "平成二五年六月一四日法律第四四号",
+                "article": "1",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "第一条、第五条、第七条（消防組織法第十五条の改正規定に限る。）、第九条、第十条、第十四条（地方独立行政法人法目次の改正規定（「第六章"
+        },
+        "referred": {
+            "lawNum": "昭和二十二年法律第二百二十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "消防長は、市町村長が任命し、消防長以外の消防職員は、市町村長の承認を得て消防長が任命する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成二十五年政令第二百六十三号",
             "lawArticle": {
                 "provision": "MainProvision",

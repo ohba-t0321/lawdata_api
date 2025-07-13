@@ -1,6 +1,29 @@
 [
     {
         "ref": {
+            "lawNum": "昭和三十六年厚生省令第一号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "リフィル処方箋（保険医療機関及び保険医療養担当規則（昭和三十二年厚生省令第十五号）第二十条に規定するリフィル処方箋をいう。）の対応実績の件数"
+        },
+        "referred": {
+            "lawNum": "昭和三十二年厚生省令第十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "医師である保険医の診療の具体的方針は、前十二条の規定によるほか、次に掲げるところによるものとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "大正十五年内務省令第三十六号",
             "lawArticle": {
                 "provision": "MainProvision",

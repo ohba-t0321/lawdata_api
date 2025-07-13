@@ -27,6 +27,29 @@
             "lawNum": "平成三年法律第六十九号",
             "lawArticle": {
                 "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "首都圏整備法第二条第一項（定義）に規定する首都圏、近畿圏整備法第二条第一項（定義）に規定する近畿圏又は中部圏開発整備法第二条第一項（定義）に規定する中部圏内にある地方自治法第二百五十二条の十九第一項（指定都市の事務）の市の区域"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律で「中部圏」とは、富山県、石川県、福井県、長野県、岐阜県、静岡県、愛知県、三重県及び滋賀県の区域を一体とした広域をいう。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成三年法律第六十九号",
+            "lawArticle": {
+                "provision": "SupplProvision",
                 "article": "3",
                 "paragraph": "2",
                 "item": "2"
@@ -326,6 +349,29 @@
             "lawNum": "平成三年法律第六十九号",
             "lawArticle": {
                 "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "（２）に規定する市以外の市でその区域の全部又は一部が首都圏整備法第二条第三項に規定する既成市街地若しくは同条第四項に規定する近郊整備地帯、近畿圏整備法第二条第三項に規定する既成都市区域若しくは同条第四項に規定する近郊整備区域又は中部圏開発整備法第二条第三項に規定する都市整備区域内にあるものの区域"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "この法律で「都市整備区域」とは、中部圏の地域のうち第十三条第一項の規定により指定された区域をいう。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成三年法律第六十九号",
+            "lawArticle": {
+                "provision": "SupplProvision",
                 "article": "3",
                 "paragraph": "2",
                 "item": "3"
@@ -515,6 +561,29 @@
                 "item": "1"
             },
             "text": "中部圏開発整備法（昭和四十一年法律第百二号）第二条第三項に規定する都市整備区域"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "この法律で「都市整備区域」とは、中部圏の地域のうち第十三条第一項の規定により指定された区域をいう。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成十二年政令第五百号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "その区域の全部又は一部が中部圏開発整備法（昭和四十一年法律第百二号）第二条第三項に規定する都市整備区域の区域内にある市町村の区域"
         },
         "referred": {
             "lawNum": "昭和四十一年法律第百二号",
@@ -829,6 +898,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和六十一年政令第二百六十五号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "その区域の全部又は一部が中部圏開発整備法（昭和四十一年法律第百二号）第二条第三項に規定する都市整備区域の区域内にある市町村の区域"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "この法律で「都市整備区域」とは、中部圏の地域のうち第十三条第一項の規定により指定された区域をいう。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和六十三年法律第四十七号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -985,6 +1077,29 @@
                 "item": "0"
             },
             "text": "この法律で「都市整備区域」とは、中部圏の地域のうち第十三条第一項の規定により指定された区域をいう。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十二年法律第百二号",
+            "lawArticle": {
+                "provision": "昭和五三年五月二三日法律第五五号",
+                "article": "0",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "第一条（台風常襲地帯対策審議会に係る部分を除く。）及び第六条から第九条までの規定、第十条中奄美群島振興開発特別措置法第七条第一項の改正規定並びに第十一条、第十二条及び第十四条から第三十二条までの規定"
+        },
+        "referred": {
+            "lawNum": "昭和四十一年法律第百二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "削除"
         },
         "match": "★引用個所不明★"
     },

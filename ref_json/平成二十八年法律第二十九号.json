@@ -24,6 +24,29 @@
     },
     {
         "ref": {
+            "lawNum": "平成二十年内閣府・財務省・経済産業省令第一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "72_2",
+                "paragraph": "1",
+                "item": "7"
+            },
+            "text": "成年後見制度に係る相談の実施、成年後見人等（成年後見制度の利用の促進に関する法律（平成二十八年法律第二十九号）第二条第一項に規定する成年後見人等をいう。以下この号において同じ。）の事務の支援その他成年後見人等の事務を行う業務"
+        },
+        "referred": {
+            "lawNum": "平成二十八年法律第二十九号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律において「成年後見人等」とは、次に掲げる者をいう。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成五年大蔵省・農林水産省令第一号",
             "lawArticle": {
                 "provision": "MainProvision",

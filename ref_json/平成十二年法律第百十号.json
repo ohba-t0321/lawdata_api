@@ -4,7 +4,7 @@
             "lawNum": "平成十三年環境省令第一号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "21",
+                "article": "22",
                 "paragraph": "2",
                 "item": "2"
             },
@@ -47,10 +47,33 @@
     },
     {
         "ref": {
+            "lawNum": "令和六年法律第四十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "基本方針は、地球温暖化対策の推進に関する法律第八条第一項に規定する地球温暖化対策計画及び循環型社会形成推進基本法（平成十二年法律第百十号）第十五条第一項に規定する循環型社会形成推進基本計画と整合性のとれたものでなければならない。"
+        },
+        "referred": {
+            "lawNum": "平成十二年法律第百十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "15",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "政府は、循環型社会の形成に関する施策の総合的かつ計画的な推進を図るため、循環型社会の形成に関する基本的な計画（以下「循環型社会形成推進基本計画」という。）を定めなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成十三年環境省令第一号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "21",
+                "article": "22",
                 "paragraph": "2",
                 "item": "1"
             },

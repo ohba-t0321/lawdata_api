@@ -70,6 +70,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和二十二年司法省令第九十四号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "外務省設置法（平成十一年法律第九十四号）第四条第一項第十一号の身分関係事項等に関する証明に係る事実についての確認に関する事務"
+        },
+        "referred": {
+            "lawNum": "平成十一年法律第九十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "11"
+            },
+            "text": "身分関係事項その他の事実について内外の公の機関が発給した文書の内外にわたる証明に関すること。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成十二年政令第二百四十九号",
             "lawArticle": {
                 "provision": "MainProvision",

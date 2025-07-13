@@ -1,6 +1,29 @@
 [
     {
         "ref": {
+            "lawNum": "令和七年デジタル庁令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "出納官吏は、利用者の利用料の効率的な支払に資するため、保管金取扱規程第三条の規定により定められた本保管金の保管金取扱店のほか、確実な銀行その他の金融機関において本保管金の出納保管を行うことができる。"
+        },
+        "referred": {
+            "lawNum": "大正十一年大蔵省令第五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "取扱官庁ハ所在地日本銀行（本店、支店又ハ代理店ヲ謂フ以下同シ）ヲ以テ其ノ保管金取扱店ト為スヘシ但シ其ノ地ニ日本銀行ナキトキハ最寄ノ日本銀行ヲ以テ其ノ保管金取扱店ト為スコトヲ得"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和二十七年大蔵省令第百四十一号",
             "lawArticle": {
                 "provision": "MainProvision",

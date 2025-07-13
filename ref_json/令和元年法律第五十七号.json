@@ -47,6 +47,52 @@
     },
     {
         "ref": {
+            "lawNum": "昭和四十二年法律第三十五号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "（一）　農林水産物及び食品の輸出の促進に関する法律（令和元年法律第五十七号）第二条第四項（登録発行機関の登録）の登録発行機関に係る登録（更新の登録を除く。）"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "この法律において「登録発行機関」とは、第二十条第一項の規定により主務大臣の登録を受けた者をいい、「登録認定機関」とは、第三十五条第一項の規定により主務大臣の登録を受けた者をいう。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十二年法律第三十五号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "（二）　農林水産物及び食品の輸出の促進に関する法律第二条第四項の登録認定機関に係る登録（更新の登録を除く。）"
+        },
+        "referred": {
+            "lawNum": "令和元年法律第五十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "2",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "この法律において「登録発行機関」とは、第二十条第一項の規定により主務大臣の登録を受けた者をいい、「登録認定機関」とは、第三十五条第一項の規定により主務大臣の登録を受けた者をいう。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "令和二年政令第七十三号",
             "lawArticle": {
                 "provision": "MainProvision",

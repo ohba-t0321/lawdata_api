@@ -47,6 +47,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和四十七年労働省令第三十二号",
+            "lawArticle": {
+                "provision": "昭和五二年三月一九日労働省令第二号",
+                "article": "2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "昭和五十二年七月一日前に製造し、又は存する気閘こう室については、新高圧則第七条の三の規定及び新安衛則第六百六十条の規定（新高圧則第七条の三に係る部分に限る。）は、適用しない。"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年労働省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7_3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "事業者は、気こう室の内部を観察することができる窓を設ける等外部から気こう室の内部の状態を把握することができる措置を講じなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和六十一年労働省令第二十号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -70,6 +93,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和四十七年労働省令第三十二号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "二　高圧則第四十七条第二号に掲げる者"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年労働省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "47",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "その他厚生労働大臣が定める者"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和三十九年運輸省令第五十三号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -88,6 +134,29 @@
                 "item": "0"
             },
             "text": "潜水士免許は、次の者に対し、都道府県労働局長が与えるものとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十七年労働省令第三十二号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "二　高圧則第五十二条第二号に掲げる者"
+        },
+        "referred": {
+            "lawNum": "昭和四十七年労働省令第四十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "52",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "その他厚生労働大臣が定める者"
         },
         "match": "★引用個所不明★"
     }

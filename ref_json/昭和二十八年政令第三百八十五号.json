@@ -300,6 +300,29 @@
     },
     {
         "ref": {
+            "lawNum": "令和六年厚生労働省令第百六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "診療放射線技師法施行令（昭和二十八年政令第三百八十五号）第四条第二項の規定による手数料"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第三百八十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請をする場合には、厚生労働大臣の定める額の手数料を納めなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和二十六年厚生省令第三十三号",
             "lawArticle": {
                 "provision": "MainProvision",
