@@ -415,6 +415,52 @@
     },
     {
         "ref": {
+            "lawNum": "平成二十三年法律第百二十五号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "、復興庁設置法（平成二十三年法律第百二十五号）第七条第五項又は"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "5",
+                "item": "0"
+            },
+            "text": "内閣総理大臣は、復興庁の所掌事務について、公示を必要とする場合においては、告示を発することができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和六年内閣府令第八十号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "復興庁が廃止されるまでの間における第四条第一号の規定の適用については、同号中「又は国家行政組織法（昭和二十三年法律第百二十号）」とあるのは、「、復興庁設置法（平成二十三年法律第百二十五号）第七条第六項又は国家行政組織法（昭和二十三年法律第百二十号）」とする。"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "7",
+                "paragraph": "6",
+                "item": "0"
+            },
+            "text": "内閣総理大臣は、復興庁の所掌事務について、命令又は示達をするため、所管の諸機関及び職員に対し、訓令又は通達を発することができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成十九年法律第二十三号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -653,6 +699,29 @@
                 "item": "0"
             },
             "text": "次に掲げるもの並びに復興庁の事務次官及び復興庁設置法第十二条第一項に規定する職"
+        },
+        "referred": {
+            "lawNum": "平成二十三年法律第百二十五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "復興庁には、その所掌事務の能率的な遂行のためその一部を所掌する職を置く。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十一年人事院規則一七―〇",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "復興庁設置法（平成二十三年法律第百二十五号）第十二条第一項に規定する職又は当該職のつかさどる職務の全部若しくは一部を助ける職に就いている職員で構成される組織"
         },
         "referred": {
             "lawNum": "平成二十三年法律第百二十五号",

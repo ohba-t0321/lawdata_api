@@ -323,6 +323,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和二十七年会計検査院規則第三号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "株式会社海外交通・都市開発事業支援機構法（平成二十六年法律第二十四号）第三十条"
+        },
+        "referred": {
+            "lawNum": "平成二十六年法律第二十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "機構は、毎事業年度の開始前に、その事業年度の予算を国土交通大臣に提出して、その認可を受けなければならない。これを変更しようとするときも、同様とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成二十六年国土交通省令第六十四号",
             "lawArticle": {
                 "provision": "SupplProvision",

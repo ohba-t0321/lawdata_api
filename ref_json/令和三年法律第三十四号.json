@@ -323,6 +323,52 @@
     },
     {
         "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "屋外広告物法第三条（公告物の表示及び公告物を掲出する物件の設置の禁止又は制限に係る部分に限る。以下この項において同じ。）の規定が適用される畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "畜舎等について、その敷地、構造及び建築設備が技術基準に適合するように建築等をし、及び利用基準に従って利用しようとする者（次項及び第四項において「申請者」という。）は、当該畜舎等の建築等及び利用に関する計画（以下「畜舎建築利用計画」という。）を作成し、主務省令で定めるところにより、これを当該畜舎等の工事施工地又は所在地を管轄する都道府県知事（以下単に「都道府県知事」という。）に提出して、その認定を受けることができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "屋外広告物法第三条第一項から第三項までの条例の規定に適合することの確認に必要な図書"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "畜舎等について、その敷地、構造及び建築設備が技術基準に適合するように建築等をし、及び利用基準に従って利用しようとする者（次項及び第四項において「申請者」という。）は、当該畜舎等の建築等及び利用に関する計画（以下「畜舎建築利用計画」という。）を作成し、主務省令で定めるところにより、これを当該畜舎等の工事施工地又は所在地を管轄する都道府県知事（以下単に「都道府県知事」という。）に提出して、その認定を受けることができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和三十七年建設省令第三号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -349,7 +395,7 @@
             "lawNum": "昭和四十九年建設省令第一号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "29",
+                "article": "42",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -946,6 +992,52 @@
         "ref": {
             "lawNum": "令和三年農林水産省・国土交通省令第六号",
             "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "屋外広告物法第四条（公告物の表示及び公告物を掲出する物件の設置の禁止又は制限に係る部分に限る。以下この項において同じ。）の規定が適用される畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定計画実施者は、前条第一項の認定を受けた畜舎建築利用計画の変更をしようとするときは、主務省令で定めるところにより、都道府県知事の認定を受けなければならない。ただし、主務省令で定める軽微な変更については、この限りでない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "屋外広告物法第四条の条例の規定に適合することの確認に必要な図書"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定計画実施者は、前条第一項の認定を受けた畜舎建築利用計画の変更をしようとするときは、主務省令で定めるところにより、都道府県知事の認定を受けなければならない。ただし、主務省令で定める軽微な変更については、この限りでない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "1",
                 "paragraph": "1",
@@ -1148,6 +1240,52 @@
             "text": "第一項の変更の認定の申請に係る畜舎等の敷地が前条第三項第一号に規定する区域又は地域に存する場合であって、当該畜舎等について、同号に規定する区域又は地域における適正かつ合理的な土地利用を図る観点から、交通上、安全上、防火上及び衛生上支障がないものとして主務省令で定める場合に該当するときは、前項において準用する同号の規定は、適用しない。"
         },
         "match": "主務省令で定める場合"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "屋外広告物法第五条（公告物の表示及び公告物を掲出する物件の設置の禁止又は制限に係る部分に限る。以下この項において同じ。）の規定が適用される畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定畜舎等（認定畜舎建築利用計画（第三条第一項の認定を受けた畜舎建築利用計画（変更があったときは、その変更後のもの）をいう。以下この項及び第十六条第二項において同じ。）に係る畜舎等をいう。以下同じ。）の工事は、当該認定畜舎建築利用計画に記載された設計者の設計によらなければ、することができない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "屋外広告物法第五条の条例の規定に適合することの確認に必要な図書"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定畜舎等（認定畜舎建築利用計画（第三条第一項の認定を受けた畜舎建築利用計画（変更があったときは、その変更後のもの）をいう。以下この項及び第十六条第二項において同じ。）に係る畜舎等をいう。以下同じ。）の工事は、当該認定畜舎建築利用計画に記載された設計者の設計によらなければ、することができない。"
+        },
+        "match": "★引用個所不明★"
     },
     {
         "ref": {
@@ -3200,6 +3338,52 @@
         "ref": {
             "lawNum": "令和三年農林水産省・国土交通省令第六号",
             "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "消防法第九条の規定が適用される畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定計画実施者について相続があったときは、相続人は、認定計画実施者の地位を承継する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "消防法第九条の市町村条例の規定に適合することの確認に必要な図書"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "9",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定計画実施者について相続があったときは、相続人は、認定計画実施者の地位を承継する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "88",
                 "paragraph": "1",
@@ -3252,6 +3436,121 @@
                 "item": "0"
             },
             "text": "法第十条第一項の認可を受けようとする者は、様式第十三号による申請書に、次に掲げる書類及び譲渡人に係る第七十一条第一項の通知書の写しを添えて、都道府県知事に提出しなければならない。"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定計画実施者が認定畜舎等の譲渡を行う場合において、譲渡人及び譲受人があらかじめ当該譲渡及び譲受けについて主務省令で定めるところにより都道府県知事の認可を受けたときは、譲受人は、認定計画実施者の地位を承継する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "下水道法第十条第一項の規定が適用される排水設備"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定計画実施者が認定畜舎等の譲渡を行う場合において、譲渡人及び譲受人があらかじめ当該譲渡及び譲受けについて主務省令で定めるところにより都道府県知事の認可を受けたときは、譲受人は、認定計画実施者の地位を承継する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "下水道法第十条第一項に規定する排水設備（以下この項において単に「排水設備」という。）の位置"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定計画実施者が認定畜舎等の譲渡を行う場合において、譲渡人及び譲受人があらかじめ当該譲渡及び譲受けについて主務省令で定めるところにより都道府県知事の認可を受けたときは、譲受人は、認定計画実施者の地位を承継する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "特定都市河川浸水被害対策法第十条の規定が適用される排水設備"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定計画実施者が認定畜舎等の譲渡を行う場合において、譲渡人及び譲受人があらかじめ当該譲渡及び譲受けについて主務省令で定めるところにより都道府県知事の認可を受けたときは、譲受人は、認定計画実施者の地位を承継する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "特定都市河川浸水被害対策法第十条に規定する排水設備（以下この項において単に「排水設備」という。）の配置"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "10",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定計画実施者が認定畜舎等の譲渡を行う場合において、譲渡人及び譲受人があらかじめ当該譲渡及び譲受けについて主務省令で定めるところにより都道府県知事の認可を受けたときは、譲受人は、認定計画実施者の地位を承継する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "特定都市河川浸水被害対策法第十条の条例の規定に適合することの確認に必要な図書"
         },
         "referred": {
             "lawNum": "令和三年法律第三十四号",
@@ -3338,6 +3637,75 @@
         "ref": {
             "lawNum": "令和三年農林水産省・国土交通省令第六号",
             "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地造成及び特定盛土等規制法第十二条第一項の規定が適用される畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定畜舎等については、建築基準法令の規定は、適用しない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地造成及び特定盛土等規制法第十二条第一項の規定に適合していることを証する書面"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定畜舎等については、建築基準法令の規定は、適用しない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地造成及び特定盛土等規制法第十二条第一項の規定に適合していること"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定畜舎等については、建築基準法令の規定は、適用しない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "91",
                 "paragraph": "1",
@@ -3407,6 +3775,121 @@
         "ref": {
             "lawNum": "令和三年農林水産省・国土交通省令第六号",
             "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地造成及び特定盛土等規制法第十六条第一項の規定が適用される畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第十条第五項及び第十一条第二項に規定する場合のほか、認定畜舎等の全部が除却その他の事由により滅失したときは、第三条第一項の認定は、その効力を失う。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地造成及び特定盛土等規制法第十六条第一項の規定に適合していることを証する書面"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第十条第五項及び第十一条第二項に規定する場合のほか、認定畜舎等の全部が除却その他の事由により滅失したときは、第三条第一項の認定は、その効力を失う。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地造成及び特定盛土等規制法第十六条第一項の規定に適合していること"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第十条第五項及び第十一条第二項に規定する場合のほか、認定畜舎等の全部が除却その他の事由により滅失したときは、第三条第一項の認定は、その効力を失う。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道法第十六条の規定が適用される給水装置"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第十条第五項及び第十一条第二項に規定する場合のほか、認定畜舎等の全部が除却その他の事由により滅失したときは、第三条第一項の認定は、その効力を失う。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "水道法第十六条に規定する給水装置（以下この項において単に「給水装置」という。）の構造"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "16",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第十条第五項及び第十一条第二項に規定する場合のほか、認定畜舎等の全部が除却その他の事由により滅失したときは、第三条第一項の認定は、その効力を失う。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "93",
                 "paragraph": "1",
@@ -3423,6 +3906,75 @@
                 "item": "0"
             },
             "text": "認定畜舎等の建築等の工事の施工者は、当該工事現場の見やすい場所に、主務省令で定める様式によって、認定計画実施者、設計者、工事施工者及び工事の現場管理者の氏名又は名称並びに当該工事に係る第三条第一項の認定又は第四条第一項の変更の認定があった旨の表示をしなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "消防法第十七条の規定が適用される畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定畜舎等の建築等の工事の施工者は、当該工事現場の見やすい場所に、主務省令で定める様式によって、認定計画実施者、設計者、工事施工者及び工事の現場管理者の氏名又は名称並びに当該工事に係る第三条第一項の認定又は第四条第一項の変更の認定があった旨の表示をしなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "消防法第十七条第一項の規定に適合することの確認に必要な図書"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "認定畜舎等の建築等の工事の施工者は、当該工事現場の見やすい場所に、主務省令で定める様式によって、認定計画実施者、設計者、工事施工者及び工事の現場管理者の氏名又は名称並びに当該工事に係る第三条第一項の認定又は第四条第一項の変更の認定があった旨の表示をしなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "消防法第十七条第二項の条例の規定に適合することの確認に必要な図書"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "17",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "認定畜舎等の建築等の工事の施工者は、当該工事に係る設計図書を当該工事現場に備えておかなければならない。"
         },
         "match": "★引用個所不明★"
     },
@@ -3476,6 +4028,52 @@
         "ref": {
             "lawNum": "令和三年農林水産省・国土交通省令第六号",
             "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "駐車場法第二十条の規定が適用される畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "都道府県知事は、主務大臣に、この法律の施行に関し必要な助言又は援助を求めることができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "駐車場法第二十条第一項又は第二項の条例の規定に適合することの確認に必要な図書"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "20",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "都道府県知事は、主務大臣に、この法律の施行に関し必要な助言又は援助を求めることができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "64",
                 "paragraph": "1",
@@ -3505,6 +4103,52 @@
                 "item": "0"
             },
             "text": "ただし、建築基準法第二十一条第一項本文の規定に適合する畜舎等については、この限りでない。"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "主務大臣は、都道府県知事に対し、この法律の施行に関し必要な報告又は資料の提出を求めることができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "特定主要構造部を建築基準法第二十一条第一項の認定を受けたものとする畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "21",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "主務大臣は、都道府県知事に対し、この法律の施行に関し必要な報告又は資料の提出を求めることができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "建築基準法第二十一条第一項に係る特定主要構造部に関する認定書の写し"
         },
         "referred": {
             "lawNum": "令和三年法律第三十四号",
@@ -3614,6 +4258,98 @@
         "ref": {
             "lawNum": "令和三年農林水産省・国土交通省令第六号",
             "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "その他建築基準法第二十二条第一項本文の規定に適合することの確認に必要な図書"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣及び都道府県知事は、畜舎等の建築等に関する施策を行うに当たっては、国内で生産された木材の適切な利用が我が国における森林の適正な整備及び保全並びに地球温暖化の防止及び循環型社会の形成に資することに鑑み、国内で生産された木材その他の木材を利用した畜舎等の普及が図られるよう配慮するものとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "建築基準法第二十二条第一項の規定による区域の境界線"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣及び都道府県知事は、畜舎等の建築等に関する施策を行うに当たっては、国内で生産された木材の適切な利用が我が国における森林の適正な整備及び保全並びに地球温暖化の防止及び循環型社会の形成に資することに鑑み、国内で生産された木材その他の木材を利用した畜舎等の普及が図られるよう配慮するものとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "屋根の構造を建築基準法第二十二条第一項の認定を受けたものとする畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣及び都道府県知事は、畜舎等の建築等に関する施策を行うに当たっては、国内で生産された木材の適切な利用が我が国における森林の適正な整備及び保全並びに地球温暖化の防止及び循環型社会の形成に資することに鑑み、国内で生産された木材その他の木材を利用した畜舎等の普及が図られるよう配慮するものとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "建築基準法第二十二条第一項に係る認定書の写し"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "22",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣及び都道府県知事は、畜舎等の建築等に関する施策を行うに当たっては、国内で生産された木材の適切な利用が我が国における森林の適正な整備及び保全並びに地球温暖化の防止及び循環型社会の形成に資することに鑑み、国内で生産された木材その他の木材を利用した畜舎等の普及が図られるよう配慮するものとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "21",
                 "paragraph": "1",
@@ -3630,6 +4366,75 @@
                 "item": "0"
             },
             "text": "この法律における主務大臣は、農林水産大臣及び国土交通大臣とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "外壁で延焼のおそれのある部分の構造を建築基準法第二十三条の認定を受けたものとする畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律における主務大臣は、農林水産大臣及び国土交通大臣とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "建築基準法第二十三条に係る認定書の写し"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "23",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律における主務大臣は、農林水産大臣及び国土交通大臣とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "高圧ガス保安法第二十四条の規定が適用される家庭用設備"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "24",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この法律に定めるもののほか、この法律の実施のために必要な事項は、主務省令で定める。"
         },
         "match": "★引用個所不明★"
     },
@@ -3675,7 +4480,7 @@
                 "paragraph": "1",
                 "item": "0"
             },
-            "text": "次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の懲役又は百万円以下の罰金に処する。"
+            "text": "次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の拘禁刑又は百万円以下の罰金に処する。"
         },
         "match": "★引用個所不明★"
     },
@@ -3698,7 +4503,122 @@
                 "paragraph": "1",
                 "item": "0"
             },
-            "text": "次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の懲役又は百万円以下の罰金に処する。"
+            "text": "次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の拘禁刑又は百万円以下の罰金に処する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地造成及び特定盛土等規制法第三十条第一項の規定が適用される畜舎等"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地造成及び特定盛土等規制法第三十条第一項の規定に適合していることを証する書面"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "宅地造成及び特定盛土等規制法第三十条第一項の規定に適合していること"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "下水道法第三十条第一項の規定が適用される排水施設"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "令和三年農林水産省・国土交通省令第六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "下水道法第三十条第一項に規定する排水施設（以下この項において単に「排水施設」という。）の位置"
+        },
+        "referred": {
+            "lawNum": "令和三年法律第三十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "30",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。"
         },
         "match": "★引用個所不明★"
     },

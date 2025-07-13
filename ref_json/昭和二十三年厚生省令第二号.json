@@ -1,6 +1,29 @@
 [
     {
         "ref": {
+            "lawNum": "令和六年厚生労働省令第百六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "栄養士法施行規則（昭和二十三年厚生省令第二号）第四条第二項の規定による手数料"
+        },
+        "referred": {
+            "lawNum": "昭和二十三年厚生省令第二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "4",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の申請書には、手数料として九百五十円の額に相当する収入印紙をはらなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和四十七年厚生省令第二十二号",
             "lawArticle": {
                 "provision": "MainProvision",

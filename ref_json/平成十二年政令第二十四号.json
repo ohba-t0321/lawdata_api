@@ -323,6 +323,29 @@
     },
     {
         "ref": {
+            "lawNum": "平成十二年政令第二十四号",
+            "lawArticle": {
+                "provision": "平成二三年三月三〇日政令第四八号",
+                "article": "2",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第二条の規定による改正後の動産・債権譲渡登記令第十八条第四項又は後見登記等に関する政令第十二条第四項の規定にかかわらず、当分の間、手数料を納付するときは、収入印紙又は登記印紙をもってすることができる。"
+        },
+        "referred": {
+            "lawNum": "平成十二年政令第二十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "12",
+                "paragraph": "4",
+                "item": "0"
+            },
+            "text": "第一項の手数料の納付は、収入印紙をもってしなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成十二年法務省令第二号",
             "lawArticle": {
                 "provision": "MainProvision",

@@ -323,6 +323,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和四十二年法律第三十五号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "二　広域臨海環境整備センター法第十九条（業務）に掲げる業務のための別表第一の第一号又は第二号に掲げる登記"
+        },
+        "referred": {
+            "lawNum": "昭和五十六年法律第七十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "19",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "センターは、第一条の目的を達成するため、次の業務を行う。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和五十六年厚生省・運輸省令第二号",
             "lawArticle": {
                 "provision": "MainProvision",

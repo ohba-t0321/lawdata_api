@@ -70,6 +70,75 @@
     },
     {
         "ref": {
+            "lawNum": "令和三年経済産業省令第七十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "瀬戸内海環境保全特別措置法第二条第一項に規定する瀬戸内海又は同条第二項の関係府県の区域（瀬戸内海環境保全特別措置法施行令第三条の区域を除く。）"
+        },
+        "referred": {
+            "lawNum": "昭和四十八年政令第三百二十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第一項の政令で定める区域は、別表第一に掲げる区域とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成七年通商産業省令第七十七号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "ホ　瀬戸内海環境保全特別措置法（昭和四十八年法律第百十号）第二条第一項に規定する瀬戸内海又は同条第二項の関係府県の区域（瀬戸内海環境保全特別措置法施行令（昭和四十八年政令第三百二十七号）第三条の区域を除く。）"
+        },
+        "referred": {
+            "lawNum": "昭和四十八年政令第三百二十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第一項の政令で定める区域は、別表第一に掲げる区域とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成七年通商産業省令第七十七号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "ホ　瀬戸内海環境保全特別措置法第二条第一項に規定する瀬戸内海又は同条第二項の関係府県の区域（瀬戸内海環境保全特別措置法施行令第三条の区域を除く。）"
+        },
+        "referred": {
+            "lawNum": "昭和四十八年政令第三百二十七号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第五条第一項の政令で定める区域は、別表第一に掲げる区域とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成十六年経済産業省令第七十二号",
             "lawArticle": {
                 "provision": "MainProvision",

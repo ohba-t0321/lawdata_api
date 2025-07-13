@@ -49,6 +49,29 @@
         "ref": {
             "lawNum": "平成九年総理府令第五十三号",
             "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "ロ　水質汚濁防止法施行令第三条に掲げる項目（あらかじめ環境大臣が指定するものに限る。）"
+        },
+        "referred": {
+            "lawNum": "平成九年政令第二百四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十六条第二号の政令で定める液状の廃棄物は、次に掲げるものとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年総理府令第五十三号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "23",
                 "paragraph": "1",

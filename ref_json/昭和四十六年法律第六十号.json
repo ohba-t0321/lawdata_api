@@ -49,6 +49,29 @@
         "ref": {
             "lawNum": "昭和四十六年政令第二百五号",
             "lawArticle": {
+                "provision": "平成一五年九月二五日政令第四四三号",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "この政令は、法第三条の規定の施行の日（平成十五年十月二日）から施行する。"
+        },
+        "referred": {
+            "lawNum": "昭和四十六年法律第六十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "農林水産大臣は、政令で定めるところにより、海洋水産資源の開発及び海洋水産資源の利用の合理化（以下「海洋水産資源の開発及び利用の合理化」という。）を図るための基本方針（以下「基本方針」という。）を定めなければならない。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十六年政令第二百五号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "3",
                 "paragraph": "1",

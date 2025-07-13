@@ -231,6 +231,29 @@
     },
     {
         "ref": {
+            "lawNum": "昭和四十八年法律第七十二号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3_2",
+                "paragraph": "3",
+                "item": "0"
+            },
+            "text": "基本方針は、国土形成計画法（昭和二十五年法律第二百五号）第六条第二項に規定する全国計画及び環境基本法（平成五年法律第九十一号）第十五条第一項に規定する環境基本計画との調和が保たれたものでなければならない。"
+        },
+        "referred": {
+            "lawNum": "昭和二十五年法律第二百五号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "前項の国土形成計画（以下「全国計画」という。）には、次に掲げる事項を定めるものとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "平成十七年国土交通省令第百十四号",
             "lawArticle": {
                 "provision": "MainProvision",

@@ -72,6 +72,52 @@
         "ref": {
             "lawNum": "昭和三十九年農林省令第三十五号",
             "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "（一）　令第五条に規定するわかめをとる漁業"
+        },
+        "referred": {
+            "lawNum": "昭和三十九年政令第二百九十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第百四条第一号の政令で定める漁業は、共同漁業権に基づく漁業法（昭和二十四年法律第二百六十七号）第六十条第五項第一号の第一種共同漁業であつて、わかめ、こんぶ、てんぐさ又はあわびをとる漁業とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十九年農林省令第三十五号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "（一）　令第五条に規定するあわびをとる漁業"
+        },
+        "referred": {
+            "lawNum": "昭和三十九年政令第二百九十三号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "5",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第百四条第一号の政令で定める漁業は、共同漁業権に基づく漁業法（昭和二十四年法律第二百六十七号）第六十条第五項第一号の第一種共同漁業であつて、わかめ、こんぶ、てんぐさ又はあわびをとる漁業とする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和三十九年農林省令第三十五号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "9",
                 "paragraph": "1",

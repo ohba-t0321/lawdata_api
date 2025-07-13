@@ -625,7 +625,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "29",
+                "article": "30",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -648,7 +648,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "30",
+                "article": "31",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -671,7 +671,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "30",
+                "article": "31",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -694,11 +694,11 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "31",
+                "article": "29",
                 "paragraph": "2",
                 "item": "0"
             },
-            "text": "国際連携対策官は、命を受け、令第二十八条第八号に掲げる事務（犯罪による収益の移転防止に関する法律（平成十九年法律第二十二号）第十四条の規定に関するものに限る。）及び令第二十八条第九号に掲げる事務をつかさどる。"
+            "text": "犯罪収益対策室においては、令第二十八条第八号に掲げる事務（犯罪による収益の移転防止に関する法律（平成十九年法律第二十二号。以下この項及び第三十二条第二項において「犯罪収益移転防止法」という。）第三条第二項の規定による情報の集約、整理及び分析並びにその結果の犯罪収益移転防止法第十三条第一項の規定による提供に関すること並びに国際連携対策官の所掌に属するものを除く。）をつかさどる。"
         },
         "referred": {
             "lawNum": "昭和二十九年政令第百八十号",
@@ -717,11 +717,34 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "31",
+                "article": "32",
                 "paragraph": "2",
                 "item": "0"
             },
-            "text": "国際連携対策官は、命を受け、令第二十八条第八号に掲げる事務（犯罪による収益の移転防止に関する法律（平成十九年法律第二十二号）第十四条の規定に関するものに限る。）及び令第二十八条第九号に掲げる事務をつかさどる。"
+            "text": "国際連携対策官は、命を受け、令第二十八条第八号に掲げる事務（犯罪収益移転防止法第十四条の規定に関するものに限る。）及び令第二十八条第九号に掲げる事務をつかさどる。"
+        },
+        "referred": {
+            "lawNum": "昭和二十九年政令第百八十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "28",
+                "paragraph": "1",
+                "item": "8"
+            },
+            "text": "犯罪による収益の移転防止に関する法律（平成十九年法律第二十二号）の施行に関すること。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十九年総理府令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "32",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "国際連携対策官は、命を受け、令第二十八条第八号に掲げる事務（犯罪収益移転防止法第十四条の規定に関するものに限る。）及び令第二十八条第九号に掲げる事務をつかさどる。"
         },
         "referred": {
             "lawNum": "昭和二十九年政令第百八十号",
@@ -740,7 +763,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "33",
+                "article": "34",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -763,7 +786,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "32",
+                "article": "33",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -786,7 +809,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "34",
+                "article": "35",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -809,7 +832,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "35",
+                "article": "36",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -832,7 +855,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "36",
+                "article": "37",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -855,7 +878,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "37",
+                "article": "38",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -878,7 +901,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "38",
+                "article": "39",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -901,7 +924,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "39",
+                "article": "40",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -924,7 +947,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "40",
+                "article": "41",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -947,7 +970,53 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
+                "article": "42",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "小型無人機等運用室においては、令第四十一条第一号から第四号までに掲げる事務のうち小型無人機等（重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）第二条第三項に規定する小型無人機及び同条第四項に規定する特定航空用機器をいう。）への対処及びその活用に関する事務並びに令第四十一条第五号に掲げる事務をつかさどる。"
+        },
+        "referred": {
+            "lawNum": "昭和二十九年政令第百八十号",
+            "lawArticle": {
+                "provision": "MainProvision",
                 "article": "41",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "部の事務の総合調整に関すること。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十九年総理府令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "42",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "小型無人機等運用室においては、令第四十一条第一号から第四号までに掲げる事務のうち小型無人機等（重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）第二条第三項に規定する小型無人機及び同条第四項に規定する特定航空用機器をいう。）への対処及びその活用に関する事務並びに令第四十一条第五号に掲げる事務をつかさどる。"
+        },
+        "referred": {
+            "lawNum": "昭和二十九年政令第百八十号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "41",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）の施行に関すること。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十九年総理府令第四十四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "43",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -970,7 +1039,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "42",
+                "article": "44",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -993,11 +1062,11 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "43",
+                "article": "45",
                 "paragraph": "2",
                 "item": "0"
             },
-            "text": "災害対策室においては、令第四十三条第一号、第四号及び第五号に掲げる事務のうち災害警備その他災害対策に関する事務（原子力災害警備その他原子力災害対策に関するものを除く。）をつかさどる。"
+            "text": "災害対策室においては、令第四十三条第一号、第四号及び第五号に掲げる事務のうち災害警備その他災害対策に関する事務をつかさどる。"
         },
         "referred": {
             "lawNum": "昭和二十九年政令第百八十号",
@@ -1016,7 +1085,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "44",
+                "article": "46",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -1039,7 +1108,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "45",
+                "article": "47",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -1062,7 +1131,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "46",
+                "article": "48",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -1085,7 +1154,7 @@
             "lawNum": "昭和二十九年総理府令第四十四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "47",
+                "article": "49",
                 "paragraph": "2",
                 "item": "0"
             },

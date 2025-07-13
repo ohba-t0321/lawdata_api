@@ -6,7 +6,7 @@
                 "provision": "MainProvision",
                 "article": "29",
                 "paragraph": "1",
-                "item": "10"
+                "item": "11"
             },
             "text": "成田国際空港株式会社が、成田国際空港の敷地若しくは当該空港の建設のために必要な道路若しくは線路若しくは当該空港の建設に伴い廃止される道路に代わるべき道路の敷地に供するため農地を農地以外のものにする場合又は航空法（昭和二十七年法律第二百三十一号）第三十八条第一項若しくは第四十三条第一項の規定による許可に係る航空法施行規則（昭和二十七年運輸省令第五十六号）第一条に規定する航空保安無線施設若しくは航空灯火（以下「航空保安施設」という。）の設置予定地とされている土地（以下「航空保安施設設置予定地」という。）の区域内にある農地を航空保安施設を設置するため農地以外のものにする場合"
         },
@@ -52,9 +52,9 @@
                 "provision": "MainProvision",
                 "article": "1",
                 "paragraph": "1",
-                "item": "6"
+                "item": "7"
             },
-            "text": "飛行場灯火（航空法施行規則（昭和二十七年運輸省令第五十六号）第四条第二号に規定する飛行場灯火をいう。）の光度を速やかに制御できる装置（電流を調整する機能を有する部分に限る。）"
+            "text": "特定空港（空港法第四条第一項各号に掲げる空港であって、令和元年度の航空機の旅客数の合計が一千万人以上であるものをいう。次条第七号において同じ。）において使用される飛行場灯火（航空法施行規則（昭和二十七年運輸省令第五十六号）第四条第二号に規定する飛行場灯火をいう。）の光度を速やかに制御できる装置（電流を調整する機能を有する部分に限る。）"
         },
         "referred": {
             "lawNum": "昭和二十七年運輸省令第五十六号",
@@ -1266,6 +1266,29 @@
     },
     {
         "ref": {
+            "lawNum": "平成十七年国土交通省令第二十六号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "第五十八条第一項並びに第五十九条第三号及び第四号（航空法施行規則（昭和二十七年運輸省令第五十六号）第百四十四条の二第一項第二号から第四号までに掲げるものの備付けに限る。）"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "144_2",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "飛行規程"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和三十六年厚生省令第一号",
             "lawArticle": {
                 "provision": "MainProvision",
@@ -1912,6 +1935,719 @@
         "ref": {
             "lawNum": "平成九年運輸省令第五十八号",
             "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "一　規則第二百三十六条の四十第一項第一号に掲げる無人航空機の種類"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（ヘリコプター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第一号に掲げる無人航空機の種類に係る限定をされた一等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（ヘリコプター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第一号に掲げる無人航空機の種類に係る限定をされた二等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（ヘリコプター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第一号に掲げる無人航空機の種類及び同条第二項各号に掲げる方法のいずれかのみに係る限定をされた一等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（ヘリコプター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第一号に掲げる無人航空機の種類及び同条第二項各号に掲げる方法のいずれかのみに係る限定をされた二等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "1"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（ヘリコプター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "二　規則第二百三十六条の四十第一項第二号に掲げる無人航空機の種類"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "2"
+            },
+            "text": "回転翼航空機（ヘリコプター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "三　規則第二百三十六条の四十第一項第三号に掲げる無人航空機の種類"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第三号に掲げる無人航空機の種類に係る限定をされた一等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第三号に掲げる無人航空機の種類に係る限定をされた二等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "二万千二百円（無人航空機の種類が規則第二百三十六条の四十第一項第三号又は第四号に掲げるものである場合にあっては二万八百円、同項第五号又は第六号に掲げるものである場合にあっては二万二千四百円）"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "四万二千四百円（無人航空機の種類が規則第二百三十六条の四十第一項第三号又は第四号に掲げるものである場合にあっては四万千六百円、同項第五号又は第六号に掲げるものである場合にあっては四万四千八百円）"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "二万三百円（無人航空機の種類が規則第二百三十六条の四十第一項第三号又は第四号に掲げるものである場合にあっては一万九千八百円、同項第五号又は第六号に掲げるものである場合にあっては二万九百円）"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "四万六百円（無人航空機の種類が規則第二百三十六条の四十第一項第三号又は第四号に掲げるものである場合にあっては三万九千六百円、同項第五号又は第六号に掲げるものである場合にあっては四万千八百円）"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第三号に掲げる無人航空機の種類及び同条第二項各号に掲げる方法のいずれかのみに係る限定をされた一等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第三号に掲げる無人航空機の種類及び同条第二項各号に掲げる方法のいずれかのみに係る限定をされた二等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "3"
+            },
+            "text": "最大離陸重量二十五キログラム未満の回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "四　規則第二百三十六条の四十第一項第四号に掲げる無人航空機の種類"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "4"
+            },
+            "text": "回転翼航空機（マルチローター）"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "五　規則第二百三十六条の四十第一項第五号に掲げる無人航空機の種類"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "最大離陸重量二十五キログラム未満の飛行機"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第五号に掲げる無人航空機の種類に係る限定をされた一等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "最大離陸重量二十五キログラム未満の飛行機"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第五号に掲げる無人航空機の種類に係る限定をされた二等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "最大離陸重量二十五キログラム未満の飛行機"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第五号に掲げる無人航空機の種類及び同条第二項各号に掲げる方法のいずれかのみに係る限定をされた一等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "最大離陸重量二十五キログラム未満の飛行機"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第一項第五号に掲げる無人航空機の種類及び同条第二項各号に掲げる方法のいずれかのみに係る限定をされた二等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "5"
+            },
+            "text": "最大離陸重量二十五キログラム未満の飛行機"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "六　規則第二百三十六条の四十第一項第六号に掲げる無人航空機の種類"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "1",
+                "item": "6"
+            },
+            "text": "飛行機"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第二項各号に掲げる方法以外の方法"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第百三十二条の四十三第一項の無人航空機の飛行の方法は、前項に規定する無人航空機の種類ごとに次の各号に掲げるとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "三　規則第二百三十六条の四十第二項各号に掲げる方法以外の方法"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第百三十二条の四十三第一項の無人航空機の飛行の方法は、前項に規定する無人航空機の種類ごとに次の各号に掲げるとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第二項各号に掲げる方法のいずれかのみに係る限定をされた一等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第百三十二条の四十三第一項の無人航空機の飛行の方法は、前項に規定する無人航空機の種類ごとに次の各号に掲げるとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第二項各号に掲げる方法のいずれかのみに係る限定をされた二等無人航空機操縦士の資格についての技能証明を有する場合"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "法第百三十二条の四十三第一項の無人航空機の飛行の方法は、前項に規定する無人航空機の種類ごとに次の各号に掲げるとおりとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第二項第一号及び第二号に掲げる方法"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "2",
+                "item": "1"
+            },
+            "text": "法第百三十二条の八十六第二項第一号に掲げる方法"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第二項第一号に掲げる方法（同項第二号に掲げる方法に該当するものを除く。）"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "2",
+                "item": "1"
+            },
+            "text": "法第百三十二条の八十六第二項第一号に掲げる方法"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "一　規則第二百三十六条の四十第二項第一号に掲げる方法（同項第二号に掲げる方法に該当するものを除く。）"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "2",
+                "item": "1"
+            },
+            "text": "法第百三十二条の八十六第二項第一号に掲げる方法"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "規則第二百三十六条の四十第二項第二号に掲げる方法（同項第一号に掲げる方法に該当するものを除く。）"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "2",
+                "item": "2"
+            },
+            "text": "法第百三十二条の八十六第二項第二号に掲げる方法"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "二　規則第二百三十六条の四十第二項第二号に掲げる方法（同項第一号に掲げる方法に該当するものを除く。）"
+        },
+        "referred": {
+            "lawNum": "昭和二十七年運輸省令第五十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "236_40",
+                "paragraph": "2",
+                "item": "2"
+            },
+            "text": "法第百三十二条の八十六第二項第二号に掲げる方法"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "平成九年運輸省令第五十八号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "8",
                 "paragraph": "1",
@@ -2007,7 +2743,7 @@
                 "provision": "MainProvision",
                 "article": "2",
                 "paragraph": "1",
-                "item": "5"
+                "item": "6"
             },
             "text": "当該事業を行う者（特定本邦航空運送事業者（航空法施行規則第二百四十条第一項第二号に規定する特定本邦航空運送事業者をいう。以下この号において同じ。）に限る。）であって、次に掲げる要件のいずれかに該当するものであること。"
         },

@@ -38,14 +38,16 @@
                 <span class="arrow">▶</span>検索キーワード
             </div>
             <div class="content-wrapper" id="searchForm">
-                <input type="text" id="keyword" placeholder="キーワードを入力" class="form-control" aria-describedby="inputGroupPrepend">
-                検索方法：
-                <select id="searchType">
-                    <option value="includes">～を含む</option>
-                    <option value="startsWith">～で始まる</option>
-                    <option value="equal">～と一致する</option>
-                </select>
-                <button type="submit" class="btn btn-primary" id="searchButton"> <i class="bi bi-search"></i>検索 </button>
+                <form>
+                    <input type="text" id="keyword" placeholder="キーワードを入力" class="form-control" aria-describedby="inputGroupPrepend">
+                    検索方法：
+                    <select id="searchType">
+                        <option value="includes">～を含む</option>
+                        <option value="startsWith">～で始まる</option>
+                        <option value="equal">～と一致する</option>
+                    </select>
+                    <button type="submit" class="btn btn-primary" id="searchButton"> <i class="bi bi-search"></i>検索 </button>
+                </form>
                 <div id="outputWindowSelect">
                     出力フレーム:
                     <select id="outputFrame">
@@ -83,10 +85,12 @@
                 <span class="arrow">▶</span>該当条文にジャンプ（本則のみ対応、条文番号は「第○条の○」形式、または算用数字で入力）
             </div>
             <div class="content-wrapper" id="jumpForm">
-                <button type="button" class="btn-outline-secondary" data-bs-toggle="button" id="left-jump">左側</button>
-                <button type="button" class="btn-outline-secondary" data-bs-toggle="button" id="right-jump">右側</button>
-                <input type="text" id="jumpArticle" placeholder="条文番号を入力" class="form-control" aria-describedby="inputGroupPrepend">
-                <button type="submit" class="btn btn-primary" id="jumpButton">ジャンプ</button>
+                <form>
+                    <button type="button" class="btn-outline-secondary" data-bs-toggle="button" id="left-jump">左側</button>
+                    <button type="button" class="btn-outline-secondary" data-bs-toggle="button" id="right-jump">右側</button>
+                    <input type="text" id="jumpArticle" placeholder="条文番号を入力" class="form-control" aria-describedby="inputGroupPrepend">
+                    <button type="submit" class="btn btn-primary" id="jumpButton">ジャンプ</button>
+                </form>
             </div>
         </div>
         <div class="headline">

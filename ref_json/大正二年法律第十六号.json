@@ -1,6 +1,29 @@
 [
     {
         "ref": {
+            "lawNum": "昭和四十二年法律第三十五号",
+            "lawArticle": {
+                "provision": "SupplProvision",
+                "article": "0",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "運河法（大正二年法律第十六号）第一条（免許）の規定による運河の開設の免許"
+        },
+        "referred": {
+            "lawNum": "大正二年法律第十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "1",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "一般運送ノ用ニ供スル目的ヲ以テ運河ヲ開設セムトスル者ハ国土交通大臣ノ免許ヲ受クヘシ"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
             "lawNum": "昭和二十六年政令第二百五十四号",
             "lawArticle": {
                 "provision": "MainProvision",

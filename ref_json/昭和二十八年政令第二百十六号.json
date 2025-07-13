@@ -118,6 +118,29 @@
         "ref": {
             "lawNum": "昭和二十八年厚生省令第四十四号",
             "lawArticle": {
+                "provision": "昭和五九年三月二一日厚生省令第一四号",
+                "article": "0",
+                "paragraph": "2",
+                "item": "0"
+            },
+            "text": "とヽ畜場法施行令（昭和二十八年政令第二百十六号）第六条に規定する検印の様式については、昭和五十九年九月三十日までは、なお従前の例によることができる。"
+        },
+        "referred": {
+            "lawNum": "昭和二十八年政令第二百十六号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "6",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第十四条第五項の政令で定める疾病は、伝達性海綿状脳症のうち牛、めん羊及び山羊に係るものとする。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和二十八年厚生省令第四十四号",
+            "lawArticle": {
                 "provision": "MainProvision",
                 "article": "13",
                 "paragraph": "1",

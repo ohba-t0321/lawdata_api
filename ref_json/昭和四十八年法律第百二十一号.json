@@ -4,7 +4,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "1"
             },
@@ -27,7 +27,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "3",
+                "article": "5",
                 "paragraph": "1",
                 "item": "0"
             },
@@ -73,7 +73,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "1"
             },
@@ -96,7 +96,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "3",
+                "article": "5",
                 "paragraph": "1",
                 "item": "0"
             },
@@ -119,7 +119,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "3",
+                "article": "5",
                 "paragraph": "1",
                 "item": "0"
             },
@@ -142,7 +142,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "1"
             },
@@ -165,7 +165,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "1",
                 "item": "0"
             },
@@ -188,7 +188,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "1",
+                "article": "3",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -211,7 +211,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "2"
             },
@@ -234,7 +234,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "4",
                 "item": "3"
             },
@@ -257,7 +257,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "3"
             },
@@ -280,7 +280,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "4",
                 "item": "0"
             },
@@ -303,7 +303,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "4",
                 "item": "1"
             },
@@ -326,7 +326,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "4",
                 "item": "2"
             },
@@ -349,7 +349,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "4"
             },
@@ -372,7 +372,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "4",
                 "item": "3"
             },
@@ -395,7 +395,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "4",
                 "item": "1"
             },
@@ -422,7 +422,30 @@
                 "paragraph": "1",
                 "item": "0"
             },
-            "text": "国民生活安定緊急措置法（以下「法」という。）第三十条第一項の規定により主務大臣が報告させることができる事項は、次のとおりとする。"
+            "text": "国民生活安定緊急措置法（以下「法」という。）第二十六条第一項の政令で指定する生活関連物資等は、米穀とする。"
+        },
+        "referred": {
+            "lawNum": "昭和四十八年法律第百二十一号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "26",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "物価が著しく高騰し又は高騰するおそれがある場合において、生活関連物資等の供給が著しく不足し、かつ、その需給の均衡を回復することが相当の期間極めて困難であることにより、国民生活の安定又は国民経済の円滑な運営に重大な支障が生じ又は生ずるおそれがあると認められるときは、別に法律の定めがある場合を除き、当該生活関連物資等を政令で指定し、政令で、当該生活関連物資等の割当て若しくは配給又は当該生活関連物資等の使用若しくは譲渡若しくは譲受の制限若しくは禁止に関し必要な事項を定めることができる。"
+        },
+        "match": "★引用個所不明★"
+    },
+    {
+        "ref": {
+            "lawNum": "昭和四十九年政令第四号",
+            "lawArticle": {
+                "provision": "MainProvision",
+                "article": "3",
+                "paragraph": "1",
+                "item": "0"
+            },
+            "text": "法第三十条第一項の規定により主務大臣が報告させることができる事項は、次のとおりとする。"
         },
         "referred": {
             "lawNum": "昭和四十八年法律第百二十一号",
@@ -441,7 +464,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "1"
             },
@@ -464,7 +487,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "1",
                 "item": "0"
             },
@@ -487,7 +510,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "1",
+                "article": "3",
                 "paragraph": "2",
                 "item": "0"
             },
@@ -510,7 +533,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "2"
             },
@@ -533,7 +556,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "3"
             },
@@ -556,7 +579,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "2",
+                "article": "4",
                 "paragraph": "1",
                 "item": "4"
             },
@@ -579,7 +602,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "4",
                 "item": "0"
             },
@@ -602,7 +625,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "4",
                 "item": "2"
             },
@@ -625,7 +648,7 @@
             "lawNum": "昭和四十九年政令第四号",
             "lawArticle": {
                 "provision": "MainProvision",
-                "article": "4",
+                "article": "6",
                 "paragraph": "4",
                 "item": "3"
             },
