@@ -1,40 +1,19 @@
 // グローバル変数を宣言
 var xmlData;
-
+var JsonLawData;
 window.onload = async function() {
-
-
     try {
         const cached = await getLawListFromCache();
         const now = Date.now();
-
-        if (cached && now - cached.timestamp < CACHE_EXPIRE_MS) {
-            xmlData = await cached.data;
+        if (cached && isSameDateInJapan(now, cached.timestamp)) {
+            JsonLawData = await cached.data;
         } else {
             // APIのURLを指定
-            const apiUrl = `https://laws.e-gov.go.jp/api/1/lawlists/1`;
-
-            // APIを呼び出してXMLデータを取得
-            xmlData = await fetch(apiUrl)
-                .then(response => response.text())
-                .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
-                .then(data => {
-                    const laws = data.getElementsByTagName('LawNameListInfo');
-                    const obj = {}
-                    Array.from(laws).forEach(law => {
-                        const title = law.getElementsByTagName('LawName')[0].textContent;
-                        const lawNo = law.getElementsByTagName('LawNo')[0].textContent;
-                        obj[lawNo] = title
-                    });
-                    return obj;
-                })
-                .catch(error => {
-                    console.error('Error fetching XML data:', error);
-                    // エラーが発生した場合は空のオブジェクトを返す
-                    return {};
-                });
-                await saveLawListToCache();
+            JsonLawData = await fetchLawList2()
+            await saveLawListToCache();
         }
+        xmlData = {} 
+        await JsonLawData.map(item=>xmlData[item.law_info.law_num]=item.current_revision_info.law_title)
     } catch (err) {
         console.log(`エラー：${err.message}`);
     }
@@ -57,55 +36,30 @@ window.onload = async function() {
     if (right) {
         await fetchLawDetails(right, 'right');
     }
-
 };
 
-function xmlToJson(xml) {
-    const obj = {};
-    if (xml.nodeType === 1) { // element
-        if (xml.attributes.length > 0) {
-            obj["@attributes"] = {};
-            for (let j = 0; j < xml.attributes.length; j++) {
-                const attribute = xml.attributes.item(j);
-                obj["@attributes"][attribute.nodeName] = attribute.nodeValue;
-            }
+async function fetchLawList2() {
+    // APIのURLを指定
+    const apiUrlBase = `https://laws.e-gov.go.jp/api/2/laws`;
+    try{
+        apiBaseResult = await fetch(apiUrlBase + '?limit=1')
+                        .then(response=>response.json());
+        totalCount = await apiBaseResult.total_count;
+        if (isFinite(totalCount)) {
+            apiResult = await fetch(apiUrlBase + `?limit=${totalCount}`)
+                        .then(response=>response.json());
+            return apiResult.laws
         }
-    } else if (xml.nodeType === 3) { // text
-        obj = xml.nodeValue;
+    } catch (err) {
+        console.log(`エラー：${err.message}`);
     }
-    if (xml.hasChildNodes()) {
-        for (let i = 0; i < xml.childNodes.length; i++) {
-            const item = xml.childNodes.item(i);
-            const nodeName = item.nodeName;
-            if (typeof(obj[nodeName]) === "undefined") {
-                obj[nodeName] = xmlToJson(item);
-            } else {
-                if (typeof(obj[nodeName].push) === "undefined") {
-                    const old = obj[nodeName];
-                    obj[nodeName] = [];
-                    obj[nodeName].push(old);
-                }
-                obj[nodeName].push(xmlToJson(item));
-            }
-        }
-    }
-    return obj;
+};
+
+function isSameDateInJapan(ts1, ts2) {
+    const options = { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit' };
+
+    const date1 = new Date(ts1).toLocaleDateString('ja-JP', options);
+    const date2 = new Date(ts2).toLocaleDateString('ja-JP', options);
+
+    return date1 === date2;
 }
-
-function createDataMap(jsonObj, key) {
-    const map = new Map();
-    function traverse(obj) {
-        if (obj && typeof obj === 'object') {
-            if (obj[key]) {
-                map.set(obj[key], obj);
-            }
-            for (const k in obj) {
-                if (obj.hasOwnProperty(k)) {
-                    traverse(obj[k]);
-                }
-            }
-        }
-    }
-    traverse(jsonObj);
-    return map;
-};

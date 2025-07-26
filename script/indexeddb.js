@@ -2,7 +2,7 @@ const CACHE_EXPIRE_MS = 1000 * 60 * 60 * 24; // 24時間
 
 function openDB() {
   return new Promise((resolve, reject) => {
-    const request = indexedDB.open("LawCacheDB", 2);
+    const request = indexedDB.open("LawCacheDB", 3);
     request.onupgradeneeded = (event) => {
       const db = event.target.result;
       // 既存の "laws" ストアがない場合のみ作成（既にあるときはスキップ）
@@ -47,7 +47,7 @@ async function saveLawListToCache() {
   const db = await openDB();
   const tx = db.transaction("lawList", "readwrite");
   const store = tx.objectStore("lawList");
-  const record = {id: "LawList", data: xmlData, timestamp: Date.now() };
+  const record = {id: "LawList", data: JsonLawData, timestamp: Date.now() };
   store.put(record);
   return tx.complete;
 }

@@ -14,7 +14,6 @@ document.getElementById('searchButton').addEventListener('click', function(event
     event.preventDefault();
     const keyword = document.getElementById('keyword').value;
     const searchType = document.getElementById('searchType').value;
-    const apiUrl = `https://elaws.e-gov.go.jp/api/1/lawlists/1`;
 
     const params = new URLSearchParams(window.location.search);
     const encodedKeyword = encodeURIComponent(keyword);
@@ -22,78 +21,67 @@ document.getElementById('searchButton').addEventListener('click', function(event
     params.set("searchType", searchType);
     // URLを書き換え（履歴に追加）
     window.history.pushState({}, "", "?" + params.toString());
-    fetch(apiUrl)
-        .then(response => response.text())
-        .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
-        .then(data => {
-            const resultsDiv = document.getElementById('searchResults');
+    let searchLawData = {};
+    const resultsDiv = document.getElementById('searchResults');
+    resultsDiv.innerHTML = '検索中...';
+    if (JsonLawData) {
+        if (searchType === 'includes'){
+            searchLawData = JsonLawData.filter(data=>data.current_revision_info.law_title.includes(keyword));
+        } else if (searchType === 'startsWith'){
+            searchLawData = JsonLawData.filter(data=>data.current_revision_info.law_title.startsWith(keyword));
+        } else if (searchType === 'equal'){
+            searchLawData = JsonLawData.filter(data=>data.current_revision_info.law_title === keyword);
+        }
+        if (searchLawData.length === 0){
+            resultsDiv.textContent = '該当する法令は見つかりませんでした。';    
+        } else {
+            resultsDiv.innerHTML = `<b>法令検索結果</b> (ダブルクリックで法令取得)
+            <table id="lawTable" border="1">
+                <thead> 
+                    <tr>
+                        <th>
+                            法令名
+                            <span class="sort-buttons">
+                                <button id="sort-asc" onclick="sortTable(0, 'asc', this)">▲</button>
+                                <button id="sort-desc" onclick="sortTable(0, 'desc', this)">▼</button>
+                            </span>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!---ここにデータが入る--->
+                </tbody>
+            </table>`;
 
-            resultsDiv.innerHTML = '検索中...';
-            lawFound = false;
-            const laws = data.getElementsByTagName('LawNameListInfo');
-            if (laws.length > 0) {
-                resultsDiv.innerHTML = `<b>法令検索結果</b> (ダブルクリックで法令取得)
-                <table id="lawTable" border="1">
-                    <thead> 
-                        <tr>
-                            <th>
-                                法令名
-                                <span class="sort-buttons">
-                                    <button id="sort-asc" onclick="sortTable(0, 'asc', this)">▲</button>
-                                    <button id="sort-desc" onclick="sortTable(0, 'desc', this)">▼</button>
-                                </span>
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <!---ここにデータが入る--->
-                    </tbody>
-                </table>`;
+            searchLawData.forEach(law => {
+                // テーブルのtbody要素を取得
+                tableBody = resultsDiv.querySelector('#lawTable tbody');
+                // データをテーブルに追加
+                const row = document.createElement('tr');
+                row.id=law.law_info.law_num;
+                // 法令名のセル
+                const nameCell = document.createElement('td');
+                nameCell.textContent = law.current_revision_info.law_title;
+                row.appendChild(nameCell);
+                // 行をテーブルに追加
+                tableBody.appendChild(row);
 
-                Array.from(laws).forEach(law => {
-                    const title = law.getElementsByTagName('LawName')[0].textContent;
-                    if (((searchType === 'includes')&&(title.includes(keyword)))||((searchType === 'startsWith')&&(title.startsWith(keyword)))||((searchType === 'equal')&&(title === keyword))){
-                        createAndAppendDiv(law, resultsDiv);
-                        lawFound = true;
-                    }
+                // ダブルクリックイベントを追加
+                row.addEventListener('dblclick', async function(event) {
+                    event.preventDefault();
+                    const outputFrame = document.getElementById('outputFrame').value;
+                    const params = new URLSearchParams(window.location.search);
+                    const encodedlawNo = encodeURIComponent(law.law_info.law_num);
+                    params.set(outputFrame, encodedlawNo);
+                    // URLを書き換え（履歴に追加）
+                    window.history.pushState({}, "", "?" + params.toString());
+                    await fetchLawDetails(law.law_info.law_num, outputFrame);
                 });
-            } 
-            if (!(lawFound)){
-                resultsDiv.textContent = '該当する法令は見つかりませんでした。';
-            }
-        })
-        .catch(error => {
-            console.error('Error:', error);
-        });
+            });
+        } 
+    }   
 });
-function createAndAppendDiv(law, resultsDiv) {
-    const title = law.getElementsByTagName('LawName')[0].textContent;
-    const lawNo = law.getElementsByTagName('LawNo')[0].textContent;
-    const div = document.createElement('div');
-    // テーブルのtbody要素を取得
-    tableBody = resultsDiv.querySelector('#lawTable tbody');
-    // データをテーブルに追加
-    const row = document.createElement('tr');
-    row.id=lawNo;
-    // 法令名のセル
-    const nameCell = document.createElement('td');
-    nameCell.textContent = title;
-    row.appendChild(nameCell);
-    // 行をテーブルに追加
-    tableBody.appendChild(row);
 
-    // ダブルクリックイベントを追加
-    row.addEventListener('dblclick', async function(event) {
-        event.preventDefault();
-        const outputFrame = document.getElementById('outputFrame').value;
-        const params = new URLSearchParams(window.location.search);
-        const encodedlawNo = encodeURIComponent(lawNo);
-        params.set(outputFrame, encodedlawNo);
-        // URLを書き換え（履歴に追加）
-        window.history.pushState({}, "", "?" + params.toString());
-        await fetchLawDetails(lawNo, outputFrame);
-    });
-};
 function sortTable(columnIndex, direction, button) {
     var table, rows, switching, i, x, y, shouldSwitch;
     table = document.getElementById("lawTable");
@@ -135,6 +123,7 @@ function sortTable(columnIndex, direction, button) {
       }
     }
 };
+
 document.getElementById('jumpButton').addEventListener('click', function(event) {
     event.preventDefault();
     const jumpArticle = document.getElementById('jumpArticle').value;
