@@ -69,30 +69,42 @@ function kanjiToNumber(kanji) {
     }
 };
 
-function getReferenceList(data, outputFrame){
-    lawNum = data.getElementsByTagName('LawNum')[0].innerHTML;
+function getReferenceList(outputFrame){
+    frameContent = document.getElementById(outputFrame)
+    frameLawNum = frameContent.getElementsByClassName('law-num')[0].innerText;
+    frameLawNum = frameLawNum.replace(/[\(\)]/g, '').trim(); // 法令番号の括弧内の文字列を削除
+    frameHTML = frameContent.getElementsByClassName('law-content')[0];
     // MainProvisionについての参照を作る
     lawTextList = [];
-    ['EnactStatement', 'Preamble', 'MainProvision', 'SupplProvision:not([AmendLawNum])'].forEach(tag=>{
-        data.querySelectorAll(tag).forEach(e=>{
-            lawTextList.push(e.textContent);
+    // ['EnactStatement', 'Preamble', 'MainProvision', 'SupplProvision:not([AmendLawNum])'].forEach(tag=>{
+    //     data.querySelectorAll(tag).forEach(e=>{
+    //         lawTextList.push(e.textContent);
+    //     });
+    // });
+    ['EnactStatement', 'Preamble', 'MainProvision', 'SupplProvision'].forEach(tag=>{
+        frameHTML.querySelectorAll('.xml-'+tag).forEach(e=>{
+            if (!e.hasAttribute('AmendLawNum')){ // AmendLawNumがある場合は附則なので除外
+                lawTextList.push(e.textContent);
+            }
         });
-    });
+    })
     value1 = getReferenceList_sub(lawTextList);
-    referenceList[lawNum]={};
-    referenceList[lawNum]['searchResults'] = value1.searchResults;
-    referenceList[lawNum]['synonym'] = value1.synonym; 
+    referenceList[frameLawNum]={};
+    referenceList[frameLawNum]['searchResults'] = value1.searchResults;
+    referenceList[frameLawNum]['synonym'] = value1.synonym; 
 
     // SupplProvisionについての参照を作る
-    data.querySelectorAll('SupplProvision[AmendLawNum]').forEach(e=>{
-        lawNum = e.getAttribute('AmendLawNum')
-        lawTextList = [];
-        lawTextList.push(e.textContent);
-        value1 = getReferenceList_sub(lawTextList);
-        referenceList[lawNum]={};
-        referenceList[lawNum]['searchResults'] = value1.searchResults;
-        referenceList[lawNum]['synonym'] = value1.synonym; 
-    })
+    frameHTML.querySelectorAll('.xml-SupplProvision').forEach(e=>{
+        if (e.hasAttribute('AmendLawNum')){ // AmendLawNumがある場合
+            AmendLawNum = e.getAttribute('AmendLawNum')
+            lawTextList = [];
+            lawTextList.push(e.textContent);
+            value1 = getReferenceList_sub(lawTextList);
+            referenceList[AmendLawNum]={};
+            referenceList[AmendLawNum]['searchResults'] = value1.searchResults;
+            referenceList[AmendLawNum]['synonym'] = value1.synonym; 
+        }
+    });
 }
 
 function getReferenceList_sub(lawTextList){

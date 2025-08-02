@@ -8,11 +8,11 @@ for (let i=1; i<10 ;i++) {
 }
 
 async function fetchLawFromAPI(lawNo) {
-  // ★ 必要に応じて法令APIに合わせて修正してください
-  const url = `https://laws.e-gov.go.jp/api/1/lawdata/${lawNo}`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error("法令の取得に失敗しました");
-  return await res.text();
+    // ★ 必要に応じて法令APIに合わせて修正してください
+    const url = `https://laws.e-gov.go.jp/api/2/law_data/${encodeURIComponent(lawNo)}`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("法令の取得に失敗しました");
+    return await res.text();
 }
 
 async function fetchLawDetails(lawNo, outputFrame) {
@@ -45,164 +45,22 @@ async function fetchLawDetails(lawNo, outputFrame) {
         const now = Date.now();
 
         if (cached && now - cached.timestamp < CACHE_EXPIRE_MS) {
-            str = cached.lawData;
+            data = cached.lawData;
         } else {
-            str = await fetchLawFromAPI(lawNo);
-            await saveLawToCache(lawNo, str);
+            data = await fetchLawFromAPI(lawNo);
+            await saveLawToCache(lawNo, data);
         }
     } catch (err) {
         console.log(`エラー：${err.message}`);
     }
-
-    data = new window.DOMParser().parseFromString(str, "application/xml")
-    lawTitle.innerHTML = data.getElementsByTagName('LawTitle')[0].innerHTML;
-    lawNum.innerHTML =  "(" + data.getElementsByTagName('LawNum')[0].innerHTML + ")";
+    data = JSON.parse(data);
+    lawTitle.innerHTML = data.revision_info.law_title;
+    lawNum.innerHTML =  "(" + data.law_info.law_num + ")";
     
-    lawFullText = data.querySelector('LawFullText');
+    lawFullText = data.law_full_text;
     
-    // 再帰的にノードを解析してHTMLに変換
-    const convertNodeToHTML = (node, provision = 'MainProvision', articleNo = 0, paragraphNo = 0, itemNo = 0) => {
-        let html = '';
-
-        // テキストノードの場合
-        if (node.nodeType === Node.TEXT_NODE) {
-            // 「附則」の文字に改正法令の情報を付加する
-            if ((provision !='MainProvision')&&(provision !='SupplProvision')){
-                if (node.textContent.replace(/\s/g,'')==='附則'){
-                    html += node.textContent.trim() + '(' + provision + ')';    
-                } else {
-                    html += node.textContent.trim();
-                }
-            } else {
-                html += node.textContent.trim();
-            }
-        }
-        // エレメントノードの場合
-        if (node.nodeType === Node.ELEMENT_NODE) {
-            const nName = node.nodeName
-            if (node.childNodes.length === 0){
-                // ノードが'ParagraphNum'の場合、そのノードを遡って'Article'のノードを見に行き、その中のArticleTitleを探す
-                if (nName ==='ParagraphNum'){
-                    articleNode = node.closest('Article')
-                    if (articleNode){
-                        articleTitle = articleNode.getElementsByTagName('ArticleTitle')[0]
-                        if (articleTitle){
-                            html += `<span class="xml-ParagraphNum data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`;
-                            html += articleTitle.innerHTML
-                            html += '</span>　'
-                        }
-                    } 
-                }
-            } else if ((nName != 'LawTitle') && (nName != 'LawNum') && (nName != 'TOC')) {
-                /*
-                各法令の条文に対して、「第〇条第〇項第〇号」という情報を付加していく
-                各ノードの子ノードに情報を継承させる
-                */
-                if (nName === ('MainProvision')) {
-                    provision = 'MainProvision'
-                    articleNo = 0
-                    paragraphNo = 0
-                    itemNo = 0
-                } else if (nName === ('SupplProvision')) {
-                    html += "<br>"
-                    if (node.getAttribute('AmendLawNum')){
-                        suppldate = node.getAttribute('AmendLawNum')
-                        provision = suppldate
-                    } else {
-                        provision = 'SupplProvision'
-                    }
-                    articleNo = 0
-                    paragraphNo = 0
-                    itemNo = 0
-                } else if (nName === ('Article')) {
-                    // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
-                    if (node.getAttribute('Num')) {
-                        articleNo = node.getAttribute('Num')
-                    } else {
-                        articleNo = 0
-                    }
-                    paragraphNo = 0
-                    itemNo = 0
-                } else if (nName === ('Paragraph')) {
-                    // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
-                    if (node.getAttribute('Num')) {
-                        paragraphNo = node.getAttribute('Num')
-                    } else {
-                        paragraphNo = 0
-                    }
-                    itemNo = 0
-                } else if (nName === ('Item')) {
-                    // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
-                    if (node.getAttribute('Num')) {
-                        itemNo = node.getAttribute('Num')
-                    } else {
-                        itemNo = 0
-                    }
-                } else if (subitemNode.indexOf(nName) >=0) {
-                    // 通常、アトリビュートとしてNumが含まれるはずだが、もしなかった場合には0で補完する
-                    if (node.getAttribute('Num')) {
-                        itemNo += '-' + node.getAttribute('Num')
-                    } else {
-                        itemNo += '-' + 0
-                    }
-                }
-                if (nName.startsWith('Table')) {
-                    if (nName === 'Table'){
-                        html += `<table class="lawDataTable" data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`
-                        html += '<tbody>'
-                    } else if (nName === 'TableRow'){
-                        html += '<tr>'
-                    } else if (nName === 'TableColumn'){
-                        html += '<td'
-                        const attr = node.attributes;
-                        for (let i = 0; i < attr.length; i++) {
-                            // 属性名と値を付加
-                            html += ' ';
-                            html += attr[i].name;
-                            html += '=';
-                            html += attr[i].value;
-                          }
-                          
-                        html += '>'
-                    } else {
-                        html += `<span class="xml-${nName}">`
-                    }
-                } else {
-                    html += `<span class="xml-${nName}" data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}">`;
-                }
-
-                for (let i = 0; i < node.childNodes.length; i++) {
-                    if (nName!='ArticleTitle') {
-                        html += convertNodeToHTML(node.childNodes[i], provision, articleNo, paragraphNo, itemNo);
-                    }
-                }
-                if (((nName.indexOf('Title')>0)||(nName.indexOf('Num')>0))&&(node.childNodes.length>0)){
-                    html += "　"
-                }
-                if ((nName.indexOf('Column')>=0)&&(node.getAttribute('Num'))&&(node.childNodes.length>0)){
-                    html += "　"
-                }
-                if (nName.startsWith('Table')) {
-                    if (nName === 'Table'){
-                        html += '</tbody>'
-                        html += `</table>`
-                    } else if (nName === 'TableRow'){
-                        html += '</tr>'
-                    } else if (nName === 'TableColumn'){
-                        html += '</td>'
-                    } else {
-                        html += `</span>`
-                    }
-                } else {
-                    html += '</span>';
-                }
-            }
-        }
-        return html;
-    };
-
     // ルートノードから開始してHTMLに変換
-    lawContent.innerHTML = convertNodeToHTML(lawFullText);
+    lawContent.innerHTML = children(lawFullText);
     
 
     // searchResults.forEach(lawNum => {
@@ -211,7 +69,7 @@ async function fetchLawDetails(lawNo, outputFrame) {
     annotation(outputFrame);
 
     // 法令内の他法令参照データをdict型に格納する
-    getReferenceList(data, outputFrame);
+    getReferenceList(outputFrame);
 
     // 他法令からの参照データを取得しておく
     const framelawNum = document.getElementById('law-num-' + outputFrame).innerHTML.replace('(','').replace(')','')
@@ -317,3 +175,85 @@ const options = {
 // IntersectionObserverを作成
 const observer = new IntersectionObserver(observerCallback, options);
 
+function children(json, provision = 'MainProvision', articleNo = 0, paragraphNo = 0, itemNo = 0, articleTitle = '') {
+    let html = '';
+    json.children.forEach(j=>{
+        if (typeof(j)==='string'){
+            // テキストが「附則」の場合は、法令番号を付加
+            if (j.replace(/\s/g,'')==='附則' && provision != 'SupplProvision') {
+                html += j + '（' + provision + '）';
+                
+            } else {
+                html += j;
+            }
+        } else {
+            // 属性が目次以前の場合は省略
+            if (j.tag !='LawTitle' && j.tag !='LawNum' && j.tag !='TOC') {
+                // Articleタグの場合は、ArticleTitleを取得(第○条の記載が格納されている)
+                if (j.tag === 'Article'){
+                    j.children.filter(c=>c.tag === 'ArticleTitle').forEach(c=>{
+                        if (c.children && c.children.length > 0) {
+                            articleTitle = c.children[0];
+                        } else {
+                            articleTitle = '';
+                        }
+                    });
+                }
+                /*
+                各法令の条文に対して、「第〇条第〇項第〇号」という情報を付加していく
+                各ノードの子ノードに情報を継承させる
+                */
+                if (j.tag === 'MainProvision') {
+                    provision = 'MainProvision';
+                    articleNo = 0;
+                    paragraphNo = 0;
+                    itemNo = 0;
+                } else if (j.tag === 'SupplProvision') {
+                    if (j.attr && j.attr.AmendLawNum) {
+                        suppldate = j.attr.AmendLawNum;
+                        provision = suppldate;
+                    } else {
+                        provision = 'SupplProvision';
+                    }
+                    articleNo = 0;
+                    paragraphNo = 0;
+                    itemNo = 0;
+                } else if (j.tag === 'Article') {
+                    articleNo = j.attr && j.attr.Num ? j.attr.Num : 0;
+                    paragraphNo = 0;
+                    itemNo = 0;
+                } else if (j.tag === 'Paragraph') {
+                    paragraphNo = j.attr && j.attr.Num ? j.attr.Num : 0;
+                    itemNo = 0;
+                } else if (j.tag === 'Item') {
+                    itemNo = j.attr && j.attr.Num ? j.attr.Num : 0;
+                } else if (subitemNode.indexOf(j.tag) >= 0) {
+                    itemNo += '-' + (j.attr && j.attr.Num ? j.attr.Num : 0);
+                }
+                //属性の情報を付加
+                tagAttr = '';
+                Object.entries(j.attr || {}).forEach(([key, value]) => {
+                    tagAttr += ` ${key}="${value}"`;
+                });
+                tagAttr += ` data-article="${provision}-${articleNo}" data-item="${provision}-${articleNo}-${paragraphNo}-${itemNo}"`;
+                if (j.tag === 'Table') {
+                    html += `<table class="lawDataTable">${children(j,provision,articleNo,paragraphNo,itemNo)}</table>`;
+                } else if (j.tag === 'TableRow') {
+                    html += `<tr>${children(j,provision,articleNo,paragraphNo,itemNo)}</tr>`;
+                } else if (j.tag === 'TableColumn') {
+                    html += `<td${tagAttr}>${children(j,provision,articleNo,paragraphNo,itemNo)}</td>`;
+                } else if (j.tag === 'ParagraphNum' && j.children && j.children.length === 0) {
+                    // ParagraphNumの子が空の場合(第1項は通常空になる)は、ArticleTitleを取得して表示
+                    html += `<span class="xml-${j.tag}"${tagAttr}>${articleTitle}　</span>`;
+                } else if (j.tag != 'ArticleTitle') {
+                    html += `<span class="xml-${j.tag}"${tagAttr}>${children(j,provision,articleNo,paragraphNo,itemNo,articleTitle)}`
+                    if (j.tag.indexOf('Num')>0 || j.tag.indexOf('Title')>0 ) {
+                        html += '　';
+                    }
+                    html += `</span>`;
+                }
+            }
+        }
+    });
+    return html;
+}

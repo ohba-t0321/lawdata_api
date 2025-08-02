@@ -1,6 +1,6 @@
 // グローバル変数を宣言
-var xmlData;
-var JsonLawData;
+let xmlData;
+let JsonLawData;
 window.onload = async function() {
     try {
         const cached = await getLawListFromCache();
@@ -42,10 +42,12 @@ async function fetchLawList2() {
     // APIのURLを指定
     const apiUrlBase = `https://laws.e-gov.go.jp/api/2/laws`;
     try{
+        // 1件だけ取得して、総数を確認
         apiBaseResult = await fetch(apiUrlBase + '?limit=1')
                         .then(response=>response.json());
         totalCount = await apiBaseResult.total_count;
         if (isFinite(totalCount)) {
+            // 全件取得
             apiResult = await fetch(apiUrlBase + `?limit=${totalCount}`)
                         .then(response=>response.json());
             return apiResult.laws
@@ -56,6 +58,9 @@ async function fetchLawList2() {
 };
 
 function isSameDateInJapan(ts1, ts2) {
+    // 日本時間で日付を比較するため、タイムゾーンを指定してフォーマット
+    // ts1とts2はミリ秒単位のタイムスタンプ
+    // indexedDBのタイムスタンプが同日だった場合、取得済としてindexedDBから取得する
     const options = { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit' };
 
     const date1 = new Date(ts1).toLocaleDateString('ja-JP', options);

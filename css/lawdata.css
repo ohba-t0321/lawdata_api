@@ -38,7 +38,7 @@
     margin-left: 1em;
     text-indent: -1em;
 }
-.xml-ArticleCaption, .xml-ArticleTitle, .xml-ParagraphNum, .xml-ItemTitle{
+.xml-ArticleCaption, .xml-ParagraphCaption, .xml-ArticleTitle, .xml-ParagraphNum, .xml-ItemTitle{
     font-weight: bold;
 }
 [class^="xml-Subitem"][class*="Title"]{
