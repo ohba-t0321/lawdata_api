@@ -1,7 +1,7 @@
 let referenceList={};
 
-var clickItm;
-var itmIndex;
+let clickItm;
+let itmIndex;
 itmIndex = 0;
 // 漢数字を算用数字に直す関数
 function kanjiToNumber(kanji) {
@@ -69,30 +69,37 @@ function kanjiToNumber(kanji) {
     }
 };
 
-function getReferenceList(data, outputFrame){
-    lawNum = data.getElementsByTagName('LawNum')[0].innerHTML;
+function getReferenceList(outputFrame){
+    frameContent = document.getElementById(outputFrame)
+    frameLawNum = frameContent.getElementsByClassName('law-num')[0].innerText;
+    frameLawNum = frameLawNum.replace(/[\(\)]/g, '').trim(); // 法令番号の括弧内の文字列を削除
+    frameHTML = frameContent.getElementsByClassName('law-content')[0];
     // MainProvisionについての参照を作る
     lawTextList = [];
-    ['EnactStatement', 'Preamble', 'MainProvision', 'SupplProvision:not([AmendLawNum])'].forEach(tag=>{
-        data.querySelectorAll(tag).forEach(e=>{
-            lawTextList.push(e.textContent);
+    ['EnactStatement', 'Preamble', 'MainProvision', 'SupplProvision'].forEach(tag=>{
+        frameHTML.querySelectorAll('.xml-'+tag).forEach(e=>{
+            if (!e.hasAttribute('AmendLawNum')){ // AmendLawNumがある場合は附則なので除外
+                lawTextList.push(e.textContent);
+            }
         });
-    });
+    })
     value1 = getReferenceList_sub(lawTextList);
-    referenceList[lawNum]={};
-    referenceList[lawNum]['searchResults'] = value1.searchResults;
-    referenceList[lawNum]['synonym'] = value1.synonym; 
+    referenceList[frameLawNum]={};
+    referenceList[frameLawNum]['searchResults'] = value1.searchResults;
+    referenceList[frameLawNum]['synonym'] = value1.synonym; 
 
     // SupplProvisionについての参照を作る
-    data.querySelectorAll('SupplProvision[AmendLawNum]').forEach(e=>{
-        lawNum = e.getAttribute('AmendLawNum')
-        lawTextList = [];
-        lawTextList.push(e.textContent);
-        value1 = getReferenceList_sub(lawTextList);
-        referenceList[lawNum]={};
-        referenceList[lawNum]['searchResults'] = value1.searchResults;
-        referenceList[lawNum]['synonym'] = value1.synonym; 
-    })
+    frameHTML.querySelectorAll('.xml-SupplProvision').forEach(e=>{
+        if (e.hasAttribute('AmendLawNum')){ // AmendLawNumがある場合
+            AmendLawNum = e.getAttribute('AmendLawNum')
+            lawTextList = [];
+            lawTextList.push(e.textContent);
+            value1 = getReferenceList_sub(lawTextList);
+            referenceList[AmendLawNum]={};
+            referenceList[AmendLawNum]['searchResults'] = value1.searchResults;
+            referenceList[AmendLawNum]['synonym'] = value1.synonym; 
+        }
+    });
 }
 
 function getReferenceList_sub(lawTextList){
@@ -199,7 +206,7 @@ async function setupHover(lawTextElement, synonym, lawNum) {
     lawTextElement.innerHTML = newHTML;
 }
 
-async function setupHover_reference2(sentence) {
+async function setupHover_reference2(outputFrame, sentence) {
     sentenceNum = sentence.getAttribute('data-item');
     sentenceNumParts = sentenceNum.split('-');
     sentenceProvision = sentenceNumParts[0];
@@ -207,7 +214,7 @@ async function setupHover_reference2(sentence) {
     sentenceParagraph = sentenceNumParts[2];
     sentenceItem = sentenceNumParts[3];
     
-    data = jsonData.filter(data=>(data?.referred?.lawArticle?.provision===sentenceProvision)&&(data?.referred?.lawArticle?.article===sentenceArticle)&&(data?.referred?.lawArticle?.paragraph===sentenceParagraph)&&(data?.referred?.lawArticle?.item===sentenceItem))
+    data = jsonReferenceData[outputFrame].filter(data=>(data?.referred?.lawArticle?.provision===sentenceProvision)&&(data?.referred?.lawArticle?.article===sentenceArticle)&&(data?.referred?.lawArticle?.paragraph===sentenceParagraph)&&(data?.referred?.lawArticle?.item===sentenceItem))
     lawTextElement = sentence.closest('.xml-Article');
     // 上記でデータが取れなかった時の回避策
     if (!(lawTextElement)){
@@ -288,57 +295,34 @@ async function ref_law(itm,itmIndexAdd){
     } else {
         refButton.style.display = 'block';
     };
-    if (lawProvision === 'SupplProvision'){
-        const apiUrl = `https://laws.e-gov.go.jp/api/1/lawdata/${lawNum}`;
-        fetch(apiUrl)
-        .then(response => response.text())
-        .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
-        .then(data => {
-            suppldata = data.querySelector("SupplProvision:not([AmendLawNum])");
-            supplarticle = suppldata.querySelector(`Article[Num="${lawArticleNum}"]`)
-            lawTitle.innerHTML = xmlData[lawNum] + ' ' + '附則' + convertToArticleFormat(lawArticleNum);
-            // 第○条の部分やキャプションは不要なので削除する
-            captions = supplarticle.querySelectorAll('ArticleCaption')
-            captions.forEach(caption=>{
-                caption.remove();
-            });
-            articletitles = supplarticle.querySelectorAll('ArticleTitle')
-            articletitles.forEach(articletitle=>{
-                articletitle.remove();
-            });
-            lawContent.innerHTML = supplarticle.innerHTML;
-        })
-        .catch(error =>{
-            console.error('データ取得失敗:',error)
+    data = await getLawCacheAndAPI(lawNum);
+    refLawData = data.law_full_text.children[1].children.filter(e=>e.tag===lawProvision && e.attr.AmendLawNum===undefined)[0];
+    refArticle = searchArticle(refLawData).filter(e=>e.attr.Num===lawArticleNum)[0];
+    lawTitle.innerHTML = xmlData[lawNum] + ' ' + (lawProvision==='SupplProvision'?'附則':'') + convertToArticleFormat(lawArticleNum);
+    if (refArticle.children.length!=0){
+        lawContent.innerHTML = children(refArticle);
+        lawContent.querySelectorAll('.xml-ArticleCaption, .xml-ArticleTitle').forEach(e=>{
+            e.remove();
         });
-    } else {
-        const apiUrl = `https://laws.e-gov.go.jp/api/1/articles;lawNum=${lawNum};${lawArticleNum?'article=' + lawArticleNum:''}${lawParagraphNum? ';paragraph='+ lawParagraphNum:''}`;
-        fetch(apiUrl)
-        .then(response => response.text())
-        .then(str => new window.DOMParser().parseFromString(str, "application/xml"))
-        .then(data => {
-            lawTitle.innerHTML = xmlData[lawNum] + ' ' + convertToArticleFormat(lawArticleNum);
-            // // 第○項の部分は不要（記載している）ので削除する→政令等を見に行く場合はわからないことがあるのでそのまま残すことにする
-            // paragraphNums = data.querySelectorAll('ParagraphNum')
-            // paragraphNums.forEach(paragraphNum=>{
-            //     paragraphNum.remove();
-            // });
-            // 第○条の部分やキャプションは不要なので削除する
-            captions = data.querySelectorAll('ArticleCaption')
-            captions.forEach(caption=>{
-                caption.remove();
-            });
-            articletitles = data.querySelectorAll('ArticleTitle')
-            articletitles.forEach(articletitle=>{
-                articletitle.remove();
-            });
-            lawContent.innerHTML = data.getElementsByTagName('LawContents')[0].innerHTML;
-        })
-        .catch(error =>{
-            console.error('データ取得失敗:',error)
-        });
-    };
+    }
     refItemIndex.innerHTML = `${itmIndex+1} / ${lenRef}`
+};
+
+function searchArticle(json) {
+    const articleList = [];
+    json.children.forEach(item => {
+        if (item.tag === 'Article') {
+            articleList.push(item);
+        } else if (typeof(item) === 'object' && item.children) {
+            subItem = searchArticle(item);
+            if (subItem) {
+                subItem.forEach(sub => {
+                    articleList.push(sub);
+                });
+            }
+        }
+    });
+    return articleList;
 };
 
 function convertToArticleFormat(input) {
