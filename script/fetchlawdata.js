@@ -1,5 +1,5 @@
 // 他法令が参照している情報をJSONで格納しておく
-var jsonData
+let jsonReferenceData = {};
 
 // 号をさらに分割しているときのため、Subitem1,Subitem2,...Subitem10を定義しておく
 subitemNode = []
@@ -12,7 +12,24 @@ async function fetchLawFromAPI(lawNo) {
     const url = `https://laws.e-gov.go.jp/api/2/law_data/${encodeURIComponent(lawNo)}`;
     const res = await fetch(url);
     if (!res.ok) throw new Error("法令の取得に失敗しました");
-    return await res.text();
+    return await res.json();
+}
+
+async function getLawCacheAndAPI(lawNo) {
+    try {
+        const cached = await getLawFromCache(lawNo);
+        const now = Date.now();
+
+        if (cached && now - cached.timestamp < CACHE_EXPIRE_MS) {
+            data = cached.lawData;
+        } else {
+            data = await fetchLawFromAPI(lawNo);
+            await saveLawToCache(lawNo, data);
+        }
+    } catch (err) {
+        console.log(`エラー：${err.message}`);
+    }
+    return data;
 }
 
 async function fetchLawDetails(lawNo, outputFrame) {
@@ -39,21 +56,7 @@ async function fetchLawDetails(lawNo, outputFrame) {
         }
     };
 
-    let str = '';
-    try {
-        const cached = await getLawFromCache(lawNo);
-        const now = Date.now();
-
-        if (cached && now - cached.timestamp < CACHE_EXPIRE_MS) {
-            data = cached.lawData;
-        } else {
-            data = await fetchLawFromAPI(lawNo);
-            await saveLawToCache(lawNo, data);
-        }
-    } catch (err) {
-        console.log(`エラー：${err.message}`);
-    }
-    data = JSON.parse(data);
+    data = await getLawCacheAndAPI(lawNo);
     lawTitle.innerHTML = data.revision_info.law_title;
     lawNum.innerHTML =  "(" + data.law_info.law_num + ")";
     
@@ -61,12 +64,8 @@ async function fetchLawDetails(lawNo, outputFrame) {
     
     // ルートノードから開始してHTMLに変換
     lawContent.innerHTML = children(lawFullText);
-    
-
-    // searchResults.forEach(lawNum => {
-    //     setupHover(outputFrame, synonym, lawNum);
-    // });
-    annotation(outputFrame);
+    // 各要素に対して、カッコの色分けを行う
+    await annotation(outputFrame);
 
     // 法令内の他法令参照データをdict型に格納する
     getReferenceList(outputFrame);
@@ -75,7 +74,7 @@ async function fetchLawDetails(lawNo, outputFrame) {
     const framelawNum = document.getElementById('law-num-' + outputFrame).innerHTML.replace('(','').replace(')','')
     const file = './ref_json/' + framelawNum + '.json';
 
-    jsonData = await fetch(file).then(response => response.json())
+    jsonReferenceData[outputFrame] = await fetch(file).then(response => response.json())
         .catch(error => console.error('データの読み込みに失敗しました:', error));
     // すべてのセクションを監視対象として登録
     document.querySelectorAll('.xml-Sentence').forEach(sentence => {
@@ -152,7 +151,7 @@ const observerCallback = (entries, observer) => {
                     searchResults.forEach(lawNum => {
                         setupHover(sentence, synonym, lawNum);
                     });
-                    setupHover_reference2(sentence);
+                    setupHover_reference2(outputFrame, sentence);
                     hovered = sentence.querySelectorAll('.hovered');
                     hovered.forEach(itm=>{
                         setupLink(itm);
